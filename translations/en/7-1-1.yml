@@ -1,0 +1,64 @@
+ORGANISATION_UNIT: " <p> Directorate of Demographic, Vital and Social Statistics </p>"
+SDG_GOAL: >2-
+   <p> 7. GUARANTEE ACCESS TO RELIABLE, SUSTAINABLE AND MODERN ENERGY SOURCES FOR ALL </p>
+SDG_TARGET: >2-
+   <p> 7.1 By 2030, ensure universal, reliable, modern and affordable access to energy services </p>
+SDG_INDICATOR: >2-
+   <p> 7.1.1 Proportion of the population with access to electricity for lighting, according to areas of residence and provinces </p>
+SDG_SERIES_DESCR: >2-
+   <p> Proportion of the population with access to electricity for lighting, according to areas of residence and provinces </p>
+META_LAST_UPDATE: " <p> 10/8/2020 </p>"
+CONTACT_ORGANISATION: " <p> NATIONAL INSTITUTE OF STATISTICS </p>"
+CONTACT_NAME: " <p> Teixeira Mandlate, Maria Alfeu and João Mangue </p>"
+CONTACT_FUNCT: " <p> Technicians </p>"
+CONTACT_PHONE: " <p> +258 844386629; +258 823032619; +258 827679480 </p>"
+CONTACT_MAIL: " <p> www.ine.gov.mz </p>"
+CONTACT_EMAIL: >2-
+   <p> <a href="mailto:Teixeira.mandlate@ine.gov.mz"> Teixeira.mandlate@ine.gov.mz </a>; <a href="mailto:maria.alfeu@ine.gov.mz"> maria.alfeu@ine.gov.mz </a>; <a href="mailto:joao.mangue@ine.gov.mz"> joao.mangue@ine.gov.mz </a> </p>
+STAT_CONC_DEF: >2-
+   <p> Proportion of the population with access to electricity is defined as the percentage of the population with access to electricity. Measures the degree of coverage of access to electricity. </p>
+UNIT_MEASURE: " <p> Percentage </p>"
+SOURCE_TYPE: >2-
+   <p> General Population and Housing Census and Household Surveys </p>
+COLL_METHOD: >2-
+   <p> The recommended data source to calculate this indicator is the Census and Household Surveys. The data collection questionnaire is designed and subsequently tested in the field in the course of training the interviewers. </p>
+   <p> For data collection, we applied the methodology of interviews face to face with households, where respondents were asked if the house has: flush toilets inside the house, flush toilet outside the home, toilet without flush toilet, latrine improved, improved traditional latrine. </p>
+   <p> The fieldwork lasted 15 days for the case of the Censuses and the Surveys depending on the type and purpose of the Survey. </p>
+   <p> Cases of non-response, after all efforts to obtain funds are exhausted, are treated as unknown cases. </p>
+FREQ_COLL: " <p> 2027 </p>"
+REL_CAL_POLICY: " <p> 2029 </p>"
+DATA_SOURCE: " <p> INE </p>"
+COMPILING_ORG: " <p> INE </p>"
+INST_MANDATE: " <p> Law 7/96 of 5 July </p>"
+RATIONALE: >2-
+   <p> Access to electricity addresses major critical issues in all dimensions of sustainable development. The goal has a wide range of social and economic impacts, including facilitating the development of income-generating activities at the household level and easing the burden of household chores. </p>
+REC_USE_LIM: >2-
+   <p> Data for the measurement of access to electricity are collected within the scope of the Census and in the interim period to the Census through surveys of families and administrative sources by MIREME. However, it would be desirable to standardize the definitions and improve the methodology for data collection and calculation on access with regard to administrative sources </p>
+DATA_COMP: >2-
+   <p> The proportion of the population with access to electricity is the quotient given by the population that uses electricity for lighting by the total population. </p>
+DATA_VALIDATION: >2-
+   <p> The fieldwork had the supervision and quality control by the technicians of INE Central as well as the Provincial Delegations. In addition, during the data collection, a strict control was established at the level of each team over the collection process, by detecting errors by the critics in the field, which allowed for immediate correction even on the ground. </p>
+   <p> At the level of central coordination, the data critics made a further review of the base data and the problems encountered were reported to the respective teams for correction. </p>
+   <p> Interactive and batch processing of information also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the inquirers, ensuring the quality of the data. </p>
+DOC_METHOD: >2-
+   <p> In the production and compilation of data, methodologies recommended by the United Nations were used in <strong> <em> Principles and Recommendations of the Population and Housing Censuses (ST / ESA / STAT / SER.M / 67 / Rer.3)
+QUALITY_MGMNT: >2-
+   <p> Still in development and to be approved by the quality management instrument </p>
+QUALITY_ASSURE: >2-
+   <p> For the collection of data, the methodology of interviews was applied face to face to the households filling out the Bulletin of Households and Bulletin of collective accommodations. </p>
+QUALITY_ASSMNT: >2-
+   <p> Still in development and for approval of the instrument for quality assessment </p>
+COVERAGE: >2-
+   <p> Information is made available every 5 years and is broken down by rural and urban area of residence, province and country </p>
+COMPARABILITY: >2-
+   <p> The production of data allows comparability because the procedures that lead to the collection, treatment and dissemination follow the internationally defined recommendations in <strong> <em> Principles and Recommendations for Civil Statistics - UN, (ST / ESA / STAT / SER.M / 19 / Rev. 3 New York, 2014) </em> </strong> </p>
+   <p> Estimates of Demographic and Health Surveys are based on standardized methodologies and developed by WHO and UNICEF. </p>
+   <p> The Demographic and Health Survey (IDS) in Mozambique is part of an international survey program (MEASURE DHS) developed by ICF International through a contract with USAID, with the purpose of supporting governments and private institutions in developing countries in conducting national surveys by sampling, in the areas of population and health. The MEASURE DHS Program aims to: </p>
+   <p> • Support the formulation of policies and implementation of programs in the areas of population and health; </p>
+   <p> • Increase the international population and health data base for monitoring and evaluation; </p>
+   <p> • Improve the survey methodology by sampling, and </p>
+   <p> • Consolidate, in the survey area, the technical capacity of the executing institution in the country participating in the Program. </p>
+OTHER_DOC: >2-
+   <p> Ministry of Health (MISAU), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+   <p> National Statistics Institute (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+   <p> ICF International (ICFI), <a href="http://www.measuredhs.com"> www.measuredhs.com </a> </p>
