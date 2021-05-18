@@ -1,0 +1,100 @@
+ORGANISATION_UNIT: <p>Departamento de estudos e estatística</p>
+SDG_GOAL: >-
+  <p>16 PROMOVER SOCIEDADES PACÍFICAS E INCLUSIVAS PARA O DESENVOLVIMENTO
+  SUSTENTÁVEL, PROPORCIONAR O ACESSO À JUSTIÇA PARA TODOS E CONSTRUIR
+  INSTITUIÇÕES EFICAZES, RESPONSÁVEIS E INCLUSIVAS A TODOS OS NÍVEIS</p>
+SDG_TARGET: >-
+  <p>16.3 Promover o Estado de Direito, ao nível nacional e internacional, e
+  garantir a igualdade de accesso à justiça para todos</p>
+SDG_INDICATOR: >-
+  <p>16.3.2 Percentagem de cidadãos em prisão preventiva em relação ao total da
+  população penitenciária</p>
+SDG_SERIES_DESCR: >-
+  <p> 16.3.2 Cidadãos em prisão preventiva em relação ao total da população
+  penitenciária em percentagem</p>
+META_LAST_UPDATE: <p>19.10.2020</p>
+SDG_RELATED_INDICATORS: <p>Sem vínculo com algum indicador</p>
+CONTACT_ORGANISATION: <p>Ministério da Justiça, Assuntos Constitucionais e Religiosos</p>
+CONTACT_NAME: <p>Calisto Zacarias Matavele; Edgar Chichava; Ernesto João Boca</p>
+CONTACT_FUNCT: <p>Técnicos de estatística</p>
+CONTACT_PHONE: <p>+258 843793926; +258 842473074; +258 845589682</p>
+CONTACT_MAIL: <h2>mjcr.planificacao.cooperacao@gmail.com</h2>
+CONTACT_EMAIL: >-
+  <p><a href="mailto:zacmatavele@gmail.com">zacmatavele@gmail.com</a>; <a
+  href="mailto:echichava717@gmail.com">echichava717@gmail.com</a>; <a
+  href="mailto:eboca74@gmail.com">eboca74@gmail.com</a></p>
+STAT_CONC_DEF: >-
+  <p>Este indicador visa elucidar o nível de cumprimento dos prazos de prisão
+  preventiva e celeridade na tramitação processual, concorrendo para o
+  descongestionamento e promoção da legalidade e Direitos Humanos.</p>
+
+  <p>O número total de pessoas mantidas em detenção que ainda não foram
+  sentenciadas, define-se como uma percentagem do número total de pessoas
+  mantidas em detenção, em uma data especificada.</p>
+UNIT_MEASURE: <p>Percentagem </p>
+SOURCE_TYPE: >-
+  <p>Registos administrativos: Ministério da Justiça, Assuntos Constitucionais e
+  Religiosos, e Serviço Nacional Penitenciário</p>
+COLL_METHOD: >-
+  <p> O Serviço Nacional Penitenciário (SERNAP) é responsável pela recolha de
+  dados através de relatórios diários referentes a situação dos reclusos. Após
+  este momento, os dados são inscritos num sistema digital e enviados para o
+  Órgão Central (Ministério da Justiça, Assuntos Constitucionais e Religiosos)
+  Departamento de Estudos e Estatística para a globalização e validação.</p>
+FREQ_COLL: <p>Até Dezembro de 2020</p>
+REL_CAL_POLICY: <p>Fevereiro de 2021</p>
+DATA_SOURCE: <p>O Serviço Nacional Penitenciário (SERNAP)</p>
+COMPILING_ORG: <p>Ministério da Justiça, Assuntos Constitucionais e Religiosos</p>
+INST_MANDATE: >-
+  <p>De acordo com o Decreto Presidencial n 8/2015 de 13 de Março, o
+  Departamento de Estudos e Estatística do Ministério da Justiça, Assuntos
+  Constitucionais e Religiosos, possui como funções:</p>
+
+  <ol>
+    <li>Proceder a sistematização periódica das estatísticas do sector;</li>
+    <li>Propor mecanismos e modelos de recolha de informação estatística do Ministério;</li>
+    <li>Apoiar as unidades orgânicas, subordinadas e tuteladas do Ministerio no processo de colecta e tratamento de dados estatísticos;</li>
+    <li>Apoiar os departamentos de planificacao e monitoria na analise e tratamento de dados estatisticos;</li>
+    <li>Elaborar em coordenação com as unidades do sector, o relatorio anual de estatística do sistema de administração de justiça</li>
+  </ol>
+RATIONALE: >-
+  <p>Menor-melhor. Quanto mais próximo de zero estiver este indicador, melhor
+  porque significaria a não existência de casos de prisão preventiva fora dos
+  prazos estabelecidos por lei.</p>
+REC_USE_LIM: |-
+  <p>O indicador não esta desagregado por idade e sexo </p>
+  <p>Nem por duração da prisão preventiva (sem sentença).</p>
+DATA_COMP: >-
+  <p>O número total de pessoas não sentenciadas mantidas em detenção dividido
+  pelo número total de pessoas mantidas em detenção, em uma data
+  especificada.</p>
+DATA_VALIDATION: >-
+  <p>Após a recolha de dados, os mesmos são inseridos no Sistema de Gestão de
+  Informação Penitenciária (GIP) que e uma plataforma para gestão reclusoria
+  onde é registada toda informação dos reclusos, desde a sua entrada no
+  estabelecimento até ao termino da sua pena, feito isso a informação é enviada
+  ao Departamento para a sua validação seguindo a seguinte sequencia técnicos,
+  chefe de departamento e por fim Director.</p>
+DOC_METHOD: >-
+  <p>Este indicador usa os mesmos métodos de compilação usados
+  internacionalmente.</p>
+QUALITY_MGMNT: >-
+  <p>O Ministério ainda não possui um sistema de gestão de qualidade de dados no
+  entanto faz se uma gestão de qualidade interna a nível de departamento pelos
+  técnicos e pelo chefe de departamento e Director. </p>
+QUALITY_ASSURE: >-
+  <p>A qualidade dos dados é garantida a partir da análise e apreciação
+  começando pelos técnicos, chefe de repartição, chefe do departamento e por fim
+  o director da direção de planificação e cooperação do Ministério da Justiça,
+  Assuntos Constitucionais e Religiosos</p>
+QUALITY_ASSMNT: >-
+  <p>Os instrumentos para avaliação da qualidade dos processos e produtos
+  estatísticos a nível do Sistema Estatístico Nacional estão a ser desenvolvidos
+  com base nos 19 princípios de qualidade estabelecidos pela Comissão de
+  Estatísticas das Nações Unidas.</p>
+COVERAGE: <p>Os dados são disponibilizados anualmente e não possuem desagregação.</p>
+COMPARABILITY: <p>Este indicador permite a comparabilidade a nível internacional</p>
+OTHER_DOC: >-
+  <p><a
+  href="https://www.sernap.gov.mz/SGIP/aa0a8bc8-2f75-4c07-b249-25e76130e414/Log.aspx">https://www.sernap.gov.mz/SGIP/aa0a8bc8-2f75-4c07-b249-25e76130e414/Log.aspx</a>,
+  </p>

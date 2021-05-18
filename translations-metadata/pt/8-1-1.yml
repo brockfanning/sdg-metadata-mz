@@ -1,0 +1,116 @@
+ORGANISATION_UNIT: <p>Direcção de Contas Nacionais e Indicadores Globais</p>
+SDG_GOAL: >-
+  <p> 8 Promover o crescimento económico sustentado, inclusivo e sustentável,
+  emprego pleno e produtivo e trabalho decente para todos</p>
+SDG_TARGET: >-
+  <p>8.1 Sustentar o crescimento económico per capita de acordo com as
+  circunstâncias nacionais e, em particular, um crescimento anual de pelo menos
+  7% do produto interno bruto [PIB] nos países menos desenvolvidos</p>
+SDG_INDICATOR: <h1>8.1.1 Taxa de crescimento anual do PIB real per capita</h1>
+SDG_SERIES_DESCR: <p>8.1.1 Taxa de crescimento anual do PIB real per capita</p>
+META_LAST_UPDATE: <p>06/10/2020</p>
+CONTACT_ORGANISATION: <p>Instituto Nacional de Estatística</p>
+CONTACT_NAME: <p>Perpetua Mendonça; Simão Sábado; Cipriano Claudio</p>
+CONTACT_FUNCT: <p>Técnica, Chefe do Departamento e Director</p>
+CONTACT_PHONE: |-
+  <p>Perpétua: +258-823810450/+258-873810450;</p>
+  <p>Sábado: +258-827027780/+258-868001057;</p>
+  <p>Cláudio: +258-824261470 </p>
+CONTACT_EMAIL: >-
+  <p><a
+  href="mailto:perpetua.mendoca@ine.gov.mz">perpetua.mendoca@ine.gov.mz</a>;
+  simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz</p>
+STAT_CONC_DEF: >-
+  <p>A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita
+  é calculada como a variação percentual no PIB real per capita entre dois anos
+  consecutivos. O PIB real per capita é calculado dividindo o PIB a preços
+  constantes pela população de um país ou região. Os dados do PIB real são
+  medidos em dólares americanos constantes para facilitar o cálculo das taxas de
+  crescimento do país, sua respectiva agregação e a comparabilidade entre países
+  ou regiões.</p>
+UNIT_MEASURE: <p>Percentagem</p>
+CLASS_SYSTEM: >-
+  <p>Classificação das actividades económicas (CAE), Classificação Nacional de
+  Bens e Serviços (CNBS); Classificação das Instituições Sem Fins Lucrativos aos
+  Serviços das Famílias (COPNI); Classificação das Funções do Governo (COFOG),
+  Classificação Consumo Individual por Objectivo (COICOP) Manual da Balança de
+  Pagamento, Versão 6 (MBOP6)</p>
+SOURCE_TYPE: <p>Inquéritos mensais, Inquéritos anuais, Dados administrativos</p>
+COLL_METHOD: >-
+  <p>Os inquéritos mensais e anuais às empresas são inquéritos correntes,
+  probabilísticos. Os questionários físicos ou electrónicos são enviados às
+  empresas para o preenchimento e devolução. Têm como variáveis chave: a
+  actividade principal e secundária, o volume de negócios, gastos detalhados por
+  tipo de gasto, N.º de trabalhadores, remunerações e horas trabalhadas. Têm
+  aplicações informáticas próprias com regras de validação.</p>
+
+  <p>Os dados administrativos são recebidos em modelos usados pelas fontes.
+  Quando são recebidos, faz-se uma avaliação da qualidade dos mesmos.</p>
+FREQ_COLL: <p> De janeiro a Dezembro de cada ano </p>
+REL_CAL_POLICY: >-
+  <p>Maio de cada ano: PIB Preliminares do ano n-1 e PIB Definitivo do n-2;
+  Outubro de cada ano : PIB Provisório do ano n-1</p>
+DATA_SOURCE: <p>Ministérios, Banco de Moçambique, instituições estatais</p>
+COMPILING_ORG: <p>Instituto Nacional de Estatística</p>
+INST_MANDATE: |-
+  <p>De acordo com o artigo 19, da Lei 7/96 de 05 de Julho:</p>
+  <ol>
+    <li>O Instituto Nacional de Estatística (INE) é o órgão executivo central do Sistema Estatístico Nacional (SEN) que tem por objectivo a notação, apuramento, coordenação e difusão da informação estatística oficial do País e subordina-se ao Conselho de Ministro.</li>
+    <li>Compete ao INE realizar a actividade estatística oficial do País. </li>
+  </ol>
+RATIONALE: >-
+  <p>O Produto Interno Bruto Real (PIB) per capita é um proxy para o padrão de
+  vida médio dos residentes num país ou área. Uma variação percentual positiva
+  no PIB real anual per capita pode ser interpretada como um aumento no padrão
+  de vida médio dos residentes num país ou área</p>
+REC_USE_LIM: >-
+  <p>Falta de observância rigorosa da legislação estatística;</p>
+
+  <p>Recepção tardia de dados provenientes das fontes;</p>
+
+  <p>Falta ou insuficiência de recursos para a realização de inquéritos com uma
+  periodicidade regular pode conduzir ao enviesamento de estimativas de produção
+  e transações.</p>
+DATA_COMP: >-
+  <p>A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita
+  é calculada da seguinte forma:</p>
+
+  <ol>
+    <li>Converta o PIB real (preços constantes) anual em moeda nacional de um país ou região em dólares americanos usando a taxa de câmbio do ano base.</li>
+    <li>Divida o resultado pela população do país ou região para obter o PIB real per capita anual em dólares americanos.</li>
+    <li>Calcule a taxa de crescimento anual do PIB real per capita no ano t<sub>+1</sub>, usando a seguinte fórmula: [(G (t<sub>+1</sub>) - G (t) / G (t)] x 100, onde G (t<sub>+1</sub>) é o PIB real per capita em dólares no ano t<sub>+1</sub> e G (t) é o PIB real per capita em dólares do ano t.</li>
+  </ol>
+DATA_VALIDATION: <p>Cruzamento de dados dos inquéritos com as contas auditadas.</p>
+DOC_METHOD: >-
+  <p>A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita
+  é calculada da seguinte forma:</p>
+
+  <ol>
+    <li>Converta o PIB real (preços constantes) anual em moeda nacional de um país ou região em dólares americanos usando a taxa de câmbio do ano base.</li>
+    <li>Divida o resultado pela população do país ou região para obter o PIB real per capita anual em dólares americanos.</li>
+    <li>Calcule a taxa de crescimento anual do PIB real per capita no ano t<sub>+1</sub>, usando a seguinte fórmula: [(G (t<sub>+1</sub>) - G (t) / G (t)] x 100, onde G (t<sub>+1</sub>) é o PIB real per capita em dólares no ano t<sub>+1</sub> e G (t) é o PIB real per capita em dólares do ano t..</li>
+  </ol>
+QUALITY_MGMNT: >-
+  <p>Os dados compilados e verificados pelos técnicos são reconciliados pelos
+  chefes e submetidos os directores para a reverificação.</p>
+QUALITY_ASSURE: >-
+  <p>Uso de manuais das Nações Unidas para Contas Nacionais, SNA 2008; a
+  observância das revisões recomendadas pelas Nações Unidas.</p>
+QUALITY_ASSMNT: <p>Partilha com instituições internacionais de publicações.</p>
+COVERAGE: |-
+  <p>Maio de cada ano: PIB Preliminares do ano<sub> </sub>n;</p>
+  <p>Maio de cada ano: PIB Definitivo do ano n-1;</p>
+  <p>Outubro de cada ano: PIB Provisório do ano n.</p>
+  <p>Dados desagregados por País e por província</p>
+COMPARABILITY: >-
+  <p>Calculo deste indicador não difere dos cálculos feitos internacionalmente,
+  porque usa-se manuais das Nações Unidas para Contas Nacionais, SNA 2008; a
+  observância das revisões recomendadas pela Nações Unidas.</p>
+OTHER_DOC: >-
+  <p>SNA 2008, das Nações Unidas;</p>
+
+  <p>Classificações nacionais e internacionais;</p>
+
+  <p>MBOP6 (Moçambique, Manual da Balança de Pagamento, Versão 6)</p>
+
+  <p>http://www.ine.gov.mz/estatisticas/estatisticas-economicas/contas-nacionais</p>

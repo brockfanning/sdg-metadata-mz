@@ -1,0 +1,114 @@
+ORGANISATION_UNIT: <p>Direcção de Estudos, Planificação e Infra-Estruturas</p>
+SDG_GOAL: >-
+  <p> 14 CONSERVAÇÃO E USO SUSTENTÁVEL DOS OCEANOS, DOS MARES E DOS RECURSOS
+  MARINHOS PARA O DESENVOLVIMENTO SUSTENTÁVEL</p>
+SDG_TARGET: >-
+  <p>14.4 Até 2020, regular efetivamente a recolha, e acabar com a sobrepesca
+  ilegal, não reportada e não regulamentada e as práticas de pesca destrutivas,
+  e implementar planos de gestão numa base científica, para restaurar populações
+  de peixes em menos tempo possível, pelo menos a níveis que possam produzir
+  rendimento máximo sustentável, como determinado por suas características
+  biológicas</p>
+SDG_INDICATOR: >-
+  <p>14.4.1 Percentagem de reservas de peixes dentro dos níveis biologicamente
+  sustentáveis</p>
+SDG_SERIES_DESCR: >-
+  <p>Reservas de peixes dentro dos níveis biologicamente sustentáveis em
+  percentagem</p>
+META_LAST_UPDATE: <p>20/10/2020</p>
+SDG_RELATED_INDICATORS: <p>Nenhum Indicador relacionado</p>
+CONTACT_ORGANISATION: <p>Ministério do Mar, Águas Interiores e Pescas</p>
+CONTACT_NAME: <p>Osvaldo Mário Gaspar & Emídio R. Andre</p>
+CONTACT_FUNCT: <p>Estaticista & Oceanógrafo</p>
+CONTACT_PHONE: <p>+258 84 398 9574 & +258 84 535 7080</p>
+CONTACT_EMAIL: >-
+  <p><a href="mailto:erandre01@hotmail.com"><u>erandre01@hotmail.com</u></a> &
+  osgaspar_elsabors@yahoo.com.br</p>
+STAT_CONC_DEF: >-
+  <p>​​Definição: Medida da sustentabilidade da captura de um recurso pesqueiro
+  marinha em relação a sua abundância. Um estoque de peixes cuja abundância é
+  igual ou superior ao nível, que pode produzir o rendimento máximo sustentável
+  (MSY), é classificado como biologicamente sustentável. Por outro lado, quando
+  a abundância cai abaixo do nível MSY, o estoque é considerado biologicamente
+  insustentável.</p>
+
+  <p>Conceito: a sustentabilidade a longo prazo dos recursos pesqueiros é medida
+  através do processo de avaliação científica do estoque de peixes à medida que
+  este vai sendo pescada ao nível que produz captura máxima sustentável. Os
+  parâmetros de referência básicos para a sustentabilidade da pesca são
+  estabelecidos pela Convenção das Nações Unidas sobre o Direito do Mar (UNCLOS,
+  Artigo 61 (3).</p>
+UNIT_MEASURE: <p>Percentagem</p>
+SOURCE_TYPE: >-
+  <p>Ministério do Mar, Águas Interiores e Pescas (Instituto Nacional de
+  Investigação Pesqueira)</p>
+FREQ_COLL: <p>Fevereiro de 2021</p>
+REL_CAL_POLICY: <p>III Trimestre de 2021</p>
+DATA_SOURCE: <p>Instituto Nacional de Investigação Pesqueira</p>
+COMPILING_ORG: <p>Ministério do Mar, Águas Interiores e Pescas</p>
+INST_MANDATE: >-
+  <p> Despacho Conjunto, de 4 de Dezembro de 2003, Boletim da República nº 16,
+  de 21 de Abril de 2004 O Instituto Nacional de Estatística, através do
+  Ministro de Tutela, delega competências na Direcção Nacional de Economia
+  Pesqueira do Ministério das Pescas, para a notação e apuramento de dados
+  estatísticos de todas as estatísticas do sector, por aproveitamento de actos
+  administrativos e inquéritos. Despacho Conjunto, de 4 de Dezembro de 2003,
+  Boletim da República nº 16, de 21 de Abril de 2004 O Instituto Nacional de
+  Estatística, através do Ministro de Tutela, delega competências na Direcção
+  Nacional de Economia Pesqueira do Ministério das Pescas, para a notação e
+  apuramento de dados estatísticos de todas as estatísticas do sector, por
+  aproveitamento de actos administrativos e inquéritos.</p>
+RATIONALE: >-
+  <p>A avaliação da proporção de estoques de peixes dentro dos níveis
+  biologicamente sustentáveis permite assegurar que os recursos pesqueiros são
+  explorados dentro dos níveis biologicamente sustentáveis, isto é, ao nível do
+  MSY.</p>
+REC_USE_LIM: >-
+  <p>O indicador estabelece muito bem a sustentabilidade da captura dos recursos
+  pesqueiros. No entanto, sua derivação não exige apenas dados, mas também
+  requer avaliação de estoque, processo que deve ser realizado por espécie,
+  assim desafiante para países com pescarias multiespecíficas, como em países
+  tropicais.</p>
+DATA_COMP: >-
+  <p>A sustentabilidade da pesca é definida com base na abundância de estoques.
+  Para conhecer a abundância de estoques, é necessário realizar uma avaliação de
+  estoques que utiliza estatísticas de captura de peixes, dados do esforço de
+  pesca e informações biológicas e ajustar os dados a um modelo de dinâmica
+  populacional. Após a conclusão da avaliação de todas as unidades populacionais
+  em causa, as unidades populacionais de peixes com abundância igual ou superior
+  ao nível associado ao rendimento máximo sustentável são contadas como
+  biologicamente sustentáveis ​​e, de outro modo, consideradas como
+  sobrepesca.</p>
+DATA_VALIDATION: >-
+  <p>A informação processada é triada e analisada a nível técnico onde por sua
+  vez é submetida ao Conselho Técnico da Instituição para pré-aprovação, onde
+  depois de verificada a informação saudavelmente segue para o Conselho
+  Consultivo para aprovação dos dados ou informação produzida em altura para
+  posterior disseminação</p>
+DOC_METHOD: >-
+  <p>O Indicador nacional é comparável internacionalmente pois é baseado em
+  padrões internacionalmente aceites. </p>
+
+  <p>Usa a mesma metodologia de cálculo do indicador global</p>
+QUALITY_ASSURE: >-
+  <p>A informação processada é triada e analisada a nível técnico onde por sua
+  vez é submetida ao Conselho Técnico da Instituição estes estratos são
+  compostos por cientistas qualificados para o efeito de verificação e
+  validação</p>
+QUALITY_ASSMNT: >-
+  <p>Os instrumentos para avaliação da qualidade dos processos e produtos
+  estatísticos a nível do Sistema Estatístico Nacional estão a ser desenvolvidos
+  com base nos 19 princípios de qualidade estabelecidos pela Comissão de
+  Estatísticas das Nações Unidas.</p>
+COVERAGE: >-
+  <p>Dados para o cálculo do indicador existem no Instituto Nacional de
+  Investigação Pesqueira (IIP), todavia cabe a Administração Nacional das Pescas
+  (ADNAP) e Direção Nacional de Operações (DNOP) a sua disponibilização
+  anual.</p>
+
+  <p>Os dados não se encontram desagregados</p>
+COMPARABILITY: >-
+  <p>O Indicador nacional é comparável internacionalmente pois é baseado em
+  padrões internacionalmente aceites. </p>
+
+  <p>Usa a mesma metodologia de cálculo do indicador global.</p>

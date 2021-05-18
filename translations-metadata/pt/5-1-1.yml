@@ -1,0 +1,134 @@
+ORGANISATION_UNIT: <p>Direcção de Planificação e Cooperação</p>
+SDG_GOAL: >-
+  <p>5. Alcançar a igualdade de género e empoderar todas as mulheres e
+  raparigas</p>
+SDG_TARGET: >-
+  <p>5.1 Acabar com todas as formas de discriminação contra todas as mulheres e
+  raparigas em toda parte</p>
+SDG_INDICATOR: >-
+  <h1>5.1.1 Existência ou não de quadros jurídicos para promover, aplicar e
+  monitorar a igualdade e a não discriminação com base no sexo </h1>
+SDG_SERIES_DESCR: >-
+  <p>5.1.1 Quadros jurídicos para promover, aplicar e monitorar a igualdade e a
+  não discriminação com base no sexo, existente ou não.</p>
+META_LAST_UPDATE: <p>03/10/2020</p>
+SDG_RELATED_INDICATORS: <p>Nenhum indicador relacionado</p>
+CONTACT_ORGANISATION: <p>Ministério do Género, Criança e Acção Social</p>
+CONTACT_NAME: <p>Ângelo Tivane e Arnaldo Muthemba</p>
+CONTACT_FUNCT: <p>Chefe do Departamento de Planificação; Técnico da área de Estatística</p>
+CONTACT_PHONE: |-
+  <p>+258 828351430; +258 840560048; </p>
+  <p> +258 826081976; +258 842268933</p>
+CONTACT_MAIL: >-
+  <p><a href="mailto:Angelotivane2011@gmail.com">Angelotivane2011@gmail.com</a>;
+  <a href="mailto:muthembarnaldo@gmail.com"
+  target="_blank">muthembarnaldo@gmail.com</a></p>
+CONTACT_EMAIL: >-
+  <p><a href="mailto:Angelotivane2011@gmail.com">Angelotivane2011@gmail.com</a>;
+  <a href="mailto:muthembarnaldo@gmail.com"
+  target="_blank">muthembarnaldo@gmail.com</a></p>
+STAT_CONC_DEF: >-
+  <p>O indicador mede os esforços do governo para estabelecer quadros legais que
+  promovam, apliquem e monitorem a igualdade de género.</p>
+
+  <p>O indicador é baseado numa avaliação de quadros legais que promovem,
+  apliquem e monitoram a igualdade de género</p>
+UNIT_MEASURE: <p>Percentagem</p>
+SOURCE_TYPE: >-
+  <p>Fonte administrativa. Ministério da Justiça, Assuntos Constitucionais e
+  Religiosos e o Ministério do Género, Criança e Acção Social</p>
+COLL_METHOD: >-
+  <p>O Ministério do Género, Criança e Acção Social fez o levantamento da
+  legislação existente sobre a matéria e actualiza anualmente, respondeu as
+  questões e procede ao cálculo conforme os procedimentos internacionais.</p>
+FREQ_COLL: <p>Março de 2020 </p>
+REL_CAL_POLICY: <p>Abril de 2020</p>
+DATA_SOURCE: >-
+  <p> Ministério da Justiça, Assuntos Constitucionais e Religiosos e o
+  Ministério do Género, Criança e Acção Social </p>
+COMPILING_ORG: <p>Ministério do Género, Criança e Acção Social</p>
+INST_MANDATE: >-
+  <p>Decreto Presidencial nº 9/2015, de 13 Março, Resolução nº 18/2015, de 10 de
+  Julho; Diploma Ministerial nº 117/2015, de 31 de Dezembro;</p>
+RATIONALE: >-
+  <p>O indicador tem como base o uso do questionário composto por 45 perguntas
+  de respostas “sim/não” em quatro áreas do direito: (i) Quadros legais
+  abrangentes e vida pública; (ii) violência contra a mulher; (iii) emprego e
+  benefícios económicos; e (iv) casamento e família.</p>
+REC_USE_LIM: >-
+  <p>O indicador é fiável, pois os dados são recolhidos na fonte a nível
+  nacional e é comparável internacionalmente.</p>
+DATA_COMP: >-
+  <p>O indicador é baseado na avaliação de quadros legais que promovem, aplicam
+  e monitoram a igualdade de género usando um questionário composto por 45
+  perguntas de resposta binária “Sim/Não” em quatro áreas do direito, extraídas
+  do quadro jurídico e político internacional sobre igualdade de género, em
+  particular, a CEDAW e o Plataforma de Acção de Pequim </p>
+
+  <p>As respostas para as perguntas são codificadas com respostas simples
+  "Sim/Não", com "1" para "Sim" e "0" para "Não". Apenas para as perguntas 1 e
+  2, elas podem ser pontuadas como "N/A", caso em que não são incluídas como
+  parte do cálculo geral da pontuação para a área<sup><a href="#footnote-2"
+  id="footnote-ref-2">[2]</a></sup>. </p>
+
+  <p>A metodologia de pontuação é a média não ponderada das perguntas em cada
+  área do direito, calculada da seguinte forma:</p>
+
+  <p> .</p>
+
+  <p>Onde A<sub>i</sub> se refere à área do direito <strong>i</strong>;
+  m<sub>i</sub> refere-se ao número total de perguntas na área da lei
+  <strong>i</strong>;<sup><a href="#footnote-3"
+  id="footnote-ref-3">[3]</a></sup> q<sub>1</sub> + ... + q<sub>mi</sub>
+  refere-se à soma das perguntas codificadas na área jurídica e onde
+  q<sub>i</sub> = ”1” se a resposta for “Sim” e q<sub>i</sub> = ”0” se a
+  resposta for “Não”.</p>
+
+  <p>Os resultados das quatro áreas são reportados em percentagens como um
+  painel: (A<sub>1</sub>, A<sub>2</sub>, A<sub>3</sub>, A<sub>4</sub>). A
+  pontuação para cada área (um número entre 0 e 100) representa, portanto, a
+  percentagem de realizações desse país nessa área, com 100 sendo as melhores
+  práticas atendidas em todas as perguntas da área. A escolha de apresentar
+  todas as quatro pontuações da área sem agregação adicional é o resultado da
+  adopção da postura de que valores altos numa área em determinado país não
+  precisam compensar de forma alguma o país com valores baixos em alguma outra
+  área e que um exame abrangente do valor desses quatro números para cada país é
+  potencialmente mais informativo do que tentar resumir todos os quatro números
+  em um único índice.</p><div class="footnotes"><div><sup
+  class="footnote-number" id="footnote-2">2</sup><p> Para as perguntas 1 e 2, a
+  metodologia não atribui uma pontuação (positiva ou negativa) à existência de
+  direito consuetudinário ou pessoal, mas pontua se elas estão sujeitas aos
+  princípios constitucionais de igualdade ou não discriminação. Portanto, em
+  países onde o direito consuetudinário ou pessoal não se aplica, essas
+  perguntas são classificadas como "N/A" e não são incluídas como parte do
+  cálculo geral da pontuação para a área 'marcos legais abrangentes e vida
+  pública'. <a href="#footnote-ref-2">↑</a></p></div><div><sup
+  class="footnote-number" id="footnote-3">3</sup><p> Se uma pergunta for
+  codificada como "N/A", ela não será contada no número total de perguntas em
+  uma área da lei. <a href="#footnote-ref-3">↑</a></p></div></div>
+DATA_VALIDATION: >-
+  <p>Validação e feita pelo colectivo pela direção nacional do género depois
+  pelo conselho tecnico e consultivo</p>
+DOC_METHOD: >-
+  <p> O método usado é de acordo com padrões internacionais de medição deste
+  indicador</p>
+QUALITY_MGMNT: >-
+  <p>Os dados são analisados pela equipa de Repartição de Monitoria e Avaliação,
+  pelo chefe do Departamento de Planificação, pelo Director de planificação e
+  cooperação, pelo Conselho Tecnico e por fim pelo Conselho Consultivo do
+  Ministério do Género, Criança e Acção Social</p>
+QUALITY_ASSURE: >-
+  <p>Trabalhar com pontos focais do género dos sectores contribui para a
+  qualidade das respostas dadas das perguntas 45 perguntas que concorrem para o
+  cálculo do indicador</p>
+QUALITY_ASSMNT: >-
+  <p>O Ministério do Género, Criança e Acção Social esta organizar a área de
+  estatística para trabalhar em coordenação com o Instituto Nacional de
+  Estatística (INE) na melhoria da qualidade de todo processo desde a recolha de
+  dados até a publicação de dados.</p>
+COVERAGE: >-
+  <p>Os dados estão desagregado em Quatro áreas do direito: (i) quadros legais
+  abrangentes e vida pública; (ii) violência contra a mulher; (iii) emprego e
+  benefícios económicos; e (iv) casamento e família.</p>
+COMPARABILITY: <p>Este indicador é global e pode ser comparado com os outros países. </p>
+OTHER_DOC: <p>www.mgcas.mz.co</p>

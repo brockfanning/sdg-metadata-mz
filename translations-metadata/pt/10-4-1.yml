@@ -1,0 +1,139 @@
+ORGANISATION_UNIT: <p>Direcção de Contas Nacionais e Indicadores Globais</p>
+SDG_GOAL: <p> 10 Redução das Desigualdades</p>
+SDG_TARGET: >-
+  <p>10.4 Apdotar políticas, especialmente fiscal, salarial e de proteção
+  social, e alcançar progressivamente uma maior igualdade</p>
+SDG_INDICATOR: >-
+  <p>10.4.1 Participação da renda do trabalho no PIB, incluindo salários e
+  transferências de proteção social</p>
+SDG_SERIES_DESCR: >-
+  <p>10.4.1 Participação da renda do trabalho no PIB, incluindo salários e
+  transferências de proteção social</p>
+META_LAST_UPDATE: <p>8/10/2020</p>
+SDG_RELATED_INDICATORS: <p>Sem vínculos com outros objectivos e metas</p>
+CONTACT_ORGANISATION: <p>Instituto Nacional de Estatística</p>
+CONTACT_NAME: <p>Perpetua Mendonça; Simão Sábado; Cipriano Claudio</p>
+CONTACT_FUNCT: <p>Técnica, Chefe do Departamento e Director</p>
+CONTACT_PHONE: |-
+  <p>Perpétua: +258- 823810450/+258- 873810450;</p>
+  <p>Sábado: +258- 827027780/+258- 868001057;</p>
+  <p>Cláudio: +258- 824261470</p>
+CONTACT_MAIL: >-
+  <p><a
+  href="mailto:perpetua.mendoca@ine.gov.mz">perpetua.mendoca@ine.gov.mz</a>;
+  simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz</p>
+CONTACT_EMAIL: >-
+  <p><a
+  href="mailto:perpetua.mendoca@ine.gov.mz">perpetua.mendoca@ine.gov.mz</a>;
+  simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz</p>
+STAT_CONC_DEF: >-
+  <p>A parcela da mão-de-obra do Produto Interno Bruto (PIB) é a remuneração
+  total dos empregados, medida em percentagem do PIB, que é uma medida da
+  produção total. Ele fornece informações sobre a parcela relativa da produção
+  que é paga como remuneração aos funcionários, em comparação com a parcela paga
+  ao capital no processo de produção por um determinado período de
+  referência.</p>
+UNIT_MEASURE: <p>Percentagem</p>
+CLASS_SYSTEM: >-
+  <p>Classificação das actividades económicas (CAE), Classificação Nacional de
+  Bens e Serviços (CNBS); COPNI; COFOG, Classificação Consumo Individual por
+  Objectivo (COICOP)</p>
+SOURCE_TYPE: >-
+  <p> Inquéritos as Actividades Económicas (IAE) mensais e anuais, Inquérito ao
+  Orçamento Familiar (IOF), Dados administrativos</p>
+COLL_METHOD: >-
+  <p>O Inquérito ao Orçamento Familiar é uma pesquisa por amostragem
+  probabilística com representatividade nacional, provincial e por área de
+  residência. Algumas das variáveis importantes são as despesas dos agregados
+  familiares, as actividades/ocupações e as remunerações/rendimento das pessoas
+  e as horas trabalhadas. Tem duração de 12 meses. Os dois últimos foram
+  realizados em 2014/15 e 2019/20. As entrevistas são directas. No acto de
+  recrutamento, os inquiridores são avaliados e seleccionados, submetidos a um
+  treinamento, avaliação e selecção. Durante o trabalho de campo, existe um
+  trabalho de supervisão para o controlo de qualidade e o processo de tratamento
+  de dado inicia com uma crítica de dados e a entrada de dados é feita numa
+  aplicação informática apropriada, munida de regras de validação para controlar
+  a qualidade. </p>
+
+  <p>Os inquéritos mensais e anuais às empresas são inquéritos correntes, também
+  probabilísticos. Os questionários físicos ou electrónicos são enviados às
+  empresas para o preenchimento e devolução. Têm como variáveis chave: a
+  actividade principal e secundária, o volume de negócios, gastos detalhados por
+  tipo de gasto, N.º de trabalhadores, remunerações e horas trabalhadas. E, à
+  semelhança do IOF, têm aplicações informáticas próprias com regras de
+  validação.</p>
+
+  <p>Os Dados administrativo são recebidos em modelos usados pelas fontes.
+  Quando são recebidos, faz-se uma avaliação da qualidade dos mesmos.</p>
+FREQ_COLL: <p>De janeiro a Dezembro de cada ano</p>
+REL_CAL_POLICY: >-
+  <p>Maio de cada ano: PIB Preliminares do ano n-1 e PIB Definitivo do n-2;
+  Outubro de cada ano : PIB Provisório do ano n-1</p>
+DATA_SOURCE: >-
+  <p>Empresas, Ministérios, Banco de Moçambique, Instituições Estatais,
+  agregados familiares</p>
+COMPILING_ORG: <p>Instituto Nacional de Estatística</p>
+INST_MANDATE: |-
+  <p>De acordo com o artigo 19, da Lei 7/96 de 05 de Julho:</p>
+  <ol>
+    <li>O Instituto Nacional de Estatística (INE) é o órgão executivo central do Sistema Estatístico Nacional (SEN) que tem por objectivo a notação, apuramento, coordenação e difusão da informação estatística oficial do País e subordina-se ao Conselho de Ministro.</li>
+    <li>Compete ao INE realizar a actividade estatística oficial do País.</li>
+  </ol>
+RATIONALE: >-
+  <p>A parcela da mão-de-obra no PIB procura informar sobre a parcela relativa
+  do PIB acumulada para os trabalhadores em comparação com a parcela acumulada
+  para o capital em um determinado período de referência.</p>
+
+  <p>Para interpretar efectivamente este indicador, é importante considerá-lo,
+  em simultâneo, com as tendências de crescimento económico. A parcela da
+  remuneração do trabalho na produção nacional pode destacar até que ponto o
+  crescimento económico se traduz em maiores rendimentos para os funcionários ao
+  longo do tempo. Pode ser proxy do indicador de padrão de vida para os
+  trabalhadores, dependendo da distribuição da renda real e das políticas
+  públicas adoptada, entre outros factores</p>
+REC_USE_LIM: >-
+  <p>Moçambique tem uma fasquia elevada de trabalhadores por conta própria ou no
+  sector informal, as estimativas de remunerações podem ser subestimadas, uma
+  vez que a periodicidade de realização do Inquéritos ao Orçamentos Familiar
+  (IOF) é de 5 anos, período considerado longo;</p>
+
+  <p>A não realização de determinados inquéritos na data prevista por razões
+  orçamentais, remete as instituições à realização de estimativas que podem ser
+  enviesadas.</p>
+
+  <p>O PIB pode excluir ou subestimar actividades de difícil mensuração, como
+  transações no sector informal ou em mercados ilegais, etc., subestimando o
+  PIB. Além disso, o PIB não responde pelos custos sociais e ambientais da
+  produção e, portanto, não é uma boa medida do nível geral de bem-estar.</p>
+DATA_COMP: >-
+  <p><strong>Parcela do trabalho no PIB = Remuneração total dos empregados /
+  Produto Interno Bruto * 100</strong></p>
+
+  <p>Como mencionado acima, esse método de cálculo não fornece uma medida
+  abrangente da parcela da renda do trabalho, uma vez que não leva em
+  consideração a renda do trabalho dos trabalhadores independentes.</p>
+
+  <p>Idealmente, sempre que possível, o numerador deve ser ajustado para incluir
+  não apenas a remuneração dos funcionários, mas também os ganhos dos
+  trabalhadores independentes.</p>
+DATA_VALIDATION: <p>Cruzamento de dados dos inquéritos com as contas auditadas</p>
+QUALITY_MGMNT: >-
+  <p>Os dados compilados e verificados pelos técnicos são reconciliados pelos
+  chefes e submetidos os directores para a reverificação.</p>
+QUALITY_ASSURE: >-
+  <p>Uso de manuais das Nações Unidas para Contas Nacionais, SNA 2008; a
+  observância das revisões recomendadas pelas Nações Unidas.</p>
+QUALITY_ASSMNT: <p>Partilha com instituições internacionais de publicações.</p>
+COVERAGE: |-
+  <p>29/05/2021: PIB Preliminares de 2020;</p>
+  <p>29/05/2021: PIB Definitivo 2019;</p>
+  <p>30/10/2021: PIB Provisório 2020.</p>
+  <p>Não há necessidade de desagregação</p>
+COMPARABILITY: >-
+  <p>Calculo deste indicador não difere dos cálculos feitos internacionalmente,
+  porque usa-se manuais das Nações Unidas para Contas Nacionais, SNA 2008; a
+  observância das revisões recomendadas pela Nações Unidas.</p>
+OTHER_DOC: >-
+  <p>Sistema e Contas Nacionais 2008 (SNA 2008)</p>
+
+  <p>http://www.ine.gov.mz/estatisticas/estatisticas-economicas/contas-nacionais</p>

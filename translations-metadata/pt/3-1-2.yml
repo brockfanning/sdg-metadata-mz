@@ -1,0 +1,145 @@
+ORGANISATION_UNIT: <p>Direcção de Estatísticas Demográficas, Vitais e Sociais</p>
+SDG_GOAL: >-
+  <p> 3 GARANTIR O ACESSO À SAÚDE DE QUALIDADE E PROMOVER O BEM-ESTAR PARA TODOS
+  </p>
+SDG_TARGET: >-
+  <p>3.1 Até 2030, reduzir a taxa de mortalidade materna global, para menos de
+  70 mortes por 100.000 nascidos vivos</p>
+SDG_INDICATOR: <p>3.1.2 Percentagem de partos assistidos por pessoal de saúde qualificado</p>
+SDG_SERIES_DESCR: <p>Partos assistidos por pessoal de saúde qualificado em percentagem</p>
+META_LAST_UPDATE: <p>09/10/2020</p>
+CONTACT_ORGANISATION: <p>INSTITUTO NACIONAL DE ESTATISTICA</p>
+CONTACT_NAME: <p>Teixeira Mandlate, Maria Alfeu e João Mangue</p>
+CONTACT_FUNCT: <p>Técnicos</p>
+CONTACT_PHONE: <p>+258 844386629; +258 823032619; +258 827679480</p>
+CONTACT_MAIL: <p>www.ine.gov.mz</p>
+CONTACT_EMAIL: >-
+  <p><a
+  href="mailto:Teixeira.mandlate@ine.gov.mz">Teixeira.mandlate@ine.gov.mz</a>;
+  <a href="mailto:maria.alfeu@ine.gov.mz">maria.alfeu@ine.gov.mz</a>; <a
+  href="mailto:joao.mangue@ine.gov.mz">joao.mangue@ine.gov.mz</a></p>
+STAT_CONC_DEF: >-
+  <p>Percentagem de partos assistidos por pessoal de saúde qualificado é
+  definido como percentagem de partos assistidos por pessoal de saúde treinado
+  para prestar cuidados obstétricos</p>
+UNIT_MEASURE: <p>Percentagem</p>
+SOURCE_TYPE: <p> INE, Inquérito Demográfico e de Saúde (IDS)</p>
+COLL_METHOD: >-
+  <p>As fontes de dados recomendadas para calcular este indicador são os
+  Inquéritos aos Agregados Familiares. O questionário da recolha de dados do
+  Inquérito Demográfico e de Saúde foi desenhado e posteriormente testado no
+  campo no decurso do treinamento dos entrevistadores.</p>
+
+  <p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a
+  frente aos agregados familiares aplicando-se três tipos de questionários: </p>
+
+  <p>• Questionário de Agregados Familiares </p>
+
+  <p>• Questionário de Mulheres </p>
+
+  <p>• Questionário de Homens.</p>
+
+  <p>O Desenho da Amostra</p>
+
+  <p>O Inquérito Demográfico e de Saúde compreende uma amostra probabilística,
+  estratificada e multi-etápica, seleccionado a partir dos Dados e Cartografia
+  do III Recenseamento Geral de População e Habitação, realizado pelo INE em
+  2007. </p>
+
+  <p>A recolha de dados teve duração de cinco meses com início em Junho de 2011,
+  tendo terminado em Novembro de 2011.</p>
+
+  <p>Taxa de resposta</p>
+
+  <p>Dos 13,964 agregados entrevistados no inquérito foi identificado um total
+  de 13,871 mulheres elegíveis. Foram feitas entrevistas a 13,718 destas
+  mulheres, o que resultou numa taxa de resposta de 99%. Introdução • 13 Em um
+  terço da amostra de agregados familiares do IDS, eram também feitas
+  entrevistas a todos os homens elegíveis encontrados. Assim, dos 4,130 homens
+  elegíveis identificados na subamostra de agregados familiares seleccionadas
+  para o inquérito de homens, foram entrevistados 4,027 com sucesso, dando uma
+  taxa de respostas de 98%</p>
+FREQ_COLL: <p>2021</p>
+REL_CAL_POLICY: <p>2022</p>
+DATA_SOURCE: <p>Instituto Nacional de Estatística</p>
+COMPILING_ORG: <p>Instituto Nacional de Estatística</p>
+INST_MANDATE: <p>Lei 7/96 de 5 de Julho</p>
+RATIONALE: >-
+  <p>Ter um assistente qualificado no momento do parto é uma intervenção
+  importante para salvar vidas, tanto para mães quanto para bebês. Não ter
+  acesso a essa assistência-chave é prejudicial à saúde das mulheres e ao
+  empoderamento de gênero, pois pode causar a morte da mãe ou incapacidade
+  duradoura, especialmente em cenários marginalizados.</p>
+
+  <p>O resultado deste indicador mostra a proporção de partos assistidos por
+  pessoal de saúde treinado para prestar cuidados obstétricos </p>
+REC_USE_LIM: >-
+  <p>Ter um assistente qualificado no momento do parto é uma intervenção
+  importante para salvar vidas, tanto para mães quanto para bebês. Não ter
+  acesso a essa assistência-chave é prejudicial à saúde das mulheres e ao
+  empoderamento de gênero, pois pode causar a morte da mãe ou incapacidade
+  duradoura, especialmente em cenários marginalizados.</p>
+DATA_COMP: >-
+  <p>Este indicador é calculado dividindo o número de mulheres de 15 a 49 anos
+  de idade com nascimentos assistidos por pessoal de saúde qualificado
+  (geralmente médicos, enfermeiros ou parteiras) sobre o total de mulheres de 15
+  a 49 anos de idade com nados vivo durante o mesmo período expresso em
+  percentagem</p>
+DATA_VALIDATION: >-
+  <p>O trabalho de campo contou com estreita supervisão e controle de qualidade
+  por parte dos técnicos centrais e provinciais, tanto do INE como do MISAU e do
+  pessoal da ICF International. Além disso, durante a recolha de dados foi
+  estabelecido um rigoroso controlo a nível de cada equipa sobre o processo de
+  recolha, mediante a detecção de erros por parte da crítica de campo, o que
+  permitiu a correcção imediata ainda no terreno. A nível da coordenação
+  central, os críticos de dados fizeram revisão adicional dos dados da base e os
+  problemas encontrados eram comunicados às respectivas equipas. </p>
+
+  <p>O processamento interactivo e por lotes de informação através do programa
+  CSPro permitiu, ainda, a nível central, a obtenção periódica de resultados
+  parciais, para análise dos dados recolhidos até dado momento, mediante a
+  produção de quadros para acompanhamento e controle de qualidade. Os resultados
+  dessas tabulações foram reportados em retro alimentação às inquiridoras,
+  assegurando a qualidade dos dados.</p>
+DOC_METHOD: >-
+  <p>O Inquérito Demográfico e de Saúde (IDS) em Moçambique faze parte dum
+  programa internacional de inquéritos (MEASURE DHS) desenvolvido pelo ICF
+  International através de um contrato com a USAID, com o propósito de apoiar
+  aos governos e instituições privadas dos países em desenvolvimento na
+  realização de inquéritos nacionais por amostragem, nas áreas de população e
+  saúde. O Programa MEASURE DHS tem por objectivo: </p>
+
+  <p>• Subsidiar a formulação de políticas e implementação de programas nas
+  áreas de população e saúde; </p>
+
+  <p>• Aumentar a base internacional de dados sobre população e saúde para
+  acompanhamento e avaliação; </p>
+
+  <p>• Aprimorar metodologia de inquérito por amostragem, e </p>
+
+  <p>• Consolidar, na área de inquérito, a capacidade técnica da instituição
+  executora no país participante do Programa.</p>
+QUALITY_MGMNT: <p>Instrumento de Gestão de Qualidade ainda por aprovar</p>
+QUALITY_ASSURE: >-
+  <p>O processamento interactivo e por lotes de informação através do programa
+  CSPro permitiu, ainda, a nível central, a obtenção periódica de resultados
+  parciais, para análise dos dados recolhidos até dado momento, mediante a
+  produção de quadros para acompanhamento e controle de qualidade. Os resultados
+  dessas tabulações foram reportados em retro alimentação às inquiridoras,
+  assegurando a qualidade dos dados.</p>
+QUALITY_ASSMNT: <p>Instrumento de Avaliação de Qualidade ainda por aprovar</p>
+COVERAGE: >-
+  <p>Os dados são disponibilizados de 5 em 5 anos e estão desagregados por área
+  de residência rural e urbana e por província</p>
+COMPARABILITY: >-
+  <p>As estimativas dos inquéritos são baseadas em metodologia padronizada,
+  usando os Padrões de Crescimento Infantil da OMS, conforme descrito no (Ref:
+  manual do software Anthro). As estimativas globais e regionais são baseadas na
+  metodologia descrita no UNICEF-OMS, Banco Mundial: Estimativas conjuntas de
+  desnutrição infantil - Níveis e tendências (UNICEF / OMS / BM)</p>
+OTHER_DOC: >-
+  <p>Ministerio da Saude (MISAU), <a
+  href="http://www.misau.gov.mz">www.misau.gov.mz</a>; Instituto Nacional de
+  Estatística (INE), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; ICF
+  International (ICFI), <a
+  href="http://www.measuredhs.com">www.measuredhs.com</a></p>

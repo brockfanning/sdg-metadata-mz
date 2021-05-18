@@ -1,0 +1,150 @@
+ORGANISATION_UNIT: <p>Direcção de Estatísticas Demográficas, Vitais e Sociais</p>
+SDG_GOAL: >-
+  <p>6. GARANTIR A DISPONIBILIDADE E A GESTÃO SUSTENTÁVEL DA ÁGUA POTÁVEL E DO
+  SANEAMENTO PARA TODOS.</p>
+SDG_TARGET: >-
+  <p>6.1 Até 2030, alcançar o acesso universal e equitativo a água potável e
+  segura para todos</p>
+SDG_INDICATOR: >-
+  <p>6.1.1 Proporção da população que bebe água proveniente de fontes seguras,
+  segundo área de residência e províncias</p>
+SDG_SERIES_DESCR: >-
+  <p>Proporção da população que bebe água proveniente de fontes seguras, segundo
+  área de residência e províncias</p>
+META_LAST_UPDATE: <p>08/10/2020</p>
+CONTACT_ORGANISATION: <p>INSTITUTO NACIONAL DE ESTATISTICA</p>
+CONTACT_NAME: <p>Teixeira Mandlate, Maria Alfeu e João Mangue</p>
+CONTACT_FUNCT: <p>Técnicos</p>
+CONTACT_PHONE: <p>+258 844386629; +258 823032619; +258 827679480</p>
+CONTACT_MAIL: <p>www.ine.gov.mz</p>
+CONTACT_EMAIL: >-
+  <p><a
+  href="mailto:Teixeira.mandlate@ine.gov.mz">Teixeira.mandlate@ine.gov.mz</a>;
+  <a href="mailto:maria.alfeu@ine.gov.mz">maria.alfeu@ine.gov.mz</a>; <a
+  href="mailto:joao.mangue@ine.gov.mz">joao.mangue@ine.gov.mz</a></p>
+STAT_CONC_DEF: >-
+  <p>Proporção da população que bebe água proveniente de fontes seguras
+  corresponde a proporção que usa água proveniente de uma fonte considerada
+  segura. </p>
+
+  <p>É considerada fonte de agua segura aquela que e livre de contaminação fecal
+  e/ou química.</p>
+
+  <p>As fontes de água potável "melhoradas" incluem: água canalizada dentro de
+  casa, quintal, terreno ou casa do vizinho; torneiras ou fontenários públicos;
+  furos ou poços protegidos com bomba manual; nascentes protegidas; água
+  embalada/mineral.</p>
+UNIT_MEASURE: <p>Percentagem</p>
+SOURCE_TYPE: >-
+  <p>Recenseamento Geral da População e Habitação e Inquéritos aos Agregados
+  Familiares</p>
+COLL_METHOD: >-
+  <p>A fonte de dados recomendada para calcular este indicador são os Censos e
+  Inquéritos aos Agregados Familiares. O questionário da recolha de dados é
+  desenhado e posteriormente testado no campo no decurso do treinamento dos
+  entrevistadores.</p>
+
+  <p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a
+  frente aos agregados familiares onde perguntou-se aos inquiridos qual era a
+  principal fonte de água que usa para beber e a resposta ficou assinalada numa
+  lista de fontes que incluem: água canalizada dentro de casa, quintal, terreno
+  ou casa do vizinho; torneiras ou fontenários públicos; furos ou fontenários;
+  poços protegidos; poços não protegidos, nascentes; água embalada; água
+  fornecida, água do rio/lago e água da chuva. </p>
+
+  <p>O trabalho do campo teve a duração de 15 dias para caso dos Censos e nos
+  Inquéritos dependendo do tipo e objectivo do Inquérito.</p>
+
+  <p>Casos de não resposta, apos esgotadas todas as diligências para captação,
+  são tratados como casos desconhecidos.</p>
+FREQ_COLL: <p>2027</p>
+REL_CAL_POLICY: <p>2029</p>
+DATA_SOURCE: <p>INE</p>
+COMPILING_ORG: <p>INE</p>
+INST_MANDATE: <p>Lei 7/96 de 5 de Julho</p>
+RATIONALE: >-
+  <p>Actualmente, a proporção da população que utiliza serviços seguros de água
+  potável está sendo medida pela proporção da população que usa uma fonte básica
+  melhorada de água potável. O acesso a água potável e um bom ambiente de
+  higiene constituem uma alavanca importante, pois permitem reduzir a maior
+  parte das doenças que ocorrem nas crianças e adultos, por exemplo, a diarreia
+  pode ser reduzida através de boas práticas de higiene, uso de água potável e
+  de meios sanitários adequados.</p>
+REC_USE_LIM: >-
+  <p>Os dados sobre disponibilidade e segurança da água potável estão cada vez
+  mais disponíveis por meio de uma combinação de inquéritos aos agregados
+  familiares e fontes administrativas, incluindo reguladores, mas as definições
+  ainda precisam ser padronizadas. </p>
+DATA_COMP: >-
+  <p>A proporção é dada pelo quociente entre as pessoas que consomem água de
+  fontes seguras pelo total da população. Em percentagem</p>
+DATA_VALIDATION: >-
+  <p>O trabalho de campo contou com a supervisão e controle de qualidade por
+  parte dos técnicos do INE Central como das Delegações Provinciais. Além disso,
+  durante a recolha de dados foi estabelecido um rigoroso controlo a nível de
+  cada equipa sobre o processo de recolha, mediante a detecção de erros por
+  parte da crítica no campo, o que permitiu a correcção imediata ainda no
+  terreno. </p>
+
+  <p>A nível da coordenação central, os críticos de dados fizeram revisão
+  adicional dos dados da base e os problemas encontrados eram comunicados às
+  respectivas equipas para correção. </p>
+
+  <p>O processamento interactivo e por lotes de informação permitiu, ainda, a
+  nível central, a obtenção periódica de resultados parciais, para análise dos
+  dados recolhidos até dado momento, mediante a produção de quadros para
+  acompanhamento e controle de qualidade. Os resultados dessas tabulações foram
+  reportados em retro alimentação aos inquiridores, assegurando a qualidade dos
+  dados.</p>
+DOC_METHOD: >-
+  <p>Na produção e compilação de dados, usou-se metodologias recomendadas pelas
+  Nações Unidas nos <strong><em>Princípios e Recomendações dos Censos da
+  População e Habitação (ST/ESA/STAT/SER.M/67/Rer.3)</em></strong></p>
+QUALITY_MGMNT: >-
+  <p>Ainda em desenvolvimento e por aprovar o instrumento da gestão de
+  qualidade</p>
+QUALITY_ASSURE: >-
+  <p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a
+  frente aos agregados familiares preenchendo-se o Boletim de Agregados
+  Familiares e Boletim de alojamentos colectivos.</p>
+QUALITY_ASSMNT: >-
+  <p>Ainda em desenvolvimento e por aprovar o instrumento para avaliação de
+  qualidade</p>
+COVERAGE: >-
+  <p>A informação é disponibilizada de 5 em 5 anos e é desagregada por área de
+  residência rural e urbana, província e país</p>
+COMPARABILITY: >-
+  <p>A produção de dados permite comparabilidade não havendo diferenças pois
+  seguem-se as recomendações inernacionalmente definidas nos
+  <strong><em>Princípios e Recomendações para Estatísticas Civil – ONU,
+  (ST/ESA/STAT/SER.M/19/Rev.3 New York, 2014)</em></strong></p>
+
+  <p>As estimativas dos Inquéritos Demográficos e de Saúde são baseadas em
+  metodologias padronizadas e desenvolvidas pela OMS e UNICEF.</p>
+
+  <p>O Inquérito Demográfico e de Saúde (IDS) em Moçambique faz parte dum
+  programa internacional de inquéritos (MEASURE DHS) desenvolvido pelo ICF
+  International através de um contrato com a USAID, com o propósito de apoiar
+  aos governos e instituições privadas dos países em desenvolvimento na
+  realização de inquéritos nacionais por amostragem, nas áreas de população e
+  saúde. O Programa MEASURE DHS tem por objectivo:</p>
+
+  <p>• Subsidiar a formulação de políticas e implementação de programas nas
+  áreas de população e saúde; </p>
+
+  <p>• Aumentar a base internacional de dados sobre população e saúde para
+  acompanhamento e avaliação; </p>
+
+  <p>• Aprimorar metodologia de inquérito por amostragem, e </p>
+
+  <p>• Consolidar, na área de inquérito, a capacidade técnica da instituição
+  executora no país participante do Programa.</p>
+OTHER_DOC: >-
+  <p>Ministério da Saúde (MISAU), <a
+  href="http://www.misau.gov.mz">www.misau.gov.mz</a>; </p>
+
+  <p>Instituto Nacional de Estatística (INE), <a
+  href="http://www.misau.gov.mz">www.misau.gov.mz</a>;</p>
+
+  <p>ICF Internacional (ICFI), <a
+  href="http://www.measuredhs.com">www.measuredhs.com</a></p>

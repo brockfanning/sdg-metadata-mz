@@ -1,0 +1,140 @@
+ORGANISATION_UNIT: <p>Direcção de Estatísticas Demográficas, Vitais e Sociais</p>
+SDG_GOAL: >-
+  <p>7. GARANTIR O ACESSO A FONTES DE ENERGIA FIÁVEIS, SUSTENTÁVEIS E MODERNAS
+  PARA TODOS</p>
+SDG_TARGET: >-
+  <p>7.1 Até 2030, assegurar o acesso universal, confiável, moderno e a preços
+  acessíveis a serviços de energia</p>
+SDG_INDICATOR: >-
+  <p>7.1.1 Proporção da população com acesso a energia elétrica para iluminação,
+  segundo áreas de residência e províncias</p>
+SDG_SERIES_DESCR: >-
+  <p>Proporção da população com acesso a energia elétrica para iluminação,
+  segundo áreas de residência e províncias</p>
+META_LAST_UPDATE: <p>08/10/2020</p>
+CONTACT_ORGANISATION: <p>INSTITUTO NACIONAL DE ESTATISTICA</p>
+CONTACT_NAME: <p>Teixeira Mandlate, Maria Alfeu e João Mangue</p>
+CONTACT_FUNCT: <p>Técnicos</p>
+CONTACT_PHONE: <p>+258 844386629; +258 823032619; +258 827679480</p>
+CONTACT_MAIL: <p>www.ine.gov.mz</p>
+CONTACT_EMAIL: >-
+  <p><a
+  href="mailto:Teixeira.mandlate@ine.gov.mz">Teixeira.mandlate@ine.gov.mz</a>;
+  <a href="mailto:maria.alfeu@ine.gov.mz">maria.alfeu@ine.gov.mz</a>; <a
+  href="mailto:joao.mangue@ine.gov.mz">joao.mangue@ine.gov.mz</a></p>
+STAT_CONC_DEF: >-
+  <p>Proporção da população com acesso à eletricidade é definida como a
+  percentagem da população com acesso à eletricidade. Mede o grau de cobertura
+  do acesso à energia elétrica.</p>
+UNIT_MEASURE: <p>Percentagem</p>
+SOURCE_TYPE: >-
+  <p>Recenseamento Geral da População e Habitação e Inquéritos aos Agregados
+  Familiares</p>
+COLL_METHOD: >-
+  <p>A fonte de dados recomendada para calcular este indicador são os Censos e
+  Inquéritos aos Agregados Familiares. O questionário da recolha de dados é
+  desenhado e posteriormente testado no campo no decurso do treinamento dos
+  entrevistadores.</p>
+
+  <p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a
+  frente aos agregados familiares onde perguntou-se aos inquiridos se a casa
+  tem: retretes com autoclismo dentre de casa, retrete com autoclismo fora de
+  casa, retrete sem autoclismo, latrina melhorada, latrina tradicional
+  melhorada.</p>
+
+  <p>O trabalho de campo teve a duração de 15 dias para caso dos Censos e nos
+  Inquéritos dependendo do tipo e objectivo do Inquérito.</p>
+
+  <p>Casos de não resposta, apos esgotadas todas as diligências para captação,
+  são tratados como casos desconhecidos.</p>
+FREQ_COLL: <p>2027</p>
+REL_CAL_POLICY: <p>2029</p>
+DATA_SOURCE: <p>INE</p>
+COMPILING_ORG: <p>INE</p>
+INST_MANDATE: <p>Lei 7/96 de 5 de Julho</p>
+RATIONALE: >-
+  <p>O acesso à eletricidade aborda grandes questões críticas em todas as
+  dimensões do desenvolvimento sustentável. A meta tem uma ampla gama de
+  impactos sociais e económicos, incluindo a facilitação do desenvolvimento de
+  actividades de geração de renda ao nível do agregado familiar e o alívio do
+  fardo das tarefas domésticas.</p>
+REC_USE_LIM: >-
+  <p>Dados para a medição do acesso à eletricidade são recolhidos no âmbito dos
+  Censo e no período intermedio aos Censo através de inquéritos às famílias e
+  fontes administrativos pelo MIREME. Porem, seria desejável a padronização das
+  definições e melhoramento da metodologia de recolha de dados e cálculo sobre
+  acesso no que se refere as fontes administrativas</p>
+DATA_COMP: >-
+  <p>A Proporção da população com acesso a energia elétrica é o quociente dado
+  pela população que usa energia elétrica para iluminação pelo total da
+  população.</p>
+DATA_VALIDATION: >-
+  <p>O trabalho de campo contou com a supervisão e controle de qualidade por
+  parte dos técnicos do INE Central como das Delegações Provinciais. Além disso,
+  durante a recolha de dados foi estabelecido um rigoroso controlo a nível de
+  cada equipa sobre o processo de recolha, mediante a detecção de erros por
+  parte da crítica no campo, o que permitiu a correcção imediata ainda no
+  terreno. </p>
+
+  <p>A nível da coordenação central, os críticos de dados fizeram revisão
+  adicional dos dados da base e os problemas encontrados eram comunicados às
+  respectivas equipas para correção. </p>
+
+  <p>O processamento interactivo e por lotes de informação permitiu, ainda, a
+  nível central, a obtenção periódica de resultados parciais, para análise dos
+  dados recolhidos até dado momento, mediante a produção de quadros para
+  acompanhamento e controle de qualidade. Os resultados dessas tabulações foram
+  reportados em retro alimentação aos inquiridores, assegurando a qualidade dos
+  dados.</p>
+DOC_METHOD: >-
+  <p>Na produção e compilação de dados, usou-se metodologias recomendadas pelas
+  Nações Unidas nos <strong><em>Princípios e Recomendações dos Censos da
+  População e Habitação (ST/ESA/STAT/SER.M/67/Rer.3)</em></strong></p>
+QUALITY_MGMNT: >-
+  <p>Ainda em desenvolvimento e por aprovar o instrumento da gestão de
+  qualidade</p>
+QUALITY_ASSURE: >-
+  <p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a
+  frente aos agregados familiares preenchendo-se o Boletim de Agregados
+  Familiares e Boletim de alojamentos colectivos.</p>
+QUALITY_ASSMNT: >-
+  <p>Ainda em desenvolvimento e por aprovar o instrumento para avaliação de
+  qualidade</p>
+COVERAGE: >-
+  <p>A informação é disponibilizada de 5 em 5 anos e é desagregada por área de
+  residência rural e urbana, província e país</p>
+COMPARABILITY: >-
+  <p>A produção de dados permite comparabilidade pois os procedimentos que levam
+  a recolha, tratamento e divulgação seguem as recomendações internacionalmente
+  definidas nos <strong><em>Princípios e Recomendações para Estatísticas Civil –
+  ONU, (ST/ESA/STAT/SER.M/19/Rev.3 New York, 2014)</em></strong></p>
+
+  <p>As estimativas dos Inquéritos Demográficos e de Saúde são baseadas em
+  metodologias padronizadas e desenvolvidas pela OMS e UNICEF.</p>
+
+  <p>O Inquérito Demográfico e de Saúde (IDS) em Moçambique faz parte dum
+  programa internacional de inquéritos (MEASURE DHS) desenvolvido pelo ICF
+  International através de um contrato com a USAID, com o propósito de apoiar
+  aos governos e instituições privadas dos países em desenvolvimento na
+  realização de inquéritos nacionais por amostragem, nas áreas de população e
+  saúde. O Programa MEASURE DHS tem por objectivo:</p>
+
+  <p>• Subsidiar a formulação de políticas e implementação de programas nas
+  áreas de população e saúde; </p>
+
+  <p>• Aumentar a base internacional de dados sobre população e saúde para
+  acompanhamento e avaliação; </p>
+
+  <p>• Aprimorar metodologia de inquérito por amostragem, e </p>
+
+  <p>• Consolidar, na área de inquérito, a capacidade técnica da instituição
+  executora no país participante do Programa.</p>
+OTHER_DOC: >-
+  <p>Ministério da Saúde (MISAU), <a
+  href="http://www.misau.gov.mz">www.misau.gov.mz</a>; </p>
+
+  <p>Instituto Nacional de Estatística (INE), <a
+  href="http://www.misau.gov.mz">www.misau.gov.mz</a>;</p>
+
+  <p>ICF Internacional (ICFI), <a
+  href="http://www.measuredhs.com">www.measuredhs.com</a></p>

@@ -1,0 +1,115 @@
+ORGANISATION_UNIT: <p>Direcção Nacional de Planificação e Cooperação</p>
+SDG_GOAL: >-
+  <p>15 PROTEGER, RECUPERAR E PROMOVER O USO SUSTENTÁVEL DOS ECOSSISTEMAS
+  TERRESTRES, GERIR DE FORMA SUSTENTÁVEL AS FLORESTAS, COMBATER A
+  DESERTIFICAÇÃO, DETER E REVERTER A DEGRADAÇÃO DA TERRA E DETER A PERDA DE
+  BIODIVERSIDADE</p>
+SDG_TARGET: >-
+  <p>15.1 Até 2020, assegurar a conservação, recuperação e uso sustentável dos
+  ecossistemas terrestres e de água doce interiores e seus serviços, em especial
+  florestas, zonas húmidas, montanhas e terras áridas, em conformidade com as
+  obrigações decorrentes dos acordos internacionais</p>
+SDG_INDICATOR: <p>15.1.1 Área florestal em percentagem da área total da terra</p>
+SDG_SERIES_DESCR: <p>Área florestal em percentagem da área total da terra</p>
+META_LAST_UPDATE: <p>22/10/2020</p>
+SDG_RELATED_INDICATORS: <p>Sem nenhum indicador relacionado</p>
+CONTACT_ORGANISATION: <p>Ministério da Terra e Ambiente</p>
+CONTACT_NAME: <p>Alberto António Macia</p>
+CONTACT_FUNCT: <p>Chefe de Departamento de Monitoria e Avaliação</p>
+CONTACT_PHONE: <p>+258 847436161; +258 824138590</p>
+CONTACT_EMAIL: >-
+  <p><a
+  href="mailto:betomacia2006@gmail.com"><u>betomacia2006@gmail.com</u></a><u>;
+  </u><a
+  href="mailto:betomacia2006@yahoo.com.br"><u>betomacia2006@yahoo.com.br</u></a></p>
+STAT_CONC_DEF: >-
+  <p>Para fornecer uma definição precisa do indicador, é crucial fornecer uma
+  definição de "Floresta" e "Área total da terra".</p>
+
+  <p>De acordo com as definições da FAO, Floresta é definida como: “terras que
+  abrangem mais de 0,5 hectares com árvores acima de 5 metros e uma cobertura de
+  copa de mais de 10%, ou árvores capazes de atingir esses limiares in situ. Não
+  inclui a terra predominantemente sob uso agrícola ou urbano”.</p>
+UNIT_MEASURE: <p>Hectares (Ha)</p>
+CLASS_SYSTEM: <p>Não são utilizadas classificações.</p>
+SOURCE_TYPE: >-
+  <p>Ministério da Terra e Ambiente (Direcção Nacional de Florestas), Inventário
+  Nacional de Florestas</p>
+COLL_METHOD: >-
+  <p>Os dados relativos ao indicador são recolhidos no Inventário Nacional
+  Florestal cujos detalhes sobre a recolha, controlo de qualidade, variáveis
+  medidas, equipamentos usados, procedimentos de medição, rigor e precisão no
+  uso e manuseio dos equipamentos são descritos nas Directrizes do Inventário
+  Florestal Nacional. Com base nos resultados do inventário, são descritas as
+  áreas específicas que respondem de modo qualitativo ao indicador.</p>
+FREQ_COLL: <p>Até Dezembro de 2027</p>
+REL_CAL_POLICY: <p>Agosto de 2028</p>
+DATA_SOURCE: <p>Ministério da Terra e Ambiente</p>
+COMPILING_ORG: <p>Ministério da Terra e Ambiente</p>
+INST_MANDATE: >-
+  <p>De acordo com o Estatuto Orgânico do Ministério da Terra e Ambiente, que
+  foi aprovado pela Resolução n 30/2016 de 31 de Outubro, publicado no Boletim
+  da República I Série – Número 85, o Ministério da Terra, Ambiente e
+  Desenvolvimento Rural, dirige, planifica e coordena, controla e assegura a
+  execução de políticas nos domínios de Administração de Terras e Geomática,
+  Florestas e Fauna Bravia, Ambiente, Mudanças Climáticas e Áreas de
+  Conservação.</p>
+RATIONALE: >-
+  <p>O indicador fornece uma medida da extensão relativa da floresta num país. A
+  disponibilidade de dados precisos na área florestal de um país é um elemento
+  essencial para a política e o planeamento florestais no contexto do
+  desenvolvimento sustentável.</p>
+
+  <p>A área florestal como percentagem da área total da terra pode ser usada
+  como um <em>proxy</em> aproximado da extensão em que as florestas de um país
+  estão sendo conservadas ou restauradas, mas é apenas parcialmente uma medida
+  da extensão em que estas são geridas de maneira sustentável.</p>
+REC_USE_LIM: >-
+  <p>Os cinco sub-indicadores escolhidos para ilustrar o progresso em direção a
+  gestão florestal sustentável não abrangem totalmente todos os aspectos de
+  gestão florestal sustentável. Em particular, aspectos sociais e económicos são
+  resumidos nos sub-indicadores de áreas sob planos de gestão florestal
+  sustentável. Além disso, como as tendências são calculadas usando apenas os
+  países que possuem séries temporais completas de dados, diferentes
+  sub-indicadores podem reflectir diferentes conjuntos de países.</p>
+
+  <p>Enquanto o painel ilustra o progresso dos sub-indicadores individuais, não
+  há ponderação da importância relativa dos sub-indicadores</p>
+DATA_COMP: >-
+  <p><strong>Área de floresta (ano de referência) / área de terra (2015) *
+  100</strong></p>
+
+  <p>Este indicador pode ser agregado ao nível global ou regional, adicionando
+  todos os valores de países globalmente ou numa região específica</p>
+
+  <p>A proporção de área florestal na área protegida e no plano de gestão é
+  calculada usando as áreas relatadas e a área de terra oficial do FAOSTAT para
+  o ano de referência de 2015. </p>
+DATA_VALIDATION: >-
+  <p>Após a produção da informação relativa ao indicador, que é produzida pela
+  Direcção Nacional de Florestas, procede-se com sua validação pelo Conselho
+  Consultivo do Ministério da Terra e Ambiente.</p>
+DOC_METHOD: >-
+  <p> A metodologia e orientação detalhadas sobre como preparar os relatórios do
+  País através de uma plataforma web online e converter dados nacionais de
+  acordo com as categorias e definições nacionais para as categorias e
+  definições globais da FAO encontram-se nos documentos "Orientações e
+  Especificações" (www.fao.org/3/I8699EN/i8699en.pdf) </p>
+QUALITY_MGMNT: >-
+  <p>Ainda não existe um sistema específico de gestão de qualidade, contudo,
+  está em curso a operacionalização do Sistema de Informação Florestal (SIF) que
+  foi criado com o intuíto de conferir maior credibilidade na informação
+  disponibilizada.</p>
+QUALITY_ASSURE: >-
+  <p>Uso de imagem de satélite que possibilita a análise dos dados das áreas
+  cobertas nas florestas e que são disponibilizados no Inventário Nacional
+  Florestal.</p>
+QUALITY_ASSMNT: >-
+  <p>Ainda não se efectua a avaliação da qualidade, segundo critérios de
+  qualidade padrão estabelecidos pelas Nações Unidas</p>
+COVERAGE: <p>O indicador é disponibilizado decenalmente, e não possui desagregação.</p>
+COMPARABILITY: <p>Este indicador é comparável a nível internacional.</p>
+OTHER_DOC: >-
+  <p><a
+  href="http://www.fao.org/forest">http://www.fao.org/forest</a>-ressourses-assessment-en/,
+  Inventario Nacional de Florestas 2017</p>

@@ -1,0 +1,145 @@
+ORGANISATION_UNIT: <p>Direcção de Planificação, Estudos e Cooperação</p>
+SDG_GOAL: >-
+  <p>9: Construir Infraestruturas Resilientes, Promover a Industrialização
+  Inclusiva e Sustentável e Fomentar a Inovação.</p>
+SDG_TARGET: >-
+  <p>9.5 Fortalecer a pesquisa científica, melhorar as capacidades tecnológicas
+  de setores industriais em todos os países, particularmente nos países em
+  desenvolvimento, inclusive, até 2030, incentivando a inovação e aumentando
+  substancialmente o número de trabalhadores de pesquisa e desenvolvimento por
+  milhão de pessoas e os gastos público e privado em pesquisa e
+  desenvolvimento.</p>
+SDG_INDICATOR: >-
+  <p>9.5.2 Pesquisadores (valor equivalente a tempo inteiro) por milhão de
+  habitantes.</p>
+SDG_SERIES_DESCR: >-
+  <p>Pesquisadores (valor equivalente a tempo inteiro) por milhão de
+  habitantes.</p>
+META_LAST_UPDATE: <p>08/10/2020</p>
+SDG_RELATED_INDICATORS: <p>Sem vínculo com outros indicadores</p>
+CONTACT_ORGANISATION: >-
+  <p>Ministério da Ciência e Tecnologia, Ensino Superior e Técnico
+  Profissional</p>
+CONTACT_NAME: <p>Tomé Lucas Wilson e Inocência Phale</p>
+CONTACT_FUNCT: >-
+  <p>Chefe do Departamento de Planificação e Monitoria e Técnica de
+  Estatística</p>
+CONTACT_PHONE: |-
+  <p>Tome Wilson: +258 849136315</p>
+  <p>Inocência Pale: + 258 847093829/ 827111410</p>
+CONTACT_MAIL: >-
+  <h2><a
+  href="mailto:tome.wilson@mctestp.gov.mz">tome.wilson@mctestp.gov.mz</a></h2>
+
+  <p><a
+  href="mailto:inocencia.phale@mctestp.gov.mz">inocencia.phale@mctestp.gov.mz</a>
+  </p>
+CONTACT_EMAIL: |-
+  <p><a href="mailto:toluwil@gmail.com">toluwil@gmail.com</a></p>
+  <p><a href="mailto:inocencia.pale@gmail.com">inocencia.pale@gmail.com</a></p>
+STAT_CONC_DEF: >-
+  <p>Os pesquisadores (equivalente a tempo inteiro) por milhão de habitantes é
+  uma medida directa do número de investigadores envolvidos na Investigação
+  Cientifica e Desenvolvimento Experimental durante o ano por 1 milhão de
+  habitantes.</p>
+
+  <p>O equivalente em tempo integral (ETI) do pessoal de P&D é definido como a
+  proporção de horas efectivamente gastas em P&D durante um período de
+  referência específico (geralmente um ano civil) dividido pelo número total de
+  horas trabalhadas convencionalmente no mesmo período por um indivíduo ou por
+  um grupo.</p>
+UNIT_MEASURE: <p>Número</p>
+CLASS_SYSTEM: <p>Manual Frascati da OCDE (OCDE, 2015)</p>
+SOURCE_TYPE: >-
+  <p>MCTESTP, Inquérito Nacional de Investigação Cientifica e Desenvolvimento
+  Experimental (ID).</p>
+COLL_METHOD: >-
+  <p>O Inquérito de ID é conduzido com base na Metodologia do Manual de Frascati
+  (2015). A operação estatística é de carácter nacional, pois cobre Instituições
+  de Investigação Científica (IIC), Instituições de Ensino Superior (IES),
+  Empresas e Instituições Privadas sem Fins Lucrativos (IPSFL) do País.</p>
+
+  <p>No Inquérito, é usado o censo para a recolha de dados nas Instituições de
+  Ensino Superior e Instituições de Investigação Científica localizadas no
+  território nacional, tendo em conta os universos reduzidos destas
+  Instituições. Quanto às Empresas e Instituições Privadas sem Fins Lucrativos
+  (IPSFL), é usada Amostragem Proporcional Estratificada devido ao tamanho
+  enorme do universo.</p>
+
+  <p>Recolha, Processamento e Análise de Dados</p>
+
+  <p>A recolha de dados é feita com base nos questionários físicos e online,
+  combinado com o método de entrevista presencial, envio de questionários por
+  correio electrónico e links que permitiram ter acesso aos questionários online
+  do Sistema de Informação (e-Survey). O pré-processamento de dados é feito
+  automaticamente no Sistema de Informação (e-Survey). Em seguida, a verificação
+  e validação dos dados foi feita com recurso aos Pacotes Estatísticos STATA e o
+  pacote Excel para elaboração de gráficos. </p>
+
+  <p>Taxa de Resposta geral considerada é de 75%.</p>
+FREQ_COLL: <p>30 de Junho de cada ano</p>
+REL_CAL_POLICY: <p>30 de Março do ano seguinte</p>
+DATA_SOURCE: >-
+  <p>Ministério da Ciência e Tecnologia, Ensino Superior e Técnico Profissional
+  através da Direcção de Planificação, Estudos e Cooperação.</p>
+COMPILING_ORG: >-
+  <p>Ministério da Ciência e Tecnologia, Ensino Superior e Técnico Profissional
+  através da Direcção de Planificação, Estudos e Cooperação.</p>
+INST_MANDATE: >-
+  <p>O Ministério e órgão delegado pelo INE para produzir estatísticas do Sector
+  da Ciência Tecnologia, Ensino Superior e Técnico Profissional de acordo com
+  Despacho Conjunto, de Dezembro de 2002, Boletim da República n.º 10, I SÉRIE,
+  de 05 de Março 2003.</p>
+RATIONALE: >-
+  <p>Este indicador mede o esforço empreendido pelos investigadores a tempo
+  inteiro num dado ano em cada 1 milhão de habitantes. Expressa o número de
+  investigadores equivalentes a tempo inteiro em cada 1 milhão de
+  habitantes.</p>
+
+  <p>Por exemplo, o esforço desenvolvido por um número de (200) Investigadores e
+  num dado ano, pode ser equivalente ao trabalho desenvolvido por 80
+  profissionais a trabalharem a tempo inteiro na I&D.</p>
+REC_USE_LIM: >-
+  <p>Os dados de pesquisa e desenvolvimento (P&D) precisam ser recolhidos por
+  meio de inquéritos nacionais caros, e não são realizados regularmente, visto
+  que a sua realização e condicionados recursos financeiros.</p>
+DATA_COMP: >-
+  <p>Este indicador obtém-se pela razão o número de investigadores equivalente a
+  tempo inteiro e a População Total de um dado ano, multiplicado por 1 milhão de
+  habitantes.</p>
+DATA_VALIDATION: >-
+  <p>Os resultados de cada operação estatística são analisados pelo Departamento
+  de Estudos e Estatística e em seguida apresentados nos Conselhos Técnico e
+  Consultivo do MCTESTP para apreciação e validação a nível interno, e por fim
+  apresentados em seminários para efeitos de validação Final.</p>
+DOC_METHOD: >-
+  <p>Na produção deste indicador são usadas as orientações metodológicos
+  internacionais estabelecidas no Manual Frascati da OCDE (OCDE, 2015) para
+  permitir a comparabilidade com outros países.</p>
+QUALITY_MGMNT: >-
+  <p>Em processo a criação do Sistema de Gestão de qualidade a nível do Sistema
+  Estatístico Nacional, entretanto a nível do Ministério existe um Departamento
+  de Estudos e Estatística que faz a verificação da qualidade da produção das
+  Estatísticas do Sector em todo o processo.</p>
+QUALITY_ASSURE: >-
+  <p>Para garantir a qualidade requerida no Processo de produção das
+  estatísticas, o sector utiliza todas as fontes de informação administrativas
+  correlacionadas, no sentido de complementar, validar e aferir a informação
+  obtida. Igualmente no decorrer do processo de análise e estabelecimento dos
+  dados valores, as fontes de origem da informação de base são questionadas
+  sempre que existam dúvidas ou variações anómalas nos resultados obtidos.</p>
+QUALITY_ASSMNT: >-
+  <p>Os instrumentos para avaliação da qualidade dos processos e produtos
+  estatísticos a nível do Sistema Estatístico Nacional estão a ser desenvolvidos
+  com base nos 19 princípios de qualidade estabelecidos pela Comissão de
+  Estatísticas das Nações Unidas.</p>
+COVERAGE: >-
+  <p>Os dados deste indicador são disponibilizados anualmente e não estão
+  desagregados.</p>
+COMPARABILITY: >-
+  <p>Os dados produzidos pelo sector para a estimação deste indicador permitem a
+  comparabilidade internacional, uma vez que obedecem os critérios e normas
+  internacionais estabelecidas pelo Manual Frascati da OCDE (OCDE, 2015).</p>
+OTHER_DOC: >-
+  <p>Relatório sobre Indicadores de Investigação Cientifica e Desenvolvimento
+  Experimental.</p>
