@@ -1,0 +1,54 @@
+ORGANISATION_UNIT: " <p> National Directorate for Economic Policies and Development </p>"
+SDG_GOAL: " <p> 10 Reduce Inequality within and between Countries </p>"
+SDG_TARGET: >2-
+   <p> 10.2 By 2030, empower and promote social, economic and political inclusion for all, regardless of age, gender, disability, race, ethnicity, origin, religion, economic condition or other </p>
+SDG_INDICATOR: >2-
+   <p> 10.2.1 Percentage of population living below 50% of median income by sex, age, and people with disabilities </p>
+SDG_SERIES_DESCR: >2-
+   <p> Population living below 50% of median income by sex, age, and people with disabilities </p>
+META_LAST_UPDATE: " <p> 10/9/2020 </p>"
+CONTACT_ORGANISATION: " <p> Ministry of Economy and Finance (MEF) </p>"
+CONTACT_NAME: " <p> José Domingos Madeira Cardoso </p>"
+CONTACT_FUNCT: " <p> Senior Technician N1 </p>"
+CONTACT_PHONE: " <p> +258 84 229 5957 </p>"
+CONTACT_EMAIL: " <p> <a href=\"mailto:jsm.cardoso7@gmail.com\"> jsm.cardoso7@gmail.com </a> </p>"
+STAT_CONC_DEF: >2-
+   <p> It is the percentage of the population of Mozambique that lives with less than half of the median consumption of the national consumption distribution. </p>
+UNIT_MEASURE: " <p> Percentage </p>"
+SOURCE_TYPE: " <p> Household Budget Survey </p>"
+COLL_METHOD: >2-
+   <p> The IOF 2014/15 was a panel survey, which ran from August 7, 2014 to August 15, 2015. 11,628 households were interviewed, 6,380 from urban areas and the remaining 5,248 from rural areas. Each household would be surveyed 4 times during the complete cycle (1 cycle = 12 months) and for 4 weeks of the month. Coverage rate 98.7%, 89.1% and 91.3% for the 1st, 2nd and 4th quarter, respectively. For several reasons, we did not have the 3rd quarter. </p>
+   <p> <a href="http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15"> http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15 a0e40dc65006409a6a0a0c4a6aa
+FREQ_COLL: " <p> 1st semester of 2021 </p>"
+REL_CAL_POLICY: " <p> December 2021 </p>"
+DATA_SOURCE: " <p> National Institute of Statistics (INE) </p>"
+COMPILING_ORG: " <p> Ministry of Economy and Finance (MEF) </p>"
+INST_MANDATE: >2-
+   <p> By joint order number <strong> 112 / DEAE-MF / 2012 of 8 June </strong>, the National Statistics Institute delegated powers of notation and clearance of statistical data from administrative acts and inquiries to the Ministry of Finance through the Directorate of Studies and Economic Analysis . </p>
+RATIONALE: >2-
+   <p> This indicator illustrates the percentage of the population that consumes less of Mozambique's median consumption </p>
+DATA_COMP: >2-
+   <p> This indicator is measured from the consumption value used in the poverty assessment. The percentage of the population living below 50% of national consumption is calculated. </p>
+DATA_VALIDATION: >2-
+   <p> 1. The data used are reliable at national, rural, urban and provincial levels; </p>
+   <p> 2. Internal discussion at the level of the National Directorate for Economic Policy and Development, the Ministry of Economy and Finance, at the level of the Government, discussion with cooperation partners and civil society. </p>
+QUALITY_MGMNT: >2-
+   <p> In the process of creating the Quality Management System at the level of the National Statistical System. </p>
+QUALITY_ASSURE: >2-
+   <p> There is a team composed of the Ministry of Economy and Finance, the National Institute of Statistics and the World Bank that collaborates from the moment of the formulation of IOF surveys, data collection, and dissemination of results. </p>
+QUALITY_ASSMNT: >2-
+   <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. </p>
+COVERAGE: >2-
+   <p> Information available every six years. Data disaggregated by area of residence (rural and urban), sex, age group and status (type) of occupation </p>
+COMPARABILITY: >2-
+   <p> Poverty assessment in Mozambique is based on consumption, so under these conditions it cannot be directly compared with other countries. </p>
+OTHER_DOC: |2-
+   <ul>
+     <li> DEEF (2016). Poverty and Well-Being in Mozambique: Fourth National Assessment. Maputo: Ministry of Economy and Finance. Available at <a href="https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf"> https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf </a>; </li>
+     <li> DNEAP (2010). <em> Poverty and Wellbeing in Mozambique </em>: <em> Third National Poverty Assessment </em>. Maputo: Ministry of Planning and Development. Available at <a href="https://www.preventionweb.net/files/16411_thirdnationalpovertyassessment.pdf"> https://www.preventionweb.net/files/16411_thirdnationalpovertyassessment.pdf </a>; </li>
+     <li> DNPO (1998). <em> Poverty and Well-Being in Mozambique: The First National Assessment </em>. Maputo: <em> The First National Assessment </em>. Maputo: Ministry of Planning and Finance; </li>
+     <li> DNPO (2004). <em> Poverty and Well-Being in Mozambique </em>: <em> The Second National Assessment </em>. Maputo: Ministry of Planning and Development; </li>
+     <li> INE (2004). Final Report of the Household Survey on the Family Budget, 2002/3. Maputo: National Statistics Institute. </li>
+     <li> INE (2010). Final Report of the Family Budget Survey - IOF 2008/9. Maputo: National Statistics Institute. Available at <a href="http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-200809.pdf"> http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-200809.pdf </a>; </li>
+     <li> INE (2015). Final Report of the Family Budget Survey - IOF 2014/15. Maputo: National Statistics Institute; available at <a href="http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15"> http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15 </a>; </li>
+   </ul>
