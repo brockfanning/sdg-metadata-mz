@@ -1,0 +1,70 @@
+ORGANISATION_UNIT: " <p> Directorate of National Accounts and Global Indicators </p>"
+CONTACT: " <p> National Institute of Statistics </p>"
+SDG_GOAL: " <p> 9 Industry, Innovation and Infrastructure </p>"
+SDG_TARGET: >2-
+   <p> 9.2 Promote inclusive and sustainable industrialization and, by 2030, significantly increase the participation of industry in the employment sector and in GDP, according to national circumstances, and double its participation in less developed countries </p>
+SDG_INDICATOR: >2-
+   <h1> 9.2.1 Added value of the manufacturing industry as a percentage of GDP </h1>
+SDG_SERIES_DESCR: " <p> Added value of the manufacturing industry as a percentage of GDP </p>"
+META_LAST_UPDATE: " <p> 10/7/2020 </p>"
+SDG_RELATED_INDICATORS: " <p> Not linked to other objectives and goals </p>"
+CONTACT_ORGANISATION: " <p> Perpetua Mendonça; Simão Saturday; Cipriano Claudio </p>"
+CONTACT_NAME: " <p> Directorate of National Accounts and Global Indicators </p>"
+CONTACT_FUNCT: " <p> Technician, Head of Department and Director </p>"
+CONTACT_PHONE: |2-
+   <p> Perpetual: + 258-823810450 / + 258-873810450; </p>
+   <p> Saturday: + 258-827027780 / + 258-868001057; </p>
+   <p> Cláudio: + 258-824261470 </p>
+CONTACT_MAIL: >2-
+   <p> <a href="mailto:perpetua.mendoca@ine.gov.mz"> perpetua.mendoca@ine.gov.mz </a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz </p>
+CONTACT_EMAIL: >2-
+   <p> <a href="mailto:perpetua.mendoca@ine.gov.mz"> perpetua.mendoca@ine.gov.mz </a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz </p>
+STAT_CONC_DEF: >2-
+   <p> The added value of the manufacturing industry (VAIT), as a proportion of the gross domestic product (GDP), is the ratio between the value of the manufacturing industry and GDP, both in constant base year USD. </p>
+UNIT_MEASURE: " <p> Percentage </p>"
+CLASS_SYSTEM: >2-
+   <p> Classification of economic activities (CAE), National Classification of Goods and Services (CNBS); Classification of Non-Profit Institutions to Family Services (COPNI); Classification of Government functions (COFOG), Classification Individual Consumption by Purpose (COICOP) </p>
+SOURCE_TYPE: >2-
+   <p> The main source is the National Accounts compiled and published by the National Statistics Institute. </p>
+COLL_METHOD: " <p> Monthly surveys, annual surveys, administrative data </p>"
+FREQ_COLL: " <p> From January to December of each year </p>"
+REL_CAL_POLICY: |2-
+   <p> May of each year: Preliminary GDP for year n-1 and Definitive GDP for n-2; </p>
+   <p> October of each year: Provisional GDP of the year n-1 </p>
+DATA_SOURCE: >2-
+   <p> Ministries, Ministry of Industry and Trade (MIC), Bank of Mozambique (BM), Tax Authority (AT), All Manufacturing Industry Institutions </p>
+COMPILING_ORG: " <p> National Institute of Statistics </p>"
+INST_MANDATE: |2-
+   <p> According to article 19, of Law 7/96 of July 5th: </p>
+   <ol>
+     <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
+     <li> INE is responsible for carrying out the country's official statistical activity. </li>
+   </ol>
+RATIONALE: >2-
+   <p> The Added Value of the Manufacturing Industry (VAIT) is a widely recognized indicator and widely used by researchers and policy makers to assess a country's level of industrialization. VAIT's share of GDP reflects the role of manufacturing industry in the economy and the national development of a country in general. VAIT per capita is the basic indicator of a country's level of industrialization adjusted for the size of the economy. One of the statistical uses of VAIT per capita is to classify groups of countries according to the stage of industrial development. </p>
+REC_USE_LIM: |2-
+   <p> Lack of strict compliance with statistical legislation; </p>
+   <p> Late reception of data from sources; </p>
+DATA_COMP: |2-
+   <p> <em> Ratio of VAIT to GDP = VAIT / GDP * 100. </em> </p>
+   <p> <em> VAIT per capita = VAIT / population </em> </p>
+DATA_VALIDATION: " <p> Crossing survey data with audited Accounts. </p>"
+DOC_METHOD: |2-
+   <p> <em> Ratio of VAIT to GDP = VAIT / GDP * 100. </em> </p>
+   <p> <em> VAIT per capita = VAIT / population </em> </p>
+QUALITY_MGMNT: >2-
+   <p> The data compiled and verified by the technicians are reconciled by the heads and submitted to the directors for recheck. </p>
+QUALITY_ASSURE: >2-
+   <p> Use of United Nations manuals for National Accounts, SNA 2008; compliance with the reviews recommended by the United Nations. </p>
+QUALITY_ASSMNT: " <p> Sharing with international publications institutions. </p>"
+COVERAGE: |2-
+   <p> 05/29/2021: Preliminary GDP for 2020; </p>
+   <p> 05/29/2021: Definitive GDP 2019; </p>
+   <p> 10/30/2021: Provisional GDP 2020. </p>
+   <p> No breakdown available. </p>
+COMPARABILITY: >2-
+   <p> Calculation of this indicator does not differ from calculations made internationally, because United Nations manuals are used for National Accounts, SNA 2008; compliance with the reviews recommended by the United Nations .. </p>
+OTHER_DOC: >2-
+   <p> The results are published in annual publications, in electronic format on the INE Portal: <a href="http://www.ine.gov.mz"> www.ine.gov.mz </a>, </p>
+   <p> SNA 2008, from the United Nations; </p>
+   <p> CAE, CNBS; COPNI; COFOG </p>
