@@ -1,0 +1,50 @@
+ORGANISATION_UNIT: " <p> Directorate of Demographic, Vital and Social Statistics </p>"
+SDG_GOAL: >2-
+   <p> 17. STRENGTHENING THE IMPLEMENTATION MEANS AND REVITALIZING THE GLOBAL PARTNERSHIP FOR SUSTAINABLE DEVELOPMENT </p>
+SDG_TARGET: >2-
+   <p> 17.8 Fully operationalize the Technology Bank and the training mechanism in science, technology and innovation for the least developed countries by 2017, and increase the use of training technologies, in particular information and communication technologies </p>
+SDG_INDICATOR: " <p> 17.8.1 Percentage of population using internet in the last 3 months </p>"
+SDG_SERIES_DESCR: " <p> Percentage of population using internet in the last 3 months </p>"
+META_LAST_UPDATE: " <p> 10/8/2020 </p>"
+CONTACT_ORGANISATION: " <p> NATIONAL INSTITUTE OF STATISTICS </p>"
+CONTACT_NAME: " <p> Teixeira Mandlate, Maria Alfeu and João Mangue </p>"
+CONTACT_FUNCT: " <p> Tecnicos </p>"
+CONTACT_PHONE: " <p> +258 844386629; +258 823032619; +258 827679480 </p>"
+CONTACT_MAIL: " <p> www.ine.gov.mz </p>"
+CONTACT_EMAIL: >2-
+   <p> <a href="mailto:Teixeira.mandlate@ine.gov.mz"> Teixeira.mandlate@ine.gov.mz </a>; <a href="mailto:maria.alfeu@ine.gov.mz"> maria.alfeu@ine.gov.mz </a>; <a href="mailto:joao.mangue@ine.gov.mz"> joao.mangue@ine.gov.mz </a> </p>
+STAT_CONC_DEF: >2-
+   <p> This indicator is defined as the proportion of individuals aged 3 years and over who used the internet in the last 3 months prior to the Census reference date </p>
+UNIT_MEASURE: " <p> Percentage </p>"
+SOURCE_TYPE: " <p> General Population and Housing Census </p>"
+COLL_METHOD: >2-
+   <p> The indicative proportion of people using the Internet is based on an internationally agreed definition and methodology, which were developed under the coordination of the ITU, through its Groups of Experts and after an extensive consultation process with the countries. It is also a central indicator of the List of Core Indicators of the Partnership on ICT Measurement for Development, which was endorsed by the UN Statistics Commission (in 2014). Data on individuals who use the Internet are collected through surveys of families and through the general population and housing census. Administrative records are an alternative source </p>
+   <p> This indicator is calculated by dividing the total number of people in the scope who accessed the internet by the total number of people in the scope. </p>
+FREQ_COLL: " <p> 2027 </p>"
+REL_CAL_POLICY: " <p> 2029 </p>"
+DATA_SOURCE: " <p> INE, MTC </p>"
+COMPILING_ORG: " <p> INE </p>"
+INST_MANDATE: " <p> Law 7/96 of 5 July </p>"
+RATIONALE: >2-
+   <p> The Internet has become an increasingly important tool for accessing public information, a relevant means of protecting fundamental freedoms. The number of Internet users has increased substantially in the past decade and access to the Internet has changed the way people live, communicate, work and do business. Internet adoption is a key indicator for policy makers and others to measure the development of the information society and the growth of Internet content - including user-generated content - providing access to increasing amounts of information and services. Despite the growth in networks, services and applications, access and use of information and communication technologies (ICT) are still far from being distributed equitably, and many people still cannot benefit from the potential of the Internet. This indicator highlights the importance of using the Internet as a facilitator of development and helps to measure the digital divide, which, if not addressed properly, will exacerbate inequalities in all areas of development. Variables used to classify individuals who use the Internet - such as age, sex, education or employment status - can help identify digital disparities in individuals who use the Internet. This information can contribute to the design of policies aimed at overcoming these disparities. The proportion of people using the Internet is an established indicator and also one of the three indicators of the Millennium Development Goals (MDGs) related to ICT (for Goal 8F). It is part of the Main List of Indicators of the Partnership for Measuring ICT for Development, which was endorsed by the UN Statistics Commission (in 2014). It is also included in the ITU ICT Development Index and is therefore considered a key measure for international comparisons of ICT developments. </p>
+REC_USE_LIM: >2-
+   <p> While data on the percentage of people using the Internet is very reliable for countries that collect data through surveys of official households, they are less reliable in cases where the number of Internet users is estimated by the ITU . The ITU is encouraging all countries to collect data on this indicator through official surveys and the number of countries with official data for this indicator has been increasing. </p>
+DATA_COMP: >2-
+   <p> This indicator is calculated by dividing the total number of people in the scope who use the Internet (from any location) in the last 3 months prior to the Census reference date by the total number of people in the scope. </p>
+DATA_VALIDATION: >2-
+   <p> The fieldwork had close supervision and quality control by INE Central technicians as well as the Provincial Delegations. In addition, during the data collection, a strict control was established at the level of each team over the collection process, by detecting errors by the field critics, which allowed for immediate correction still on the ground. At the level of central coordination, the data critics carried out a further review of the base data and the problems encountered were communicated to the respective teams. </p>
+   <p> Interactive and batch processing of information also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the inquirers, ensuring the quality of the data. </p>
+DOC_METHOD: >2-
+   <p> This is a newly developed ITU indicator that was approved by the 2014 World Telecommunication / ICT Indicators (WTIS) Symposium. The definition and methodology of the indicator were developed under ITU coordination, through its Groups of Experts and after an extensive consultation process with countries. The main source of data are administrative records, household surveys (IOF and FinScope) and the General Population and Housing Census. </p>
+QUALITY_MGMNT: " <p> Quality management instrument yet to be approved </p>"
+QUALITY_ASSURE: >2-
+   <p> For data collection, the methodology of face-to-face interviews in households was applied. </p>
+QUALITY_ASSMNT: " <p> Quality assessment instrument still to be approved </p>"
+COVERAGE: >2-
+   <p> Data are available every 5 years and are disaggregated by sex, age, rural and urban residence area, provincial and country </p>
+COMPARABILITY: >2-
+   <p> The definition and methodology of the indicator were developed under the coordination of the ITU, through its Groups of Experts and after an extensive consultation process with countries </p>
+OTHER_DOC: >2-
+   <p> Ministry of Health (MISAU), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+   <p> National Statistics Institute (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+   <p> ICF International (ICFI), <a href="http://www.measuredhs.com"> www.measuredhs.com </a> </p>
