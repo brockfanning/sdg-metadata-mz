@@ -1,0 +1,75 @@
+ORGANISATION_UNIT: " <p> Directorate of National Accounts and Global Indicators </p>"
+SDG_GOAL: >2-
+   <p> 8 Promote sustained, inclusive and sustainable economic growth, full and productive employment and decent work for all </p>
+SDG_TARGET: >2-
+   <p> 8.1 Sustaining economic growth per capita according to national circumstances and, in particular, an annual growth of at least 7% of the gross domestic product [GDP] in the least developed countries </p>
+SDG_INDICATOR: " <h1> 8.1.1 Annual growth rate of real GDP per capita </h1>"
+SDG_SERIES_DESCR: " <p> 8.1.1 Annual growth rate of real GDP per capita </p>"
+META_LAST_UPDATE: " <p> 10/6/2020 </p>"
+CONTACT_ORGANISATION: " <p> National Institute of Statistics </p>"
+CONTACT_NAME: " <p> Perpetua Mendonça; Simão Saturday; Cipriano Claudio </p>"
+CONTACT_FUNCT: " <p> Technician, Head of Department and Director </p>"
+CONTACT_PHONE: |2-
+   <p> Perpetual: + 258-823810450 / + 258-873810450; </p>
+   <p> Saturday: + 258-827027780 / + 258-868001057; </p>
+   <p> Cláudio: + 258-824261470 </p>
+CONTACT_EMAIL: >2-
+   <p> <a href="mailto:perpetua.mendoca@ine.gov.mz"> perpetua.mendoca@ine.gov.mz </a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz </p>
+STAT_CONC_DEF: >2-
+   <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as the percentage change in real GDP per capita between two consecutive years. Real GDP per capita is calculated by dividing GDP at constant prices by the population of a country or region. Real GDP data is measured in constant US dollars to facilitate the calculation of the country's growth rates, their respective aggregation and comparability between countries or regions. </p>
+UNIT_MEASURE: " <p> Percentage </p>"
+CLASS_SYSTEM: >2-
+   <p> Classification of economic activities (CAE), National Classification of Goods and Services (CNBS); Classification of Non-Profit Institutions to Family Services (COPNI); Classification of Government Functions (COFOG), Classification Individual Consumption by Purpose (COICOP) Balance of Payment Manual, Version 6 (MBOP6) </p>
+SOURCE_TYPE: " <p> Monthly surveys, Annual surveys, Administrative data </p>"
+COLL_METHOD: >2-
+   <p> Monthly and annual business surveys are current, probabilistic surveys. Physical or electronic questionnaires are sent to companies for completion and return. They have as key variables: the main and secondary activity, the volume of business, expenses detailed by type of expenditure, No. of workers, remuneration and hours worked. They have their own computer applications with validation rules. </p>
+   <p> Administrative data is received on models used by the sources. When they are received, an assessment is made of their quality. </p>
+FREQ_COLL: " <p> From January to December of each year </p>"
+REL_CAL_POLICY: >2-
+   <p> May of each year: Preliminary GDP for year n-1 and Definitive GDP for n-2; October of each year: Provisional GDP of the year n-1 </p>
+DATA_SOURCE: " <p> Ministries, Bank of Mozambique, state institutions </p>"
+COMPILING_ORG: " <p> National Institute of Statistics </p>"
+INST_MANDATE: |2-
+   <p> According to article 19, of Law 7/96 of July 5th: </p>
+   <ol>
+     <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
+     <li> INE is responsible for carrying out the country's official statistical activity. </li>
+   </ol>
+RATIONALE: >2-
+   <p> The Real Gross Domestic Product (GDP) per capita is a proxy for the average standard of living of residents in a country or area. A positive percentage change in real annual GDP per capita can be interpreted as an increase in the average standard of living of residents in a country or area </p>
+REC_USE_LIM: >2-
+   <p> Lack of strict compliance with statistical legislation; </p>
+   <p> Late reception of data from sources; </p>
+   <p> Lack or insufficient resources to carry out surveys at regular intervals can lead to skewed production and transaction estimates. </p>
+DATA_COMP: >2-
+   <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as follows: </p>
+   <ol>
+     <li> Convert the annual real GDP (constant prices) into the national currency of a country or region in US dollars using the base year exchange rate. </li>
+     <li> Divide the result by the population of the country or region to obtain the annual real GDP per capita in US dollars. </li>
+     <li> Calculate the annual growth rate of real GDP per capita in year t <sub> +1 </sub>, using the following formula: [(G (t <sub> +1 </sub>) - G (t) G (t <sub> +1 </sub>) is the real GDP per capita in dollars in year t <sub> +1 </sub> and G (t) is the real GDP per capita in dollars of the year t. A0f84d72dce6e5
+   </ol>
+DATA_VALIDATION: " <p> Crossing survey data with audited accounts. </p>"
+DOC_METHOD: >2-
+   <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as follows: </p>
+   <ol>
+     <li> Convert the annual real GDP (constant prices) into the national currency of a country or region in US dollars using the base year exchange rate. </li>
+     <li> Divide the result by the population of the country or region to obtain the annual real GDP per capita in US dollars. </li>
+     <li> Calculate the annual growth rate of real GDP per capita in year t <sub> +1 </sub>, using the following formula: [(G (t <sub> +1 </sub>) - G (t) G (t <sub> +1 </sub>) is the real GDP per capita in dollars in year t <sub> +1 </sub> and G (t) is the real GDP per capita in dollars of the year t .. a0f84d72dce6e5
+   </ol>
+QUALITY_MGMNT: >2-
+   <p> The data compiled and verified by the technicians are reconciled by the heads and submitted to the directors for recheck. </p>
+QUALITY_ASSURE: >2-
+   <p> Use of United Nations manuals for National Accounts, SNA 2008; compliance with the reviews recommended by the United Nations. </p>
+QUALITY_ASSMNT: " <p> Sharing with international publications institutions. </p>"
+COVERAGE: |2-
+   <p> May of each year: GDP Preliminaries for the year <sub> </sub> n; </p>
+   <p> May of each year: Definitive GDP for year n-1; </p>
+   <p> October of each year: Provisional GDP of year n. </p>
+   <p> Data disaggregated by country and by province </p>
+COMPARABILITY: >2-
+   <p> Calculation of this indicator does not differ from calculations made internationally, because United Nations manuals are used for National Accounts, SNA 2008; compliance with the reviews recommended by the United Nations. </p>
+OTHER_DOC: >2-
+   <p> SNA 2008, from the United Nations; </p>
+   <p> National and international classifications; </p>
+   <p> MBOP6 (Mozambique, Balance of Payment Manual, Version 6) </p>
+   <p> http://www.ine.gov.mz/estatisticas/estatisticas-economicas/contas-nacionais </p>
