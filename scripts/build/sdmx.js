@@ -8,68 +8,50 @@ module.exports = function(refresh=false) {
     const sdgMetadataConvert = require('sdg-metadata-convert')
     const sdmxOutput = new sdgMetadataConvert.SdmxOutput()
     const wordTemplateInput = new sdgMetadataConvert.WordTemplateInput({
-        debug: true,
+        debug: false,
         cheerio: { decodeEntities: false },
     })
 
     if (refresh) {
         store.refresh()
     }
+    const translations = store.getTranslationStore()
 
     const sourceFolder = 'indicators'
-    const targetFolder = path.join('translations', 'pt')
     const extensions = ['.docx', '.docm']
     const files = fs.readdirSync(sourceFolder).filter(file => {
         return extensions.includes(path.extname(file).toLowerCase());
     })
     const conversions = files.map(sourceFile => {
         const sourcePath = path.join(sourceFolder, sourceFile)
-        const targetFile = convertFilename(sourceFile)
-        const targetPath = path.join(targetFolder, targetFile)
-        return [sourcePath, targetPath]
+        const indicatorId = path.parse(sourceFile).name
+        const targetFile = indicatorId + '.xml'
+        return [sourcePath, targetFile, indicatorId]
     })
 
-    importIndicators()
+    convertSdmx()
 
-    async function importIndicators() {
+    async function convertSdmx() {
         for (const conversion of conversions) {
-            const [inputFile, outputFile] = conversion
+            const [sourcePath, targetFile, indicatorId] = conversion
             try {
-                const metadata = await wordTemplateInput.read(inputFile)
-                await yamlOutput.write(metadata, outputFile)
-                console.log(`Converted ${inputFile} to ${outputFile}.`);
-            } catch(e) {
-                console.log(e)
-            }
-        }
-    }
-
-    // Compile arrays of source -> target conversions.
-    const sdmxConversions = []
-    for (const language of store.getLanguages()) {
-        const sourceLangFolder = language
-        const sourceExtension = '.'
-        const sourceFolder = path.join('translations', sourceLangFolder)
-        const files = fs.readdirSync(sourceFolder).filter(file => {
-            return path.extname(file).toLowerCase() === sourceExtension
-        })
-        for (const sourceFile of files) {
-            const sourcePath = path.join(sourceFolder, sourceFile)
-            const targetFolder = utils.createFolder(['www', 'documents', language])
-            const pdfFile = sourceFile.replace(sourceExtension, '.pdf')
-            const pdfPath = path.join(targetFolder, pdfFile)
-            sdmxConversions.push([sourcePath, pdfPath])
-        }
-    }
-    convertPdfs()
-
-    async function convertPdfs() {
-        for (const conversion of pdfConversions) {
-            const [inputFile, outputFile] = conversion
-            try {
-                const metadata = await yamlInput.read(inputFile)
-                await pdfOutput.write(metadata, outputFile)
-                console.log(`Converted ${inputFile} to ${outputFile}.`);
+                const metadata = await wordTemplateInput.read(sourcePath)
+                const series = metadata.getDescriptor('SERIES')
+                if (!series || series.length === 0) {
+                    console.log('Unable to produce SDMX for ' + indicatorId + '. SERIES could not be identified.')
+                    continue
+                }
+                for (const language of store.getLanguages()) {
+                    metadata.setDescriptor('LANGUAGE', language)
+                    for (const concept of Object.keys(metadata.getConcepts())) {
+                        const value = translations[language][indicatorId][concept]
+                        metadata.setConcept(concept, value)
+                    }
+                    const targetFolder = utils.createFolder(['www', 'sdmx', language])
+                    const targetPath = path.join(targetFolder, targetFile)
+                    await sdmxOutput.write(metadata, targetPath)
+                    console.log(`Created ${targetPath}.`);
+                }
             } catch(e) {
                 console.log(e)
             }

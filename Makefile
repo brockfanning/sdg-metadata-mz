@@ -20,7 +20,7 @@ build.site:
 	node scripts/prepare-build.js site
 	cd www && bundle exec jekyll build --trace
 
-build: build.documents build.api build.site
+build: build.documents build.sdmx build.api build.site
 
 publish: build
 
