@@ -22,7 +22,7 @@ module.exports = function(refresh=false) {
     for (const language of store.getLanguages()) {
         const sourceLangFolder = language
         const sourceExtension = '.yml'
-        const sourceFolder = path.join('translations-metadata', sourceLangFolder)
+        const sourceFolder = path.join('translations', sourceLangFolder)
         const files = fs.readdirSync(sourceFolder).filter(file => {
             return path.extname(file).toLowerCase() === sourceExtension
         })

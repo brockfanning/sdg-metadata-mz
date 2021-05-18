@@ -4,7 +4,7 @@ const path = require('path')
 const yaml = require('js-yaml')
 const { conceptStore, YamlInput } = require('sdg-metadata-convert')
 
-const baseFolder = 'translations-metadata'
+const baseFolder = 'translations'
 const sourceLanguage = 'pt'
 
 let translationStore = buildTranslationStore()

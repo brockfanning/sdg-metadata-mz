@@ -17,7 +17,7 @@ module.exports = function(refresh=false) {
     }
 
     const sourceFolder = 'indicators'
-    const targetFolder = path.join('translations-metadata', 'pt')
+    const targetFolder = path.join('translations', 'pt')
     const extensions = ['.docx', '.docm']
     const files = fs.readdirSync(sourceFolder).filter(file => {
         return extensions.includes(path.extname(file).toLowerCase());
@@ -49,7 +49,7 @@ module.exports = function(refresh=false) {
     for (const language of store.getLanguages()) {
         const sourceLangFolder = language
         const sourceExtension = '.'
-        const sourceFolder = path.join('translations-metadata', sourceLangFolder)
+        const sourceFolder = path.join('translations', sourceLangFolder)
         const files = fs.readdirSync(sourceFolder).filter(file => {
             return path.extname(file).toLowerCase() === sourceExtension
         })

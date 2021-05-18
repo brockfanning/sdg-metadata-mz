@@ -9,7 +9,7 @@ const wordTemplateInput = new sdgMetadataConvert.WordTemplateInput({
 const yamlOutput = new sdgMetadataConvert.YamlOutput()
 
 const sourceFolder = 'indicators'
-const targetFolder = path.join('translations-metadata', 'pt')
+const targetFolder = path.join('translations', 'pt')
 const extensions = ['.docx', '.docm']
 const files = fs.readdirSync(sourceFolder).filter(file => {
     return extensions.includes(path.extname(file).toLowerCase());
