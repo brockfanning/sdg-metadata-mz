@@ -1,0 +1,60 @@
+ORGANISATION_UNIT: " <p> Department of Studies and Statistics </p>"
+SDG_GOAL: >2-
+   <p> 16 PROMOTING PEACEFUL AND INCLUSIVE SOCIETIES FOR SUSTAINABLE DEVELOPMENT, PROVIDING ACCESS TO JUSTICE FOR ALL AND BUILDING EFFECTIVE, RESPONSIBLE AND INCLUSIVE INSTITUTIONS AT ALL LEVELS
+SDG_TARGET: >2-
+   <p> 16.3 Promote the rule of law, at national and international level, and guarantee equal access to justice for all </p>
+SDG_INDICATOR: >2-
+   <p> 16.3.2 Percentage of citizens in preventive detention in relation to the total prison population </p>
+SDG_SERIES_DESCR: >2-
+   <p> 16.3.2 Citizens in preventive detention in relation to the total prison population as a percentage </p>
+META_LAST_UPDATE: " <p> 19.10.2020 </p>"
+SDG_RELATED_INDICATORS: " <p> Not linked to any indicator </p>"
+CONTACT_ORGANISATION: " <p> Ministry of Justice, Constitutional and Religious Affairs </p>"
+CONTACT_NAME: " <p> Calisto Zacarias Matavele; Edgar Chichava; Ernesto João Boca </p>"
+CONTACT_FUNCT: " <p> Statistical technicians </p>"
+CONTACT_PHONE: " <p> +258 843793926; +258 842473074; +258 845589682 </p>"
+CONTACT_MAIL: " <h2> mjcr.planificacao.cooperacao@gmail.com </h2>"
+CONTACT_EMAIL: >2-
+   <p> <a href="mailto:zacmatavele@gmail.com"> zacmatavele@gmail.com </a>; <a href="mailto:echichava717@gmail.com"> echichava717@gmail.com </a>; <a href="mailto:eboca74@gmail.com"> eboca74@gmail.com </a> </p>
+STAT_CONC_DEF: >2-
+   <p> This indicator aims to clarify the level of compliance with the terms of preventive detention and speed in the procedural process, contributing to the decongestion and promotion of legality and Human Rights. </p>
+   <p> The total number of people held in detention who have not yet been sentenced is defined as a percentage of the total number of people held in detention on a specified date. </p>
+UNIT_MEASURE: " <p> Percentage </p>"
+SOURCE_TYPE: >2-
+   <p> Administrative records: Ministry of Justice, Constitutional and Religious Affairs, and National Prison Service </p>
+COLL_METHOD: >2-
+   <p> The National Penitentiary Service (SERNAP) is responsible for collecting data through daily reports on the situation of prisoners. After this moment, the data are registered in a digital system and sent to the Central Organ (Ministry of Justice, Constitutional and Religious Affairs) Department of Studies and Statistics for globalization and validation. </p>
+FREQ_COLL: " <p> Until December 2020 </p>"
+REL_CAL_POLICY: " <p> February 2021 </p>"
+DATA_SOURCE: " <p> The National Penitentiary Service (SERNAP) </p>"
+COMPILING_ORG: " <p> Ministry of Justice, Constitutional and Religious Affairs </p>"
+INST_MANDATE: >2-
+   <p> According to Presidential Decree No. 8/2015 of 13 March, the Department of Studies and Statistics of the Ministry of Justice, Constitutional and Religious Affairs, has the following functions: </p>
+   <ol>
+     <li> Carry out periodic systematization of sector statistics; </li>
+     <li> Propose mechanisms and models for collecting statistical information from the Ministry; </li>
+     <li> Support the Ministry's organic, subordinate and supervised units in the process of collecting and processing statistical data; </li>
+     <li> Support the planning and monitoring departments in the analysis and treatment of statistical data; </li>
+     <li> To prepare, in coordination with the units of the sector, the annual statistics report of the justice administration system </li>
+   </ol>
+RATIONALE: >2-
+   <p> Smaller-better. The closer this indicator is to zero, the better because it would mean that there are no cases of pre-trial detention outside the time limits established by law. </p>
+REC_USE_LIM: |2-
+   <p> The indicator is not broken down by age and sex </p>
+   <p> Not for the duration of pre-trial detention (without sentence). </p>
+DATA_COMP: >2-
+   <p> The total number of non-sentenced persons held in detention divided by the total number of persons held in detention on a specified date. </p>
+DATA_VALIDATION: >2-
+   <p> After data collection, they are inserted in the Penitentiary Information Management System (GIP), which is a platform for prison management where all inmates' information is recorded, from their entry to the establishment until the end of their sentence, done this information is sent to the Department for its validation following the following sequence technicians, head of department and finally Director. </p>
+DOC_METHOD: >2-
+   <p> This indicator uses the same compilation methods used internationally. </p>
+QUALITY_MGMNT: >2-
+   <p> The Ministry does not yet have a data quality management system, however internal quality management at department level is carried out by technicians and by the department head and Director. </p>
+QUALITY_ASSURE: >2-
+   <p> The quality of the data is guaranteed from the analysis and assessment starting with the technicians, head of department, head of the department and finally the director of the planning and cooperation directorate of the Ministry of Justice, Constitutional and Religious Affairs </p>
+QUALITY_ASSMNT: >2-
+   <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are being developed based on the 19 quality principles established by the United Nations Statistics Commission. </p>
+COVERAGE: " <p> Data are made available annually and have no breakdown. </p>"
+COMPARABILITY: " <p> This indicator allows international comparability </p>"
+OTHER_DOC: >2-
+   <p> <a href="https://www.sernap.gov.mz/SGIP/aa0a8bc8-2f75-4c07-b249-25e76130e414/Log.aspx"> https://www.sernap.gov.mz/SGIP/aa0a8bc8-2f75-4c07-b249-25e76130e414/Log.aspx </a>, a0679c9a6a6dz43
