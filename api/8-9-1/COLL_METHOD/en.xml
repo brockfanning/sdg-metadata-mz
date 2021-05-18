@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 8-9-1, translated into en</message>
+	<data> &lt;p&gt; Monthly and annual business surveys are current, probabilistic surveys. Physical or electronic questionnaires are sent to companies for completion and return. They have as key variables: the main and secondary activity, the volume of business, expenses detailed by type of expenditure, No. of workers, remuneration and hours worked. They have their own computer applications with validation rules. &lt;/p&gt;
+ &lt;p&gt; Administrative data is received on models used by the sources. When they are received, an assessment is made of their quality. &lt;/p&gt;</data>
+</root>

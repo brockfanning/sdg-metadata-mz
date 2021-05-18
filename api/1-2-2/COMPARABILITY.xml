@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 1-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; It is possible to make a comparison considering the Global MPI, but some need to be done in terms of weights and indicators and dimensions. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;É possível fazer uma comparação considerando o Global MPI, mas é preciso fazer alguns em termos de pesos e indicadores e dimensões.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

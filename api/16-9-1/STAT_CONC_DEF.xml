@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 16-9-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; This indicator is defined as the proportion of children under the age of 5 who have been registered by the Civil Registry, disaggregated by sex, age, area of residence, province for the Census and the IDS also considers the wealth quintile variable. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Este indicador é definido como a proporção de crianças menores de 5 anos que tenham sido registados pelo registo Civil, desagregados por sexo, idade, área de residência, província para o Censo e o IDS considera ainda a variável quintil de riqueza.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

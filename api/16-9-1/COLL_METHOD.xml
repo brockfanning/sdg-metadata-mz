@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 16-9-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The recommended data sources for calculating this indicator are Censuses and Household Surveys. The data collection questionnaire is designed and subsequently tested in the field in the course of training the interviewers. &lt;/p&gt;
+ &lt;p&gt; For the collection of data, the methodology of interviews was applied face to face to the households, where the respondents were asked if the child aged 0 - 4 years had a birth certificate, if the answer was NO, they were asked if &lt;em&gt; the child had been registered by the Civil Registry. &lt;/em&gt; &lt;/p&gt;
+ &lt;p&gt; For the case of the Census, the fieldwork lasts for 15 days, and, in the case of surveys, their duration varies according to the type and purpose of the survey. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;As fontes de dados recomendadas para calcular este indicador são os Censos e Inquéritos aos Agregados Familiares. O questionário da recolha de dados é desenhado e posteriormente testado no campo no decurso do treinamento dos entrevistadores.&lt;/p&gt;
+&lt;p&gt;Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente aos agregados familiares onde perguntou-se aos inquiridos se a criança de 0 – 4 anos tinha certidão de nascimento, se a resposta fosse NÃO, perguntava-se se &lt;em&gt;a criança tinha sido registada pelo registo Civil.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Para o caso dos Censos, o trabalho de campo tem a duração de 15 dias, e, tratando-se de Inquéritos a sua duração varia de acordo com o tipo e objectivo do Inquérito.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

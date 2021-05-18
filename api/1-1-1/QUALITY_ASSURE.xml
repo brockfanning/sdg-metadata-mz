@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_ASSURE field for indicator 1-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; There is a team composed of the Ministry of Economy and Finance, the National Institute of Statistics and the World Bank that collaborates from the moment of the formulation of IOF surveys, data collection, and dissemination of results. &lt;/p&gt;
+ &lt;p&gt; Regarding the question of the poverty line used and GDP at par of purchases for Mozambique, the World Bank website &lt;a href=&quot;https://databank.worldbank.org/source/world-development-indicators&quot; target=&quot;_blank&quot;&gt; is used https://databank.worldbank.org/source/world-development-indicators &lt;/a&gt;. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Existe uma equipa composta pelo Ministério de Economia e Finanças, Instituto Nacional de Estatística e o Banco Mundial que colabora desde o momento da formulação dos inquéritos do IOF, recolha de dados, e disseminação dos resultados.&lt;/p&gt;
+&lt;p&gt;No que se refere a questão da linha de pobreza utilizada e o PIB em paridade de compra para Moçambique utiliza-se o website do Banco Mundial &lt;a href=&quot;https://databank.worldbank.org/source/world-development-indicators&quot; target=&quot;_blank&quot;&gt;https://databank.worldbank.org/source/world-development-indicators&lt;/a&gt;.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

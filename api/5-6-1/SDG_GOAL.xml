@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_GOAL field for indicator 5-6-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 5 ACHIEVE GENDER EQUALITY AND EMPOWER ALL WOMEN AND GIRLS &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;5 ALCANÇAR A IGUALDADE DE GÉNERO E EMPODERAR TODAS AS MULHERES E RAPARIGAS&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

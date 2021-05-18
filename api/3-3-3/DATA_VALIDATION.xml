@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_VALIDATION field for indicator 3-3-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The Health Units fill out, approve the monthly summaries to the district Health services, which in turn, review, analyze, approve and launch the Health Information, Monitoring and Evaluation System (SISMA). &lt;/p&gt;
+ &lt;p&gt; The Provincial Directorate of Health monitors the launch, analyzes and discusses the data released at SISMA. &lt;/p&gt;
+ &lt;p&gt; The Planning and Cooperation Department analyzes and uses the data to produce the indicators. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;As Unidades Sanitárias preenchem, aprovam os resumos mensais aos serviços distritais de Saúde que esses por sua vez, fazem a revisão, análise, aprovação e lançamento no Sistema de Informação para Saúde, Monitoria e Avaliação (SISMA).&lt;/p&gt;
+&lt;p&gt;A Direcção Provincial de Saúde monitora o lançamento, faz análise e discussão dos dados lançados no SISMA. &lt;/p&gt;
+&lt;p&gt;A Direcção de Planificação e Cooperação faz análise e uso dos dados para produção dos indicadores. &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The FREQ_COLL field for indicator 10-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; From January to December of each year &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;De janeiro a Dezembro de cada ano&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

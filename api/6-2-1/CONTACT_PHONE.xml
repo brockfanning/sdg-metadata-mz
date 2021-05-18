@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_PHONE field for indicator 6-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; +258 844386629; +258 823032619; +258 827679480 &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;+258 844386629; +258 823032619; +258 827679480&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:26.645Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="0bd70acb-f771-4afa-accc-0911ebbcfb16">
+    <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_ACS_VACN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Departamento de Monitoria e Avaliação</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="pt"><![CDATA[<p> 3 GARANTIR O ACESSO À SAÚDE DE QUALIDADE E PROMOVER O BEM-ESTAR PARA TODOS</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="pt"><![CDATA[<p>3.b Apoiar a pesquisa e o desenvolvimento de vacinas e medicamentos para doenças transmissíveis e não transmissíveis, que afectam principalmente os países em desenvolvimento, proporcionar o acesso a medicamentos e vacinas essenciais a preços acessíveis, de acordo com a Declaração de Doha, que afirma o direito dos países em desenvolvimento de utilizarem plenamente as disposições do acordo TRIPS sobre flexibilidades para proteger a saúde pública e, em particular, proporcionar o acesso a medicamentos para todos</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="pt"><![CDATA[<p>3.b.1 Percentagem da população alvo coberta por todas as vacinas incluídas no programa nacional</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="pt"><![CDATA[<p>população alvo coberta por todas as vacinas incluídas no programa nacional em percentagem</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>08/10/2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          <com:Text xml:lang="pt"><![CDATA[<h1>3.8.1 Cobertura de serviços essenciais de saúde (definida como cobertura média de serviços essenciais baseados em intervenções de rastreamento que incluem saúde reprodutiva, materna, neonatal e infantil, doenças infeciosas, doenças não transmissíveis e capacidade de e acesso a serviços, entre a população geral e mais desfavorecida)</h1>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Saúde</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="pt"><![CDATA[<p>Cesarino Tivane e Nelita Nassone</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Técnicos de Monitoria e Avaliação</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="pt"><![CDATA[<p>+258 849007628; +258 846630589; +258847144676</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:tivanecesarino@gmail.com"><u>tivanecesarino@gmail.com</u></a>; <a href="mailto:nelianasson@gmail.com"><u>nelianasson@gmail.com</u></a>; muluana2002<a href="mailto:tivanecesarino@gmail.com"><u>@</u></a>gmail.com</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:tivanecesarino@gmail.com"><u>tivanecesarino@gmail.com</u></a>; <a href="mailto:nelianasson@gmail.com"><u>nelianasson@gmail.com</u></a>; muluana2002<a href="mailto:tivanecesarino@gmail.com"><u>@</u></a>gmail.com</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem da população alvo coberta por todas as vacinas incluídas no programa nacional é a Proporção que representa o nº de crianças menores de 1 ano de idade que receberam todas as doses de vacinas de acordo com o esquema de vacinações, em relação ao grupo alvo. Todas as crianças completamente vacinadas são registadas após terem os seus cartões individuais um carimbo de “vacinação completa” o que implica que a criança recebeu os antígenos anti Pólio 0 e BCG à nascença; 3 doses de Pólio e 3 doses de DPT-HepB-Hib e 3 doses de PCV 10, aos 2,3 e 4 meses respectivamente e 2 doses de VORH aos 2 e 3 meses; e anti-Sarampo aos 9 meses de idade.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Inquérito de Indicadores de Imunização, Malária e HIV/SIDA em Moçambique (IMASIDA) 2015</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>A recolha de dados decorreu entre 8 de Junho e 20 de Setembro de 2015, o trabalho de campo foi levado a cabo por 25 equipas.</p>
+<p>A concepção da amostra é composta por três etapas. <em>Na primeira</em>, a amostra foi estratificada por província e por área urbana/rural e, em seguida, foram seleccionadas 307 unidades primárias de amostragem (UPA), mediante uma selecção sistemática de igual probabilidade. <em>Na segunda</em> etapa, foi seleccionada uma área de enumeração (AE) de cada uma das 307 unidades primárias de amostragem com probabilidade proporcional ao tamanho das AEs, resultando numa selecção de 134 AEs nas zonas urbanas e 173 AEs nas zonas rurais. <em>Na terceira</em> etapa, todos os agregados familiares (AF) foram enumerados em cada uma das 307 AEs.</p>
+<p>A listagem foi conduzida de forma sistemática, com recurso a fichas especialmente concebidas para o efeito. A lista completa dos agregados familiares foi usada para seleccionar os 24 agregados familiares elegíveis para as entrevistas em cada AE. Com base nesse procedimento, foram seleccionados para o inquérito 7.368 agregados familiares.</p>
+<p>foram usados quatro questionários: um para entrevistar os agregados familiares, um individual para mulheres de 15-59 anos, um individual para homens de 15-59 anos e outro de biometria para homens e mulheres de 15-59 anos.</p>
+<p>Durante o inquérito, foram seleccionados 7.368 agregados familiares, dos quais 7.342 encontravam-se presentes e 7.169 aceitaram fazer a entrevista do agregado familiar, o que resultou numa taxa de resposta de 98%.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="pt"><![CDATA[<p>2022</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="pt"><![CDATA[<p>2022</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Saúde em coordenação com o MISAU</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Saúde em coordenação com o MISAU</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ao abrigo da Lei 7/96, que define as bases gerais do Sistema Estatístico Nacional, o Instituto Nacional de Estatística (INE), de acordo com o Despacho publicado no Boletim da República No. 39/2000, I Série, de 27 de Setembro de 2000, delega oficialmente a Direcção de Planificação e Cooperação (DPC), do Ministério da Saúde, a publicação e difusão da informação estatística oficial do Sector de Saúde, em Moçambique.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="pt"><![CDATA[<p>No âmbito da implementação das actividades que contribuem para a redução da mortalidade infanto-juvenil, pretende-se medir o grau de cobertura do Programa Alargado de Vacinação (PAV), em termos de administração de todas as vacinas definidas para cada criança antes do 1° ano de vida. A proporção de crianças que receberam todas as doses do esquema básico de vacinação dentro do 1° ano de vida é proporcional ao sucesso que o programa PAV almeja.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="pt"><![CDATA[<p>A vacinação constitui a primeira linha de defesa contra várias doenças infeciosas é a intervenção de saúde pública mais bem-sucedida e rentável para reduzir a mortalidade infantil e melhorar a saúde da criança.</p>
+<p>Uma criança não vacinada pode enfrentar graves enfermidades, incluindo doenças potencialmente não tratáveis que podem revelar-se mortais.</p>
+<p>O racional para seleccionar um conjunto de vacinas reflecte a capacidade dos programas de imunização de fornecer vacinas ao longo do ciclo de vida e de adaptar novas vacinas. </p>
+<p>Dado que a vacina contra o HPV é relativamente nova e o cronograma de vacinação varia de país para país, a estimativa de cobertura será feita para meninas vacinadas aos 15 anos e, no momento, os dados são limitados a muito poucos países, portanto, os relatórios serão iniciados mais tarde.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem das crianças de 12-23 meses que receberam vacinas específicas a uma dada altura antes da entrevista (de acordo com o cartão de vacinas ou a declaração da mãe).</p>
+<p>Considera-se que tomou todas as vacinas básicas se a criança recebeu pelo menos:</p>
+<ul>
+  <li>Uma dose da vacina BCG (Bacilo Calmette Guérin), que protege contra a tuberculose,</li>
+  <li>Três doses da vacina pentavalente, que protege contra a difteria, coqueluche (tosse convulsa), tétano, hepatite B e Haemophilus influenza,</li>
+  <li>Três doses da vacina contra a poliomielite,</li>
+  <li>Uma dose da vacina contra o sarampo,</li>
+  <li>Três doses da vacina PCV, que protege contra a pneumonia.</li>
+</ul>
+<p> Amostra: Crianças de 12-23 meses.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os cartões de vacinação foram uma ferramenta importante que constituíram o melhor indicador de que a criança recebeu todas as vacinas recomendadas dentro do seu calendário cronológico. Setenta e quatro porcento de crianças possuíam um cartão de vacinas</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>Disponíveis em: <a href="http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html"><strong>http://www.who.int/immunization/monitoring_surveillance/routine/coverage/en/index4.html</strong></a><strong> </strong><a href="https://www.unicef.org/immunization/"><strong>https://www.unicef.org/immunization/</strong></a><strong> </strong></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>O digitador de campo, em conjunto com a controladora de equipa, revia os questionários e, em seguida, fazia a digitação dos mesmos no programa Census and Survey Process (CsPro) versão 4.1.002, edição especial. Este processo de digitação em campo permitiu a detecção de inconsistências ou omissões nos questionários, bem como a correcção dos mesmos ainda no terreno, com a presença da equipa no conglomerado.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Durante as actividades de recolha de dados, foram aplicados vários níveis de controlo de qualidade. O primeiro nível consistiu na identificação das AEs através da verificação dos mapas ou croquis de referência, seguido da confirmação da AE ao nível central, com recurso aos dados enviados a partir dos computadores equipados com um sistema de GPS e on-line em campo. O primeiro nível de controlo de qualidade ajudou na identificação do ponto central de cada área de enumeração com uma margem de erro de dez metros do centro da área de enumeração. O segundo nível de controlo de qualidade consistiu na verificação dos questionários pela controladora da equipa e pelo digitador de campo, após o preenchimento pelo inquiridor, verificação de inconsistências e seguimentos dos filtros através da programação feita no programa CsPro no processo de digitação de campo e dupla digitação e análise crítica ao nível central (digitação central).</p>
+<p>Durante todo o processo de tratamento de dados, foram aplicados procedimentos padrão do Programa DHS para inquéritos CAFE6 . A introdução do CAFE no IMASIDA 2015 garantiu o início da edição dos questionários em campo, através do uso de um computador portátil. Depois de preencherem os questionários em papel e concluírem todas as entrevistas no agregado familiar, os inquiridores e técnicos de saúde entregavam os questionários ao digitador de campo. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>O processo de digitação de todos os questionários, o digitador de campo enviava os dados para o nível central, através do Sistema de Transmissão de Ficheiros por Internet (IFSS). Paralelamente à transferência de dados via IFSS, cada equipa de campo enviava todos os questionários em papel para o nível central (INS). Ao nível central, uma equipa de recepcionistas e digitadores encarregavam-se da recepção dos questionários em papel e iniciavam a segunda ronda de digitação e correcção de inconsistências. Estas tarefas foram realizadas por três recepcionistas e doze digitadores centrais. No final, todos os questionários foram duplamente digitados.</p>
+<p>A verificação de inconsistências nos dados foi feita através da comparação entre a primeira digitação (feita no terreno) e a segunda digitação (feita ao nível central). Foi um processo contínuo, o que permitiu que todas as inconsistências fossem corrigidas. Para além do controlo de inconsistências, foi igualmente feita a digitação crítica de todos questionários preenchidos nas 307 AEs. Este processo consistia na revisão exaustiva de inconsistências produzidas pelo programa de introdução de dados (CsPro).</p>
+<p>Com base no CsPro ao nível de servidor central, foram produzidos relatórios semanais que serviram de controlo para a verificação de consistências nas respostas às perguntas dos questionários. Foi dada ênfase à verificação das inconsistências nas perguntas relacionadas com datas, intervalos de tempo e idades, com referência ao manual de edição secundária adaptado para Moçambique, no qual constam as possíveis soluções para os erros ou inconsistências identificadas.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Dados disponíveis em 2015. Desagregados por província, nível de escolaridade da mãe, nível de escolaridade e quintil de riqueza</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador e comparavel ao nivel internacional</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Saúde (MISAU), Instituto Nacional de Estatística (INE), e ICF, 2015. Inquérito de Indicadores de Imunização, Malária e HIV/SIDA em Moçambique 2015. Maputo, Moçambique. Rockville, Maryland, EUA: INS, INE, e ICF.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

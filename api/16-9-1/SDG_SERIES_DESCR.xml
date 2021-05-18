@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 16-9-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Percentage of children under 5 years old whose births were registered by a civil authority, disaggregated by age, sex and area of residence &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Percentagem de crianças abaixo de 5 anos que os seus nascimentos foram registados por uma autoridade civil, desagregado por idade sexo e área de residência&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

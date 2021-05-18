@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 7-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The proportion of the population with access to electricity is the quotient given by the population that uses electricity for lighting by the total population. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A Proporção da população com acesso a energia elétrica é o quociente dado pela população que usa energia elétrica para iluminação pelo total da população.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

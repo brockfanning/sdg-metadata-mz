@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 16-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The indicator is defined as the ratio between the total number of victims of trafficking in persons discovered or living in a country and the population resident in the country, expressed per 100,000 inhabitants &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;O indicador é definido como a razão entre o número total de vítimas de tráfico de pessoas descobertas ou que vivem em um país e a população residente no País, expressa por 100.000 habitantes&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

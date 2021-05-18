@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_VALIDATION field for indicator 1-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 1. The data used are reliable at national, rural, urban and provincial levels; &lt;/p&gt;
+ &lt;p&gt; 2. Internal discussion at the level of the National Directorate for Economic Policy and Development, the Ministry of Economy and Finance, at the Government level and the discussion with partners and civil society. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;1. Os dados utilizados são fiáveis a nível nacional, rural, urbano e provincial;&lt;/p&gt;
+&lt;p&gt;2. Discussão interna a nível da Direcção Nacional de Politicas e Desenvolvimento Económico, do Ministério da Economia e Finanças, a nível do Governo e a discussão com os parceiros e a Sociedade Civil. &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

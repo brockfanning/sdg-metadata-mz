@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:21.251Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="2f1e8671-f07a-42e8-be91-51a8f6c59bb6">
+    <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_POV_NMPI</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção Nacional de Politicas Económicas e Desenvolvimento</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="pt"><![CDATA[<p> 1 ERRADICAR A POBREZA EM TODAS AS SUAS FORMAS, EM TODOS OS LUGARES </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="pt"><![CDATA[<p>1.2. Até 2030, reduzir pelo menos à metade, a proporção de homens, mulheres e crianças, de todas as idades, que vivem na pobreza, em todas as suas dimensões, de acordo com as definições nacionais.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="pt"><![CDATA[<p>1.2.2 Percentagem de homens, mulheres e crianças de todas as idades, vivendo na pobreza, em todas as suas dimensões, de acordo com definições nacionais</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="pt"><![CDATA[<p>Homens, mulheres e crianças de todas as idades, vivendo na pobreza, em todas as suas dimensões, de acordo com definições nacionais</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>9/10/2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Economia e Finanças (MEF)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="pt"><![CDATA[<p>José Domingos Madeira Cardoso</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Técnico Superior N1</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="pt"><![CDATA[<p>+258 84 229 5957</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:jsm.cardoso7@gmail.com">jsm.cardoso7@gmail.com</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="pt"><![CDATA[<p>É a percentagem dos agregados familiares que são privados em pelo menos 40% dos 17 indicadores de bem-estar definidos para Moçambique.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Economia e Finanças, Pobreza e Bem-Estar em Moçambique, Quarta avaliação nacional de acordo com o IOF 2014/2015.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="pt"><![CDATA[<p>Iº semestre de 2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="pt"><![CDATA[<p>Dezembro de 2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estatísticas (INE)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Economia e Finanças (MEF)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Pelo despacho conjunto número <strong>112/DEAE-MF/2012 de 8 de Junho</strong>, o Instituto Nacional de Estatística delegou competências de notação e apuramento de dados estatísticos de actos administrativos e inquéritos ao Ministério das Finanças através da Direcção de Estudos e Análise Económica.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador mostra a percentagem de pessoas pobres, ou seja privada em pelo menos 40% dos indicadores ponderados definidos em Moçambique. Por exemplo, 53,3% das pessoas em Moçambique é privada em mais de 40% dos indicadores ponderados.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="pt"><![CDATA[<p>A avaliação da pobreza multidimensional pode ser influenciada pela atribuição dos pesos aos indicadores e, ou da definição do limite (cutoff).</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="pt"><![CDATA[<p>Para a análise da pobreza multidimensional em Moçambique utilizou-se a metodologia <em>Alkire-Foster</em>. Esta metodologia permite a agregação de dimensões e indicadores de privação. A nossa avaliação foi com base em 17 indicadores. Sendo os indicadores binários, podem assumir dois valores, 0 se o agregado familiar for “não privado” e 1 se for “privado” desse indicador. Atribui-se pesos as dimensões e aos indicadores. Posteriormente, definiu-se o limite (cutoff) de 40% dos indicadores pesados. Por fim os agregados familiares privados pelo menos 40% dos indicadores privados foram considerados pobres, e os privados em menos de 40% foram considerados como não pobres. Para o cálculo do Índice de Índice de Pobreza Multidimensional de <em>Alkire-Foster</em> utilizamos a seguinte formula:</p>
+<p>Onde: </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>1. Os dados utilizados são fiáveis a nível nacional, rural, urbano e provincial;</p>
+<p>2. Discussão interna a nível da Direcção Nacional de Politicas e Desenvolvimento Económico, do Ministério da Economia e Finanças, a nível do Governo, discussão com os parceiros de cooperação e a Sociedade Civil.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Em processo de criação do Sistema de Gestão de Qualidade a nível do Sistema Estatístico Nacional.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Existe uma equipa composta pelo Ministério de Economia e Finanças, Instituto Nacional de Estatística e o Banco Mundial que colabora desde o momento da formulação dos inquéritos do IOF, recolha de dados, e disseminação dos resultados.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os instrumentos para a avaliação da qualidade dos processos e produtos estatísticos a nível do Sistema Estatístico Nacional ainda estão a ser desenvolvidos com base nos 19 princípios de qualidade estabelecidos pela Comissão de Estatística das Nações Unidas.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Dados disponíveis a cada 6 anos, desagregados por área de residência (rural e urbano), sexo, faixa etária e <em>status</em> (tipo) de ocupação. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="pt"><![CDATA[<p>É possível fazer uma comparação considerando o Global MPI, mas é preciso fazer alguns em termos de pesos e indicadores e dimensões.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="pt"><![CDATA[<ul>
+  <li>DEEF (2016). Pobreza e Bem-Estar em Moçambique: Quarta Avaliação Nacional. Maputo: Ministério da Economia e Finanças. Disponível em <a href="https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf">https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf</a>;</li>
+  <li>INE (2015). Relatório Final do Inquérito ao Orçamento Familiar – IOF 2014/15. Maputo: Instituto Nacional de Estatística; disponível em <a href="http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15">http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15</a>.</li>
+</ul>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_ASSMNT field for indicator 7-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Still in development and for approval of the instrument for quality assessment &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Ainda em desenvolvimento e por aprovar o instrumento para avaliação de qualidade&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

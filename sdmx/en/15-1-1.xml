@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:23.055Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="88586466-5008-4fbd-b5f5-d1afff52d697">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>AG_LND_FRST</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"><![CDATA[ <p> National Directorate for Planning and Cooperation </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"><![CDATA[ <p> 15 PROTECT, RECOVER AND PROMOTE THE SUSTAINABLE USE OF TERRESTRIAL ECOSYSTEMS, SUSTAINABLE MANAGEMENT OF FORESTS, COMBAT THE DESERTIFICATION, DETERMINATE AND REVERSE THE LAND DEGRADATION AND DETERMINE THE LOSS OF 6TH BIODIVERSITY6THE6TH6DAYDAY6THE6TH6DAY9TH6DAY9TH6DAY9TH6DAY6THE6TH6DAYDAY6TH6DAY9TH6DAY9TH6DAY6THE6THE6TH6DAYDAY6THE6THE6TH6DAYDAY6THE6THE9TH6DAY9TH6THETH6THE9THE9THDAYDAYTHE6TH6THE9TH6THE9THDAYDAYTHE6TH6THETH6THE9THE9THDADDESS OF 6TH BIODIVERSITY.]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[ <p> 15.1 By 2020, ensure the conservation, recovery and sustainable use of terrestrial and freshwater inland ecosystems and their services, in particular forests, wetlands, mountains and arid lands, in accordance with the obligations arising from international agreements </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[ <p> 15.1.1 Forest area as a percentage of the total land area </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="en"><![CDATA[ <p> Forest area as a percentage of the total land area </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/22/2020 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          <com:Text xml:lang="en"><![CDATA[ <p> No indicator related to </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Land and Environment </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[ <p> Alberto António Macia </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"><![CDATA[ <p> Head of Department of Monitoring and Evaluation </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 847436161; +258 824138590 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:betomacia2006@gmail.com"> <u> betomacia2006@gmail.com </u> </a> <u>; </u> <a href="mailto:betomacia2006@yahoo.com.br"> <u> betomacia2006@yahoo.com.br </u> </a> </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[ <p> To provide an accurate definition of the indicator, it is crucial to provide a definition of "Forest" and "Total land area". </p>
+ <p> According to FAO definitions, Floresta is defined as: “land covering more than 0.5 hectares with trees over 5 meters and a canopy cover of more than 10%, or trees capable of reaching these thresholds in situ . It does not include land predominantly under agricultural or urban use ”. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Hectares (Ha) </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="en"><![CDATA[ <p> Classifications are not used. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Land and Environment (National Directorate of Forests), National Forest Inventory </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[ <p> The data related to the indicator are collected in the National Forest Inventory whose details on the collection, quality control, measured variables, used equipment, measurement procedures, rigor and precision in the use and handling of the equipment are described in the National Forest Inventory Guidelines. Based on the results of the inventory, the specific areas that qualitatively respond to the indicator are described. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[ <p> Until December 2027 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[ <p> August 2028 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Land and Environment </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Land and Environment </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[ <p> According to the Organic Statute of the Ministry of Land and Environment, which was approved by Resolution No. 30/2016 of October 31, published in the Boletim da República I Série - Number 85, the Ministry of Land, Environment and Rural Development, directs , plans and coordinates, controls and ensures the implementation of policies in the fields of Land and Geomatics Administration, Forests and Wildlife, Environment, Climate Change and Conservation Areas. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator provides a measure of the relative extent of the forest in a country. The availability of accurate data in a country's forestry area is an essential element for forest policy and planning in the context of sustainable development. </p>
+ <p> The forest area as a percentage of the total land area can be used as an <em> proxy </em> approximate the extent to which a country's forests are being conserved or restored, but it is only partly a measure of the extent to which they are managed in a manner sustainable. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[ <p> The five sub-indicators chosen to illustrate progress towards sustainable forest management do not fully cover all aspects of sustainable forest management. In particular, social and economic aspects are summarized in the sub-indicators of areas under sustainable forest management plans. In addition, as trends are calculated using only countries that have complete time series of data, different sub-indicators may reflect different sets of countries. </p>
+ <p> While the panel illustrates the progress of the individual sub-indicators, there is no consideration of the relative importance of the sub-indicators </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> Forest area (reference year) / land area (2015) * 100 </strong> </p>
+ <p> This indicator can be aggregated at the global or regional level, adding all country values globally or in a specific region </p>
+ <p> The proportion of forest area in the protected area and in the management plan is calculated using the reported areas and the official land area of FAOSTAT for the reference year 2015. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[ <p> After the production of the information related to the indicator, which is produced by the National Directorate of Forests, it proceeds with its validation by the Consultative Council of the Ministry of Land and Environment. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="en"><![CDATA[ <p> The detailed methodology and guidance on how to prepare Country reports through an online web platform and convert national data according to national categories and definitions to FAO global categories and definitions can be found in the documents "Guidelines and Specifications" ( www.fao.org/3/I8699EN/i8699en.pdf) </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="en"><![CDATA[ <p> A specific quality management system does not yet exist, however, the Forest Information System (SIF) is being operationalized, which was created with the aim of giving greater credibility to the information made available. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Use of satellite image that makes it possible to analyze the data of the areas covered in the forests and which are available in the National Forest Inventory. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="en"><![CDATA[ <p> No quality assessment has yet been carried out, according to standard quality criteria established by the United Nations </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is made available every ten years and has no breakdown. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator is internationally comparable. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="http://www.fao.org/forest"> http://www.fao.org/forest </a> -ressourses-assessment-en /, National Forest Inventory 2017 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

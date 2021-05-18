@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REC_USE_LIM field for indicator 3-3-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Longitudinal data on individuals is the best source of data, but is rarely available for large populations. Special diagnostic tests in surveys or health facilities can be used to obtain data on HIV incidence. The incidence of HIV is modeled using the Spectrum software. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Dados longitudinais sobre indivíduos são a melhor fonte de dados, mas raramente estão disponíveis para grandes populações. Testes de diagnóstico especiais em inquéritos ou em unidades de saúde podem ser usados para obter dados sobre a incidência do HIV. A incidência do HIV é modelada usando o software Spectrum.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

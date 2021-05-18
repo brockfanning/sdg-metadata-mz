@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 5-6-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Numerator: Number of women aged 15 to 49 married or in union &lt;/p&gt;
+ &lt;p&gt; Denominator: Total number of women between 15 and 49 years of age, married or in union &lt;/p&gt;
+ &lt;p&gt; Proportion = (Numerator / Denominator) * 100 &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Numerador: Número de mulheres de 15 a 49 anos casadas ou em união&lt;/p&gt;
+&lt;p&gt;Denominador: Número total de mulheres entre 15 e 49 anos de idade, casadas ou em união&lt;/p&gt;
+&lt;p&gt;Proporção = (Numerador / Denominador) * 100&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

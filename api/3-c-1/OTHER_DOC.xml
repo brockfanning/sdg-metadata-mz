@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The OTHER_DOC field for indicator 3-c-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; MISAU-eSIP Saúde, Annual report of the DRH, Population projections of the National Statistics Institute &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;MISAU-eSIP Saúde, Relatório anual da DRH, Projecções de população do Instituto Nacional de Estatística&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

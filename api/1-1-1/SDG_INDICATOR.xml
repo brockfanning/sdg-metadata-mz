@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 1-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 1.1.1 Proportion of the population below the international poverty line, disaggregated by sex and age &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;1.1.1 Proporção da população abaixo da linha de pobreza internacional, desagregados por sexo e idade&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

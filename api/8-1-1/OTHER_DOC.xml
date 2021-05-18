@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The OTHER_DOC field for indicator 8-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; SNA 2008, from the United Nations; &lt;/p&gt;
+ &lt;p&gt; National and international classifications; &lt;/p&gt;
+ &lt;p&gt; MBOP6 (Mozambique, Balance of Payment Manual, Version 6) &lt;/p&gt;
+ &lt;p&gt; http://www.ine.gov.mz/estatisticas/estatisticas-economicas/contas-nacionais &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;SNA 2008, das Nações Unidas;&lt;/p&gt;
+&lt;p&gt;Classificações nacionais e internacionais;&lt;/p&gt;
+&lt;p&gt;MBOP6 (Moçambique, Manual da Balança de Pagamento, Versão 6)&lt;/p&gt;
+&lt;p&gt;http://www.ine.gov.mz/estatisticas/estatisticas-economicas/contas-nacionais&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REC_USE_LIM field for indicator 14-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The indicator does not measure the effectiveness of protected areas in reducing biodiversity loss, which ultimately depends on a series of management and inspection factors not covered by the &lt;/p&gt; indicator
+			</language>
+			<language lang="pt">&lt;p&gt;O indicador não mede a eficácia das áreas protegidas na redução da perda de biodiversidade, que depende, em última análise, de uma série de factores de gestão e fiscalização não cobertos pelo indicador&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

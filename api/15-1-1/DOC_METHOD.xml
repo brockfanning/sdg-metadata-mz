@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DOC_METHOD field for indicator 15-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The detailed methodology and guidance on how to prepare Country reports through an online web platform and convert national data according to national categories and definitions to FAO global categories and definitions can be found in the documents &quot;Guidelines and Specifications&quot; ( www.fao.org/3/I8699EN/i8699en.pdf) &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt; A metodologia e orientação detalhadas sobre como preparar os relatórios do País através de uma plataforma web online e converter dados nacionais de acordo com as categorias e definições nacionais para as categorias e definições globais da FAO encontram-se nos documentos &quot;Orientações e Especificações&quot; (www.fao.org/3/I8699EN/i8699en.pdf) &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

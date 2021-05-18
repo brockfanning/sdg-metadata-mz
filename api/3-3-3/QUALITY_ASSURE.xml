@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_ASSURE field for indicator 3-3-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; To ensure quality assurance, the application “OMS Data Quality Framework” of the Information System for Health, Monitoring and Evaluation (SIS-MA) is used to assess data quality in 4 dimensions: Integrity and completeness of reports, Internal data consistency, External data consistency and Consistency of population estimates. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Para assegurara a garantia de qualidade é usado o aplicativo “OMS Data Quality Framework” do Sistema de Informação para a Saúde, Monitoria e Avaliação (SIS-MA) para a avaliação da qualidade de dados em 4 dimensões: Integridade e completude dos relatórios, Consistência interna dos dados, Consistência externa de dados e Consistência das estimativas populacionais.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

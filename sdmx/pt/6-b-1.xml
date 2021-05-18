@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:29.107Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="21087e7a-110e-4aeb-ba68-4c855b5b18fd">
+    <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>ER_H20_LCMGM</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção Nacional de Abastecimento de Água e Saneamento</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="pt"><![CDATA[<p>6 Garantir a disponibilidade e a gestão sustentável de água potável e Saneamento para todos</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="pt"><![CDATA[<p>6.b Apoiar e fortalecer a participação das comunidades locais, para melhorar a gestão da água e do saneamento</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="pt"><![CDATA[<p>6.b.1 Percentagem de municípios com políticas e procedimentos estabelecidos e operacionaispara a participação das comunidades locais na gestão de água e saneamento</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="pt"><![CDATA[<p>Municípios com políticas e procedimentos estabelecidos e operacionais para a participação das comunidades locais na gestão de água e saneamento</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>09/10/2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério das Obras Públicas, Habitação e Recursos Hídricos</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="pt"><![CDATA[<p>Alcino Nhacume; Amélia Mabota; Marlene Maciel</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Alcino Nhacume - Chefe de Departamento; Amélia Mabota – Técnica; Marlene Maciel – Técnica</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Alcino Nhacume - 846463364; Amélia Mabota - 823817060</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:anhacume@dnaas.gov.mz">anhacume@dnaas.gov.mz</a>; <a href="mailto:ameliamabota@dnaas.gov.mz">ameliamabota@dnaas.gov.mz</a>; <a href="mailto:mmaciel@dnaas.gov.mz">mmaciel@dnaas.gov.mz</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:anhacume@yahoo.com.br">anhacume@yahoo.com.br</a>; <a href="mailto:ameliamabota@gmail.com">ameliamabota@gmail.com</a>; <a href="mailto:marlenmaciel89@gmail.com">marlenmaciel89@gmail.com</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador avalia a percentagem de unidades administrativas locais que possuem um mecanismo estabelecido e operacional para decisões e orientações sobre a gestão de água e saneamento. As unidades administrativas locais referem-se a distritos, municípios ou outras unidades locais da comunidade que cobrem áreas urbanas e rurais a serem definidas pelo Governo</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério das Obras Públicas, Habitação e Recursos Hídricos (Direcção Nacional de Abastecimento de Água e Saneamento): Dados administrativos.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados são recolhidos através da realização de Reuniões e, ou encontros de trabalho institucional das equipas técnicas de planificação</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="pt"><![CDATA[<p>Preve-se que a próxima recolha de dados seja realizada até ao mês de Dezembro de 2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="pt"><![CDATA[<p>Janeiro de 2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério das Obras Públicas, Habitação e Recursos Hídricos</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério das Obras Públicas, Habitação e Recursos Hídricos</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>De acordo com o Diploma Ministerial n 72/2012, O INE delegou competencias de notação e apuramento de dados estatisticos ao MOPH, atraves da Direcção de Panificação e Cooperação que tem como atribuicoes: (i) preparar e coordenar o processo de planificação da área de Aguaz e Saneamento; (ii) elaborar os planos de médio e longo prazo do sector de águas e monitorar a sua implementação; (iii) monitorar a execução dos planos de investimentos e propor medidas correctivas; e, (iv) fazer avaliação e monitoria das actividades da área</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Definir os procedimentos na política ou lei para a participação das comunidades locais é vital para garantir que as necessidades de toda a comunidade sejam atendidas, inclusive as mais vulneráveis, e também incentiva a apropriação de esquemas que, por sua vez, contribuem para sua sustentabilidade. Um valor baixo deste indicador sugere que a participação das comunidades locais na gestão de água e saneamento é baixa, enquanto um valor alto indica altos níveis de participação, indicando maior propriedade e maior probabilidade de entrega e gestão sustentáveis ​​de serviços de água e saneamento</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="pt"><![CDATA[<p> O país dispõe de um quadro legal de políticas e normas que atribuem competências aos níveis locais para a participação das comunidades na gestão dos serviços de abastecimento de água e saneamento. Embora tal situação se verifique, existe problemas na operacionalidade dos comités devido ao facto de seus membros não possuírem domínio técnico necessário nesta área.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="pt"><![CDATA[<p>O valor do indicador é obtido pelo quociente entre o número de unidades administrativas locais com políticas e procedimentos de operação para participação local e o número total de unidades administrativas locais no país. Todas as unidades administrativas do País, tanto em termos de Governos Distritais assim como Municipais possuem um mecanismo estabelecido e operacional pelo qual os indivíduos e as comunidades contribuem significativamente para as decisões e orientações sobre gestão de água e saneamento. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>A monitoria dos resultados da compilição dos dados é feita pelos técnicos do Ministério das Obras Públicas, Habitação e Recursos Hídricos</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Em processo de criação do Sistema de Gestão de Qualidade a nível do Sistema Estatístico Nacional.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Realização de encontros com os principais intervenientes no processo de gestão integrada de recursos hídricos para a recolha de dados e análise da sua consistência.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os instrumentos para a avaliação da qualidade dos processos e produtos estatísticos a nível do Sistema Estatístico Nacional ainda estão a ser desenvolvidos com base nos 19 princípios de qualidade estabelecidos pela Comissão de Estatística das Nações Unidas.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados são disponibilizados anualmente e não possuem desagregação.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="pt"><![CDATA[<p>Usa a metodologia de cálculo definido pelas Nações Unidas.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="pt"><![CDATA[<p>Lei de Águas (Lei n°16/91 de 03 de Agosto; Plano de Acção de Implementação dos Objectivos de Desenvolvimento de Abastecimento de Agua e Saneamento 2015-2030, <em>Resolução Nr 40/2018, de 24 de Outubro de 2018</em>; PRONASAR</p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

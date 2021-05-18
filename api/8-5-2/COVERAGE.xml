@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COVERAGE field for indicator 8-5-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Information is made available every 5 years and is disaggregated by sex and age groups &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A informação é disponibilizada de 5 em 5 anos e é desagregada por sexo e grupos de idade&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

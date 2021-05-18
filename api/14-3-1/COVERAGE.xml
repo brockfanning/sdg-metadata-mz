@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COVERAGE field for indicator 14-3-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Data availability is annual and they are not broken down. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt; A disponibilidade dos dados é anual e eles não se encontram de forma desagregada. &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

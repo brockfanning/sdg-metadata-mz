@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The OTHER_DOC field for indicator 10-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;ul&gt;
+   &lt;li&gt; DEEF (2016). Poverty and Well-Being in Mozambique: Fourth National Assessment. Maputo: Ministry of Economy and Finance. Available at &lt;a href=&quot;https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf&quot;&gt; https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf &lt;/a&gt;; &lt;/li&gt;
+   &lt;li&gt; DNEAP (2010). &lt;em&gt; Poverty and Wellbeing in Mozambique &lt;/em&gt;: &lt;em&gt; Third National Poverty Assessment &lt;/em&gt;. Maputo: Ministry of Planning and Development. Available at &lt;a href=&quot;https://www.preventionweb.net/files/16411_thirdnationalpovertyassessment.pdf&quot;&gt; https://www.preventionweb.net/files/16411_thirdnationalpovertyassessment.pdf &lt;/a&gt;; &lt;/li&gt;
+   &lt;li&gt; DNPO (1998). &lt;em&gt; Poverty and Well-Being in Mozambique: The First National Assessment &lt;/em&gt;. Maputo: &lt;em&gt; The First National Assessment &lt;/em&gt;. Maputo: Ministry of Planning and Finance; &lt;/li&gt;
+   &lt;li&gt; DNPO (2004). &lt;em&gt; Poverty and Well-Being in Mozambique &lt;/em&gt;: &lt;em&gt; The Second National Assessment &lt;/em&gt;. Maputo: Ministry of Planning and Development; &lt;/li&gt;
+   &lt;li&gt; INE (2004). Final Report of the Household Survey on the Family Budget, 2002/3. Maputo: National Statistics Institute. &lt;/li&gt;
+   &lt;li&gt; INE (2010). Final Report of the Family Budget Survey - IOF 2008/9. Maputo: National Statistics Institute. Available at &lt;a href=&quot;http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-200809.pdf&quot;&gt; http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-200809.pdf &lt;/a&gt;; &lt;/li&gt;
+   &lt;li&gt; INE (2015). Final Report of the Family Budget Survey - IOF 2014/15. Maputo: National Statistics Institute; available at &lt;a href=&quot;http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15&quot;&gt; http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15 &lt;/a&gt;; &lt;/li&gt;
+ &lt;/ul&gt;
+			</language>
+			<language lang="pt">&lt;ul&gt;
+  &lt;li&gt;DEEF (2016). Pobreza e Bem-Estar em Moçambique: Quarta Avaliação Nacional. Maputo: Ministério da Economia e Finanças. Disponível em &lt;a href=&quot;https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf&quot;&gt;https://www.wider.unu.edu/sites/default/files/Final_QUARTA%20AVALIA%C3%87AO%20NACIONAL%20DA%20POBREZA_2016-10-26_2.pdf&lt;/a&gt;;&lt;/li&gt;
+  &lt;li&gt;DNEAP (2010). &lt;em&gt;Poverty and Wellbeing in Mozambique&lt;/em&gt;: &lt;em&gt;Third National Poverty Assessment&lt;/em&gt;. Maputo: Ministério da Planificação e Desenvolvimento. Disponível em &lt;a href=&quot;https://www.preventionweb.net/files/16411_thirdnationalpovertyassessment.pdf&quot;&gt;https://www.preventionweb.net/files/16411_thirdnationalpovertyassessment.pdf&lt;/a&gt;; &lt;/li&gt;
+  &lt;li&gt;DNPO (1998). &lt;em&gt;Poverty and Well-Being in Mozambique: The First National Assessment&lt;/em&gt;. Maputo: &lt;em&gt;The First National Assessment&lt;/em&gt;. Maputo: Ministério do Plano e Finanças;&lt;/li&gt;
+  &lt;li&gt;DNPO (2004). &lt;em&gt;Poverty and Well-Being in Mozambique&lt;/em&gt;: &lt;em&gt;The Second National Assessment&lt;/em&gt;. Maputo: Ministério da Planificação e Desenvolvimento; &lt;/li&gt;
+  &lt;li&gt;INE (2004). Relatório Final do Inquérito aos Agregados Familiares sobre o Orçamento Familiar, 2002/3. Maputo: Instituto Nacional de Estatística. &lt;/li&gt;
+  &lt;li&gt;INE (2010). Relatório Final do Inquérito ao Orçamento Familiar – IOF 2008/9. Maputo: Instituto Nacional de Estatística. Disponível em &lt;a href=&quot;http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-200809.pdf&quot;&gt;http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-200809.pdf&lt;/a&gt;; &lt;/li&gt;
+  &lt;li&gt;INE (2015). Relatório Final do Inquérito ao Orçamento Familiar – IOF 2014/15. Maputo: Instituto Nacional de Estatística; disponível em &lt;a href=&quot;http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15&quot;&gt;http://www.ine.gov.mz/operacoes-estatisticas/inqueritos/inquerito-sobre-orcamento-familiar/relatorio-final-do-inquerito-ao-orcamento-familiar-iof-2014-15&lt;/a&gt;;&lt;/li&gt;
+&lt;/ul&gt;
+			</language>
+</languages>
+</data>
+</root>

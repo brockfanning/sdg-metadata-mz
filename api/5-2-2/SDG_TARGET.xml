@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 5-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 5.2 Eliminate all forms of violence against all women and girls in the public and private spheres, including trafficking and sexual and other exploitation &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;5.2 Eliminar todas as formas de violência contra todas as mulheres e meninas nas esferas públicas e privadas, incluindo o tráfico e exploração sexual e de outros tipos&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

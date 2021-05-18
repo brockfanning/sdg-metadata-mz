@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 1-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 1.2 By 2030, reduce at least half the proportion of men, women and children, of all ages, living in poverty, in all its dimensions, according to &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;1.2 Até 2030, reduzir pelo menos à metade, a proporção de homens, mulheres e crianças, de todas as idades, que vivem na pobreza, em todas as suas dimensões, de acordo&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

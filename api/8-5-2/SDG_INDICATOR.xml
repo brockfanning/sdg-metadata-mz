@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 8-5-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 8.5.2 a) Unemployment rate by sex according to age &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;8.5.2 a) Taxa de desemprego por sexo segundo idade&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

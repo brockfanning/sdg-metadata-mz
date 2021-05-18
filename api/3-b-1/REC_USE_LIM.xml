@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REC_USE_LIM field for indicator 3-b-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Vaccination is the first line of defense against various infectious diseases and is the most successful and cost-effective public health intervention to reduce child mortality and improve child health. &lt;/p&gt;
+ &lt;p&gt; An unvaccinated child can face serious illnesses, including potentially untreatable illnesses that can prove to be deadly. &lt;/p&gt;
+ &lt;p&gt; The rationale for selecting a set of vaccines reflects the ability of immunization programs to deliver vaccines throughout the life cycle and to adapt new vaccines. &lt;/p&gt;
+ &lt;p&gt; Given that the HPV vaccine is relatively new and the vaccination schedule varies from country to country, coverage estimates will be made for girls vaccinated at age 15 and, at the moment, data are limited to very few countries, therefore, reports will start later. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A vacinação constitui a primeira linha de defesa contra várias doenças infeciosas é a intervenção de saúde pública mais bem-sucedida e rentável para reduzir a mortalidade infantil e melhorar a saúde da criança.&lt;/p&gt;
+&lt;p&gt;Uma criança não vacinada pode enfrentar graves enfermidades, incluindo doenças potencialmente não tratáveis que podem revelar-se mortais.&lt;/p&gt;
+&lt;p&gt;O racional para seleccionar um conjunto de vacinas reflecte a capacidade dos programas de imunização de fornecer vacinas ao longo do ciclo de vida e de adaptar novas vacinas. &lt;/p&gt;
+&lt;p&gt;Dado que a vacina contra o HPV é relativamente nova e o cronograma de vacinação varia de país para país, a estimativa de cobertura será feita para meninas vacinadas aos 15 anos e, no momento, os dados são limitados a muito poucos países, portanto, os relatórios serão iniciados mais tarde.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

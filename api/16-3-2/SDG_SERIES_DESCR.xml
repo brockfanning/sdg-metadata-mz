@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 16-3-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 16.3.2 Citizens in preventive detention in relation to the total prison population as a percentage &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt; 16.3.2 Cidadãos em prisão preventiva em relação ao total da população penitenciária em percentagem&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

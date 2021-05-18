@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 6-5-1, translated into en</message>
+	<data> &lt;p&gt; The Standard Model contains 32 questions divided into the four main components, namely: 1. Favorable environment; 2. Institutions and participation; 3. Management tools; and, 4. Financing. &lt;/p&gt;
+ &lt;ol&gt;
+   &lt;li&gt; Each question receives a score between 0 and 100, in intervals of 10, based on the following 6 main categories: &lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;ul&gt;
+   &lt;li&gt; Very low (0) &lt;/li&gt;
+   &lt;li&gt; Low (20) &lt;/li&gt;
+   &lt;li&gt; Mid-low (40) &lt;/li&gt;
+   &lt;li&gt; Mid-high (60) &lt;/li&gt;
+   &lt;li&gt; High (80) &lt;/li&gt;
+   &lt;li&gt; Very high (100) &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt; Please note that guidelines are provided for each limit of each question, to ensure objective and comparable results. &lt;/p&gt;
+ &lt;ol&gt;
+   &lt;li&gt; The unweighted average of the question scores in each of the four components is calculated to provide a score from 0 to 100 for each component. &lt;/li&gt;
+   &lt;li&gt; The component score is averaged (unweighted) to provide the indicator score, expressed as a percentage between 0 and 100. &lt;/li&gt;
+ &lt;/ol&gt;</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_ASSURE field for indicator 16-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The verification of the data consistency that is made is in terms of calculation, if there is any inconsistency, the data review is requested to the source &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A verificação da consistência de dados que é feita é em termos de cálculo, caso haja alguma incongruência, solicita-se a revisão de dados à fonte&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

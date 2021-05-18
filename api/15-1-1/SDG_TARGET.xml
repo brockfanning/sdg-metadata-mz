@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 15-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 15.1 By 2020, ensure the conservation, recovery and sustainable use of terrestrial and freshwater inland ecosystems and their services, in particular forests, wetlands, mountains and arid lands, in accordance with the obligations arising from international agreements &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;15.1 Até 2020, assegurar a conservação, recuperação e uso sustentável dos ecossistemas terrestres e de água doce interiores e seus serviços, em especial florestas, zonas húmidas, montanhas e terras áridas, em conformidade com as obrigações decorrentes dos acordos internacionais&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

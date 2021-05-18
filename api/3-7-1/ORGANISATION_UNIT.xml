@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The ORGANISATION_UNIT field for indicator 3-7-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Directorate of Demographic, Vital and Social Statistics &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Direccao de Estatisticas Demograficas, Vitais e Sociais&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

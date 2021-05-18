@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 15-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; This indicator is internationally comparable. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Este indicador é comparável a nível internacional.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

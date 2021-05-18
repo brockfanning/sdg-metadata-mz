@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The RATIONALE field for indicator 3-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Mortality rates among children under five are indicators of public health follow-up because it reflects the access of children and communities to basic health interventions, such as vaccination, medical treatment of infectious diseases and adequate nutrition. &lt;/p&gt;
+ &lt;p&gt; The indicator shows the number of deaths under the age of five that occur in every 1000 children under the age of five &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;As taxas de mortalidade entre crianças menores de cinco anos são indicadores de seguimento de saúde pública porque reflecte o acesso de crianças e comunidades a intervenções básicas de saúde, como vacinação, tratamento médico de doenças infeciosas e nutrição adequada.&lt;/p&gt;
+&lt;p&gt;O indicador mostra o número de óbitos menores de cinco anos que ocorrem em cada 1000 crianças menores de cinco anos&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

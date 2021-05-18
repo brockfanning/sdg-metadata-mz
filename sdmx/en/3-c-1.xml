@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:26.860Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="efcc0e09-aa06-45c9-b028-69dbf551aaac">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_MED_DEN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring and Evaluation Department </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"><![CDATA[ <p> 3 GUARANTEE ACCESS TO QUALITY HEALTH AND PROMOTE WELFARE FOR ALL </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[ <p> 3.c. Substantially increase health financing and recruitment, development and training, and retention of health personnel in developing countries, especially in least developed countries and small island developing states </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[ <h1> 3.c.1 Density and distribution of health professionals </h1>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="en"><![CDATA[ <p> Density and distribution of health professionals as a percentage </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/8/2020 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          <com:Text xml:lang="en"><![CDATA[ <p> None </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[ <p> Cesarino Tivane and Nelita Nassone </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"><![CDATA[ <p> Monitoring and Evaluation Technicians </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 849007628; +258 846630589; +258847144676 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:tivanecesarino@gmail.com"> <u> tivanecesarino@gmail.com </u> </a>; <a href="mailto:nelianasson@gmail.com"> <u> nelianasson@gmail.com </u> </a>; muluana2002 <a href="mailto:tivanecesarino@gmail.com"> <u> @ </u> </a> gmail.com </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:tivanecesarino@gmail.com"> <u> tivanecesarino@gmail.com </u> </a>; <a href="mailto:nelianasson@gmail.com"> <u> nelianasson@gmail.com </u> </a>; muluana2002 <a href="mailto:tivanecesarino@gmail.com"> <u> @ </u> </a> gmail.com </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[ <p> <strong> Density of doctors </strong>: is defined as the number of doctors, including general practitioners and specialist doctors per 10,000 inhabitants in the specified national and / or provincial area. </p>
+ <p> <strong> Density of maternal and child nursing personnel </strong>: is defined as the number of nursing and midwifery personnel per 10,000 inhabitants in the specified national and / or provincial area. </p>
+ <p> <strong> Density of dentists </strong>: is defined as the number of dentists per 10,000 inhabitants in the specified national and / or provincial area. </p>
+ <p> <strong> Density of pharmacists </strong>: is defined as the number of pharmacists per 10,000 inhabitants in a given national and / or provincial area. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[ <p> MISAU, administrative data </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[ <p> eSIP-Saúde (Integrated Information System for the Management and Training of Human Health Resources) and the auxiliary complementary system that consists of Excel spreadsheets to collect data on the number of personnel where the electronic system for the registration of employees and agents of the State (eCAF), Continuous Training Information System (SIFO), Initial Training Information System (SIFin) and management spreadsheets. Since 2012, eSip-Saúde has been the main source for obtaining statistical data on the National Health Service. The data are collected monthly from the provincial health departments and entered into eSIP-health, sent to the Ministry's Human Resource Directorate. health </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[ <p> Monthly </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[ <p> Annual 2020 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Under Law 7/96, which defines the general bases of the National Statistical System, the National Statistics Institute (INE), according to the Order published in the Boletim da República No. 39/2000, Series I, of 27 September 2000, officially delegates the Directorate of Planning and Cooperation (DPC), of the Ministry of Health, the publication and dissemination of the official statistical information of the Health Sector, in Mozambique. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Reduce geographical inequalities between population groups in access to and use of health services by developing and ensuring the implementation of mechanisms for allocating / allocating human resources, based on needs / equity </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[ <p> Data on health workers tend to be more complete for the public health sector and may underestimate the active workforce in the private and military sectors </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[ <p> Ratio between the number of employees and agents of the state of the existing special health regime and the population projections of INE, multiplied by 100,000 inhabitants. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[ <p> Monthly reports of inconsistency are prepared as a means of reinforcing data quality. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="en"><![CDATA[ <p> Data for the number of physicians (including general practitioners and specialists), depending on the nature of the original data source, may include only physicians or all registered physicians. </p>
+ <p> Data for nursing and midwifery numbers include nursing and midwifery personnel, where available. In many countries, nurses trained in midwifery skills are counted and registered as nurses. This makes it difficult to distinguish between nursing staff and midwifery personnel. </p>
+ <p> Data for the number of dentists includes dentists in the specified national and / or sub-national area. Depending on the nature of the original data source, it may include trainees (active) only or all those registered in the healthcare profession. The ISCO -08 code included here is 2261. </p>
+ <p> Data for the number of pharmacists includes pharmacists in the specified national and / or subnational area. Depending on the nature of the original data source, it may include trainees (active) only or all those registered in the healthcare profession. The ISCO -08 code related to this occupation is 2262. </p>
+ <p> In general, the denominator data for workforce density (ie national population estimates) are obtained from the United Nations Population Division's World Population Prospects database. In cases where the official health sector workforce report provides density indicators instead of counts, stock estimates were calculated using the estimated population in the United Nations Population Division's world population database (2017). </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="en"><![CDATA[ <p> Indicators from various national and global guiding documents have been mapped and incorporated into a single framework of sector indicators to facilitate monitoring and evaluation of the performance and commitments of government and cooperation partners. At the same time, in the scope of strengthening the information system, the process of establishing interoperability between information systems in the sector is underway with a view to maximizing production, fluidity, availability, accessibility, visibility, analysis of global information data for the decision making. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="en"><![CDATA[ <p> The Observatory of Human Resources for Health of Mozambique (ORHS), played a major role in improving the HRH information system (eSIPSaúde), by promoting the use of information technologies for data analysis and in supporting the technicians of the DRH at the country level, in the use of tools (Excel), as well as in the creation of competence in the analysis of data quality. SIP-Saúde helps to improve data quality, analyze, validate and prepare reports. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Data available annually and disaggregated by province </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[ <p> Internationally comparable </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[ <p> MISAU-eSIP Saúde, Annual report of the DRH, Population projections of the National Statistics Institute </p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

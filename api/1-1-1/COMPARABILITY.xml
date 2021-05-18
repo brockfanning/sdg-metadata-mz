@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 1-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The assessment of monetary poverty in Mozambique is based on consumption, although we use the international poverty line in this indicator, taking into account purchasing power parity, the indicator may not be comparable with other countries &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A avaliação de pobreza monetária em Moçambique é feita com base no consumo, embora utilizemos a linha da pobreza internacional neste indicador, tendo em conta a paridade de poder de compra, o indicador pode não ser comparável com os outros países&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

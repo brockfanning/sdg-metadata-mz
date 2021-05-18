@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_RELATED_INDICATORS field for indicator 3-a-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;h1&gt; 3.4.1 Mortality rate attributed to cardiovascular diseases, cancer, diabetes and chronic respiratory diseases &lt;/h1&gt;
+			</language>
+			<language lang="pt">&lt;h1&gt;3.4.1 Taxa de mortalidade atribuída a doenças cardiovasculares, câncer, diabetes e doenças respiratórias crônicas&lt;/h1&gt;
+			</language>
+</languages>
+</data>
+</root>

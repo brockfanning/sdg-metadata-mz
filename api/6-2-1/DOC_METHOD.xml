@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DOC_METHOD field for indicator 6-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; In the production and compilation of data, methodologies recommended by the United Nations were used in &lt;strong&gt; &lt;em&gt; Principles and Recommendations of the Population and Housing Censuses (ST / ESA / STAT / SER.M / 67 / Rer.3)
+			</language>
+			<language lang="pt">&lt;p&gt;Na produção e compilação de dados, usou-se metodologias recomendadas pelas Nações Unidas nos &lt;strong&gt;&lt;em&gt;Princípios e Recomendações dos Censos da População e Habitação (ST/ESA/STAT/SER.M/67/Rer.3)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

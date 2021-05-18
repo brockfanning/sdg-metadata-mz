@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 1-1-1, translated into en</message>
+	<data> &lt;p&gt; The assessment of consumption poverty in Mozambique is based on the Basic Needs Cost approach, in which a poverty line is derived that includes food and non-food consumption. To calculate poverty we use the Foster, Greer and Thorbecke (FGT) indices, so for this indicator, we use the following Poverty Incidence Index: &lt;/p&gt;
+ &lt;p&gt; Where: &lt;/p&gt;
+ &lt;p&gt; Specifically for this indicator, we use the international poverty line of $ 1.90 dollars a day, at international prices in 2011, and we adjust it taking into account the GDP in Mozambique PPP in the years of the Survey (2014 and 2015). Then we calculated the Poverty Index taking into account the international poverty line. &lt;/p&gt;
+ &lt;p&gt; &lt;a href=&quot;https://databank.worldbank.org/source/world-development-indicators&quot; target=&quot;_blank&quot;&gt; https://databank.worldbank.org/source/world-development-indicators &lt;/a&gt;. &lt;/p&gt;</data>
+</root>

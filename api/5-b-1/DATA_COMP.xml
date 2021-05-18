@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 5-b-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Countries can collect data on this indicator through national household surveys. This indicator is calculated by dividing the total number of people in the scope who have a cell phone by the total number of people in the scope. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Os países podem recolher dados sobre este indicador por meio dos inquéritos aos agregados familiares nacionais. Este indicador é calculado dividindo o número total de pessoas no escopo que possuem um telefone celular pelo número total de pessoas no escopo.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

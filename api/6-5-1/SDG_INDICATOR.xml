@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 6-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 6.5.1 Degree of implementation of integrated water resources management (0-100) &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;6.5.1 Grau de implementação da gestão integrada de recursos hídricos (0-100)&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

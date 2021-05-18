@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 3-3-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The recommended data sources for calculating this indicator are Household Surveys. &lt;/p&gt;
+ &lt;p&gt; At IMASIDA, four questionnaires were used: &lt;/p&gt;
+ &lt;p&gt; - Questionnaire for households; &lt;/p&gt;
+ &lt;p&gt; - Individual questionnaire for young and adult women aged 15-59 years; &lt;/p&gt;
+ &lt;p&gt; - Individual questionnaire for young men and adults aged 15-59 years and &lt;/p&gt;
+ &lt;p&gt; - Biometry questionnaire for men and women aged 15-59 years. &lt;/p&gt;
+ &lt;p&gt; The four questionnaires were subsequently determined based on the findings of the pre-test of the survey, carried out between 14 April and 11 May 2014 &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;As fontes de dados recomendadas para calcular este indicador são os Inquéritos aos Agregados Familiares. &lt;/p&gt;
+&lt;p&gt;No IMASIDA, foram usados quatro questionários: &lt;/p&gt;
+&lt;p&gt;- Questionário para agregados familiares; &lt;/p&gt;
+&lt;p&gt;- Questionário individual para mulheres jovens e adultas de 15-59 anos; &lt;/p&gt;
+&lt;p&gt;- Questionário individual para homens jovens e adultos de 15-59 anos e &lt;/p&gt;
+&lt;p&gt;- Questionário de biometria para homens e mulheres de 15-59 anos. &lt;/p&gt;
+&lt;p&gt;Os quatro questionários foram posteriormente apurados com base nas constatações do pré-teste do inquérito, realizado entre 14 de Abril e 11 de Maio de 2014&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

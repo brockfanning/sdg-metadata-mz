@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 3-3-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The incidence of malaria (1) is expressed as the number of new cases per 100,000 inhabitants per year, the total risk proportion being estimated by the country&apos;s National Malaria Control Program &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A incidência de malária (1) é expressa como o número de novos casos por 100.000 habitantes por ano, sendo a proporção total de risco estimada pelo Programa Nacional de Controle da Malária do país&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_VALIDATION field for indicator 16-3-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; After data collection, they are inserted in the Penitentiary Information Management System (GIP), which is a platform for prison management where all inmates&apos; information is recorded, from their entry to the establishment until the end of their sentence, done this information is sent to the Department for its validation following the following sequence technicians, head of department and finally Director. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Após a recolha de dados, os mesmos são inseridos no Sistema de Gestão de Informação Penitenciária (GIP) que e uma plataforma para gestão reclusoria onde é registada toda informação dos reclusos, desde a sua entrada no estabelecimento até ao termino da sua pena, feito isso a informação é enviada ao Departamento para a sua validação seguindo a seguinte sequencia técnicos, chefe de departamento e por fim Director.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The RATIONALE field for indicator 3-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Mortality rates among young children are indicators of public health monitoring because it reflects the access of children and communities to basic health interventions, such as vaccination, medical treatment of infectious diseases and adequate nutrition. &lt;/p&gt;
+ &lt;p&gt; The indicator shows the number of live born deaths that die before reaching 28 days in every 1000 live births &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;As taxas de mortalidade entre crianças menores são indicadores de acompanhamento da saúde pública porque reflete o acesso de crianças e comunidades a intervenções básicas de saúde, como vacinação, tratamento médico de doenças infecciosas e nutrição adequada.&lt;/p&gt;
+&lt;p&gt;O indicador mostra o número de óbitos nascidos vivos que morrem antes de completar 28 dias em cada 1000 crianças nascidas vivas&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

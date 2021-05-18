@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:24.048Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="c19aaf90-752a-4980-ac21-6e6bb2610946">
+    <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>IT_USE_II99</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Estatísticas Demográficas, Vitais e Sociais</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="pt"><![CDATA[<p>17. REFORÇAR OS MEIOS DE IMPLEMENTAÇÃO E REVITALIZAR A PARCERIA GLOBAL PARA O DESENVOLVIMENTO SUSTENTÁVEL</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="pt"><![CDATA[<p>17.8 Operacionalizar plenamente o Banco de Tecnologia e o mecanismo de capacitação em ciência, tecnologia e inovação para os países menos desenvolvidos até 2017, e aumentar o uso de tecnologias de capacitação, em particular das tecnologias de informação e comunicação</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="pt"><![CDATA[<p>17.8.1 Percentagem da população por uso de internet nos últimos 3 meses</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem da população por uso de internet nos últimos 3 meses</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>08/10/2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>INSTITUTO NACIONAL DE ESTATISTICA</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="pt"><![CDATA[<p>Teixeira Mandlate, Maria Alfeu e João Mangue</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Tecnicos</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="pt"><![CDATA[<p>+258 844386629; +258 823032619; +258 827679480</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p>www.ine.gov.mz</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:Teixeira.mandlate@ine.gov.mz">Teixeira.mandlate@ine.gov.mz</a>; <a href="mailto:maria.alfeu@ine.gov.mz">maria.alfeu@ine.gov.mz</a>; <a href="mailto:joao.mangue@ine.gov.mz">joao.mangue@ine.gov.mz</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador é definido como a proporção de indivíduos de 3 anos e mais que usou internet nos últimos 3 meses anteriores a data de referência do Censo</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Recenseamento Geral da População e Habitação</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>A proporção indicativa de pessoas que usam a Internet é baseada numa definição e metodologia acordadas internacionalmente, que foram desenvolvidas sob a coordenação da ITU, por meio de seus Grupos de Peritos e após um extenso processo de consulta com os países. É também um indicador central da Lista de Indicadores Principais da Parceria em Medição das TIC para o Desenvolvimento, que foi endossada pela Comissão de Estatística da ONU (em 2014). Os dados de indivíduos que usam a Internet são recolhidos por meio de inquéritos às famílias e através do Recenseamento geral da população e habitação. Registos administrativos constituem uma fonte alternativa</p>
+<p>Este indicador é calculado dividindo o número total de pessoas no escopo que acessaram a internet pelo número total de pessoas no escopo.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="pt"><![CDATA[<p>2027</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="pt"><![CDATA[<p>2029</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="pt"><![CDATA[<p>INE, MTC</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="pt"><![CDATA[<p>INE</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Lei 7/96 de 5 de Julho</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="pt"><![CDATA[<p>A Internet tornou-se uma ferramenta cada vez mais importante de acesso informações públicas, um meio relevante para proteger as liberdades fundamentais. O número de usuários da Internet aumentou substancialmente na última década e o acesso à Internet mudou a maneira como as pessoas vivem, se comunicam, trabalham e fazem negócios. A adopção da Internet é um indicador chave para os formuladores de políticas e outros para medir o desenvolvimento da sociedade da informação e o crescimento do conteúdo da Internet - incluindo conteúdo gerado pelo usuário - fornece acesso a quantidades crescentes de informações e serviços. Apesar do crescimento em redes, serviços e aplicativos, o acesso e o uso das tecnologias da informação e comunicação (TIC) ainda estão longe de serem distribuídos equitativamente, e muitas pessoas ainda não podem se beneficiar do potencial da Internet. Este indicador destaca a importância do uso da Internet como facilitador do desenvolvimento e ajuda a medir o fosso digital, que, se não for abordado adequadamente, agravará as desigualdades em todos os domínios de desenvolvimento. Variáveis usadas para classificar indivíduos que usam a Internet - como idade, sexo, nível de escolaridade ou status de emprego - podem ajudar a identificar disparidades digitais em indivíduos que usam a Internet. Essas informações podem contribuir para o desenho de políticas direcionadas para superar essas disparidades. A proporção de pessoas que usam a Internet é um indicador estabelecido e também um dos três indicadores dos Objectivos de Desenvolvimento do Milênio (ODM) relacionados com as TIC (para a Meta 8F). Faz parte da Lista Principal de Indicadores da Parceria para Medição das TIC para o Desenvolvimento, que foi endossada pela Comissão de Estatística da ONU (em 2014). Ele também está incluído no Índice de Desenvolvimento de TIC da ITU e, portanto, é considerado uma medida chave para comparações internacionais de desenvolvimentos de TIC.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="pt"><![CDATA[<p>Embora os dados sobre a percentagem de pessoas que usam a Internet sejam muito fiáveis para os países que recolhem os dados por meio de inquéritos aos agregados familiares oficiais, eles são menos fiáveis nos casos em que o número de usuários da Internet é estimado pela ITU. A ITU está incentivando todos os países a recolher dados sobre este indicador por meio de inquéritos oficiais e o número de países com dados oficiais para esse indicador tem aumentado.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador é calculado dividindo o número total de pessoas no escopo que usam a Internet (de qualquer local) nos últimos 3 meses anteriores a data de referência do Censo pelo número total de pessoas no escopo.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>O trabalho de campo contou com estreita supervisão e controle de qualidade por parte dos técnicos do INE Central como das Delegações Provinciais. Além disso, durante a recolha de dados foi estabelecido um rigoroso controlo a nível de cada equipa sobre o processo de recolha, mediante a detecção de erros por parte da crítica de campo, o que permitiu a correcção imediata ainda no terreno. A nível da coordenação central, os críticos de dados fizeram revisão adicional dos dados da base e os problemas encontrados eram comunicados às respectivas equipas. </p>
+<p>O processamento interactivo e por lotes de informação permitiu, ainda, a nível central, a obtenção periódica de resultados parciais, para análise dos dados recolhidos até dado momento, mediante a produção de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabulações foram reportados em retro alimentação aos inquiridores, assegurando a qualidade dos dados.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>Este é um indicador da UIT recém-desenvolvido que foi aprovado pelo Simpósio Mundial de Telecomunicações / Indicadores de TIC (WTIS) de 2014. A definição e a metodologia do indicador foram desenvolvidas sob a coordenação da UIT, por meio de seus Grupos de Peritos e após um extenso processo de consulta com os países. A principal fonte de dados são os registos administrativos, inquéritos às famílias (IOF e FinScope) e Recenseamento Geral da População e Habitação.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de gestão de qualidade ainda por aprovar</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente nos agregados familiares.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de avaliação de qualidade ainda por aprovar</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados são disponibilizados de 5 em 5 anos e são desagregados por sexo, idade, área de residência rural e urbana, provincial e país</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="pt"><![CDATA[<p>A definição e a metodologia do indicador foram desenvolvidas sob a coordenação da UIT, por meio de seus Grupos de Peritos e após um extenso processo de consulta com os países</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Saúde (MISAU), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; </p>
+<p>Instituto Nacional de Estatística (INE), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>;</p>
+<p>ICF Internacional (ICFI), <a href="http://www.measuredhs.com">www.measuredhs.com</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

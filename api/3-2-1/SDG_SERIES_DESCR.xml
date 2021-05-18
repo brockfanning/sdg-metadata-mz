@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 3-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Mortality of children under 5 years old (Deaths per 1000 live births) &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Mortalidade de crianças menores de 5 anos (Mortes por 1000 nascimentos vivos)&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

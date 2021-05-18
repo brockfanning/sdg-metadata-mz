@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPILING_ORG field for indicator 1-3-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Ministry of Gender, Children and Social Action &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Ministério do Género, Criança e Acção Social&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 14-3-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; pH data collected in situ during oceanographic expeditions in the Mozambique Channel using electronic CTD type probes equipped with pH sensors. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Dados de pH colhidos in situ durantes expedições oceanográficas no Canal de Moçambique com recursos a sondas electrónicas tipo CTD equipados com sensores de pH. &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

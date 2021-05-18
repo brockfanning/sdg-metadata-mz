@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 5-b-1, translated into en</message>
+	<data> &lt;p&gt; This indicator is defined as the &quot;proportion of individuals aged 3 years and over who have a cell phone, by sex, area of residence and province&quot;. &lt;/p&gt;
+ &lt;p&gt; An individual is the holder of a cell phone if he / she has a cell phone device with at least one active SIM card for personal use. Mobile cell phones provided by employers that can be used for personal reasons (to make personal calls, access the Internet, etc.) are included. Individuals who have only active SIM card (s) and not a cell phone device are excluded. Also included are individuals who have a cell phone for personal use that is not registered in their name. It is considered an active SIM card if it is a SIM card used in the last three months. A mobile phone (cell phone) refers to a portable phone through which you subscribe to a public mobile phone service using cellular technology, which provides access to PSTN. This includes analog and digital cellular systems and technologies, such as IMT-2000 (3G) and IMT-Advanced. Postpaid phone users and prepaid accounts are included. &lt;/p&gt;</data>
+</root>

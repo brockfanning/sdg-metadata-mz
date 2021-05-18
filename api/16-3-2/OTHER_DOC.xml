@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The OTHER_DOC field for indicator 16-3-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; &lt;a href=&quot;https://www.sernap.gov.mz/SGIP/aa0a8bc8-2f75-4c07-b249-25e76130e414/Log.aspx&quot;&gt; https://www.sernap.gov.mz/SGIP/aa0a8bc8-2f75-4c07-b249-25e76130e414/Log.aspx &lt;/a&gt;, a0679c9a6a6dz43
+			</language>
+			<language lang="pt">&lt;p&gt;&lt;a href=&quot;https://www.sernap.gov.mz/SGIP/aa0a8bc8-2f75-4c07-b249-25e76130e414/Log.aspx&quot;&gt;https://www.sernap.gov.mz/SGIP/aa0a8bc8-2f75-4c07-b249-25e76130e414/Log.aspx&lt;/a&gt;, &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

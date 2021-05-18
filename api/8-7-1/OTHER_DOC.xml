@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The OTHER_DOC field for indicator 8-7-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; National Statistics Institute (INE), &lt;a href=&quot;http://www.misau.gov.mz&quot;&gt; www.misau.gov.mz &lt;/a&gt;; Ministry of Labor, Employment and Social Security (MITESS), &lt;a href=&quot;http://www.mitess.gov.mz&quot;&gt; www.mitess.gov.mz &lt;/a&gt;; &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Instituto Nacional de Estatística (INE), &lt;a href=&quot;http://www.misau.gov.mz&quot;&gt;www.misau.gov.mz&lt;/a&gt;; Ministério do Trabalho, Emprego e Segurança Social (MITESS), &lt;a href=&quot;http://www.mitess.gov.mz&quot;&gt;www.mitess.gov.mz&lt;/a&gt;;&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_EMAIL field for indicator 8-9-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; &lt;a href=&quot;mailto:perpetua.mendoca@ine.gov.mz&quot;&gt; perpetua.mendoca@ine.gov.mz &lt;/a&gt;; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;&lt;a href=&quot;mailto:perpetua.mendoca@ine.gov.mz&quot;&gt;perpetua.mendoca@ine.gov.mz&lt;/a&gt;; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

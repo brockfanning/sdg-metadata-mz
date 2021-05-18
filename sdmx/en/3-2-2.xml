@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:25.284Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="a1a0e789-4be2-4f77-940a-42bdc23a4390">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_DYN_NMRT</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of Demographic, Vital and Social Statistics </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"><![CDATA[ <p> 3 GUARANTEE ACCESS TO QUALITY HEALTH AND PROMOTE WELFARE FOR ALL </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[ <p> 3.2 By 2030, end preventable deaths of newborns and children under 5 in all countries with the aim of reducing neonatal mortality to at least 12 per 1,000 live births and the mortality of children under 5 to at least 25 per 1,000 live births </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[ <h1> 3.2.2 Neonatal mortality rate </h1>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="en"><![CDATA[ <p> Neonatal mortality as a percentage </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[ <p> 10/9/2020 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[ <p> NATIONAL INSTITUTE OF STATISTICS </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[ <p> Teixeira Mandlate, Maria Alfeu and João Mangue </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"><![CDATA[ <p> Technicians </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 844386629; +258 823032619; +258 827679480 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="en"><![CDATA[ <p> www.ine.gov.mz </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Teixeira.mandlate@ine.gov.mz"> Teixeira.mandlate@ine.gov.mz </a>; <a href="mailto:maria.alfeu@ine.gov.mz"> maria.alfeu@ine.gov.mz </a>; <a href="mailto:joao.mangue@ine.gov.mz"> joao.mangue@ine.gov.mz </a> </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[ <p> The neonatal mortality rate is the probability that a child born in a specific year or period will die during the first 28 full days of life, subject to age-specific mortality rates for that period, expressed per 1,000 live births </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[ <p> percentage </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Statistics Portugal, Demographic and Health Survey (IDS); Statistics Portugal, General Population and Housing Census </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are Household Surveys. The Demographic and Health Survey data collection questionnaire was designed and subsequently tested in the field during the training of interviewers. </p>
+ <p> For data collection, the methodology of interviews was applied face to face to the households, applying three types of questionnaires: </p>
+ <p> • Household Questionnaire </p>
+ <p> • Women's Questionnaire </p>
+ <p> • Men's Questionnaire. </p>
+ <p> The Sample Design </p>
+ <p> The Demographic and Health Survey comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. </p>
+ <p> The data collection lasted for five months starting in June 2011, ending in November 2011. </p>
+ <p> Response rate </p>
+ <p> Of the 13.964 households interviewed in the survey, a total of 13.871 eligible women were identified. Interviews were conducted with 13,718 of these women, which resulted in a response rate of 99%. Introduction • 13 In one third of the IDS household sample, interviews were also conducted with all eligible men found. Thus, of the 4,130 eligible men identified in the subsample of households selected for the men survey, 4,027 were successfully interviewed, giving a response rate of 98% </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[ <p> 2021 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[ <p> 2022 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[ <p> National Institute of Statistics </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Law 7/96 of 5 July </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Mortality rates among young children are indicators of public health monitoring because it reflects the access of children and communities to basic health interventions, such as vaccination, medical treatment of infectious diseases and adequate nutrition. </p>
+ <p> The indicator shows the number of live born deaths that die before reaching 28 days in every 1000 live births </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="en"><![CDATA[ <p> Mortality rates among young children are a key indicator of measuring child health and well-being and, more broadly, for social and economic development. It is an indicator of public health monitoring because it reflects the access of children and communities to basic health interventions, such as vaccination, medical treatment of infectious diseases and adequate nutrition. </p>
+ <p> The under-five mortality rate, as defined here, is not, strictly speaking, a rate (that is, the number of deaths divided by the number of populations at risk over a given period of time), but a probability of death derived from a life table and expressed as a fee per 1000 live births. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator is calculated by dividing the total number of deaths in children less than 28 days old during the period under analysis, by the total number of births, multiplied by 1000 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[ <p> The field work had close supervision and quality control by the central and provincial technicians, both from INE, MISAU and ICF International staff. In addition, during the data collection, a strict control was established at the level of each team over the collection process, by detecting errors by the field critics, which allowed for immediate correction still on the ground. At the level of central coordination, the data critics carried out a further review of the base data and the problems encountered were communicated to the respective teams. </p>
+ <p> The interactive and batch processing of information through the CSPro program also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the interviewers, ensuring data quality. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="en"><![CDATA[ <p> The Demographic and Health Survey (IDS) in Mozambique is part of an international survey program (MEASURE DHS) developed by ICF International through a contract with USAID, with the purpose of supporting governments and private institutions in developing countries in conducting national surveys by sampling, in the areas of population and health. The MEASURE DHS Program aims to: </p>
+ <p> • Support the formulation of policies and implementation of programs in the areas of population and health; </p>
+ <p> • Increase the international population and health data base for monitoring and evaluation; </p>
+ <p> • Improve the survey methodology by sampling, and </p>
+ <p> • Consolidate, in the survey area, the technical capacity of the executing institution in the country participating in the Program. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="en"><![CDATA[ <p> Quality Management Instrument still to be approved </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="en"><![CDATA[ <p> The interactive and batch processing of information through the CSPro program also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the interviewers, ensuring data quality. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="en"><![CDATA[ <p> Quality Assessment Instrument still to be approved </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available every 5 years and can be broken down by rural and urban area of residence, province and country </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[ <p> Survey estimates are based on standardized methodology, using the WHO Child Growth Standards, as described in (Ref: Anthro software manual). Global and regional estimates are based on the methodology described at UNICEF-WHO, World Bank: Joint estimates of child malnutrition - Levels and trends (UNICEF / WHO / BM) </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health (MISAU), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+ <p> National Statistics Institute (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+ <p> ICF International (ICFI), <a href="http://www.measuredhs.com"> www.measuredhs.com </a> </p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

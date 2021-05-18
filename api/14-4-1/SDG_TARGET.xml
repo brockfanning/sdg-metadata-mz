@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 14-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 14.4 By 2020, effectively regulate collection, and end illegal, unreported and unregulated overfishing and destructive fishing practices, and implement scientifically based management plans to restore fish populations in the least possible time, at least at levels that can produce maximum sustainable yield, as determined by their biological characteristics &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;14.4 Até 2020, regular efetivamente a recolha, e acabar com a sobrepesca ilegal, não reportada e não regulamentada e as práticas de pesca destrutivas, e implementar planos de gestão numa base científica, para restaurar populações de peixes em menos tempo possível, pelo menos a níveis que possam produzir rendimento máximo sustentável, como determinado por suas características biológicas&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

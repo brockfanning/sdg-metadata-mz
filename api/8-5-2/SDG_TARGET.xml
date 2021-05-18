@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 8-5-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 8.5 By 2030, achieve full and productive employment and decent work for all women and men, including young people and people with disabilities, and equal pay for work of equal value &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;8.5 Até 2030, alcançar o emprego pleno e produtivo e trabalho decente todas as mulheres e homens, inclusive para os jovens e as pessoas com deficiência, e remuneração igual para trabalho de igual valor&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The RATIONALE field for indicator 6-5-1, translated into pt</message>
+	<data>&lt;p&gt;O indicador fornece uma medida directa do progresso da implementação da gestão integrada dos recursos hídricos. A pontuação percentual fornece uma maneira fácil e compreensível de medir o progresso em direção à meta, com &apos;0&apos; interpretado como nenhuma implementação da GIRH e &apos;100&apos; interpretado como GIRH sendo totalmente implementado. Os resultados do indicador podem ser classificados de maneira semelhante às perguntas da pesquisa: &lt;/p&gt;
+&lt;p&gt;Grau de implementação =&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Muito baixo (0-9,9)&lt;/li&gt;
+  &lt;li&gt;Baixo (10-29,9)&lt;/li&gt;
+  &lt;li&gt;Médio-baixo (30-49,9)&lt;/li&gt;
+  &lt;li&gt;Médio-alto (50-69,9)&lt;/li&gt;
+  &lt;li&gt;Alto (70-89,9)&lt;/li&gt;
+  &lt;li&gt;Muito alto (90-100)&lt;/li&gt;
+&lt;/ul&gt;</data>
+</root>

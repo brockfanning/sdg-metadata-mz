@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_PHONE field for indicator 9-5-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Take Wilson: +258 849136315 &lt;/p&gt;
+ &lt;p&gt; Innocence Pale: + 258 847093829/827111410 &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Tome Wilson: +258 849136315&lt;/p&gt;
+&lt;p&gt;Inocência Pale: + 258 847093829/ 827111410&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

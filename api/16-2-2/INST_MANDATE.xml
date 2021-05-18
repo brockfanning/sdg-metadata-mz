@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The INST_MANDATE field for indicator 16-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; By Resolution number 8/2018, of March 21, article 15, paragraph e) that approves the Organic Statute of the Ministry of Interior (MINT), which, among other duties of the Planning, Study and Documentation Directorate, directs and controls the process of collecting, processing, analyzing and inferring statistical information. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Pela Resolução número 8/2018, de 21 de Março, artigo 15, alínea e) que aprova o Estatuto Orgânico do Ministério do Interior (MINT), o qual, dentre outras atribuições da Direcção de Planificação, Estudo e Documentação, dirige e controla o processo de recolha, tratamento, análise e inferência da informação estatística.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

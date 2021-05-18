@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The RATIONALE field for indicator 9-5-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; This indicator measures the effort undertaken by full-time researchers in a given year in every 1 million inhabitants. Expresses the number of full-time equivalent researchers per 1 million inhabitants. &lt;/p&gt;
+ &lt;p&gt; For example, the effort made by a number of (200) researchers and in a given year, can be equivalent to the work done by 80 professionals working full time in R&amp;D. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Este indicador mede o esforço empreendido pelos investigadores a tempo inteiro num dado ano em cada 1 milhão de habitantes. Expressa o número de investigadores equivalentes a tempo inteiro em cada 1 milhão de habitantes.&lt;/p&gt;
+&lt;p&gt;Por exemplo, o esforço desenvolvido por um número de (200) Investigadores e num dado ano, pode ser equivalente ao trabalho desenvolvido por 80 profissionais a trabalharem a tempo inteiro na I&amp;D.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

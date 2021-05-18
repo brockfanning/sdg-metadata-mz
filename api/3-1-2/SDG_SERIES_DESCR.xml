@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 3-1-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Births attended by qualified health personnel as a percentage &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Partos assistidos por pessoal de saúde qualificado em percentagem&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

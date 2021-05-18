@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CLASS_SYSTEM field for indicator 15-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Classifications are not used. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Não são utilizadas classificações.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

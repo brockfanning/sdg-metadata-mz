@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_GOAL field for indicator 7-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 7. GUARANTEE ACCESS TO RELIABLE, SUSTAINABLE AND MODERN ENERGY SOURCES FOR ALL &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;7. GARANTIR O ACESSO A FONTES DE ENERGIA FIÁVEIS, SUSTENTÁVEIS E MODERNAS PARA TODOS&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SOURCE_TYPE field for indicator 8-9-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The indicator comes from the countries&apos; Tourism Satellite Account, which is a satellite account for National Accounts &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;O indicador é proveniente da Conta Satélite do Turismo dos países, que é uma conta satélite para as Contas Nacionais&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

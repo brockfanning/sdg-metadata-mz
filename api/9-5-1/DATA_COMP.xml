@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 9-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; This indicator is obtained by the ratio between the Gross Expenditure on Scientific Research and Experimental Development and the GDP of a given year, multiplied by 100% &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Este indicador obtém-se pela razão entre a Despesa Bruta na Investigação Científica e Desenvolvimento Experimental e o PIB de um dado ano, multiplicado por 100%&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

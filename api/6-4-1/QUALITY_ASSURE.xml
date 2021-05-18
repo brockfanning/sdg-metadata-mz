@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_ASSURE field for indicator 6-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Meetings with the main players in the integrated water resources management process for data collection and analysis of its consistency. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Realização de encontros com os principais intervenientes no processo de gestão integrada de recursos hídricos para a recolha de dados e análise da sua consistência.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

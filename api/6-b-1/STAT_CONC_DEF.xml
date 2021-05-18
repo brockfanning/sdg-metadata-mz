@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 6-b-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The indicator assesses the percentage of local administrative units that have an established and operational mechanism for decisions and guidelines on water and sanitation management. Local administrative units refer to districts, municipalities or other local units of the community that cover urban and rural areas to be defined by the Government &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;O indicador avalia a percentagem de unidades administrativas locais que possuem um mecanismo estabelecido e operacional para decisões e orientações sobre a gestão de água e saneamento. As unidades administrativas locais referem-se a distritos, municípios ou outras unidades locais da comunidade que cobrem áreas urbanas e rurais a serem definidas pelo Governo&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

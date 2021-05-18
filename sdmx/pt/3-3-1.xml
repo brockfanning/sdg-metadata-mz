@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:25.511Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="c8730430-d41d-4532-90ef-c54b161d8077">
+    <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_HIV_INCD</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Estatísticas Demográficas, Vitais e Sociais</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="pt"><![CDATA[<p> 3 GARANTIR O ACESSO À SAÚDE DE QUALIDADE E PROMOVER O BEM-ESTAR PARA TODOS</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="pt"><![CDATA[<p>3.3 Até 2030, acabar com as epidemias de AIDS, tuberculose, malária e doenças tropicais negligenciadas, e combater a hepatite, doenças transmitidas pela água, e outras doenças transmissíveis</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="pt"><![CDATA[<h1>3.3.1 Número de novas infecções de HIV por 1000 habitantes não-infectados</h1>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="pt"><![CDATA[<p>Número de novas infecções de HIV por 1000 habitantes não-infectados</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>23/10/2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>INSTITUTO NACIONAL DE ESTATISTICA</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="pt"><![CDATA[<p>Teixeira Mandlate, Maria Alfeu e João Mangue</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Técnicos</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="pt"><![CDATA[<p>+258 844386629; +258 823032619; +258 827679480</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p>www.ine.gov.mz</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:Teixeira.mandlate@ine.gov.mz">Teixeira.mandlate@ine.gov.mz</a>; <a href="mailto:maria.alfeu@ine.gov.mz">maria.alfeu@ine.gov.mz</a>; <a href="mailto:joao.mangue@ine.gov.mz">joao.mangue@ine.gov.mz</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="pt"><![CDATA[<p>Refere-se ao número de pessoas que contraíram novas infecções por HIV por 1.000 pessoas não infectadas, por sexo, idade</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="pt"><![CDATA[<p>MISAU, Inquérito de Indicadores de Imunização, Malária e HIV/SIDA em Moçambique (IMASIDA)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>As fontes de dados recomendadas para calcular este indicador são os Inquéritos aos Agregados Familiares. </p>
+<p>No IMASIDA, foram usados quatro questionários: </p>
+<p>- Questionário para agregados familiares; </p>
+<p>- Questionário individual para mulheres jovens e adultas de 15-59 anos; </p>
+<p>- Questionário individual para homens jovens e adultos de 15-59 anos e </p>
+<p>- Questionário de biometria para homens e mulheres de 15-59 anos. </p>
+<p>Os quatro questionários foram posteriormente apurados com base nas constatações do pré-teste do inquérito, realizado entre 14 de Abril e 11 de Maio de 2014</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="pt"><![CDATA[<p>2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="pt"><![CDATA[<p>2022</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estatística</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estatística</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Lei 7/96 de 5 de Julho</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de incidência fornece uma medida de monitoria na prevenção da transmissão progressiva do HIV</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="pt"><![CDATA[<p>Dados longitudinais sobre indivíduos são a melhor fonte de dados, mas raramente estão disponíveis para grandes populações. Testes de diagnóstico especiais em inquéritos ou em unidades de saúde podem ser usados para obter dados sobre a incidência do HIV. A incidência do HIV é modelada usando o software Spectrum.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de incidência é fornecida pela razão entre o número de novos casos de HIV e o número de pessoas em risco</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>O trabalho de campo contou com estreita supervisão e controle de qualidade por parte dos técnicos centrais e provinciais, tanto do INE como do MISAU e do pessoal da ICF International. Além disso, durante a recolha de dados foi estabelecido um rigoroso controlo a nível de cada equipa sobre o processo de recolha, mediante a detecção de erros por parte da crítica de campo, o que permitiu a correcção imediata ainda no terreno. A nível da coordenação central, os críticos de dados fizeram revisão adicional dos dados da base e os problemas encontrados eram comunicados às respectivas equipas. </p>
+<p>O processamento interactivo e por lotes de informação através do programa CSPro permitiu, ainda, a nível central, a obtenção periódica de resultados parciais, para análise dos dados recolhidos até dado momento, mediante a produção de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabulações foram reportados em retro alimentação às inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>O O Inquérito de Indicadores de Imunização, Malária e HIV/SIDA em Moçambique (IMASIDA) faz parte de um programa internacional de inquéritos (MEASURE DHS) desenvolvido pelo ICF International através de um contrato com a USAID, com o propósito de apoiar aos governos e instituições privadas dos países em desenvolvimento na realização de inquéritos nacionais por amostragem, nas áreas de população e saúde. O Programa MEASURE DHS tem por objectivo: </p>
+<p>• Subsidiar a formulação de políticas e implementação de programas nas áreas de população e saúde; </p>
+<p>• Aumentar a base internacional de dados sobre população e saúde para acompanhamento e avaliação; </p>
+<p>• Aprimorar metodologia de inquérito por amostragem, e </p>
+<p>• Consolidar, na área de inquérito, a capacidade técnica da instituição executora no país participante do Programa.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Gestão de Qualidade ainda por aprovar</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>O processamento interactivo e por lotes de informação através do programa CSPro permitiu, ainda, a nível central, a obtenção periódica de resultados parciais, para análise dos dados recolhidos até dado momento, mediante a produção de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabulações foram reportados em retro alimentação às inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Avaliação de Qualidade ainda por aprovar</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados são disponibilizados de 5 em 5 anos e podem ser desagregados por sexo, área de residência rural e urbana, província e país</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="pt"><![CDATA[<p>No processo de tratamento de dados, foram aplicados procedimentos padrão do Programa DHS para inquéritos CAFE4 . A introdução do CAFE no IMASIDA 2015 garantiu o início da edição dos questionários em campo, através do uso de um computador portátil. Depois de preencherem os questionários em papel e concluírem todas as entrevistas no agregado familiar, os inquiridores e técnicos de saúde entregavam os questionários ao digitador de campo. O digitador de campo, em conjunto com a controladora de equipa, revia os questionários e, em seguida, fazia a digitação dos mesmos no programa Census and Survey Process (CsPro) versão 4.0. Este processo de digitação em campo permitiu a detecção de inconsistências ou omissões nos questionários, bem como a correcção dos mesmos ainda no terreno, com a presença da equipa no conglomerado</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministerio da Saude (MISAU), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; </p>
+<p>Instituto Nacional de Estatística (INE), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; </p>
+<p>ICF International (ICFI), <a href="http://www.measuredhs.com">www.measuredhs.com</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

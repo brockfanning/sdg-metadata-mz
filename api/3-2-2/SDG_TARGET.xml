@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 3-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 3.2 By 2030, end preventable deaths of newborns and children under 5 in all countries with the aim of reducing neonatal mortality to at least 12 per 1,000 live births and the mortality of children under 5 to at least 25 per 1,000 live births &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;3.2 Até 2030, acabar com as mortes evitáveis de recém-nascidos e crianças menores de 5 anos, em todos os países objetivando reduzir a mortalidade neonatal para pelo menos 12 por 1.000 nascidos vivos e a mortalidade de crianças menores de 5 anos para pelo menos 25 por 1.000 nascidos vivos&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

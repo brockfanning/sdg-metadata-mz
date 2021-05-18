@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_ASSURE field for indicator 17-8-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; For data collection, the methodology of face-to-face interviews in households was applied. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente nos agregados familiares.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

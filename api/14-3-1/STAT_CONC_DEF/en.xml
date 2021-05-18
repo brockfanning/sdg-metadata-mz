@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 14-3-1, translated into en</message>
+	<data> &lt;p&gt; Definition: Ocean acidification is the reduction in the pH of the ocean over a prolonged period, typically decades or more, caused mainly by the absorption of carbon dioxide from the atmosphere. &lt;/p&gt;
+ &lt;p&gt; Concept: Ocean acidification is caused by an increase in the amount of CO &lt;sub&gt; 2 &lt;/sub&gt; atmospheric dissolved in sea water. The average marine acidity, the concentration of hydrogen ions on a logarithmic scale, is expressed in pH. In order to restrict the carbonate chemistry of seawater, it is necessary to measure at least two of the four parameters, ie pH, pCO &lt;sub&gt; 2 &lt;/sub&gt;, DIC (CT) and TA (AT). pH (the concentration of hydrogen ions on a logarithmic scale, expressed in full scale), DIC (total dissolved inorganic carbon, in μmol kg-1), pCO &lt;sub&gt; 2 &lt;/sub&gt; (partial pressure of carbon dioxide, in ppt or μatm) and TA (TA, total alkalinity, in μmol kg-1). &lt;/p&gt;</data>
+</root>

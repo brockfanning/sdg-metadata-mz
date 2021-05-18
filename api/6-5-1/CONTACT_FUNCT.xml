@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_FUNCT field for indicator 6-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Head of Department &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Chefe de Departamento&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

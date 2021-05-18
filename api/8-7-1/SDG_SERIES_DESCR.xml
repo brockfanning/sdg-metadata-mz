@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 8-7-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Percentage and number of children from 5 to 17 years old performing child labor, by sex, age group &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Percentagem e número de crianças de 5 a 17 anos executando trabalho infantil, por sexo, faixa etária&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

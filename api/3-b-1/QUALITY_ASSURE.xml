@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_ASSURE field for indicator 3-b-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; During the data collection activities, several levels of quality control were applied. The first level consisted of identifying the AEs by checking the reference maps or sketches, followed by confirming the AE at the central level, using data sent from computers equipped with a GPS system and online in the field. The first level of quality control helped to identify the central point of each enumeration area with a margin of error of ten meters from the center of the enumeration area. The second level of quality control consisted of checking the questionnaires by the team&apos;s controller and the field typist, after filling in the questioner, checking for inconsistencies and following the filters through the programming done in the CsPro program in the field and double typing process typing and critical analysis at the central level (central typing). &lt;/p&gt;
+ &lt;p&gt; Throughout the data processing process, standard DHS Program procedures for CAFE6 surveys were applied. The introduction of CAFE at IMASIDA 2015 ensured that the questionnaires started to be edited in the field, using a portable computer. After completing the questionnaires on paper and completing all interviews in the household, the interviewers and health technicians delivered the questionnaires to the field typist. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Durante as actividades de recolha de dados, foram aplicados vários níveis de controlo de qualidade. O primeiro nível consistiu na identificação das AEs através da verificação dos mapas ou croquis de referência, seguido da confirmação da AE ao nível central, com recurso aos dados enviados a partir dos computadores equipados com um sistema de GPS e on-line em campo. O primeiro nível de controlo de qualidade ajudou na identificação do ponto central de cada área de enumeração com uma margem de erro de dez metros do centro da área de enumeração. O segundo nível de controlo de qualidade consistiu na verificação dos questionários pela controladora da equipa e pelo digitador de campo, após o preenchimento pelo inquiridor, verificação de inconsistências e seguimentos dos filtros através da programação feita no programa CsPro no processo de digitação de campo e dupla digitação e análise crítica ao nível central (digitação central).&lt;/p&gt;
+&lt;p&gt;Durante todo o processo de tratamento de dados, foram aplicados procedimentos padrão do Programa DHS para inquéritos CAFE6 . A introdução do CAFE no IMASIDA 2015 garantiu o início da edição dos questionários em campo, através do uso de um computador portátil. Depois de preencherem os questionários em papel e concluírem todas as entrevistas no agregado familiar, os inquiridores e técnicos de saúde entregavam os questionários ao digitador de campo. &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

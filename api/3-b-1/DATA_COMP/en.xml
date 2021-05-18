@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 3-b-1, translated into en</message>
+	<data> &lt;p&gt; Percentage of children aged 12-23 months who received specific vaccines at a certain time before the interview (according to the vaccination card or mother&apos;s statement). &lt;/p&gt;
+ &lt;p&gt; You are considered to have taken all basic vaccines if your child has received at least: &lt;/p&gt;
+ &lt;ul&gt;
+   &lt;li&gt; One dose of BCG vaccine (Bacillus Calmette Guérin), which protects against tuberculosis, &lt;/li&gt;
+   &lt;li&gt; Three doses of pentavalent vaccine, which protects against diphtheria, pertussis (whooping cough), tetanus, hepatitis B and Haemophilus influenza, &lt;/li&gt;
+   &lt;li&gt; Three doses of polio vaccine, &lt;/li&gt;
+   &lt;li&gt; One dose of the measles vaccine, &lt;/li&gt;
+   &lt;li&gt; Three doses of the PCV vaccine, which protects against pneumonia. &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt; Sample: Children aged 12-23 months. &lt;/p&gt;</data>
+</root>

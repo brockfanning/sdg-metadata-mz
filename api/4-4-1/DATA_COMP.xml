@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 4-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; This indicator is obtained by the ratio between the number of young people and adults who have ICT skills and the total population resident in the country, multiplied by 100%. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Este indicador obtém-se pela razão entre o número de jovens e adultos que possuem habilidades em TIC e a população total residente no país, multiplicado por 100%.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

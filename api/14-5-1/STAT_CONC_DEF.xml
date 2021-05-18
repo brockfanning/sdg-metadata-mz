@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 14-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Definition: The indicator “Coverage of protected areas in relation to marine areas” expresses the proportion of marine protected areas in relation to the total marine area, expressing the degree of protection of marine biodiversity and the contribution mediated the global persistence of biodiversity. &lt;/p&gt;
+ &lt;p&gt; Concept: Protected areas, as defined by the International Union for Conservation of Nature (IUCN; Dudley 2008), are clearly defined geographical spaces, recognized, dedicated and managed, through legal or other effective means, to achieve nature conservation long-term relationship with ecosystem services and associated cultural values. It is important to note that several specific management objectives are recognized in this definition, covering conservation, restoration and sustainable use: &lt;/p&gt;
+ &lt;ul&gt;
+   &lt;li&gt; Category Ia: strict nature reserve &lt;/li&gt;
+   &lt;li&gt; Category Ib: wild area &lt;/li&gt;
+   &lt;li&gt; Category II: National Park &lt;/li&gt;
+   &lt;li&gt; Category III: Monument or natural feature &lt;/li&gt;
+   &lt;li&gt; Category IV: habitat / species management area &lt;/li&gt;
+   &lt;li&gt; Category V: Protected Landscape / Sea View &lt;/li&gt;
+   &lt;li&gt; Category VI: Protected area with sustainable use of natural resources &lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;p&gt; &quot;Designated&quot; status is assigned to a protected area when the corresponding authority, in accordance with national law or common practice (for example, by means of an executive decree or similar), officially endorses a designation document. The designation must be made for the purpose of biodiversity conservation, and not for de facto protection arising from some other activity (for example, military). &lt;/p&gt;
+ &lt;p&gt; Locations that contribute significantly to the global persistence of biodiversity are identified following standard global criteria for the identification of Key Biodiversity Areas (IUCN 2016) applied at the national level. Two variants of these standard criteria have been applied in all countries to date. The first is for the identification of Important Birds and Biodiversity Areas, that is, places that contribute significantly to the global persistence of biodiversity, identified by means of data on birds, and more than 12,000 locations have been identified in all countries of the world ( BirdLife International 2014). The second is for the identification of sites of the Alliance for Zero Extinction (Ricketts et al. 2005), that is, sites that effectively maintain the entire population of at least one species assessed as Critically Endangered or Endangered on the Red List of Threatened Species IUCN. In total, 587 Alliance for Zero Extinction sites were identified for 920 species of mammals, birds, amphibians, reptiles, conifers and coral reef builders. A global standard for identifying key areas of biodiversity that unifies these approaches, along with other mechanisms for identifying important sites for other species and ecosystems, has been approved by IUCN (2016). &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Definição: O indicador “Cobertura de áreas protegidas em relação às áreas marinhas” expressa a proporção das áreas marinhas protegidas em relação a área marinha total, expressando o grau de protecção a biodiversidade marinha e a contribuição media a persistência global da biodiversidade.&lt;/p&gt;
+&lt;p&gt;Conceito: As áreas protegidas, conforme definidas pela União Internacional para Conservação da Natureza (IUCN; Dudley 2008), são espaços geográficos claramente definidos, reconhecidos, dedicados e geridos, através de meios legais ou outros meios efectivos, para alcançar a conservação da natureza a longo prazo com os serviços ecossistêmicos e valores culturais associados. É importante ressaltar que vários objectivos específicos de gestão são reconhecidos nesta definição, abrangendo a conservação, a restauração e o uso sustentável:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Categoria Ia: reserva natural estricta&lt;/li&gt;
+  &lt;li&gt;Categoria Ib: área selvagem&lt;/li&gt;
+  &lt;li&gt;Categoria II: Parque Nacional&lt;/li&gt;
+  &lt;li&gt;Categoria III: Monumento ou característica natural&lt;/li&gt;
+  &lt;li&gt;Categoria IV: habitat / área de maneio de espécies&lt;/li&gt;
+  &lt;li&gt;Categoria V: Paisagem / Vista do Mar Protegida&lt;/li&gt;
+  &lt;li&gt;Categoria VI: Área protegida com uso sustentável dos recursos naturais&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;O status &quot;designado&quot; é atribuído a uma área protegida quando a autoridade correspondente, de acordo com a legislação nacional ou prática comum (por exemplo, por meio de um decreto executivo ou similar), oficialmente endossa um documento de designação. A designação deve ser feita para fins de conservação da biodiversidade, e não de protecção de facto decorrente de alguma outra actividade (por exemplo, militar).&lt;/p&gt;
+&lt;p&gt;Os locais que contribuem significativamente para a persistência global da biodiversidade são identificados seguindo critérios globais padrão para a identificação de Áreas-Chave da Biodiversidade (IUCN 2016) aplicadas ao nível nacional. Duas variantes desses critérios padrão foram aplicadas em todos os países até o momento. O primeiro é para a identificação de Áreas Importantes de Aves e Biodiversidade, ou seja, locais que contribuem significativamente para a persistência global da biodiversidade, identificados por meio de dados sobre aves, tendo sido identificados mais de 12.000 locais em todos os países do mundo (BirdLife Internacional 2014). O segundo é para a identificação de locais da Aliança para Extinção Zero (Ricketts et al. 2005), ou seja, locais que mantêm efectivamente toda a população de pelo menos uma espécie avaliada como em Perigo Crítico ou em Perigo na Lista Vermelha de Espécies Ameaçadas da IUCN. No total, foram identificados 587 locais da Aliança para Extinção Zero para 920 espécies de mamíferos, aves, anfíbios, répteis, coníferas e corais construtores de recifes. Um padrão global para a identificação de áreas-chave da biodiversidade que unifica essas abordagens, juntamente com outros mecanismos de identificação de locais importantes para outras espécies e ecossistemas, foi aprovado pela IUCN (2016).&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

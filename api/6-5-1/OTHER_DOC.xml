@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The OTHER_DOC field for indicator 6-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 1. &lt;strong&gt; National Water Resources Plan (PNRH) 2020 &lt;/strong&gt; -2024, &lt;em&gt; Resolution Nr 11/2019, of 12 March; &lt;/em&gt; 2. &lt;strong&gt; Action Plan for the Implementation of Water Resources Development Goals &lt;/strong&gt; (PA-ODS RH) 2015-2030, &lt;em&gt; Resolution Nr.
+			</language>
+			<language lang="pt">&lt;p&gt;1. &lt;strong&gt;Plano Nacional de Recursos Hídricos (PNRH) 2020&lt;/strong&gt;-2024, &lt;em&gt;Resolução Nr 11/2019, de 12 de Março; &lt;/em&gt;2. &lt;strong&gt;Plano de Acção de Implementação dos Objectivos de Desenvolvimento de Recursos Hídricos&lt;/strong&gt; (PA-ODS RH) 2015-2030, &lt;em&gt;Resolução Nr 40/2018, de 24 de Outubro de 2018.&lt;/em&gt;&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

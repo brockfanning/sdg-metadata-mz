@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_MAIL field for indicator 5-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; &lt;a href=&quot;mailto:Angelotivane2011@gmail.com&quot;&gt; Angelotivane2011@gmail.com &lt;/a&gt;; &lt;a href=&quot;mailto:muthembarnaldo@gmail.com&quot; target=&quot;_blank&quot;&gt; muthembarnaldo@gmail.com &lt;/a&gt; &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;&lt;a href=&quot;mailto:Angelotivane2011@gmail.com&quot;&gt;Angelotivane2011@gmail.com&lt;/a&gt;; &lt;a href=&quot;mailto:muthembarnaldo@gmail.com&quot; target=&quot;_blank&quot;&gt;muthembarnaldo@gmail.com&lt;/a&gt;&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

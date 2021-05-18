@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 6-5-1, translated into pt</message>
+	<data>&lt;p&gt;O Modelo padrão contém 32 perguntas divididas nas quatro principais componentes, nomeadamente: 1. Ambiente favorável; 2. Instituições e participação; 3. Instrumentos de gestão; e, 4. Financiamento.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Cada pergunta recebe uma pontuação entre 0 e 100, em intervalos de 10, com base nas 6 principais categorias a seguir:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+  &lt;li&gt;Muito baixo (0)&lt;/li&gt;
+  &lt;li&gt;Baixo (20)&lt;/li&gt;
+  &lt;li&gt;Médio-baixo (40)&lt;/li&gt;
+  &lt;li&gt;Médio-alto (60)&lt;/li&gt;
+  &lt;li&gt;Alto (80)&lt;/li&gt;
+  &lt;li&gt;Muito alto (100)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Observe que são fornecidas orientações para cada limite de cada pergunta, para garantir resultados objectivos e comparáveis.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;A média não ponderada das pontuações da pergunta em cada um dos quatro componentes é calculada para fornecer uma pontuação de 0 a 100 para cada componente.&lt;/li&gt;
+  &lt;li&gt;A pontuação do componente é calculada como média (sem ponderação) para fornecer a pontuação do indicador, expressa como uma percentagem entre 0 e 100.&lt;/li&gt;
+&lt;/ol&gt;</data>
+</root>

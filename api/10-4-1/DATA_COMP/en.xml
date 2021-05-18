@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 10-4-1, translated into en</message>
+	<data> &lt;p&gt; &lt;strong&gt; Share of work in GDP = Total compensation of employees / Gross Domestic Product * 100 &lt;/strong&gt; &lt;/p&gt;
+ &lt;p&gt; As mentioned above, this method of calculation does not provide a comprehensive measure of the share of labor income, as it does not take into account the labor income of self-employed workers. &lt;/p&gt;
+ &lt;p&gt; Ideally, whenever possible, the numerator should be adjusted to include not only the remuneration of employees, but also the earnings of self-employed workers. &lt;/p&gt;</data>
+</root>

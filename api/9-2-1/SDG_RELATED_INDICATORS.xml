@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_RELATED_INDICATORS field for indicator 9-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Not linked to other objectives and goals &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Sem vínculos com outros objectivos e metas&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REC_USE_LIM field for indicator 9-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Research and development (R&amp;D) data need to be collected through expensive national surveys, and are not carried out regularly, as their realization is conditional on financial resources. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Os dados de pesquisa e desenvolvimento (P&amp;D) precisam ser recolhidos por meio de inquéritos nacionais caros, e não são realizados regularmente, visto que a sua realização e condicionada a recursos financeiros.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

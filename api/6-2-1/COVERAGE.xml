@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COVERAGE field for indicator 6-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Rural and urban, provincial residence area &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Área de residência rural e urbana, provincial&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

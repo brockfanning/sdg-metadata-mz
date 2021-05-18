@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 9-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Expenditure on research and experimental development as a percentage of GDP. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Despesa com pesquisa e desenvolvimento experimental como percentagem do PIB.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

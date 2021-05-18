@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_VALIDATION field for indicator 5-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Validation is done by the collective by the national gender direction then by the technical and advisory council &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Validação e feita pelo colectivo pela direção nacional do género depois pelo conselho tecnico e consultivo&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

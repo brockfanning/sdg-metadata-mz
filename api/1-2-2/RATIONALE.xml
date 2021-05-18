@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The RATIONALE field for indicator 1-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; This indicator shows the percentage of poor people, that is, private in at least 40% of the weighted indicators defined in Mozambique. For example, 53.3% of people in Mozambique are private in more than 40% of the weighted indicators. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Este indicador mostra a percentagem de pessoas pobres, ou seja privada em pelo menos 40% dos indicadores ponderados definidos em Moçambique. Por exemplo, 53,3% das pessoas em Moçambique é privada em mais de 40% dos indicadores ponderados.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

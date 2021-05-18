@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The RATIONALE field for indicator 6-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Currently, the proportion of the population using safe drinking water services is being measured by the proportion of the population using an improved basic source of drinking water. Access to drinking water and a good hygiene environment are an important lever, as they allow to reduce most diseases that occur in children and adults, for example, diarrhea can be reduced through good hygiene practices, use of drinking water and adequate sanitary means. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Actualmente, a proporção da população que utiliza serviços seguros de água potável está sendo medida pela proporção da população que usa uma fonte básica melhorada de água potável. O acesso a água potável e um bom ambiente de higiene constituem uma alavanca importante, pois permitem reduzir a maior parte das doenças que ocorrem nas crianças e adultos, por exemplo, a diarreia pode ser reduzida através de boas práticas de higiene, uso de água potável e de meios sanitários adequados.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 6-4-1, translated into en</message>
+	<data> &lt;p&gt; Water use efficiency is calculated as the sum of the three sectors listed above, weighted according to the proportion of water used by each sector over total use. Formally: &lt;/p&gt;
+ &lt;p&gt; WUE = A_we × P_A + M_we × P_M + S_we × P_S &lt;/p&gt;</data>
+</root>

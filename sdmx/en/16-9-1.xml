@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:23.784Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="8fcf5f80-1a1d-4811-b89c-06e77dfc049b">
+    <com:Name xml:lang="en">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SG_REG_BRTH</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of Demographic, Vital and Social Statistics </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="en"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="en"><![CDATA[ <p> 16. PROMOTE PEACEFUL AND INCLUSIVE SOCIETIES FOR SUSTAINABLE DEVELOPMENT, PROVIDING ACCESS TO JUSTICE FOR ALL AND BUILDING EFFECTIVE, RESPONSIBLE AND INCLUSIVE INSTITUTIONS AT ALL LEVELS]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="en"><![CDATA[ <p> 16.9 By 2030, provide legal identity for everyone, including birth registration </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="en"><![CDATA[ <p> 16.9.1 Percentage of children under 5 years of age whose births were registered by a civil authority, disaggregated by age, sex and area of residence. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage of children under 5 years old whose births were registered by a civil authority, disaggregated by age, sex and area of residence </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="en"><![CDATA[ <p> 08.10.2020 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="en"><![CDATA[ <p> NATIONAL INSTITUTE OF STATISTICS </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="en"><![CDATA[ <p> Teixeira Mandlate, Maria Alfeu and João Mangue </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="en"><![CDATA[ <p> Tecnicos </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="en"><![CDATA[ <p> +258 844386629; +258 823032619; +258 827679480 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="en"><![CDATA[ <p> www.ine.gov.mz </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Teixeira.mandlate@ine.gov.mz"> Teixeira.mandlate@ine.gov.mz </a>; <a href="mailto:maria.alfeu@ine.gov.mz"> maria.alfeu@ine.gov.mz </a>; <a href="mailto:joao.mangue@ine.gov.mz"> joao.mangue@ine.gov.mz </a> </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator is defined as the proportion of children under the age of 5 who have been registered by the Civil Registry, disaggregated by sex, age, area of residence, province for the Census and the IDS also considers the wealth quintile variable. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="en"><![CDATA[ <p> General Population and Housing Census and Demographic and Health Survey </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are Censuses and Household Surveys. The data collection questionnaire is designed and subsequently tested in the field in the course of training the interviewers. </p>
+ <p> For the collection of data, the methodology of interviews was applied face to face to the households, where the respondents were asked if the child aged 0 - 4 years had a birth certificate, if the answer was NO, they were asked if <em> the child had been registered by the Civil Registry. </em> </p>
+ <p> For the case of the Census, the fieldwork lasts for 15 days, and, in the case of surveys, their duration varies according to the type and purpose of the survey. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="en"><![CDATA[ <p> IDS - 2021; Census - 2027 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="en"><![CDATA[ <p> IDS - 2022; Census - 2029 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="en"><![CDATA[ <p> INE, MISAU </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="en"><![CDATA[ <p> INE </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="en"><![CDATA[ <p> Law 7/96 of 5 July </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="en"><![CDATA[ <p> The birth registration of children has been one of the concerns in Mozambique. For this reason, in recent years promotion campaigns have been carried out in the country that essentially aim at guaranteeing registration, especially of children, in order to seek to know the situation of children under 5 years old registered by the official authorities of the civil registry </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="en"><![CDATA[ <p> Countries can collect data on this indicator through national household surveys. This indicator is calculated by dividing the number of children under the age of 5 registered by the Civil Registry by the total number of children under the age of 5. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="en"><![CDATA[ <p> The field work had close supervision and quality control by the central and provincial technicians, both from INE Central and from the Provincial Delegations. In addition, during the data collection, a strict control was established at the level of each team over the collection process, by detecting errors by the field critics, which allowed for immediate correction still on the ground. At the level of central coordination, the data critics carried out a further review of the base data and the problems encountered were communicated to the respective teams. </p>
+ <p> Interactive and batch processing of information also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the inquirers, ensuring the quality of the data. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="en"><![CDATA[ <p> The Demographic and Health Survey (IDS) in Mozambique is part of an international survey program (MEASURE DHS) developed by ICF International through a contract with USAID, with the purpose of supporting governments and private institutions in developing countries in conducting national surveys by sampling, in the areas of population and health. The MEASURE DHS Program aims to: • Support the formulation of policies and the implementation of programs in the areas of population and health; • Increase the international population and health data base for monitoring and evaluation; • Improve the survey methodology by sampling, and • Consolidate, in the survey area, the technical capacity of the executing institution in the country participating in the Program. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="en"><![CDATA[ <p> The instrument for quality management is in production </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="en"><![CDATA[ <p> For the collection of data, the methodology of interviews was applied face to face to the households. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="en"><![CDATA[ <p> The instrument for quality management is in production </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="en"><![CDATA[ <p> The information is made available every 5 years and is disaggregated by age, sex, rural and urban residence area, province, country and wealth quintile </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="en"><![CDATA[ <p> The production of data allows comparability because the procedures that lead to the collection, treatment and dissemination follow the internationally defined recommendations in <strong> <em> Principles and Recommendations for Civil Statistics - UN, (ST / ESA / STAT / SER.M / 19 / Rev. 3 New York, 2014) </em> </strong> </p>
+ <p> Estimates of Demographic and Health Surveys are based on standardized methodologies and developed by WHO and UNICEF. </p>
+ <p> Comparability is guaranteed since the Demographic and Health Survey (IDS) in Mozambique is part of an international survey program (MEASURE DHS) developed by ICF International through a contract with USAID, with the purpose of supporting governments and private institutions in developing countries to carry out national sample surveys in the areas of population and health. The MEASURE DHS Program aims to: </p>
+ <p> • Support the formulation of policies and implementation of programs in the areas of population and health; </p>
+ <p> • Increase the international population and health data base for monitoring and evaluation; </p>
+ <p> • Improve the survey methodology by sampling, and </p>
+ <p> • Consolidate, in the survey area, the technical capacity of the executing institution in the country participating in the Program. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health (MISAU), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+ <p> National Statistics Institute (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; </p>
+ <p> ICF International (ICFI), <a href="http://www.measuredhs.com"> www.measuredhs.com </a> </p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

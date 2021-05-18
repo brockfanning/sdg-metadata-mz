@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:31.096Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="524ae7f9-1940-460a-9432-6e492cf1ca24">
+    <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>GB_XPD_RSDV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Planificação, Estudos e Cooperação</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="pt"><![CDATA[<p>9: Construir Infraestruturas Resilientes, Promover a Industrialização Inclusiva e Sustentável e Fomentar a Inovação.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="pt"><![CDATA[<p>9.5 Fortalecer a pesquisa científica, melhorar as capacidades tecnológicas de setores industriais em todos os países, particularmente nos países em desenvolvimento, inclusive, até 2030, incentivando a inovação e aumentando substancialmente o número de trabalhadores de pesquisa e desenvolvimento por milhão de pessoas e os gastos público e privado em pesquisa e desenvolvimento.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="pt"><![CDATA[<p>9.5.1 Despesa com pesquisa e desenvolvimento experimental como percentagem do PIB.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="pt"><![CDATA[<p>Despesa com pesquisa e desenvolvimento experimental como percentagem do PIB.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>08/10/2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          <com:Text xml:lang="pt"><![CDATA[<p>Sem vínculo com outros indicadores</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Ciência e Tecnologia, Ensino Superior e Técnico Profissional</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="pt"><![CDATA[<p>Tomé Lucas Wilson e Inocência Pale</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Chefe do Departamento de Planificação e Monitoria e Técnica de Estatística.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Tome Wilson: +258 849136315</p>
+<p>Inocência Pale: + 258 847093829/ 827111410</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="pt"><![CDATA[<h2><a href="mailto:tome.wilson@mctestp.gov.mz">tome.wilson@mctestp.gov.mz</a></h2>
+<p><a href="mailto:inocencia.phale@mctestp.gov.mz">inocencia.phale@mctestp.gov.mz</a> </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:toluwil@gmail.com">toluwil@gmail.com</a></p>
+<p>inocencia.pale@gmail.com</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="pt"><![CDATA[<p>A despesa na Investigação Científica e Desenvolvimento Experimental (ID) como percentagem do Produto Interno Bruto (PIB) expressa a porção do PIB que é canalizada para ID.</p>
+<p>O indicador é uma medida directa dos gastos em Investigação Científica e Desenvolvimento Experimental (ID) num determinado ano.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="pt"><![CDATA[<p>O Manual Frascati da OCDE (OCDE, 2015)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="pt"><![CDATA[<p>MCTESTP, Inquérito Nacional de Investigação Cientifica e Desenvolvimento Experimental (ID).</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>O Inquérito de ID é conduzido com base na Metodologia do Manual de Frascati (2015). A operação estatística é de carácter nacional, pois cobre Instituições de Investigação Científica (IIC), Instituições de Ensino Superior (IES), Empresas e Instituições Privadas sem Fins Lucrativos (IPSFL) do País.</p>
+<p>No Inquérito, é usado o censo para a recolha de dados nas Instituições de Ensino Superior e Instituições de Investigação Científica localizadas no território nacional, tendo em conta os universos reduzidos destas Instituições. Quanto às Empresas e Instituições Privadas sem Fins Lucrativos (IPSFL), é usada Amostragem Proporcional Estratificada devido ao tamanho enorme dos universo.</p>
+<p>Recolha, Processamento e Análise de Dados</p>
+<p>A recolha de dados é feita com base nos questionários físicos e online, combinado com o método de entrevista presencial, envio de questionários por correio electrónico e links que permitiram ter acesso aos questionários online do Sistema de Informação (e-Survey). O pré-processamento de dados é feito automaticamente no Sistema de Informação (e-Survey). Em seguida, a verificação e validação dos dados foi feita com recurso aos Pacotes Estatísticos STATA e o pacote Excel para elaboração de gráficos. </p>
+<p>Taxa de Resposta geral considerada é de 75%.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="pt"><![CDATA[<p>30 de Junho de cada ano</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="pt"><![CDATA[<p>30 de Março do ano seguinte</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Ciência e Tecnologia, Ensino Superior e Técnico Profissional através da Direcção de Planificação, Estudos e Cooperação.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Ciência e Tecnologia, Ensino Superior e Técnico Profissional através da Direcção de Planificação, Estudos e Cooperação.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>O Ministério e órgão delegado pelo INE para produzir estatísticas do Sector da Ciência Tecnologia, Ensino Superior e Técnico Profissional de acordo com Despacho Conjunto, de Dezembro de 2002, Boletim da República n.º 10, I SÉRIE, de 05 de Março 2003.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador mede a Intensidade da Investigação Cientifica e Desenvolvimento Experimental num dado ano.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados de pesquisa e desenvolvimento (P&D) precisam ser recolhidos por meio de inquéritos nacionais caros, e não são realizados regularmente, visto que a sua realização e condicionada a recursos financeiros.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador obtém-se pela razão entre a Despesa Bruta na Investigação Científica e Desenvolvimento Experimental e o PIB de um dado ano, multiplicado por 100%</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os resultados de cada operação estatística são analisados pelo Departamento de Estudos e Estatística e em seguida apresentados nos Conselhos Técnico e Consultivo do MCTESTP para apreciação e validação a nível interno, e por fim apresentados em seminários para efeitos de validação Final.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>A produção deste indicador são usadas as orientações metodológicos internacionais estabelecidas no Manual Frascati da OCDE (OCDE, 2015) para permitir a comparabilidade com outros países.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Em processo a criação do Sistema de Gestão de qualidade a nível do Sistema Estatístico Nacional, entretanto a nível do Ministério existe um Departamento de Estudos e Estatística que faz a verificação da qualidade da produção das Estatísticas do Sector em todo o processo.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Para garantir a qualidade requerida no Processo de produção das estatísticas, o sector utiliza todas as fontes de informação administrativas correlacionadas, no sentido de complementar, validar e aferir a informação obtida. Igualmente no decorrer do processo de análise e estabelecimento dos dados valores, as fontes de origem da informação de base são questionadas sempre que existam dúvidas ou variações anómalas nos resultados obtidos.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os instrumentos para avaliação da qualidade dos processos e produtos estatísticos a nível do Sistema Estatístico Nacional estão a ser desenvolvidos com base nos 19 princípios de qualidade estabelecidos pela Comissão de Estatísticas das Nações Unidas.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados deste indicador são disponibilizados anualmente e não estão desagregados.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados produzidos pelo sector para a estimação deste indicador permitem a comparabilidade internacional, uma vez que obedecem os critérios e normas internacionais estabelecidas pelo Manual Frascati da OCDE (OCDE, 2015).</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="pt"><![CDATA[<p>Relatório sobre Indicadores de Investigação Cientifica e Desenvolvimento Experimental.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

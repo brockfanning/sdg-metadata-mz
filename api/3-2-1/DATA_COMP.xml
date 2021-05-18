@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 3-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The indicator is calculated by dividing the number of deaths of children aged 0 to 59 months (&lt; de 5 anos) num determinado período e o número médio de crianças com idade entre os 0 a 59 meses (&lt; 5 anos) durante o mesmo período de tempo&lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;O indicador é calculado dividindo o número de óbitos de crianças com idade entre os 0 a 59 meses (&lt; de 5 anos) num determinado período e o número médio de crianças com idade entre os 0 a 59 meses (&lt; 5 anos) durante o mesmo período de tempo&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

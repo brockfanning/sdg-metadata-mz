@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DOC_METHOD field for indicator 4-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; To produce this indicator, methodological guidelines are used, which are included in the globally available metadata, the difference is in the fact that globally they use the type of specific skills while at the national level they apply all kinds of skills. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Para producao deste indicador, sao utilizadas orientacoes metodologicas que constam nos metadados disponiveis globalmente, a diferenca esta no facto de globalmente usarem o tipo de habilidades especificas enquanto que anivel nacional aplicam se todo tipo de habilidades. &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DOC_METHOD field for indicator 14-3-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; To determine the acidity level of the Ocean, expeditions are made from the Mozambique channel of the ocean using the PH calculation. &lt;/p&gt;
+ &lt;p&gt; Data existing throughout the continental shelf of the Mozambique channel, although not uniformly, as some regions had more coverage than others in terms of the number of scientific expeditions carried out &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Para determinar o nível de acidez do Oceano faz se a partir expedições ao longo do canal de Moçambique do oceano que usa- se o calculo do PH.&lt;/p&gt;
+&lt;p&gt;Dados existentes ao longo de toda a plataforma continental do canal de Moçambique, embora não de forma uniforme, pois algumas regiões tiveram mais cobertura que as outras em termos de número de expedições cientificas realizadas&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

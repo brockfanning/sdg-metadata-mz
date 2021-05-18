@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_MGMNT field for indicator 14-3-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution&apos;s Technical Council. These strata are composed of qualified scientists for the purpose of verification and validation. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A informação processada é triada e analisada a nível técnico onde por sua vez é submetida ao Conselho Técnico da Instituição estes estratos são compostos por cientistas qualificados para o efeito de verificação e validação.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

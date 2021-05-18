@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The OTHER_DOC field for indicator 9-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The results are published in annual publications, in electronic format on the INE Portal: &lt;a href=&quot;http://www.ine.gov.mz&quot;&gt; www.ine.gov.mz &lt;/a&gt;, &lt;/p&gt;
+ &lt;p&gt; SNA 2008, from the United Nations; &lt;/p&gt;
+ &lt;p&gt; CAE, CNBS; COPNI; COFOG &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Os resultados são publicados em publicações anuais, em formato electrónico no Portal do INE: &lt;a href=&quot;http://www.ine.gov.mz&quot;&gt;www.ine.gov.mz&lt;/a&gt;, &lt;/p&gt;
+&lt;p&gt;SNA 2008, das Nações Unidas;&lt;/p&gt;
+&lt;p&gt;CAE, CNBS; COPNI; COFOG &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

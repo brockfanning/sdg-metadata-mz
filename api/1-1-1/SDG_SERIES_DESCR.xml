@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 1-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Population below the international poverty line, disaggregated by sex and age &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;População abaixo da linha da pobreza internacional, desagregados por sexo e idade&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPILING_ORG field for indicator 16-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Ministry of the Interior (MINT) - Directorate of Planning, Studies and Documentation, Department of Statistics &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Ministério do Interior (MINT) – Direcção de Planificação, Estudos e Documentação, Departamento de Estatística &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

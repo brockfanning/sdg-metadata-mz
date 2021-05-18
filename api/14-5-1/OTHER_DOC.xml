@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The OTHER_DOC field for indicator 14-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Legislative Diploma 46/71 creation of the Bazaruto National Park &lt;/p&gt;
+ &lt;p&gt; Decree 39/2001 extension of the limits of the Bazaruto Archipelago National Park &lt;/p&gt;
+ &lt;p&gt; Decree 14/2002 creation of the Quirimbas national park &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Diploma Legislativo 46/71 criação do parque Nacional de Bazaruto&lt;/p&gt;
+&lt;p&gt;Decreto 39/2001 extensão dos limites do Parque Nacional de Arquipélago de Bazaruto&lt;/p&gt;
+&lt;p&gt;Decreto 14/2002 criação do parque nacional das Quirimbas&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

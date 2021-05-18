@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COVERAGE field for indicator 1-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Data available every 6 years, disaggregated by area of residence (rural and urban), sex, age group and &lt;em&gt; status &lt;/em&gt; (type) of occupation. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Dados disponíveis a cada 6 anos, desagregados por área de residência (rural e urbano), sexo, faixa etária e &lt;em&gt;status&lt;/em&gt; (tipo) de ocupação. &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

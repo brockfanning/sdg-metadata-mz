@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 17-8-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The indicative proportion of people using the Internet is based on an internationally agreed definition and methodology, which were developed under the coordination of the ITU, through its Groups of Experts and after an extensive consultation process with the countries. It is also a central indicator of the List of Core Indicators of the Partnership on ICT Measurement for Development, which was endorsed by the UN Statistics Commission (in 2014). Data on individuals who use the Internet are collected through surveys of families and through the general population and housing census. Administrative records are an alternative source &lt;/p&gt;
+ &lt;p&gt; This indicator is calculated by dividing the total number of people in the scope who accessed the internet by the total number of people in the scope. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A proporção indicativa de pessoas que usam a Internet é baseada numa definição e metodologia acordadas internacionalmente, que foram desenvolvidas sob a coordenação da ITU, por meio de seus Grupos de Peritos e após um extenso processo de consulta com os países. É também um indicador central da Lista de Indicadores Principais da Parceria em Medição das TIC para o Desenvolvimento, que foi endossada pela Comissão de Estatística da ONU (em 2014). Os dados de indivíduos que usam a Internet são recolhidos por meio de inquéritos às famílias e através do Recenseamento geral da população e habitação. Registos administrativos constituem uma fonte alternativa&lt;/p&gt;
+&lt;p&gt;Este indicador é calculado dividindo o número total de pessoas no escopo que acessaram a internet pelo número total de pessoas no escopo.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

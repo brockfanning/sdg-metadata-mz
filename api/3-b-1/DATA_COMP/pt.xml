@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 3-b-1, translated into pt</message>
+	<data>&lt;p&gt;Percentagem das crianças de 12-23 meses que receberam vacinas específicas a uma dada altura antes da entrevista (de acordo com o cartão de vacinas ou a declaração da mãe).&lt;/p&gt;
+&lt;p&gt;Considera-se que tomou todas as vacinas básicas se a criança recebeu pelo menos:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Uma dose da vacina BCG (Bacilo Calmette Guérin), que protege contra a tuberculose,&lt;/li&gt;
+  &lt;li&gt;Três doses da vacina pentavalente, que protege contra a difteria, coqueluche (tosse convulsa), tétano, hepatite B e Haemophilus influenza,&lt;/li&gt;
+  &lt;li&gt;Três doses da vacina contra a poliomielite,&lt;/li&gt;
+  &lt;li&gt;Uma dose da vacina contra o sarampo,&lt;/li&gt;
+  &lt;li&gt;Três doses da vacina PCV, que protege contra a pneumonia.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt; Amostra: Crianças de 12-23 meses.&lt;/p&gt;</data>
+</root>

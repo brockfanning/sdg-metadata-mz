@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_VALIDATION field for indicator 15-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; After the production of the information related to the indicator, which is produced by the National Directorate of Forests, it proceeds with its validation by the Consultative Council of the Ministry of Land and Environment. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Após a produção da informação relativa ao indicador, que é produzida pela Direcção Nacional de Florestas, procede-se com sua validação pelo Conselho Consultivo do Ministério da Terra e Ambiente.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

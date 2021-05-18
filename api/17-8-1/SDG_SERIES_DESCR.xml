@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 17-8-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Percentage of population using internet in the last 3 months &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Percentagem da população por uso de internet nos últimos 3 meses&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

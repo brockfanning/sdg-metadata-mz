@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_VALIDATION field for indicator 3-a-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The interactive software Census and Survey Processing System (CSPRO) allowed to interactively check the intervals of the variables, detect inconsistencies and control the internal flow of data during the double entry of the questionnaires. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt; O software interativo Census and Survey Processing System (CSPRO) permitiu verificar interactivamente os intervalos das variáveis, detetar inconsistências e controlar o fluxo interno dos dados durante a dupla digitação dos questionários.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

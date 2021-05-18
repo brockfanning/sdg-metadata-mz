@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 10-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; It is the percentage of the population of Mozambique that lives with less than half of the median consumption of the national consumption distribution. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;É a percentagem da população de Moçambique que vive com menos da metade do consumo mediano da distribuição do consumo nacional.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 3-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The indicator is calculated by dividing the total number of deaths in children less than 28 days old during the period under analysis, by the total number of births, multiplied by 1000 &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;O indicador é calculado dividindo o número total de óbitos em crianças com menos de 28 dias ocorrido no período em análise sobre o total de nascidos, multiplicado por 1000 &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

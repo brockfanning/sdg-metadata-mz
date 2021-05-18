@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_VALIDATION field for indicator 9-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Crossing survey data with audited Accounts. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Cruzamento de dados dos inquéritos com as Contas auditadas.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

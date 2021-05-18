@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REC_USE_LIM field for indicator 8-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Lack of strict compliance with statistical legislation; &lt;/p&gt;
+ &lt;p&gt; Late reception of data from sources; &lt;/p&gt;
+ &lt;p&gt; Lack or insufficient resources to carry out surveys at regular intervals can lead to skewed production and transaction estimates. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Falta de observância rigorosa da legislação estatística;&lt;/p&gt;
+&lt;p&gt;Recepção tardia de dados provenientes das fontes;&lt;/p&gt;
+&lt;p&gt;Falta ou insuficiência de recursos para a realização de inquéritos com uma periodicidade regular pode conduzir ao enviesamento de estimativas de produção e transações.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

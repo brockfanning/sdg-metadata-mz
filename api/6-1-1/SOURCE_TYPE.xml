@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SOURCE_TYPE field for indicator 6-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; General Population and Housing Census and Household Surveys &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Recenseamento Geral da População e Habitação e Inquéritos aos Agregados Familiares&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

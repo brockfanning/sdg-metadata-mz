@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 17-8-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; This indicator is calculated by dividing the total number of people in the scope who use the Internet (from any location) in the last 3 months prior to the Census reference date by the total number of people in the scope. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Este indicador é calculado dividindo o número total de pessoas no escopo que usam a Internet (de qualquer local) nos últimos 3 meses anteriores a data de referência do Censo pelo número total de pessoas no escopo.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

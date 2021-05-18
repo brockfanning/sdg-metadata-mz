@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REC_USE_LIM field for indicator 4-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The data collected to calculate the indicator do not capture information from private training centers that teach courses in the areas of ICT and are not disaggregated by type of skill. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Os Dados coletados para cálculo do indicador não captam informação dos centros de formação privados que ministram cursos nas áreas das TICs e nao estao desagregados por tipo de habilidade.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

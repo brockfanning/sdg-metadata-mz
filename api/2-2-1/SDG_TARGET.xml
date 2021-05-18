@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 2-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 2.2 By 2030, end all forms of malnutrition, including reaching, by 2025, the internationally agreed targets on stunting and cachexia in children under the age of five, and meeting the nutritional needs of adolescents, pregnant and lactating women and elderly people &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;2.2 Até 2030, acabar com todas as formas de má-nutrição, incluindo atingir, até 2025, as metas acordadas internacionalmente sobre nanismo e caquexia em crianças menores de cinco anos de idade, e atender às necessidades nutricionais dos adolescentes, mulheres grávidas e lactantes e pessoas idosas&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

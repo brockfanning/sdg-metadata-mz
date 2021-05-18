@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 6-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The change in the efficiency of water use is defined as the change in the ratio of value added to the volume of water use over time. Efficiency in the use of water is defined as the added value of a given sector divided by the volume of water used. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A alteração da eficiência do uso da água define-se como a mudança no rácio do valor acrescentado sobre o volume do uso da água ao longo do tempo. Eficiência no uso da água é definida como o valor acrescentado de um determinado sector dividido pelo volume de água utilizada.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 4-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Percentage of young people and adults with skills in information and communication technology (ICT), by type of skill. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Percentagem de jovens e adultos com habilidade em tecnologia de informação e comunicação (TIC), por tipo de habilidade.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

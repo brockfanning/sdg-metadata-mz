@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 8-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 8.1 Sustaining economic growth per capita according to national circumstances and, in particular, an annual growth of at least 7% of the gross domestic product [GDP] in the least developed countries &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;8.1 Sustentar o crescimento económico per capita de acordo com as circunstâncias nacionais e, em particular, um crescimento anual de pelo menos 7% do produto interno bruto [PIB] nos países menos desenvolvidos&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

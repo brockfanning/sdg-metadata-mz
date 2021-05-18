@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_GOAL field for indicator 6-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 6 Ensuring the availability and sustainable management of drinking water and sanitation for all &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;6 Garantir a disponibilidade e a gestão sustentável de água potável e Saneamento para todos&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

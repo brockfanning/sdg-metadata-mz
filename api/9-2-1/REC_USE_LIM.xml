@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REC_USE_LIM field for indicator 9-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Lack of strict compliance with statistical legislation; &lt;/p&gt;
+ &lt;p&gt; Late reception of data from sources; &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Falta de observância rigorosa da legislação estatística;&lt;/p&gt;
+&lt;p&gt;Recepção tardia de dados provenientes das fontes; &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

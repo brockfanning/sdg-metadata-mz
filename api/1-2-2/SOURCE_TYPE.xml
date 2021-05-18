@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SOURCE_TYPE field for indicator 1-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Ministry of Economy and Finance, Poverty and Welfare in Mozambique, Fourth national assessment according to IOF 2014/2015. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Ministério da Economia e Finanças, Pobreza e Bem-Estar em Moçambique, Quarta avaliação nacional de acordo com o IOF 2014/2015.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

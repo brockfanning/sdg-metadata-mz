@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:27.299Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="4a906b5a-f684-433b-aeba-62d7b52d226f">
+    <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SG_LGL_GENEQLFP</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>G</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLH(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Planificação e Cooperação</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="pt"><![CDATA[<p>5. Alcançar a igualdade de género e empoderar todas as mulheres e raparigas</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="pt"><![CDATA[<p>5.1 Acabar com todas as formas de discriminação contra todas as mulheres e raparigas em toda parte</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="pt"><![CDATA[<h1>5.1.1 Existência ou não de quadros jurídicos para promover, aplicar e monitorar a igualdade e a não discriminação com base no sexo </h1>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="pt"><![CDATA[<p>5.1.1 Quadros jurídicos para promover, aplicar e monitorar a igualdade e a não discriminação com base no sexo, existente ou não.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>03/10/2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          <com:Text xml:lang="pt"><![CDATA[<p>Nenhum indicador relacionado</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério do Género, Criança e Acção Social</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ângelo Tivane e Arnaldo Muthemba</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Chefe do Departamento de Planificação; Técnico da área de Estatística</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="pt"><![CDATA[<p>+258 828351430; +258 840560048; </p>
+<p> +258 826081976; +258 842268933</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:Angelotivane2011@gmail.com">Angelotivane2011@gmail.com</a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank">muthembarnaldo@gmail.com</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:Angelotivane2011@gmail.com">Angelotivane2011@gmail.com</a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank">muthembarnaldo@gmail.com</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador mede os esforços do governo para estabelecer quadros legais que promovam, apliquem e monitorem a igualdade de género.</p>
+<p>O indicador é baseado numa avaliação de quadros legais que promovem, apliquem e monitoram a igualdade de género</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Fonte administrativa. Ministério da Justiça, Assuntos Constitucionais e Religiosos e o Ministério do Género, Criança e Acção Social</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>O Ministério do Género, Criança e Acção Social fez o levantamento da legislação existente sobre a matéria e actualiza anualmente, respondeu as questões e procede ao cálculo conforme os procedimentos internacionais.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="pt"><![CDATA[<p>Março de 2020 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="pt"><![CDATA[<p>Abril de 2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="pt"><![CDATA[<p> Ministério da Justiça, Assuntos Constitucionais e Religiosos e o Ministério do Género, Criança e Acção Social </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério do Género, Criança e Acção Social</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Decreto Presidencial nº 9/2015, de 13 Março, Resolução nº 18/2015, de 10 de Julho; Diploma Ministerial nº 117/2015, de 31 de Dezembro;</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador tem como base o uso do questionário composto por 45 perguntas de respostas “sim/não” em quatro áreas do direito: (i) Quadros legais abrangentes e vida pública; (ii) violência contra a mulher; (iii) emprego e benefícios económicos; e (iv) casamento e família.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador é fiável, pois os dados são recolhidos na fonte a nível nacional e é comparável internacionalmente.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador é baseado na avaliação de quadros legais que promovem, aplicam e monitoram a igualdade de género usando um questionário composto por 45 perguntas de resposta binária “Sim/Não” em quatro áreas do direito, extraídas do quadro jurídico e político internacional sobre igualdade de género, em particular, a CEDAW e o Plataforma de Acção de Pequim </p>
+<p>As respostas para as perguntas são codificadas com respostas simples "Sim/Não", com "1" para "Sim" e "0" para "Não". Apenas para as perguntas 1 e 2, elas podem ser pontuadas como "N/A", caso em que não são incluídas como parte do cálculo geral da pontuação para a área<sup><a href="#footnote-2" id="footnote-ref-2">[2]</a></sup>. </p>
+<p>A metodologia de pontuação é a média não ponderada das perguntas em cada área do direito, calculada da seguinte forma:</p>
+<p> .</p>
+<p>Onde A<sub>i</sub> se refere à área do direito <strong>i</strong>; m<sub>i</sub> refere-se ao número total de perguntas na área da lei <strong>i</strong>;<sup><a href="#footnote-3" id="footnote-ref-3">[3]</a></sup> q<sub>1</sub> + ... + q<sub>mi</sub> refere-se à soma das perguntas codificadas na área jurídica e onde q<sub>i</sub> = ”1” se a resposta for “Sim” e q<sub>i</sub> = ”0” se a resposta for “Não”.</p>
+<p>Os resultados das quatro áreas são reportados em percentagens como um painel: (A<sub>1</sub>, A<sub>2</sub>, A<sub>3</sub>, A<sub>4</sub>). A pontuação para cada área (um número entre 0 e 100) representa, portanto, a percentagem de realizações desse país nessa área, com 100 sendo as melhores práticas atendidas em todas as perguntas da área. A escolha de apresentar todas as quatro pontuações da área sem agregação adicional é o resultado da adopção da postura de que valores altos numa área em determinado país não precisam compensar de forma alguma o país com valores baixos em alguma outra área e que um exame abrangente do valor desses quatro números para cada país é potencialmente mais informativo do que tentar resumir todos os quatro números em um único índice.</p><div class="footnotes"><div><sup class="footnote-number" id="footnote-2">2</sup><p> Para as perguntas 1 e 2, a metodologia não atribui uma pontuação (positiva ou negativa) à existência de direito consuetudinário ou pessoal, mas pontua se elas estão sujeitas aos princípios constitucionais de igualdade ou não discriminação. Portanto, em países onde o direito consuetudinário ou pessoal não se aplica, essas perguntas são classificadas como "N/A" e não são incluídas como parte do cálculo geral da pontuação para a área 'marcos legais abrangentes e vida pública'. <a href="#footnote-ref-2">↑</a></p></div><div><sup class="footnote-number" id="footnote-3">3</sup><p> Se uma pergunta for codificada como "N/A", ela não será contada no número total de perguntas em uma área da lei. <a href="#footnote-ref-3">↑</a></p></div></div>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>Validação e feita pelo colectivo pela direção nacional do género depois pelo conselho tecnico e consultivo</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p> O método usado é de acordo com padrões internacionais de medição deste indicador</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados são analisados pela equipa de Repartição de Monitoria e Avaliação, pelo chefe do Departamento de Planificação, pelo Director de planificação e cooperação, pelo Conselho Tecnico e por fim pelo Conselho Consultivo do Ministério do Género, Criança e Acção Social</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Trabalhar com pontos focais do género dos sectores contribui para a qualidade das respostas dadas das perguntas 45 perguntas que concorrem para o cálculo do indicador</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>O Ministério do Género, Criança e Acção Social esta organizar a área de estatística para trabalhar em coordenação com o Instituto Nacional de Estatística (INE) na melhoria da qualidade de todo processo desde a recolha de dados até a publicação de dados.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados estão desagregado em Quatro áreas do direito: (i) quadros legais abrangentes e vida pública; (ii) violência contra a mulher; (iii) emprego e benefícios económicos; e (iv) casamento e família.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador é global e pode ser comparado com os outros países. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="pt"><![CDATA[<p>www.mgcas.mz.co</p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

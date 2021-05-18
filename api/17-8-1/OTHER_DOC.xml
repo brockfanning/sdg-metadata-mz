@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The OTHER_DOC field for indicator 17-8-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Ministry of Health (MISAU), &lt;a href=&quot;http://www.misau.gov.mz&quot;&gt; www.misau.gov.mz &lt;/a&gt;; &lt;/p&gt;
+ &lt;p&gt; National Statistics Institute (INE), &lt;a href=&quot;http://www.misau.gov.mz&quot;&gt; www.misau.gov.mz &lt;/a&gt;; &lt;/p&gt;
+ &lt;p&gt; ICF International (ICFI), &lt;a href=&quot;http://www.measuredhs.com&quot;&gt; www.measuredhs.com &lt;/a&gt; &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Ministério da Saúde (MISAU), &lt;a href=&quot;http://www.misau.gov.mz&quot;&gt;www.misau.gov.mz&lt;/a&gt;; &lt;/p&gt;
+&lt;p&gt;Instituto Nacional de Estatística (INE), &lt;a href=&quot;http://www.misau.gov.mz&quot;&gt;www.misau.gov.mz&lt;/a&gt;;&lt;/p&gt;
+&lt;p&gt;ICF Internacional (ICFI), &lt;a href=&quot;http://www.measuredhs.com&quot;&gt;www.measuredhs.com&lt;/a&gt;&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

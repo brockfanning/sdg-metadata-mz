@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 14-3-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Average marine acidification (pH) measured at a predetermined location out of a total of determined samples &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Acidificação marinha média (pH) medida num local pré determinado de um total de amostras determinadas&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 5-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 5.1.1 Legal frameworks to promote, apply and monitor equality and non-discrimination based on sex, whether existing or not. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;5.1.1 Quadros jurídicos para promover, aplicar e monitorar a igualdade e a não discriminação com base no sexo, existente ou não.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

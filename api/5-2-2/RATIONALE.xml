@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The RATIONALE field for indicator 5-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Data on the prevalence of violence against women and girls are needed to measure the magnitude of the problem; understand the various forms of violence and its consequences; identify high-risk groups; explore barriers to seek help; and ensure that appropriate responses are provided. This data is the starting point for informing laws, policies and developing effective responses and programs, as needed. They also allow countries to monitor changes over time and evaluate the effectiveness of their interventions. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Dados de prevalência da violência contra a mulher e rapariga são necessários para medir a magnitude do problema; entender as várias formas de violência e suas consequências; identificar grupos de alto risco; explorar as barreiras para procurar ajuda; e garantir que as respostas apropriadas sejam fornecidas. Esses dados são o ponto de partida para informar leis, políticas e desenvolver respostas e programas eficazes, conforme necessário. Eles também permitem que os países monitorem as mudanças ao longo do tempo e avaliem a eficácia de suas intervenções.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

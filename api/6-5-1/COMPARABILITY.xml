@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COMPARABILITY field for indicator 6-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The calculation methodology that has been established internationally is used, so it is believed that the data are comparable. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;É usado a metodologia de cálculo que foi estabelecido internacionalmente pelo que, acredita-se que os dados são comparáveis.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 3-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The maternal mortality rate can be calculated by dividing registered (or estimated) maternal deaths by the total registered (or estimated) live births in the same period and multiplying by 100,000 &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A taxa de mortalidade materna pode ser calculada dividindo as mortes maternas registradas (ou estimadas) pelo total de nascidos vivos registrados (ou estimados) no mesmo período e multiplicando por 100.000&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

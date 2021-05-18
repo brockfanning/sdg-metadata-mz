@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 5-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The indicator measures the government&apos;s efforts to establish legal frameworks that promote, apply and monitor gender equality. &lt;/p&gt;
+ &lt;p&gt; The indicator is based on an assessment of legal frameworks that promote, apply and monitor gender equality &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;O indicador mede os esforços do governo para estabelecer quadros legais que promovam, apliquem e monitorem a igualdade de género.&lt;/p&gt;
+&lt;p&gt;O indicador é baseado numa avaliação de quadros legais que promovem, apliquem e monitoram a igualdade de género&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

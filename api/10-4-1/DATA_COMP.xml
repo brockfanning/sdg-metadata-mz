@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 10-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; &lt;strong&gt; Share of work in GDP = Total compensation of employees / Gross Domestic Product * 100 &lt;/strong&gt; &lt;/p&gt;
+ &lt;p&gt; As mentioned above, this method of calculation does not provide a comprehensive measure of the share of labor income, as it does not take into account the labor income of self-employed workers. &lt;/p&gt;
+ &lt;p&gt; Ideally, whenever possible, the numerator should be adjusted to include not only the remuneration of employees, but also the earnings of self-employed workers. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;&lt;strong&gt;Parcela do trabalho no PIB = Remuneração total dos empregados / Produto Interno Bruto * 100&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Como mencionado acima, esse método de cálculo não fornece uma medida abrangente da parcela da renda do trabalho, uma vez que não leva em consideração a renda do trabalho dos trabalhadores independentes.&lt;/p&gt;
+&lt;p&gt;Idealmente, sempre que possível, o numerador deve ser ajustado para incluir não apenas a remuneração dos funcionários, mas também os ganhos dos trabalhadores independentes.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

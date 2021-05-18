@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COVERAGE field for indicator 3-a-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Data available in 2017. Disaggregated by Place of residence, province, Sex, Age and Education &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Dados disponíveis em 2017. Desagregados por Local de residência, província, Sexo, Idade e Escolaridade&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

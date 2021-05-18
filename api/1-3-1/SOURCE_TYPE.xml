@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SOURCE_TYPE field for indicator 1-3-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Administrative source. Annual report of the PES of the Ministry of Gender, Children and Social Action (MGCAS) and data from the denominator are from the Population and Housing Census and INE projections &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Fonte administrativa. Relatório Balanço do anual do PES do Ministério do Género, Criança e Acção Social (MGCAS) e dados do denominador são do Censo da População e Habitação e projeções do INE&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

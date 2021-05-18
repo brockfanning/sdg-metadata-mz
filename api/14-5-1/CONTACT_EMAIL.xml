@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_EMAIL field for indicator 14-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; &lt;a href=&quot;mailto:erandre01@hotmail.com&quot;&gt; &lt;u&gt; erandre01@hotmail.com &lt;/u&gt; &lt;/a&gt; &amp; osgaspar_elsabors@yahoo.com.br &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;&lt;a href=&quot;mailto:erandre01@hotmail.com&quot;&gt;&lt;u&gt;erandre01@hotmail.com&lt;/u&gt;&lt;/a&gt; &amp; osgaspar_elsabors@yahoo.com.br&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

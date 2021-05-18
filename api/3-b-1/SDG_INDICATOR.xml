@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 3-b-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 3.b.1 Percentage of the target population covered by all vaccines included in the national program &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;3.b.1 Percentagem da população alvo coberta por todas as vacinas incluídas no programa nacional&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

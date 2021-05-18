@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 3-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;h1&gt; 3.1.1 Maternal mortality rate &lt;/h1&gt;
+			</language>
+			<language lang="pt">&lt;h1&gt;3.1.1 Taxa de mortalidade materna&lt;/h1&gt;
+			</language>
+</languages>
+</data>
+</root>

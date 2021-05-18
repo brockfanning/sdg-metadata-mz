@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 1-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Population below the national poverty line. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;População abaixo da linha da pobreza nacional.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

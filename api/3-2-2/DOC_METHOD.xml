@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DOC_METHOD field for indicator 3-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The Demographic and Health Survey (IDS) in Mozambique is part of an international survey program (MEASURE DHS) developed by ICF International through a contract with USAID, with the purpose of supporting governments and private institutions in developing countries in conducting national surveys by sampling, in the areas of population and health. The MEASURE DHS Program aims to: &lt;/p&gt;
+ &lt;p&gt; • Support the formulation of policies and implementation of programs in the areas of population and health; &lt;/p&gt;
+ &lt;p&gt; • Increase the international population and health data base for monitoring and evaluation; &lt;/p&gt;
+ &lt;p&gt; • Improve the survey methodology by sampling, and &lt;/p&gt;
+ &lt;p&gt; • Consolidate, in the survey area, the technical capacity of the executing institution in the country participating in the Program. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;O Inquérito Demográfico e de Saúde (IDS) em Moçambique faze parte dum programa internacional de inquéritos (MEASURE DHS) desenvolvido pelo ICF International através de um contrato com a USAID, com o propósito de apoiar aos governos e instituições privadas dos países em desenvolvimento na realização de inquéritos nacionais por amostragem, nas áreas de população e saúde. O Programa MEASURE DHS tem por objectivo: &lt;/p&gt;
+&lt;p&gt;• Subsidiar a formulação de políticas e implementação de programas nas áreas de população e saúde; &lt;/p&gt;
+&lt;p&gt;• Aumentar a base internacional de dados sobre população e saúde para acompanhamento e avaliação; &lt;/p&gt;
+&lt;p&gt;• Aprimorar metodologia de inquérito por amostragem, e &lt;/p&gt;
+&lt;p&gt;• Consolidar, na área de inquérito, a capacidade técnica da instituição executora no país participante do Programa.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

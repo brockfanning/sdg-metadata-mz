@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The OTHER_DOC field for indicator 3-3-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; MISAU, Annual Health Sector Balance Sheet Reports &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;MISAU, Relatórios anuais de balanço do Sector da Saúde&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

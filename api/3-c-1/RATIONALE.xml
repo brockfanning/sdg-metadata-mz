@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The RATIONALE field for indicator 3-c-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Reduce geographical inequalities between population groups in access to and use of health services by developing and ensuring the implementation of mechanisms for allocating / allocating human resources, based on needs / equity &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Reduzir as desigualdades geográficas entre grupos populacionais no acesso e utilização de serviços de saúde desenvolvendo e assegurando a implementação de mecanismos de alocação/afectação de recursos humanos, baseados nas necessidades/equidade&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

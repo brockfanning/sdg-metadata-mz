@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 9-5-2, translated into pt</message>
+	<data>&lt;p&gt;O Inquérito de ID é conduzido com base na Metodologia do Manual de Frascati (2015). A operação estatística é de carácter nacional, pois cobre Instituições de Investigação Científica (IIC), Instituições de Ensino Superior (IES), Empresas e Instituições Privadas sem Fins Lucrativos (IPSFL) do País.&lt;/p&gt;
+&lt;p&gt;No Inquérito, é usado o censo para a recolha de dados nas Instituições de Ensino Superior e Instituições de Investigação Científica localizadas no território nacional, tendo em conta os universos reduzidos destas Instituições. Quanto às Empresas e Instituições Privadas sem Fins Lucrativos (IPSFL), é usada Amostragem Proporcional Estratificada devido ao tamanho enorme do universo.&lt;/p&gt;
+&lt;p&gt;Recolha, Processamento e Análise de Dados&lt;/p&gt;
+&lt;p&gt;A recolha de dados é feita com base nos questionários físicos e online, combinado com o método de entrevista presencial, envio de questionários por correio electrónico e links que permitiram ter acesso aos questionários online do Sistema de Informação (e-Survey). O pré-processamento de dados é feito automaticamente no Sistema de Informação (e-Survey). Em seguida, a verificação e validação dos dados foi feita com recurso aos Pacotes Estatísticos STATA e o pacote Excel para elaboração de gráficos. &lt;/p&gt;
+&lt;p&gt;Taxa de Resposta geral considerada é de 75%.&lt;/p&gt;</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 10-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; This indicator is measured from the consumption value used in the poverty assessment. The percentage of the population living below 50% of national consumption is calculated. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Este indicador é medido a partir do valor do consumo utilizado na avaliação de pobreza. Calcula-se a percentagem da população que vive abaixo dos 50% do consumo nacional. &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

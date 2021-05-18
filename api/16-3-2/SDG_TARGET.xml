@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 16-3-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 16.3 Promote the rule of law, at national and international level, and guarantee equal access to justice for all &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;16.3 Promover o Estado de Direito, ao nível nacional e internacional, e garantir a igualdade de accesso à justiça para todos&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

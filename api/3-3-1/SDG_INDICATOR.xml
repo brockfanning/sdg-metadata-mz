@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 3-3-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;h1&gt; 3.3.1 Number of new HIV infections per 1000 uninfected inhabitants &lt;/h1&gt;
+			</language>
+			<language lang="pt">&lt;h1&gt;3.3.1 Número de novas infecções de HIV por 1000 habitantes não-infectados&lt;/h1&gt;
+			</language>
+</languages>
+</data>
+</root>

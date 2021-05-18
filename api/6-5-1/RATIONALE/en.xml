@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The RATIONALE field for indicator 6-5-1, translated into en</message>
+	<data> &lt;p&gt; The indicator provides a direct measure of the progress of the implementation of integrated water resources management. The percentage score provides an easy and understandable way to measure progress towards the goal, with &apos;0&apos; interpreted as no IWRM implementation and &apos;100&apos; interpreted as IWRM being fully implemented. The indicator results can be classified similarly to the survey questions: &lt;/p&gt;
+ &lt;p&gt; Degree of implementation = &lt;/p&gt;
+ &lt;ul&gt;
+   &lt;li&gt; Very low (0-9,9) &lt;/li&gt;
+   &lt;li&gt; Low (10-29.9) &lt;/li&gt;
+   &lt;li&gt; Mid-low (30-49.9) &lt;/li&gt;
+   &lt;li&gt; Mid-high (50-69.9) &lt;/li&gt;
+   &lt;li&gt; High (70-89.9) &lt;/li&gt;
+   &lt;li&gt; Very high (90-100) &lt;/li&gt;
+ &lt;/ul&gt;</data>
+</root>

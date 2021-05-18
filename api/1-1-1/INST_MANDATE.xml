@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The INST_MANDATE field for indicator 1-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; By joint order number &lt;strong&gt; 112 / DEAE-MF / 2012 of 8 June &lt;/strong&gt;, the National Statistics Institute delegated powers of notation and clearance of statistical data from administrative acts and inquiries to the Ministry of Finance through the Directorate of Studies and Economic Analysis . &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Pelo despacho conjunto número &lt;strong&gt;112/DEAE-MF/2012 de 8 de Junho&lt;/strong&gt;, o Instituto Nacional de Estatística delegou competências de notação e apuramento de dados estatísticos de actos administrativos e inquéritos ao Ministério das Finanças através da Direcção de Estudos e Análise Económica.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

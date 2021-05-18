@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 15-1-1, translated into pt</message>
+	<data>&lt;p&gt;&lt;strong&gt;Área de floresta (ano de referência) / área de terra (2015) * 100&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Este indicador pode ser agregado ao nível global ou regional, adicionando todos os valores de países globalmente ou numa região específica&lt;/p&gt;
+&lt;p&gt;A proporção de área florestal na área protegida e no plano de gestão é calculada usando as áreas relatadas e a área de terra oficial do FAOSTAT para o ano de referência de 2015. &lt;/p&gt;</data>
+</root>

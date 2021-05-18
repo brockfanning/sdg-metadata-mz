@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DOC_METHOD field for indicator 9-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The production of this indicator uses the international methodological guidelines established in the OECD Frascati Manual (OECD, 2015) to allow comparability with other countries. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A produção deste indicador são usadas as orientações metodológicos internacionais estabelecidas no Manual Frascati da OCDE (OCDE, 2015) para permitir a comparabilidade com outros países.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

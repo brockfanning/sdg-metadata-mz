@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 8-9-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Direct Gross Value Added by Tourism VABDT as a share of GDP in% &lt;/p&gt;
+ &lt;p&gt; Growth Rate of VABDT &lt;/p&gt;
+ &lt;p&gt; ((VABDT &lt;sub&gt; t &lt;/sub&gt; / VABDT &lt;sub&gt; t-1 &lt;/sub&gt;) -1) * 100 &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Valor Acrescentado Bruto Directo do Turismo VABDT como porporcao do PIB em %&lt;/p&gt;
+&lt;p&gt;Taxa de Crescimento do VABDT&lt;/p&gt;
+&lt;p&gt; ((VABDT &lt;sub&gt;t&lt;/sub&gt; / VABDT &lt;sub&gt;t-1&lt;/sub&gt;)-1)*100&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

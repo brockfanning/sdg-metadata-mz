@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_FUNCT field for indicator 3-c-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Monitoring and Evaluation Technicians &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Ténicos de Monitoria e Avaliação&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

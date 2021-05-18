@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 3-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Infant mortality (below five years) is the probability that a child born in a specific year or period will die before reaching 5 years of age, subject to age-specific mortality rates for that period, expressed per 1,000 births alive. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A mortalidade infantil (abaixo de cinco anos) é a probabilidade de uma criança nascida em um dado ano ou período específico morrer antes de atingir os 5 anos de idade, se sujeita a taxas de mortalidade específicas por idade desse período, expressas por 1.000 nascidos vivos. &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

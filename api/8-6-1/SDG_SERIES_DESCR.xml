@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 8-6-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Percentage of young people aged between 15 and 24 years old who do not study, do not work or are not in training &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Percentagem de jovens com idade compreendida entre os 15 e 24 anos que não estudam, não trabalham ou não estejam em treinamento&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

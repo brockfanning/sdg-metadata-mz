@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:28.483Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="3aa15cfe-0ffa-4ff2-9141-6b6c9b7c34f1">
+    <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SH_SAN_SAFE</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Estatísticas Demográficas, Vitais e Sociais</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="pt"><![CDATA[<p>6. GARANTIR A DISPONIBILIDADE E A GESTÃO SUSTENTÁVEL DA ÁGUA POTÁVEL E DO SANEAMENTO PARA TODOS.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="pt"><![CDATA[<p>6.2 Até 2030, alcançar o acesso a saneamento e higiene adequados e equitativos para todos, e acabar com a defecação a céu aberto, com especial atenção para as necessidades das mulheres e meninas e daqueles em situação de vulnerabilidade</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="pt"><![CDATA[<p>6.2.1 Proporção da população utilizando serviços de saneamento geridos de forma segura, segundo área de residência e províncias</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="pt"><![CDATA[<p>Proporção da população utilizando serviços de saneamento geridos de forma segura, segundo área de residência e províncias</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>08/10/2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>INSTITUTO NACIONAL DE ESTATISTICA</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="pt"><![CDATA[<p>Teixeira Mandlate, Maria Alfeu e João Mangue</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Técnicos</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="pt"><![CDATA[<p>+258 844386629; +258 823032619; +258 827679480</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p>www.ine.gov.mz</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:Teixeira.mandlate@ine.gov.mz">Teixeira.mandlate@ine.gov.mz</a>; <a href="mailto:maria.alfeu@ine.gov.mz">maria.alfeu@ine.gov.mz</a>; <a href="mailto:joao.mangue@ine.gov.mz">joao.mangue@ine.gov.mz</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="pt"><![CDATA[<p>Proporção da população que usa serviços de saneamento geridos de forma segura. </p>
+<p>É considerada saneamento seguro, instalações de saneamento básicos que não são compartilhadas com outras famílias e onde os excrementos são descartados com segurança no local ou tratados fora do local, tais como: retretes com autoclismo dentre de casa, retrete com autoclismo fora de casa, retrete sem autoclismo, latrina melhorada, latrina tradicional melhorada.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Recenseamento Geral da População e Habitação e Inquéritos aos Agregados Familiares</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>A fonte de dados recomendada para calcular este indicador são os Censos e Inquéritos aos Agregados Familiares. O questionário da recolha de dados é desenhado e posteriormente testado no campo no decurso do treinamento dos entrevistadores.</p>
+<p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente aos agregados familiares onde perguntou-se aos inquiridos se a casa tem: retretes com autoclismo dentre de casa, retrete com autoclismo fora de casa, retrete sem autoclismo, latrina melhorada, latrina tradicional melhorada.</p>
+<p>O trabalho do campo teve a duração de 15 dias para caso dos Censos e nos Inquéritos dependendo do tipo e objectivo do Inquérito.</p>
+<p>Casos de não resposta, apos esgotadas todas as diligências para captação, são tratados como casos desconhecidos.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="pt"><![CDATA[<p>2027</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="pt"><![CDATA[<p>2029</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="pt"><![CDATA[<p>INE</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="pt"><![CDATA[<p>INE</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Lei 7/96 de 5 de Julho</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="pt"><![CDATA[<p>As consultas internacionais desde 2011 estabeleceram consenso sobre a necessidade de desenvolver e abordar as deficiências desse indicador; especificamente, para abordar critérios normativos do direito humano à água, incluindo acessibilidade, aceitabilidade e segurança. Além disso, deve-se considerar a gestão segura de resíduos fecais, pois as descargas de águas residuais não tratadas no meio ambiente criam riscos à saúde pública. Estas consultas concluiu que as metas pós-2015, aplicáveis a todos os países, devem ir além do nível básico de acesso e abordar indicadores de gestão segura dos serviços de saneamento, incluindo dimensões de acessibilidade, aceitabilidade e segurança. </p>
+<p>O Grupo de Trabalho de Especialistas solicitou a análise da gestão de resíduos fecais ao longo da cadeia de saneamento, incluindo contenção, esvaziamento de latrinas e fossas sépticas e descarte seguro no local ou transporte e tratamento de resíduos em um local de tratamento designado. A classificação do tratamento será baseada nas categorias definidas pelo SEEA e pelas Recomendações Internacionais para Estatísticas da Água e seguindo uma abordagem em escada (tratamento primário, secundário e terciário).</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados sobre fluxo, descarte e tratamento seguro de resíduos fecais estão cada vez mais disponíveis por meio de uma combinação de inquéritos aos agregados familiares e fontes administrativas, incluindo reguladores, mas as definições ainda precisam ser padronizadas.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="pt"><![CDATA[<p>A percentagem da população que utiliza serviços de gestão de saneamento seguro é calculada combinando dados sobre a proporção da população que usa diferentes tipos de instalações de saneamento básico com estimativas da proporção de resíduos fecais que são descartados com segurança no local ou tratados fora do local.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>O trabalho de campo contou com a supervisão e controle de qualidade por parte dos técnicos do INE Central como das Delegações Provinciais. Além disso, durante a recolha de dados foi estabelecido um rigoroso controlo a nível de cada equipa sobre o processo de recolha, mediante a detecção de erros por parte da crítica no campo, o que permitiu a correcção imediata ainda no terreno. </p>
+<p>A nível da coordenação central, os críticos de dados fizeram revisão adicional dos dados da base e os problemas encontrados eram comunicados às respectivas equipas para correção. </p>
+<p>O processamento interactivo e por lotes de informação permitiu, ainda, a nível central, a obtenção periódica de resultados parciais, para análise dos dados recolhidos até dado momento, mediante a produção de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabulações foram reportados em retro alimentação aos inquiridores, assegurando a qualidade dos dados.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>Na produção e compilação de dados, usou-se metodologias recomendadas pelas Nações Unidas nos <strong><em>Princípios e Recomendações dos Censos da População e Habitação (ST/ESA/STAT/SER.M/67/Rer.3)</em></strong></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ainda em desenvolvimento e por aprovar o instrumento da gestão de qualidade</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente aos agregados familiares preenchendo-se o Boletim de Agregados Familiares e Boletim de alojamentos colectivos.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ainda em desenvolvimento e por aprovar o instrumento para avaliação de qualidade</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Área de residência rural e urbana, provincial</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="pt"><![CDATA[<p>A produção de dados permite comparabilidade não havendo diferenças pois seguem-se as recomendações inernacionalmente definidas nos <strong><em>Princípios e Recomendações para Estatísticas Civil – ONU, (ST/ESA/STAT/SER.M/19/Rev.3 New York, 2014)</em></strong></p>
+<p>As estimativas dos Inquéritos Demográficos e de Saúde são baseadas em metodologias padronizadas e desenvolvidas pela OMS e UNICEF.</p>
+<p>O Inquérito Demográfico e de Saúde (IDS) em Moçambique faz parte dum programa internacional de inquéritos (MEASURE DHS) desenvolvido pelo ICF International através de um contrato com a USAID, com o propósito de apoiar aos governos e instituições privadas dos países em desenvolvimento na realização de inquéritos nacionais por amostragem, nas áreas de população e saúde. O Programa MEASURE DHS tem por objectivo:</p>
+<p>• Subsidiar a formulação de políticas e implementação de programas nas áreas de população e saúde; </p>
+<p>• Aumentar a base internacional de dados sobre população e saúde para acompanhamento e avaliação; </p>
+<p>• Aprimorar metodologia de inquérito por amostragem, e </p>
+<p>• Consolidar, na área de inquérito, a capacidade técnica da instituição executora no país participante do Programa.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Saúde (MISAU), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; </p>
+<p>Instituto Nacional de Estatística (INE), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>;</p>
+<p>ICF Internacional (ICFI), <a href="http://www.measuredhs.com">www.measuredhs.com</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

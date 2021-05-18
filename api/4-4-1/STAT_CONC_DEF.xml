@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 4-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Percentage of young people (15 to 24 years old) and adults (aged 15 years and over) who performed certain computer activities in a certain period of time. Computer-related activities to measure ICT skills include: &lt;/p&gt;
+ &lt;p&gt; • Copy or move a file &lt;/p&gt;
+ &lt;p&gt; • Use of copy and paste tools to duplicate or move information within the same document; &lt;/p&gt;
+ &lt;p&gt; • Sending e-mail with file attachments (e.g. photo, video); &lt;/p&gt;
+ &lt;p&gt; • Use of basic arithmetic formula in a spreadsheet; &lt;/p&gt;
+ &lt;p&gt; • Connection and installation of new devices (e.g. modem, camera, printer); &lt;/p&gt;
+ &lt;p&gt; • Find, download, install and configure software; &lt;/p&gt;
+ &lt;p&gt; • Creation of electronic presentations with presentation software (including text, images, sound, video or graphics); &lt;/p&gt;
+ &lt;p&gt; • Transferring files between a computer and other devices; &lt;/p&gt;
+ &lt;p&gt; • Write a computer program using a specialized programming language. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Percentagem de jovens (de 15 a 24 anos) e adultos (com idade igual ou superior a 15 anos) que realizaram determinadas actividades informáticas em um determinado período de tempo. Actividades relacionadas com a informática para medir habilidades em TIC incluem:&lt;/p&gt;
+&lt;p&gt;• Copiar ou mover um ficheiro&lt;/p&gt;
+&lt;p&gt;• Uso de ferramentas de copiar e colar para duplicar ou mover informação dentro do mesmo documento;&lt;/p&gt;
+&lt;p&gt;• Envio de correio electrónico com anexo de ficheiros (e.g. fotografia, vídeo);&lt;/p&gt;
+&lt;p&gt;• Uso de fórmula básica de aritmética numa folha de calculo;&lt;/p&gt;
+&lt;p&gt;• Ligação e instalação de novos dispositivos (e.g. modem, câmera, impressora);&lt;/p&gt;
+&lt;p&gt;• Encontrar, baixar, instalar e configurar software;&lt;/p&gt;
+&lt;p&gt;• Criação de apresentações electrónicas com um software de apresentação (incluindo textos, imagens, som, vídeo ou gráfico);&lt;/p&gt;
+&lt;p&gt;• Transferência de ficheiros entre um computador e outros dispositivos;&lt;/p&gt;
+&lt;p&gt;• Escrever um programa de computador usando uma linguagem especializada de programação.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

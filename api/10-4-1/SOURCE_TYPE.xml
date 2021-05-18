@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SOURCE_TYPE field for indicator 10-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Monthly and annual Economic Activities Surveys (IAE), Family Budget Survey (IOF), Administrative data &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt; Inquéritos as Actividades Económicas (IAE) mensais e anuais, Inquérito ao Orçamento Familiar (IOF), Dados administrativos&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The RATIONALE field for indicator 5-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The indicator is based on the use of the questionnaire composed of 45 “yes / no” answer questions in four areas of law: (i) Comprehensive legal frameworks and public life; (ii) violence against women; (iii) employment and economic benefits; and (iv) marriage and family. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;O indicador tem como base o uso do questionário composto por 45 perguntas de respostas “sim/não” em quatro áreas do direito: (i) Quadros legais abrangentes e vida pública; (ii) violência contra a mulher; (iii) emprego e benefícios económicos; e (iv) casamento e família.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

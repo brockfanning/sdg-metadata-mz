@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 3-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Neonatal mortality as a percentage &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Mortalidade neonatal em percentagem&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

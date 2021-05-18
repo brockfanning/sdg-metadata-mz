@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_GOAL field for indicator 14-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 14 CONSERVATION AND SUSTAINABLE USE OF OCEANS, SEAS AND MARINE RESOURCES FOR SUSTAINABLE DEVELOPMENT &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt; 14 CONSERVAÇÃO E USO SUSTENTÁVEL DOS OCEANOS, DOS MARES E DOS RECURSOS MARINHOS PARA O DESENVOLVIMENTO SUSTENTÁVEL&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

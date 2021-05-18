@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_MAIL field for indicator 16-3-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;h2&gt; mjcr.planificacao.cooperacao@gmail.com &lt;/h2&gt;
+			</language>
+			<language lang="pt">&lt;h2&gt;mjcr.planificacao.cooperacao@gmail.com&lt;/h2&gt;
+			</language>
+</languages>
+</data>
+</root>

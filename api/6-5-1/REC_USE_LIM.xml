@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REC_USE_LIM field for indicator 6-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Consolidation is still necessary in relation to related basin committees as the management of basins / aquifers is still in the initial stage of implementation and operationalization. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A consolidação ainda é necessária em relação a comitês de bacia relacionados pois a gestão de bacias/ aquíferos ainda está em estágio inicial de implementação e operacionalização.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

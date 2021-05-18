@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 8-9-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; &lt;strong&gt; 8.9.1 &lt;/strong&gt; Direct Gross Value Added by Tourism (VABDT) as a percentage of total GDP and the growth rate &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;&lt;strong&gt;8.9.1&lt;/strong&gt; Valor Acrescentado Bruto Directo do Turismo (VABDT) em percentagem do PIB total e a taxa de crescimento&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

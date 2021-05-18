@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_ASSURE field for indicator 4-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; To guarantee the quality required in the Statistics production process, the sector uses all correlated administrative information sources, in order to complement, validate and measure the information obtained. Also during the process of analysis and establishment of the data values, the sources of origin of the basic information are questioned whenever there are doubts or anomalous variations in the results obtained. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Para garantir a qualidade requerida no Processo de produção das estatísticas, o sector utiliza todas as fontes de informação administrativas correlacionadas, no sentido de complementar, validar e aferir a informação obtida. Igualmente no decorrer do processo de análise e estabelecimento dos dados valores, as fontes de origem da informação de base são questionadas sempre que existirem dúvidas ou variações anómalas nos resultados obtidos.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

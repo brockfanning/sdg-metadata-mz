@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COVERAGE field for indicator 4-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The data for this indicator are available annually and are not broken down by type of skill. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Os dados deste indicador são disponibilizados anualmente e não estão desagregados por tipo de habilidade.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

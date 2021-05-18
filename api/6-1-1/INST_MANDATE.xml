@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The INST_MANDATE field for indicator 6-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Law 7/96 of 5 July &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Lei 7/96 de 5 de Julho&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

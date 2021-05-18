@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_VALIDATION field for indicator 3-c-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Monthly reports of inconsistency are prepared as a means of reinforcing data quality. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Mensalmente são elaborados relatórios mensais de inconsistência como meio de reforço da qualidade de dados.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

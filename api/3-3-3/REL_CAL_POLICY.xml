@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REL_CAL_POLICY field for indicator 3-3-3, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Monthly information is published at MISAU level, until the 20th of each month &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Mensalmente a informação é publicada a nível do MISAU, até dia 20 de cada mês &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

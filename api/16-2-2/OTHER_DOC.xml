@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The OTHER_DOC field for indicator 16-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The periodic reports and balance sheets, through which the Ministry of the Interior monitors and evaluates institutional performance, are the only references &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Os relatórios e balanços periódicos, através dos quais o Ministério do Interior faz monitoria e avaliação do desempenho institucional, constituem únicas referências&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

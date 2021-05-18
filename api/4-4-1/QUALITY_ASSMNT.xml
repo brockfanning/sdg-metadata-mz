@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_ASSMNT field for indicator 4-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The instruments for assessing the quality of statistical processes and products at the level of the national statistical system are being developed based on the 19 quality principles established by the united nations statistics commission. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Os instrumentos para avaliação da qualidade dos processos e produtos estatísticos a a nivel do sistema estatistico Nacional estão a ser desenvolvidos com base nos 19 principios de qualidade estatelecidos pela comissão de estatísticas das nações unidas.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

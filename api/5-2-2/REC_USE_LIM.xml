@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REC_USE_LIM field for indicator 5-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The availability of comparable data remains a challenge in this area, as many data collection efforts are based on different research methodologies, use different definitions of violence by the partner or spouse, and different forms of violence, different formulation of questions research, and different age groups are often used. The willingness to discuss experiences of violence and the understanding of relevant concepts can also differ according to the cultural context and this can affect the reported prevalence levels. &lt;/p&gt;
+ &lt;p&gt; Obtaining data on violence against women is an expensive and time-consuming exercise, whether obtained through dedicated independent surveys or modules inserted in other surveys. Demographic and Health Surveys (IDS) are carried out approximately every 5 years, and dedicated surveys, if repeated, are carried out less frequently than that of IDS. Monitoring this indicator on a regular basis can be a challenge if sustainable capacities are not built and financial resources are not available. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A disponibilidade de dados comparáveis continua sendo um desafio nesta área, pois muitos esforços de recolha de dados baseiam-se em diferentes metodologias de pesquisa, usam diferentes definições de violência pelo parceiro ou esposo, e das diferentes formas de violência, diferentes formulações de perguntas de pesquisa, e diversas faixas etárias frequentemente são utilizadas. A disposição de discutir experiências de violência e a compreensão de conceitos relevantes também podem diferir de acordo com o contexto cultural e isso pode afectar os níveis de prevalência reportados.&lt;/p&gt;
+&lt;p&gt;A obtenção de dados sobre a violência contra as mulheres é um exercício dispendioso e demorado, independentemente de serem obtidos por meio de inquéritos dedicados independentes ou por módulos inseridos em outros inquéritos. Os Inquéritos Demográficas e de Saúde (IDS) são realizadas a cada 5 anos, aproximadamente, e inquéritos dedicados, se repetidos, são realizados com menos periodicidade do que a do IDS. A monitoria deste indicador com certa periodicidade pode ser um desafio se as capacidades sustentáveis não forem construídas e os recursos financeiros não estiverem disponíveis.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_ASSMNT field for indicator 6-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are still being developed based on the 19 quality principles established by the United Nations Statistical Commission. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Os instrumentos para a avaliação da qualidade dos processos e produtos estatísticos a nível do Sistema Estatístico Nacional ainda estão a ser desenvolvidos com base nos 19 princípios de qualidade estabelecidos pela Comissão de Estatística das Nações Unidas.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

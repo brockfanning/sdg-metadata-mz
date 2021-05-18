@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DOC_METHOD field for indicator 8-1-1, translated into en</message>
+	<data> &lt;p&gt; The annual growth rate of real gross domestic product (GDP) per capita is calculated as follows: &lt;/p&gt;
+ &lt;ol&gt;
+   &lt;li&gt; Convert the annual real GDP (constant prices) into the national currency of a country or region in US dollars using the base year exchange rate. &lt;/li&gt;
+   &lt;li&gt; Divide the result by the population of the country or region to obtain the annual real GDP per capita in US dollars. &lt;/li&gt;
+   &lt;li&gt; Calculate the annual growth rate of real GDP per capita in year t &lt;sub&gt; +1 &lt;/sub&gt;, using the following formula: [(G (t &lt;sub&gt; +1 &lt;/sub&gt;) - G (t) G (t &lt;sub&gt; +1 &lt;/sub&gt;) is the real GDP per capita in dollars in year t &lt;sub&gt; +1 &lt;/sub&gt; and G (t) is the real GDP per capita in dollars of the year t .. a0f84d72dce6e5
+ &lt;/ol&gt;</data>
+</root>

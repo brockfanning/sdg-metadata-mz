@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 8-6-1, translated into en</message>
+	<data> &lt;p&gt; The indicator refers to the proportion of young people aged between 15 and 24 who declared during the survey that they are not studying, working or in training. &lt;/p&gt;
+ &lt;p&gt; According to the recommendations of the International Conference of Labor Statistics (CIET), all persons aged 15 and over are considered unemployed than in the reference week &lt;/p&gt;
+ &lt;ol&gt;
+   &lt;li&gt; Did not work or had no work, &lt;/li&gt;
+   &lt;li&gt; were available to work and &lt;/li&gt;
+   &lt;li&gt; They were looking for work or employment. &lt;/li&gt;
+ &lt;/ol&gt;
+ &lt;p&gt; For the purposes of the IOF, the criterion “job search” was waived, with the fulfillment of the first two conditions mentioned above being sufficient for the person to be considered unemployed &lt;/p&gt;</data>
+</root>

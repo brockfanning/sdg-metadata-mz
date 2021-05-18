@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 16-3-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The total number of non-sentenced persons held in detention divided by the total number of persons held in detention on a specified date. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;O número total de pessoas não sentenciadas mantidas em detenção dividido pelo número total de pessoas mantidas em detenção, em uma data especificada.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 6-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Proportion of the population that drinks water from safe sources corresponds to the proportion that uses water from a source considered safe. &lt;/p&gt;
+ &lt;p&gt; A source of safe water is one that is free from fecal and / or chemical contamination. &lt;/p&gt;
+ &lt;p&gt; &quot;Improved&quot; drinking water sources include: piped water within the home, yard, land or neighbor&apos;s house; taps or public fountains; boreholes or wells protected with a hand pump; protected springs; packaged / mineral water. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Proporção da população que bebe água proveniente de fontes seguras corresponde a proporção que usa água proveniente de uma fonte considerada segura. &lt;/p&gt;
+&lt;p&gt;É considerada fonte de agua segura aquela que e livre de contaminação fecal e/ou química.&lt;/p&gt;
+&lt;p&gt;As fontes de água potável &quot;melhoradas&quot; incluem: água canalizada dentro de casa, quintal, terreno ou casa do vizinho; torneiras ou fontenários públicos; furos ou poços protegidos com bomba manual; nascentes protegidas; água embalada/mineral.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

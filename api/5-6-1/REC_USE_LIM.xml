@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The REC_USE_LIM field for indicator 5-6-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Women who make their own decision to seek medical care are considered to be able to exercise their reproductive rights. &lt;/p&gt;
+ &lt;p&gt; A key limitation is that the current estimates of the indicator are based on women currently married or in union at the age of reproduction (15 to 49 years) who are using any type of contraception. In the current Demographic and Health Survey (IDS), the question about decision making on contraceptive use is asked only of women who currently use contraceptive methods. As questions about decision-making about sexual relations and health care are restricted to women (15 to 49) currently married or in union, the denominator of Indicator 5.6.1 is women aged 15 to 49, currently married or in union and currently using contraception. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;As mulheres que tomam sua própria decisão em relação à busca de assistência médica são consideradas capacitadas para exercer seus direitos reprodutivos.&lt;/p&gt;
+&lt;p&gt;Uma limitação chave é que as estimativas actuais do indicador baseiam-se em mulheres actualmente casadas ou em união em idade reprodutiva (15 a 49 anos) que estão usando qualquer tipo de contracepção. No actual Inquérito Demográfico e de Saúde (IDS), a pergunta sobre a tomada de decisão sobre o uso de contraceptivos é feita apenas às mulheres que actualmente usam métodos contraceptivos. Como as questões sobre tomada de decisão sobre relações sexuais e assistência médica são restritas a mulheres (15 a 49) actualmente casadas ou em união, o denominador do Indicador 5.6.1 são mulheres de 15 a 49 anos, actualmente casadas ou em união e actualmente usando contracepção.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

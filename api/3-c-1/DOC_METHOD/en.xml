@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DOC_METHOD field for indicator 3-c-1, translated into en</message>
+	<data> &lt;p&gt; Data for the number of physicians (including general practitioners and specialists), depending on the nature of the original data source, may include only physicians or all registered physicians. &lt;/p&gt;
+ &lt;p&gt; Data for nursing and midwifery numbers include nursing and midwifery personnel, where available. In many countries, nurses trained in midwifery skills are counted and registered as nurses. This makes it difficult to distinguish between nursing staff and midwifery personnel. &lt;/p&gt;
+ &lt;p&gt; Data for the number of dentists includes dentists in the specified national and / or sub-national area. Depending on the nature of the original data source, it may include trainees (active) only or all those registered in the healthcare profession. The ISCO -08 code included here is 2261. &lt;/p&gt;
+ &lt;p&gt; Data for the number of pharmacists includes pharmacists in the specified national and / or subnational area. Depending on the nature of the original data source, it may include trainees (active) only or all those registered in the healthcare profession. The ISCO -08 code related to this occupation is 2262. &lt;/p&gt;
+ &lt;p&gt; In general, the denominator data for workforce density (ie national population estimates) are obtained from the United Nations Population Division&apos;s World Population Prospects database. In cases where the official health sector workforce report provides density indicators instead of counts, stock estimates were calculated using the estimated population in the United Nations Population Division&apos;s world population database (2017). &lt;/p&gt;</data>
+</root>

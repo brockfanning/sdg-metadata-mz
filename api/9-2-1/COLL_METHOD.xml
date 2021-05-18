@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 9-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Monthly surveys, annual surveys, administrative data &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Inquéritos mensais, inquéritos anuais, dados administrativos&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

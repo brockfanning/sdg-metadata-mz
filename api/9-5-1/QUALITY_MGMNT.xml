@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_MGMNT field for indicator 9-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; In process the creation of the Quality Management System at the level of the National Statistical System, however at the Ministry level there is a Department of Studies and Statistics that checks the quality of the production of Sector Statistics throughout the process. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Em processo a criação do Sistema de Gestão de qualidade a nível do Sistema Estatístico Nacional, entretanto a nível do Ministério existe um Departamento de Estudos e Estatística que faz a verificação da qualidade da produção das Estatísticas do Sector em todo o processo.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

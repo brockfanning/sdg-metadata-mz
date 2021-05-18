@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:21.524Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="5f8c2031-a75f-48ee-a90d-9e6497ba96e3">
+    <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>SI_COV_VULN</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>G</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLH(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Planificação e Cooperação</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="pt"><![CDATA[<p>A cobertura de programas de proteção social é a percentagem da população que se beneficiam de programas de protecção social. As estimativas incluem beneficiários directos e indirectos.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="pt"><![CDATA[<p>1. Erradicar a pobreza em todas as suas formas, em todos os lugares</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="pt"><![CDATA[<p><strong>1.3 </strong>Implementar, ao nível nacional, medidas e sistemas de protecção social adequados, para todos, e até 2030 atingir a cobertura substancial dos pobres e vulneráveis<strong> </strong></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="pt"><![CDATA[<h1>1.3.1 Percentagem da população coberta por programas de protecção social básica, por sexo e para os seguintes grupos populacionais: pessoas em situação de pobreza e vulnerabilidade (crianças órfãs e vulneráveis, pessoas idosas, pessoas com deficiência, pessoas com doenças crónicas e degenerativas, crianças de 0-2 anos)</h1>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="pt"><![CDATA[<p>População coberta por programas de protecção social básica em percentagem</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>20/01/2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          <com:Text xml:lang="pt"><![CDATA[<p>Nenhum indicador relacionado</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério do Género, Criança e Acção Social (MGCAS)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ângelo Tivane e Arnaldo Muthemba</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Chefe do Departamento de Planificação, técnico</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="pt"><![CDATA[<p>+258 828351430; +258 840560048; +258 826081976; +258 2268933</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:Angelotivane2011@gmail.com">Angelotivane2011@gmail.com</a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank">muthembarnaldo@gmail.com</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:Angelotivane2011@gmail.com">Angelotivane2011@gmail.com</a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank">muthembarnaldo@gmail.com</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="pt"><![CDATA[<p>A cobertura de programas de proteção social é a percentagem da população que se beneficiam de programas de protecção social. As estimativas incluem beneficiários directos e indirectos </p>
+<p>Cobertura de Programas de Protecção Social (Assistência Social) a População pobre e vulnerável (Pessoa Idosa, Pessoa com Deficiência, Pessoa Doente Cronico e Degenerativa, Criança órfã e Criança de mãe que não podem amamentar, Criança com desnutrição) </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Fonte administrativa. Relatório Balanço do anual do PES do Ministério do Género, Criança e Acção Social (MGCAS) e dados do denominador são do Censo da População e Habitação e projeções do INE</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>As Delegações do Instituto Nacional de Acção Social fazem a recolha dos dados e introduzem os mesmos no Sistema de Informação do INAS on line (e-INAS) e o Instituto Nacional de Acção Social (INAS), por sua vez harmoniza, verifica e faz a validação com base também nos relatórios enviados periódicamente pelas delegações.</p>
+<p> O INAS por sua vez envia o relatório periódico ao Ministério do Género, Criança e Acção Social para validação final e enviado aos Serviços Distritais de Saúde, Mulher e Acção Social e Serviços Provinciais de Assuntos Sociais. </p>
+<p>Os dados da população são recolhidos no INE</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="pt"><![CDATA[<p> 27 de Dezembro de 2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="pt"><![CDATA[<p>20 de Janeiro de 2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Delegações do Instituto Nacional de Acção Social</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério do Género, Criança e Acção Social</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p> Diploma Ministerial nº 117/2015, de 31 de Dezembro; decreto nº 47/2018, de 6 de Agosto, decreto presidencial nº 9/2015 de 13 de Março, resolução nº 18/2015 de 10 de Julho</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="pt"><![CDATA[<p>O foco é que todas as famílias pobres sejam beneficiários dos Programas de Protecção (Assistência Social) Quanto maior for a percentagem significa maior cobertura dos agregados familiares pobres</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador é fiável, pois os dados são recolhidos na fonte a nível nacional e estão desagregados por grupo alvo (Beneficiário directo), sexo do chefe do agregado familiar e Província.</p>
+<p>Limitações: Os dados disponíveis não permitem usar a fórmula do indicador global, pois o Ministério do Género, Criança e Acção Social ainda não começou a implementar as transferências sociais por pessoa conforme o Decreto 47/2018, de 6 de Agosto. </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="pt"><![CDATA[<p>Cobertura = Número de Agregados Familiares beneficiários dos Programas do Protecção Social (Assistência Social) /Agregados familiares pobres e vulneráveis segundo a IV Avaliação da Pobreza em Moçambique X100 </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>Analisado a nível do Conselho Técnico e validado pelo Conselho Consultivo do Ministério do Género, Criança e Acção Social</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DOC_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>A orientação dada internacionalmente ou globalmente e o uso da população abaixo da linha da pobreza mas o País usa agregados familiares abaixo da linha de pobreza</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados do relatório são analisados pela equipa de Repartição de Monitoria e Avaliação, pelo chefe do Departamento de Planificação, pelo Director de planificação e cooperação, pelo Conselho Tecnico e por fim pelo Conselho Consultivo do Ministério do Género, Criança e Acção Social.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Durante o processo de recolha de dados a equipa da INAS controla a qualidade dos dados que as Delegações reportam antes de serem enviados ao Ministério do Género, Criança e Acção Social. </p>
+<p>Comparação da informação do período corrente com a de anterior e também com o planificado.</p>
+<p>Aferir a veracidade dos dados junto ao INAS e as delegações </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>O Ministério do Género, Criança e Acção Social esta organizar a área de estatística para trabalhar em coordenação com o Instituto Nacional de Estatística (INE) na melhoria da qualidade de todo processo desde a recolha de dados até a publicação de dados</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados estão disponíveis anualmente e são desagregados por sexo do chefe do agregado familiar, Província e Grupo alvo</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador não pode ser comparado com os outros países, pois no processo de calculo usa-se agregados familiares no lugar de população. Isto porque de momento os Programas de assistência fazem transferências sociais para agregado familiar e não para individuo.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="http://www.mgcas.mz.co">www.mgcas.mz.co</a>,</p>
+<p>Estratégia Nacional de Segurança Social Básica ( ENSSB)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

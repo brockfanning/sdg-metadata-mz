@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 16-9-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 16.9 By 2030, provide legal identity for everyone, including birth registration &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;16.9 Até 2030, fornecer identidade legal para todos, incluindo o registro de nascimento&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

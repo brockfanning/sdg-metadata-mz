@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mes:GenericMetadata xmlns:mes="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:gen="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/metadata/generic" xmlns:com="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
+  <mes:Header>
+    <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2021-05-18T23:33:23.339Z</mes:Prepared>
+    <mes:Sender id="sender"/>
+    <mes:Structure structureID="MDS1">
+      <com:Structure>
+        <URN>urn:sdmx:org.sdmx.infomodel.metadatastructure.MetadataStructure=IAEG-SDGs:SDG_MSD(0.3)</URN>
+      </com:Structure>
+    </mes:Structure>
+  </mes:Header>
+  <mes:MetadataSet structureRef="MDS1" setID="96fe51a9-9891-4606-90cf-8293829278b6">
+    <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
+    <gen:Report id="SDG_META_RPT">
+      <gen:Target id="KEY_TARGET">
+        <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
+          <gen:DataKey>
+            <com:KeyValue id="SERIES">
+              <com:Value>VC_HTF_DETV</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REPORTING_TYPE">
+              <com:Value>N</com:Value>
+            </com:KeyValue>
+            <com:KeyValue id="REF_AREA">
+              <com:Value>508</com:Value>
+            </com:KeyValue>
+          </gen:DataKey>
+        </gen:ReferenceValue>
+        <gen:ReferenceValue id="Dataflow">
+          <gen:ObjectReference>
+            <URN>urn:sdmx:org.sdmx.infomodel.datastructure.Dataflow=IAEG-SDGs:DF_SDG_GLC(1.0)</URN>
+          </gen:ObjectReference>
+        </gen:ReferenceValue>
+      </gen:Target>
+      <gen:AttributeSet>
+        <gen:ReportedAttribute id="ORGANISATION_UNIT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Planificação, Estudos e Documentação</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SRC_TYPE_COLL_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_METHOD">
+          <com:Text xml:lang="pt"/>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_GOAL">
+          <com:Text xml:lang="pt"><![CDATA[<p> 16 PROMOVER SOCIEDADES PACÍFICAS E INCLUSIVAS PARA O DESENVOLVIMENTO SUSTENTÁVEL, PROPORCIONAR O ACESSO À JUSTIÇA PARA TODOS E CONSTRUIR INSTITUIÇÕES EFICAZES, RESPONSÁVEIS E INCLUSIVAS A TODOS OS NÍVEIS</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_TARGET">
+          <com:Text xml:lang="pt"><![CDATA[<p>16.2 Acabar com abuso, exploração, trafico e todas as formas de violência e tortura contra crianças</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_INDICATOR">
+          <com:Text xml:lang="pt"><![CDATA[<p>16.2.2 Número de vítimas de tráfico humano por 100.000 habitantes por sexo, faixa etária e forma de exploração</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_SERIES_DESCR">
+          <com:Text xml:lang="pt"><![CDATA[<p>Vítimas de tráfico humano por 100.000 habitantes, por sexo, faixa etária e forma de exploração</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="META_LAST_UPDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>22/10/2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          <com:Text xml:lang="pt"><![CDATA[<p>Nenhum indicador relacionado</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_ORGANISATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério do Interior (MINT)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_NAME">
+          <com:Text xml:lang="pt"><![CDATA[<p>Vatélia Ernesto Manjate Come; Júlio Carvalho</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_FUNCT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Chefe de Departamento</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_PHONE">
+          <com:Text xml:lang="pt"><![CDATA[<p>+258 823241920/847673088; +258 843241920</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_EMAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:vtcome@gmail.com">vtcome@gmail.com</a>; <a href="mailto:nhazua24@gmail.com">nhazua24@gmail.com</a></p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="STAT_CONC_DEF">
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador é definido como a razão entre o número total de vítimas de tráfico de pessoas descobertas ou que vivem em um país e a população residente no País, expressa por 100.000 habitantes</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="UNIT_MEASURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Número</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CLASS_SYSTEM">
+          <com:Text xml:lang="pt"><![CDATA[<p>Não se usa nenhum classificador</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SOURCE_TYPE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério do Interior, registos administrativos</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COLL_METHOD">
+          <com:Text xml:lang="pt"><![CDATA[<p>Sempre que houver casos de tráfico humano, os dados administrativos são recolhidos manualmente através de registos de ocorrências feitos diariamente em todas as unidades policiais, como sejam Departamento de Atendimento à Famílias, Menores Vítimas de Violência, Postos Policias, Esquadras, Comandos Provinciais da Polícia da República de Moçambique (CPPRM) e Serviços de Investigação Criminal (SERNIC)]</p>
+<p>Posteriormente, são enviados para o Comando Geral da Polícia da República de Moçambique (CGPRM) e este, por sua vez, os envia para Direcção de Planificação, Estudos e Documentação para globalização fins estatísticos</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="FREQ_COLL">
+          <com:Text xml:lang="pt"><![CDATA[<p>Até Março de 2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REL_CAL_POLICY">
+          <com:Text xml:lang="pt"><![CDATA[<p>Maio de 2021</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_SOURCE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério do Interior (MINT), através do Serviço Nacional de Investigação Criminal (SERNIC) e Comando Geral da Polícia da República de Moçambique (CGPRM)</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPILING_ORG">
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério do Interior (MINT) – Direcção de Planificação, Estudos e Documentação, Departamento de Estatística </p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="INST_MANDATE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Pela Resolução número 8/2018, de 21 de Março, artigo 15, alínea e) que aprova o Estatuto Orgânico do Ministério do Interior (MINT), o qual, dentre outras atribuições da Direcção de Planificação, Estudo e Documentação, dirige e controla o processo de recolha, tratamento, análise e inferência da informação estatística.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="RATIONALE">
+          <com:Text xml:lang="pt"><![CDATA[<p> De acordo com os registos de ocorrências, o cálculo deste indicador mensura o nível de prevalência de vítimas de tráfico, e formas de exploração.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="REC_USE_LIM">
+          <com:Text xml:lang="pt"><![CDATA[<p>O número de vítimas de tráfico identificado permite referir às vítimas, conforme definido no Protocolo da ONU, onde o acto, a média e a finalidade do tráfico foram identificados pelas autoridades nacionais.</p>
+<p>Embora os dados sobre vítimas identificadas possam fornecer informações valiosas para monitorar o sexo e o perfil etário das vítimas, bem como sobre formas de exploração e fluxos de tráfico, o número de vítimas identificadas por si só não monitora o nível de tráfico de pessoas. Por conseguinte, as tendências devem ser interpretadas com cautela, pois as mudanças nas vítimas do tráfico identificadas podem ser devidas a vários factores, como a intensidade dos fluxos de tráfico, mas também as alterações nas práticas de aplicação da lei, mudanças da legislação ou de atitudes das vítimas.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_COMP">
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador é calculado através da razão entre o número total de vítimas de tráfico de pessoas descobertas ou que vivem em um país e a população residente no país, expressa por 100.000 habitantes</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="DATA_VALIDATION">
+          <com:Text xml:lang="pt"><![CDATA[<p>Após a globalização de dados e cálculo do indicador pelo Departamento de Estatística, é submetido a um processo de apreciação e validação pelo Director de Planificação, Estudos e Documentação do Ministério do Interior</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_MGMNT">
+          <com:Text xml:lang="pt"><![CDATA[<p>Não existe nenhum sistema de gestão de qualidade elaborado que permita fazer avaliação da qualidade dos dados</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSURE">
+          <com:Text xml:lang="pt"><![CDATA[<p>A verificação da consistência de dados que é feita é em termos de cálculo, caso haja alguma incongruência, solicita-se a revisão de dados à fonte</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="QUALITY_ASSMNT">
+          <com:Text xml:lang="pt"><![CDATA[<h1>Ainda não se efectua a avaliação da qualidade, tomando em consideração os critérios de qualidade padrão estabelecidos pelas Nações unidas.</h1>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COVERAGE">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados são disponibilizados anualmente e não estão desagregados.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="COMPARABILITY">
+          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador é comparável internacionalmente.</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="OTHER_DOC">
+          <com:Text xml:lang="pt"><![CDATA[<p>Os relatórios e balanços periódicos, através dos quais o Ministério do Interior faz monitoria e avaliação do desempenho institucional, constituem únicas referências</p>]]></com:Text>
+        </gen:ReportedAttribute>
+      </gen:AttributeSet>
+    </gen:Report>
+  </mes:MetadataSet>
+</mes:GenericMetadata>

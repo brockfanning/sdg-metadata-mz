@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COVERAGE field for indicator 3-7-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Data are available every 5 years and can be disaggregated by specific age group, rural and urban residence area, province, education level and wealth quintile &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Os dados são disponibilizados de 5 em 5 anos e podem ser desagregados por grupo específico de idade, área de residencia rural e urbana, província, nível de escolaridade e quintil de riqueza&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

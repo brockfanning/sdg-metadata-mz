@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 3-1-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; This indicator is calculated by dividing the number of women aged 15 to 49 with births attended by qualified health personnel (usually doctors, nurses or midwives) over the total number of women aged 15 to 49 with live births during the same period expressed as a percentage &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Este indicador é calculado dividindo o número de mulheres de 15 a 49 anos de idade com nascimentos assistidos por pessoal de saúde qualificado (geralmente médicos, enfermeiros ou parteiras) sobre o total de mulheres de 15 a 49 anos de idade com nados vivo durante o mesmo período expresso em percentagem&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

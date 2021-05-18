@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 8-1-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The annual growth rate of real gross domestic product (GDP) per capita is calculated as follows: &lt;/p&gt;
+ &lt;ol&gt;
+   &lt;li&gt; Convert the annual real GDP (constant prices) into the national currency of a country or region in US dollars using the base year exchange rate. &lt;/li&gt;
+   &lt;li&gt; Divide the result by the population of the country or region to obtain the annual real GDP per capita in US dollars. &lt;/li&gt;
+   &lt;li&gt; Calculate the annual growth rate of real GDP per capita in year t &lt;sub&gt; +1 &lt;/sub&gt;, using the following formula: [(G (t &lt;sub&gt; +1 &lt;/sub&gt;) - G (t) G (t &lt;sub&gt; +1 &lt;/sub&gt;) is the real GDP per capita in dollars in year t &lt;sub&gt; +1 &lt;/sub&gt; and G (t) is the real GDP per capita in dollars of the year t. A0f84d72dce6e5
+ &lt;/ol&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita é calculada da seguinte forma:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Converta o PIB real (preços constantes) anual em moeda nacional de um país ou região em dólares americanos usando a taxa de câmbio do ano base.&lt;/li&gt;
+  &lt;li&gt;Divida o resultado pela população do país ou região para obter o PIB real per capita anual em dólares americanos.&lt;/li&gt;
+  &lt;li&gt;Calcule a taxa de crescimento anual do PIB real per capita no ano t&lt;sub&gt;+1&lt;/sub&gt;, usando a seguinte fórmula: [(G (t&lt;sub&gt;+1&lt;/sub&gt;) - G (t) / G (t)] x 100, onde G (t&lt;sub&gt;+1&lt;/sub&gt;) é o PIB real per capita em dólares no ano t&lt;sub&gt;+1&lt;/sub&gt; e G (t) é o PIB real per capita em dólares do ano t.&lt;/li&gt;
+&lt;/ol&gt;
+			</language>
+</languages>
+</data>
+</root>

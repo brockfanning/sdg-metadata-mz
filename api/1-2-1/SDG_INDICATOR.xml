@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 1-2-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 1.2.1 Proportion of the population living below the national poverty line, (people living under MZN 26.7 per day) &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;1.2.1 Proporção da população que vive abaixo da linha de pobreza nacional, (pessoas vivendo com menos de MZN 26,7 por dia)&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

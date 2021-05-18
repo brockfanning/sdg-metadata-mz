@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_VALIDATION field for indicator 16-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; After the globalization of data and calculation of the indicator by the Statistics Department, it is submitted to a process of assessment and validation by the Director of Planning, Studies and Documentation of the Ministry of Interior &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Após a globalização de dados e cálculo do indicador pelo Departamento de Estatística, é submetido a um processo de apreciação e validação pelo Director de Planificação, Estudos e Documentação do Ministério do Interior&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

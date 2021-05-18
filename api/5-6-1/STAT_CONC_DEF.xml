@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 5-6-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Proportion of women aged 15 to 49 (married or in union) who make their own decision in the three selected areas, that is, they can say yes or no to sexual intercourse with their husband or partner &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Proporção de mulheres de 15 a 49 anos (casadas ou em união) que tomam sua própria decisão nas três áreas seleccionadas, ou seja, podem dizer sim ou não à relação sexual com o marido ou parceiro&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

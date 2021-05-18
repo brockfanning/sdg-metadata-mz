@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 14-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 14.5 Until 2020, conserve at least 10% of coastal and marine areas, in accordance with national and international legislation, and based on the best available scientific information &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;14.5 Até 2020, conservar pelo menos 10% das zonas costeiras e marinhas, de acordo com a legislação nacional e internacional, e com base na melhor informação científica disponível &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 9-5-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Researchers (equivalent to full-time) per million inhabitants. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Pesquisadores (valor equivalente a tempo inteiro) por milhão de habitantes.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

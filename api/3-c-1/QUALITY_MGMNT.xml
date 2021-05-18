@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The QUALITY_MGMNT field for indicator 3-c-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Indicators from various national and global guiding documents have been mapped and incorporated into a single framework of sector indicators to facilitate monitoring and evaluation of the performance and commitments of government and cooperation partners. At the same time, in the scope of strengthening the information system, the process of establishing interoperability between information systems in the sector is underway with a view to maximizing production, fluidity, availability, accessibility, visibility, analysis of global information data for the decision making. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Foram mapeados indicadores de vários documentos orientadores nacionais e globais e incorporados num quadro único de indicadores do sector, para facilitar a monitoria e avaliação do desempenho e compromissos do governo e parceiros de cooperação. Paralelamente, no âmbito do fortalecimento do sistema de informação, está em curso o processo de estabelecimento de interoperabilidade entre os sistemas de informação no sector com vista a maximizar a produção, fluidez, disponibilidade, acessibilidade, visibilidade, análise de dados global da informação para a tomada de decisão.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

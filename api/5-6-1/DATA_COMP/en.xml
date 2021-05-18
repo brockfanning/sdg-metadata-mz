@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_COMP field for indicator 5-6-1, translated into en</message>
+	<data> &lt;p&gt; Numerator: Number of women aged 15 to 49 married or in union &lt;/p&gt;
+ &lt;p&gt; Denominator: Total number of women between 15 and 49 years of age, married or in union &lt;/p&gt;
+ &lt;p&gt; Proportion = (Numerator / Denominator) * 100 &lt;/p&gt;</data>
+</root>

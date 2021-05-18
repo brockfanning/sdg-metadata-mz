@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_MAIL field for indicator 6-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; &lt;a href=&quot;mailto:egovate@dngrh.gov.mz&quot;&gt; &lt;u&gt; egovate@dngrh.gov.mz &lt;/u&gt; &lt;/a&gt; &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;&lt;a href=&quot;mailto:egovate@dngrh.gov.mz&quot;&gt;&lt;u&gt;egovate@dngrh.gov.mz&lt;/u&gt;&lt;/a&gt; &lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

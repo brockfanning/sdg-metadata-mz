@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 8-6-1, translated into pt</message>
+	<data>&lt;p&gt;O indicador refere-se a proporção de jovens com idade compreendida entre os 15 e 24 anos que declararam durante o inquérito não estarem a estudar, trabalhar ou em treinamento.&lt;/p&gt;
+&lt;p&gt;Segundo as recomendações da Conferência Internacional de Estaticistas do Trabalho (CIET), consideram-se desempregadas todas as pessoas de 15 e mais anos que na semana de referência &lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Não trabalharam ou não tinham trabalho, &lt;/li&gt;
+  &lt;li&gt;Estavam disponíveis para trabalhar e &lt;/li&gt;
+  &lt;li&gt;Estavam à procura de trabalho ou emprego. &lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Para efeitos do IOF, foi dispensado o critério “procura de emprego”, bastando o cumprimento das duas primeiras condições acima citadas para que a pessoa fosse considerada desempregada&lt;/p&gt;</data>
+</root>

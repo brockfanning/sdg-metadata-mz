@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SOURCE_TYPE field for indicator 16-3-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Administrative records: Ministry of Justice, Constitutional and Religious Affairs, and National Prison Service &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Registos administrativos: Ministério da Justiça, Assuntos Constitucionais e Religiosos, e Serviço Nacional Penitenciário&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

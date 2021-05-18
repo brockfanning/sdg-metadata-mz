@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The CONTACT_EMAIL field for indicator 3-2-2, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; &lt;a href=&quot;mailto:Teixeira.mandlate@ine.gov.mz&quot;&gt; Teixeira.mandlate@ine.gov.mz &lt;/a&gt;; &lt;a href=&quot;mailto:maria.alfeu@ine.gov.mz&quot;&gt; maria.alfeu@ine.gov.mz &lt;/a&gt;; &lt;a href=&quot;mailto:joao.mangue@ine.gov.mz&quot;&gt; joao.mangue@ine.gov.mz &lt;/a&gt; &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;&lt;a href=&quot;mailto:Teixeira.mandlate@ine.gov.mz&quot;&gt;Teixeira.mandlate@ine.gov.mz&lt;/a&gt;; &lt;a href=&quot;mailto:maria.alfeu@ine.gov.mz&quot;&gt;maria.alfeu@ine.gov.mz&lt;/a&gt;; &lt;a href=&quot;mailto:joao.mangue@ine.gov.mz&quot;&gt;joao.mangue@ine.gov.mz&lt;/a&gt;&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

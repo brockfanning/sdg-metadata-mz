@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 5-b-1, translated into en</message>
+	<data> &lt;p&gt; The recommended data source for calculating this indicator is the Censuses and Household Surveys. This indicator is calculated by dividing the total number of people in the scope who have a cell phone by the total number of people in the scope. &lt;/p&gt;</data>
+</root>

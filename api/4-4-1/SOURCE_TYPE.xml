@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SOURCE_TYPE field for indicator 4-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Ministry of Science and Technology, Higher Education and Professional Technician (MCTESTP), Administrative data. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Ministério da Ciência e Tecnologia, Ensino Superior e Técnico Profissional (MCTESTP), Dados administrativos.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

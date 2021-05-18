@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_SERIES_DESCR field for indicator 6-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Efficiency in the use of water over time &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Eficiência no uso da água com o tempo&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

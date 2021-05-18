@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 9-5-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The ID Survey is conducted based on the Frascati Manual Methodology (2015). The statistical operation is national in nature, as it covers Scientific Research Institutions (IIC), Higher Education Institutions (IES), Companies and Private Non-Profit Institutions (IPSFL) in the country. &lt;/p&gt;
+ &lt;p&gt; In the Survey, the census is used to collect data in Higher Education Institutions and Scientific Research Institutions located in the national territory, taking into account the reduced universes of these Institutions. As for Private Non-Profit Companies and Institutions (IPSFL), Stratified Proportional Sampling is used due to the enormous size of the universe. &lt;/p&gt;
+ &lt;p&gt; Data Collection, Processing and Analysis &lt;/p&gt;
+ &lt;p&gt; Data collection is based on physical and online questionnaires, combined with the face-to-face interview method, sending questionnaires by e-mail and links that allow access to the online questionnaires of the Information System (e-Survey). Data pre-processing is done automatically in the Information System (e-Survey). Then, the verification and validation of the data was made using the STATA Statistical Packages and the Excel package for graphing. &lt;/p&gt;
+ &lt;p&gt; Overall response rate considered is 75%. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;O Inquérito de ID é conduzido com base na Metodologia do Manual de Frascati (2015). A operação estatística é de carácter nacional, pois cobre Instituições de Investigação Científica (IIC), Instituições de Ensino Superior (IES), Empresas e Instituições Privadas sem Fins Lucrativos (IPSFL) do País.&lt;/p&gt;
+&lt;p&gt;No Inquérito, é usado o censo para a recolha de dados nas Instituições de Ensino Superior e Instituições de Investigação Científica localizadas no território nacional, tendo em conta os universos reduzidos destas Instituições. Quanto às Empresas e Instituições Privadas sem Fins Lucrativos (IPSFL), é usada Amostragem Proporcional Estratificada devido ao tamanho enorme dos universo.&lt;/p&gt;
+&lt;p&gt;Recolha, Processamento e Análise de Dados&lt;/p&gt;
+&lt;p&gt;A recolha de dados é feita com base nos questionários físicos e online, combinado com o método de entrevista presencial, envio de questionários por correio electrónico e links que permitiram ter acesso aos questionários online do Sistema de Informação (e-Survey). O pré-processamento de dados é feito automaticamente no Sistema de Informação (e-Survey). Em seguida, a verificação e validação dos dados foi feita com recurso aos Pacotes Estatísticos STATA e o pacote Excel para elaboração de gráficos. &lt;/p&gt;
+&lt;p&gt;Taxa de Resposta geral considerada é de 75%.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

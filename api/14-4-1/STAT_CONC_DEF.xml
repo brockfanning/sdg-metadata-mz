@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The STAT_CONC_DEF field for indicator 14-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Definition: Measure of the sustainability of the capture of a marine fishing resource in relation to its abundance. A stock of fish whose abundance is at or above the level, which can produce maximum sustainable yield (MSY), is classified as biologically sustainable. On the other hand, when the abundance falls below the MSY level, the stock is considered biologically unsustainable. &lt;/p&gt;
+ &lt;p&gt; Concept: the long-term sustainability of fishery resources is measured through the process of scientific assessment of the fish stock as it is fished to the level that produces maximum sustainable catch. The basic benchmarks for the sustainability of fisheries are established by the United Nations Convention on the Law of the Sea (UNCLOS, Article 61 (3).
+			</language>
+			<language lang="pt">&lt;p&gt;​​Definição: Medida da sustentabilidade da captura de um recurso pesqueiro marinha em relação a sua abundância. Um estoque de peixes cuja abundância é igual ou superior ao nível, que pode produzir o rendimento máximo sustentável (MSY), é classificado como biologicamente sustentável. Por outro lado, quando a abundância cai abaixo do nível MSY, o estoque é considerado biologicamente insustentável.&lt;/p&gt;
+&lt;p&gt;Conceito: a sustentabilidade a longo prazo dos recursos pesqueiros é medida através do processo de avaliação científica do estoque de peixes à medida que este vai sendo pescada ao nível que produz captura máxima sustentável. Os parâmetros de referência básicos para a sustentabilidade da pesca são estabelecidos pela Convenção das Nações Unidas sobre o Direito do Mar (UNCLOS, Artigo 61 (3).&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

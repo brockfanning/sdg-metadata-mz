@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The DATA_VALIDATION field for indicator 4-4-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; The results of this operation are analyzed by the department of studies and statistics and then presented to the technical and advisory councils of the ministry for the purposes of assessment and final validation. &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Os resultados desta operacao, sao analisados pelo departamento de estudos e estatisticas e em seguida apresentados nos conselhos tecnico e consultivo do ministério para efeitos apreciação e validação final.&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

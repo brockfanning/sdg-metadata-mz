@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The COLL_METHOD field for indicator 6-b-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; Data are collected through Meetings and, or institutional work meetings of the technical planning teams &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;Os dados são recolhidos através da realização de Reuniões e, ou encontros de trabalho institucional das equipas técnicas de planificação&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

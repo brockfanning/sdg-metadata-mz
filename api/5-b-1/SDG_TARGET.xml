@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_TARGET field for indicator 5-b-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;p&gt; 5.b Increase the use of basic technologies, in particular information and communication technologies, to promote the empowerment of women &lt;/p&gt;
+			</language>
+			<language lang="pt">&lt;p&gt;5.b Aumentar o uso de tecnologias de base, em particular as tecnologias de informação e comunicação, para promover o empoderamento das mulheres&lt;/p&gt;
+			</language>
+</languages>
+</data>
+</root>

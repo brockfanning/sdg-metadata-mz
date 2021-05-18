@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<status>success</status>
+	<message>The SDG_INDICATOR field for indicator 3-c-1, translated into all languages</message>
+	<data>
+		<languages>
+			<language lang="en"> &lt;h1&gt; 3.c.1 Density and distribution of health professionals &lt;/h1&gt;
+			</language>
+			<language lang="pt">&lt;h1&gt;3.c.1 Densidade e distribuição dos profissionais da saúde&lt;/h1&gt;
+			</language>
+</languages>
+</data>
+</root>
