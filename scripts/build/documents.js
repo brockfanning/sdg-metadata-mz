@@ -5,12 +5,8 @@ module.exports = function(refresh=false) {
     const utils = require('./utils')
     const store = require('../translation-store')
 
-    const docOptions = {
-        layout: 'iaeg-sdg.njk',
-        layoutFolder: path.join(__dirname, 'layouts'),
-    }
     const sdgMetadataConvert = require('sdg-metadata-convert')
-    const pdfOutput = new sdgMetadataConvert.PdfOutput(docOptions)
+    const pdfOutput = new sdgMetadataConvert.PdfOutput()
     const yamlInput = new sdgMetadataConvert.YamlInput()
 
     if (refresh) {
