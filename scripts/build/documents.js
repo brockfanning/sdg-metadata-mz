@@ -6,7 +6,9 @@ module.exports = function(refresh=false) {
     const store = require('../translation-store')
 
     const sdgMetadataConvert = require('sdg-metadata-convert')
-    const pdfOutput = new sdgMetadataConvert.PdfOutput()
+    const pdfOutput = new sdgMetadataConvert.PdfOutput({
+        conceptNames: true,
+    })
     const yamlInput = new sdgMetadataConvert.YamlInput()
 
     if (refresh) {
