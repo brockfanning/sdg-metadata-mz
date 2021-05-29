@@ -2,11 +2,11 @@
 <root>
 	<status>success</status>
 	<message>The STAT_CONC_DEF field for indicator 6-5-1, translated into pt</message>
-	<data>&lt;p&gt;O conceito de GIRH é medido em 4 componentes principais:&lt;/p&gt;
+	<data>&lt;p&gt;O conceito de GIRH &amp;#xE9; medido em 4 componentes principais:&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;Ambiente favorável: inclui as políticas, leis, planos e estratégias que criam o &quot;ambiente favorável&quot; para a GIRH.&lt;/li&gt;
-  &lt;li&gt;Instituições: inclui a gama e os papéis das instituições políticas, sociais, económicas e administrativas que apoiam a implementação da GIRH.&lt;/li&gt;
-  &lt;li&gt;Instrumentos de Gestão: as ferramentas e actividades que permitem que decisores e usuários façam escolhas racionais e informadas entre acções alternativas.&lt;/li&gt;
-  &lt;li&gt;Financiamento: Orçamento e financiamento disponibilizados e utilizados para o desenvolvimento e gestão de recursos hídricos de várias fontes.&lt;/li&gt;
+  &lt;li&gt;Ambiente favor&amp;#xE1;vel: inclui as pol&amp;#xED;ticas, leis, planos e estrat&amp;#xE9;gias que criam o &amp;quot;ambiente favor&amp;#xE1;vel&amp;quot; para a GIRH.&lt;/li&gt;
+  &lt;li&gt;Institui&amp;#xE7;&amp;#xF5;es: inclui a gama e os pap&amp;#xE9;is das institui&amp;#xE7;&amp;#xF5;es pol&amp;#xED;ticas, sociais, econ&amp;#xF3;micas e administrativas que apoiam a implementa&amp;#xE7;&amp;#xE3;o da GIRH.&lt;/li&gt;
+  &lt;li&gt;Instrumentos de Gest&amp;#xE3;o: as ferramentas e actividades que permitem que decisores e usu&amp;#xE1;rios fa&amp;#xE7;am escolhas racionais e informadas entre ac&amp;#xE7;&amp;#xF5;es alternativas.&lt;/li&gt;
+  &lt;li&gt;Financiamento: Or&amp;#xE7;amento e financiamento disponibilizados e utilizados para o desenvolvimento e gest&amp;#xE3;o de recursos h&amp;#xED;dricos de v&amp;#xE1;rias fontes.&lt;/li&gt;
 &lt;/ol&gt;</data>
 </root>

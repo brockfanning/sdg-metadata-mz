@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The CONTACT_EMAIL field for indicator 14-3-1, translated into pt</message>
-	<data>&lt;p&gt;&lt;a href=&quot;mailto:erandre01@hotmail.com&quot;&gt;&lt;u&gt;erandre01@hotmail.com&lt;/u&gt;&lt;/a&gt; &amp; osgaspar_elsabors@yahoo.com.br&lt;/p&gt;</data>
+	<data>&lt;p&gt;&lt;a href=&quot;mailto:erandre01@hotmail.com&quot;&gt;&lt;u&gt;erandre01@hotmail.com&lt;/u&gt;&lt;/a&gt; &amp;amp; osgaspar_elsabors@yahoo.com.br&lt;/p&gt;</data>
 </root>

@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-29T22:40:58.424Z</mes:Prepared>
+    <mes:Prepared>2021-05-29T23:28:02.198Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="a55810a2-a0be-4b1c-bb61-b78a9cb35674">
+  <mes:MetadataSet structureRef="MDS1" setID="37ed5e6e-402e-4609-8979-1c26f84c943d">
     <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -54,16 +54,16 @@
           <com:Text xml:lang="pt"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="pt"><![CDATA[<p>3 GARANTIR O ACESSO À SAÚDE DE QUALIDADE E PROMOVER O BEM-ESTAR PARA TODOS</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>3 GARANTIR O ACESSO &#xC0; SA&#xDA;DE DE QUALIDADE E PROMOVER O BEM-ESTAR PARA TODOS</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="pt"><![CDATA[<p>3.7 Até 2030, assegurar o acesso universal aos serviços de saúde sexual e reprodutiva, incluindo o planeamento familiar, informação e educação, bem como a integração da saúde reprodutiva em estratégias e programas nacionais</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>3.7 At&#xE9; 2030, assegurar o acesso universal aos servi&#xE7;os de sa&#xFA;de sexual e reprodutiva, incluindo o planeamento familiar, informa&#xE7;&#xE3;o e educa&#xE7;&#xE3;o, bem como a integra&#xE7;&#xE3;o da sa&#xFA;de reprodutiva em estrat&#xE9;gias e programas nacionais</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="pt"><![CDATA[<p>3.7.1 Proporção de Mulheres de 15 a 49 anos de idade casadas /em união marital satisfeitas com métodos modernos, segundo área de residência e província</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>3.7.1 Propor&#xE7;&#xE3;o de Mulheres de 15 a 49 anos de idade casadas /em uni&#xE3;o marital satisfeitas com m&#xE9;todos modernos, segundo &#xE1;rea de resid&#xEA;ncia e prov&#xED;ncia</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="pt"><![CDATA[<p>Proporção de Mulheres de 15 a 49 anos de idade casadas /em união marital satisfeitas com métodos modernos, segundo área de residência e província</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Propor&#xE7;&#xE3;o de Mulheres de 15 a 49 anos de idade casadas /em uni&#xE3;o marital satisfeitas com m&#xE9;todos modernos, segundo &#xE1;rea de resid&#xEA;ncia e prov&#xED;ncia</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="pt"><![CDATA[<p>19/10/2020</p>]]></com:Text>
@@ -93,26 +93,26 @@
           <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:Teixeira.mandlate@ine.gov.mz">Teixeira.mandlate@ine.gov.mz</a>; <a href="mailto:maria.alfeu@ine.gov.mz">maria.alfeu@ine.gov.mz</a>; <a href="mailto:joao.mangue@ine.gov.mz">joao.mangue@ine.gov.mz</a></p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="pt"><![CDATA[<p>Proporção de Mulheres de 15 a 49 anos de idade casadas /em união marital satisfeitas com métodos modernos é definido como grupo de mulheres que estavam a utilizar métodos contraceptivos na altura do inquérito e viram suas necessidades de planeamento familiar satisfeita.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Propor&#xE7;&#xE3;o de Mulheres de 15 a 49 anos de idade casadas /em uni&#xE3;o marital satisfeitas com m&#xE9;todos modernos &#xE9; definido como grupo de mulheres que estavam a utilizar m&#xE9;todos contraceptivos na altura do inqu&#xE9;rito e viram suas necessidades de planeamento familiar satisfeita.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="pt"><![CDATA[<p>INE, Inquérito Demográfico e de Saude (IDS)</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>INE, Inqu&#xE9;rito Demogr&#xE1;fico e de Saude (IDS)</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>As fontes de dados recomendadas para calcular este indicador são os inquéritos aos agregados familiares (IDS) com representação nacional constituem a fonte de dados. Em qualquer dos casos, a altura e peso da criança devem ser medidos seguindo as técnicas de medição padrão recomendadas (OMS 2008).</p>
-<p>O questionário da recolha de dados do Inquérito Demográfico e de Saúde foi desenhado e posteriormente testado no campo no decurso do treinamento dos entrevistadores.</p>
-<p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente aos agregados familiares aplicando-se três tipos de questionários: </p>
-<p>• Questionário de Agregados Familiares </p>
-<p>• Questionário de Mulheres </p>
-<p>• Questionário de Homens.</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>As fontes de dados recomendadas para calcular este indicador s&#xE3;o os inqu&#xE9;ritos aos agregados familiares (IDS) com representa&#xE7;&#xE3;o nacional constituem a fonte de dados. Em qualquer dos casos, a altura e peso da crian&#xE7;a devem ser medidos seguindo as t&#xE9;cnicas de medi&#xE7;&#xE3;o padr&#xE3;o recomendadas (OMS 2008).</p>
+<p>O question&#xE1;rio da recolha de dados do Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de foi desenhado e posteriormente testado no campo no decurso do treinamento dos entrevistadores.</p>
+<p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente aos agregados familiares aplicando-se tr&#xEA;s tipos de question&#xE1;rios: </p>
+<p>&#x2022; Question&#xE1;rio de Agregados Familiares </p>
+<p>&#x2022; Question&#xE1;rio de Mulheres </p>
+<p>&#x2022; Question&#xE1;rio de Homens.</p>
 <p>O Desenho da Amostra</p>
-<p>O Inquérito Demográfico e de Saúde compreende uma amostra probabilística, estratificada e multi-etápica, seleccionado a partir dos Dados e Cartografia do III Recenseamento Geral de População e Habitação, realizado pelo INE em 2007. </p>
-<p>A recolha de dados teve duração de cinco meses com início em Junho de 2011, tendo terminado em Novembro de 2011.</p>
+<p>O Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de compreende uma amostra probabil&#xED;stica, estratificada e multi-et&#xE1;pica, seleccionado a partir dos Dados e Cartografia do III Recenseamento Geral de Popula&#xE7;&#xE3;o e Habita&#xE7;&#xE3;o, realizado pelo INE em 2007. </p>
+<p>A recolha de dados teve dura&#xE7;&#xE3;o de cinco meses com in&#xED;cio em Junho de 2011, tendo terminado em Novembro de 2011.</p>
 <p>Taxa de resposta</p>
-<p>Dos 13,964 agregados entrevistados no inquérito foi identificado um total de 13,871 mulheres elegíveis. Foram feitas entrevistas a 13,718 destas mulheres, o que resultou numa taxa de resposta de 99%. Introdução • 13 Em um terço da amostra de agregados familiares do IDS, eram também feitas entrevistas a todos os homens elegíveis encontrados. Assim, dos 4,130 homens elegíveis identificados na subamostra de agregados familiares seleccionados para o inquérito de homens, foram entrevistados 4,027 com sucesso, dando uma taxa de respostas de 98%</p>]]></com:Text>
+<p>Dos 13,964 agregados entrevistados no inqu&#xE9;rito foi identificado um total de 13,871 mulheres eleg&#xED;veis. Foram feitas entrevistas a 13,718 destas mulheres, o que resultou numa taxa de resposta de 99%. Introdu&#xE7;&#xE3;o &#x2022; 13 Em um ter&#xE7;o da amostra de agregados familiares do IDS, eram tamb&#xE9;m feitas entrevistas a todos os homens eleg&#xED;veis encontrados. Assim, dos 4,130 homens eleg&#xED;veis identificados na subamostra de agregados familiares seleccionados para o inqu&#xE9;rito de homens, foram entrevistados 4,027 com sucesso, dando uma taxa de respostas de 98%</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="pt"><![CDATA[<p>2021</p>]]></com:Text>
@@ -130,48 +130,48 @@
           <com:Text xml:lang="pt"><![CDATA[<p>Lei 7/96 de 5 de Julho</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="pt"><![CDATA[<p>A proporção da procura por planeamento familiar satisfeita com os métodos modernos é útil na avaliação dos níveis gerais de cobertura dos programas e serviços de planeamento familiar. O acesso e o uso de um meio eficaz para prevenir a gravidez ajuda a permitir que as mulheres e seus parceiros exerçam seus direitos de decidir livre e de forma responsável o número e o espaçamento de seus filhos e disponham de informações, educação e meios para fazê-lo. Atender à demanda por planeamento familiar com métodos modernos também contribui para a saúde materno-infantil, prevenindo gravidezes indesejadas e grávidas com espaçamento reduzido, que apresentam maior risco de maus resultados obstétricos. Níveis de procura por planeamento familiar satisfeitos com métodos modernos de 75% ou mais são geralmente considerados altos, e valores de 50% ou menos são geralmente considerados muito baixos.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A propor&#xE7;&#xE3;o da procura por planeamento familiar satisfeita com os m&#xE9;todos modernos &#xE9; &#xFA;til na avalia&#xE7;&#xE3;o dos n&#xED;veis gerais de cobertura dos programas e servi&#xE7;os de planeamento familiar. O acesso e o uso de um meio eficaz para prevenir a gravidez ajuda a permitir que as mulheres e seus parceiros exer&#xE7;am seus direitos de decidir livre e de forma respons&#xE1;vel o n&#xFA;mero e o espa&#xE7;amento de seus filhos e disponham de informa&#xE7;&#xF5;es, educa&#xE7;&#xE3;o e meios para faz&#xEA;-lo. Atender &#xE0; demanda por planeamento familiar com m&#xE9;todos modernos tamb&#xE9;m contribui para a sa&#xFA;de materno-infantil, prevenindo gravidezes indesejadas e gr&#xE1;vidas com espa&#xE7;amento reduzido, que apresentam maior risco de maus resultados obst&#xE9;tricos. N&#xED;veis de procura por planeamento familiar satisfeitos com m&#xE9;todos modernos de 75% ou mais s&#xE3;o geralmente considerados altos, e valores de 50% ou menos s&#xE3;o geralmente considerados muito baixos.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="pt"><![CDATA[<p>Diferenças no design e implementação da pesquisa, bem como diferenças na forma como os questionários são formulados e administrados, podem afectar a comparabilidade dos dados. As diferenças mais comuns estão relacionadas com a variedade de métodos contraceptivos incluídos e às características (idade, sexo, estado civil ou união) das pessoas para as quais a prevalência de contraceptivos é estimada (população base). O prazo usado para avaliar a prevalência de contraceptivos também pode variar. Na maioria das pesquisas, não há definição do que se entende por "actualmente usando" um método contraceptivo. Em algumas pesquisas, a falta de perguntas de sondagem, solicitadas para garantir que o entrevistado entenda o significado dos diferentes métodos contraceptivos, pode resultar em uma subestimação da prevalência de contraceptivos, em particular nos métodos tradicionais. A variabilidade da amostra também pode ser um problema, especialmente quando a prevalência de contraceptivos é medida para um subgrupo específico (de acordo com o método, faixa etária, nível de escolaridade, local de residência etc.) ou ao analisar tendências ao longo do tempo. Quando os dados sobre mulheres de 15 a 49 anos não estão disponíveis, são reportadas informações para mulheres casadas ou em união. Ilustrações de populações de base que às vezes são apresentadas são: mulheres casadas ou em união de 15 a 44 anos, mulheres sexualmente activas (independentemente do estado civil) ou mulheres casadas. As notas no conjunto de dados indicam quaisquer diferenças entre os dados apresentados e as definições padrão de prevalência contraceptiva ou necessidade não atendida de planeamento familiar ou onde os dados pertencem a populações que não são representativas de mulheres em idade reprodutiva.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Diferen&#xE7;as no design e implementa&#xE7;&#xE3;o da pesquisa, bem como diferen&#xE7;as na forma como os question&#xE1;rios s&#xE3;o formulados e administrados, podem afectar a comparabilidade dos dados. As diferen&#xE7;as mais comuns est&#xE3;o relacionadas com a variedade de m&#xE9;todos contraceptivos inclu&#xED;dos e &#xE0;s caracter&#xED;sticas (idade, sexo, estado civil ou uni&#xE3;o) das pessoas para as quais a preval&#xEA;ncia de contraceptivos &#xE9; estimada (popula&#xE7;&#xE3;o base). O prazo usado para avaliar a preval&#xEA;ncia de contraceptivos tamb&#xE9;m pode variar. Na maioria das pesquisas, n&#xE3;o h&#xE1; defini&#xE7;&#xE3;o do que se entende por &quot;actualmente usando&quot; um m&#xE9;todo contraceptivo. Em algumas pesquisas, a falta de perguntas de sondagem, solicitadas para garantir que o entrevistado entenda o significado dos diferentes m&#xE9;todos contraceptivos, pode resultar em uma subestima&#xE7;&#xE3;o da preval&#xEA;ncia de contraceptivos, em particular nos m&#xE9;todos tradicionais. A variabilidade da amostra tamb&#xE9;m pode ser um problema, especialmente quando a preval&#xEA;ncia de contraceptivos &#xE9; medida para um subgrupo espec&#xED;fico (de acordo com o m&#xE9;todo, faixa et&#xE1;ria, n&#xED;vel de escolaridade, local de resid&#xEA;ncia etc.) ou ao analisar tend&#xEA;ncias ao longo do tempo. Quando os dados sobre mulheres de 15 a 49 anos n&#xE3;o est&#xE3;o dispon&#xED;veis, s&#xE3;o reportadas informa&#xE7;&#xF5;es para mulheres casadas ou em uni&#xE3;o. Ilustra&#xE7;&#xF5;es de popula&#xE7;&#xF5;es de base que &#xE0;s vezes s&#xE3;o apresentadas s&#xE3;o: mulheres casadas ou em uni&#xE3;o de 15 a 44 anos, mulheres sexualmente activas (independentemente do estado civil) ou mulheres casadas. As notas no conjunto de dados indicam quaisquer diferen&#xE7;as entre os dados apresentados e as defini&#xE7;&#xF5;es padr&#xE3;o de preval&#xEA;ncia contraceptiva ou necessidade n&#xE3;o atendida de planeamento familiar ou onde os dados pertencem a popula&#xE7;&#xF5;es que n&#xE3;o s&#xE3;o representativas de mulheres em idade reprodutiva.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="pt"><![CDATA[<p>O numerador é a percentagem de mulheres em idade reprodutiva (15 a 49 anos) que estão actualmente usando, ou cujo parceiro sexual está actualmente usando, pelo menos um método contraceptivo moderno. O denominador é a demanda total de planeamento familiar (a soma da prevalência contraceptiva (qualquer método) e a necessidade não atendida de planeamento familiar). As estimativas são referentes a mulheres casadas ou em união. </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O numerador &#xE9; a percentagem de mulheres em idade reprodutiva (15 a 49 anos) que est&#xE3;o actualmente usando, ou cujo parceiro sexual est&#xE1; actualmente usando, pelo menos um m&#xE9;todo contraceptivo moderno. O denominador &#xE9; a demanda total de planeamento familiar (a soma da preval&#xEA;ncia contraceptiva (qualquer m&#xE9;todo) e a necessidade n&#xE3;o atendida de planeamento familiar). As estimativas s&#xE3;o referentes a mulheres casadas ou em uni&#xE3;o. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>O trabalho de campo contou com estreita supervisão e controle de qualidade por parte dos técnicos centrais e provinciais, tanto do INE como do MISAU e do pessoal da ICF International. Além disso, durante a recolha de dados foi estabelecido um rigoroso controlo a nível de cada equipa sobre o processo de recolha, mediante a detecção de erros por parte da crítica de campo, o que permitiu a correcção imediata ainda no terreno. A nível da coordenação central, os críticos de dados fizeram revisão adicional dos dados da base e os problemas encontrados eram comunicados às respectivas equipas. </p>
-<p>O processamento interactivo e por lotes de informação através do programa CSPro permitiu, ainda, a nível central, a obtenção periódica de resultados parciais, para análise dos dados recolhidos até dado momento, mediante a produção de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabulações foram reportados em retro alimentação às inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O trabalho de campo contou com estreita supervis&#xE3;o e controle de qualidade por parte dos t&#xE9;cnicos centrais e provinciais, tanto do INE como do MISAU e do pessoal da ICF International. Al&#xE9;m disso, durante a recolha de dados foi estabelecido um rigoroso controlo a n&#xED;vel de cada equipa sobre o processo de recolha, mediante a detec&#xE7;&#xE3;o de erros por parte da cr&#xED;tica de campo, o que permitiu a correc&#xE7;&#xE3;o imediata ainda no terreno. A n&#xED;vel da coordena&#xE7;&#xE3;o central, os cr&#xED;ticos de dados fizeram revis&#xE3;o adicional dos dados da base e os problemas encontrados eram comunicados &#xE0;s respectivas equipas. </p>
+<p>O processamento interactivo e por lotes de informa&#xE7;&#xE3;o atrav&#xE9;s do programa CSPro permitiu, ainda, a n&#xED;vel central, a obten&#xE7;&#xE3;o peri&#xF3;dica de resultados parciais, para an&#xE1;lise dos dados recolhidos at&#xE9; dado momento, mediante a produ&#xE7;&#xE3;o de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabula&#xE7;&#xF5;es foram reportados em retro alimenta&#xE7;&#xE3;o &#xE0;s inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>O Inquérito Demográfico e de Saúde (IDS) em Moçambique faz parte dum programa internacional de inquéritos (MEASURE DHS) desenvolvido pelo ICF International através de um contrato com a USAID, com o propósito de apoiar aos governos e instituições privadas dos países em desenvolvimento na realização de inquéritos nacionais por amostragem, nas áreas de população e saúde. O Programa MEASURE DHS tem por objectivo: </p>
-<p>• Subsidiar a formulação de políticas e implementação de programas nas áreas de população e saúde; </p>
-<p>• Aumentar a base internacional de dados sobre população e saúde para acompanhamento e avaliação; </p>
-<p>• Aprimorar metodologia de inquérito por amostragem, e </p>
-<p>• Consolidar, na área de inquérito, a capacidade técnica da instituição executora no país participante do Programa.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de (IDS) em Mo&#xE7;ambique faz parte dum programa internacional de inqu&#xE9;ritos (MEASURE DHS) desenvolvido pelo ICF International atrav&#xE9;s de um contrato com a USAID, com o prop&#xF3;sito de apoiar aos governos e institui&#xE7;&#xF5;es privadas dos pa&#xED;ses em desenvolvimento na realiza&#xE7;&#xE3;o de inqu&#xE9;ritos nacionais por amostragem, nas &#xE1;reas de popula&#xE7;&#xE3;o e sa&#xFA;de. O Programa MEASURE DHS tem por objectivo: </p>
+<p>&#x2022; Subsidiar a formula&#xE7;&#xE3;o de pol&#xED;ticas e implementa&#xE7;&#xE3;o de programas nas &#xE1;reas de popula&#xE7;&#xE3;o e sa&#xFA;de; </p>
+<p>&#x2022; Aumentar a base internacional de dados sobre popula&#xE7;&#xE3;o e sa&#xFA;de para acompanhamento e avalia&#xE7;&#xE3;o; </p>
+<p>&#x2022; Aprimorar metodologia de inqu&#xE9;rito por amostragem, e </p>
+<p>&#x2022; Consolidar, na &#xE1;rea de inqu&#xE9;rito, a capacidade t&#xE9;cnica da institui&#xE7;&#xE3;o executora no pa&#xED;s participante do Programa.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Gestão de Qualidade ainda por aprovar</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Gest&#xE3;o de Qualidade ainda por aprovar</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="pt"><![CDATA[<p>O processamento interactivo e por lotes de informação através do programa CSPro permitiu, ainda, a nível central, a obtenção periódica de resultados parciais, para análise dos dados recolhidos até dado momento, mediante a produção de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabulações foram reportados em retro alimentação às inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O processamento interactivo e por lotes de informa&#xE7;&#xE3;o atrav&#xE9;s do programa CSPro permitiu, ainda, a n&#xED;vel central, a obten&#xE7;&#xE3;o peri&#xF3;dica de resultados parciais, para an&#xE1;lise dos dados recolhidos at&#xE9; dado momento, mediante a produ&#xE7;&#xE3;o de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabula&#xE7;&#xF5;es foram reportados em retro alimenta&#xE7;&#xE3;o &#xE0;s inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Avaliação de Qualidade ainda por aprovar</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Avalia&#xE7;&#xE3;o de Qualidade ainda por aprovar</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os dados são disponibilizados de 5 em 5 anos e podem ser desagregados por grupo específico de idade, área de residencia rural e urbana, província, nível de escolaridade e quintil de riqueza</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados s&#xE3;o disponibilizados de 5 em 5 anos e podem ser desagregados por grupo espec&#xED;fico de idade, &#xE1;rea de residencia rural e urbana, prov&#xED;ncia, n&#xED;vel de escolaridade e quintil de riqueza</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="pt"><![CDATA[<p>As estimativas dos Inquéritos Demográficos e de Saúde são baseadas em metodologias padronizadas e desenvolvidas pela OMS e UNICEF.</p>
-<p>É garantida a comparabilidade uma vez que o Inquérito Demográfico e de Saúde (IDS) em Moçambique faz parte dum programa internacional de inquéritos (MEASURE DHS) desenvolvido pelo ICF International através de um contrato com a USAID, com o propósito de apoiar aos governos e instituições privadas dos países em desenvolvimento na realização de inquéritos nacionais por amostragem, nas áreas de população e saúde. O Programa MEASURE DHS tem por objectivo:</p>
-<p>• Subsidiar a formulação de políticas e implementação de programas nas áreas de população e saúde; </p>
-<p>• Aumentar a base internacional de dados sobre população e saúde para acompanhamento e avaliação; </p>
-<p>• Aprimorar metodologia de inquérito por amostragem, e </p>
-<p>• Consolidar, na área de inquérito, a capacidade técnica da instituição executora no país participante do Programa.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>As estimativas dos Inqu&#xE9;ritos Demogr&#xE1;ficos e de Sa&#xFA;de s&#xE3;o baseadas em metodologias padronizadas e desenvolvidas pela OMS e UNICEF.</p>
+<p>&#xC9; garantida a comparabilidade uma vez que o Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de (IDS) em Mo&#xE7;ambique faz parte dum programa internacional de inqu&#xE9;ritos (MEASURE DHS) desenvolvido pelo ICF International atrav&#xE9;s de um contrato com a USAID, com o prop&#xF3;sito de apoiar aos governos e institui&#xE7;&#xF5;es privadas dos pa&#xED;ses em desenvolvimento na realiza&#xE7;&#xE3;o de inqu&#xE9;ritos nacionais por amostragem, nas &#xE1;reas de popula&#xE7;&#xE3;o e sa&#xFA;de. O Programa MEASURE DHS tem por objectivo:</p>
+<p>&#x2022; Subsidiar a formula&#xE7;&#xE3;o de pol&#xED;ticas e implementa&#xE7;&#xE3;o de programas nas &#xE1;reas de popula&#xE7;&#xE3;o e sa&#xFA;de; </p>
+<p>&#x2022; Aumentar a base internacional de dados sobre popula&#xE7;&#xE3;o e sa&#xFA;de para acompanhamento e avalia&#xE7;&#xE3;o; </p>
+<p>&#x2022; Aprimorar metodologia de inqu&#xE9;rito por amostragem, e </p>
+<p>&#x2022; Consolidar, na &#xE1;rea de inqu&#xE9;rito, a capacidade t&#xE9;cnica da institui&#xE7;&#xE3;o executora no pa&#xED;s participante do Programa.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Saúde (MISAU), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; </p>
-<p>Instituto Nacional de Estatística (INE), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>;</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Sa&#xFA;de (MISAU), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; </p>
+<p>Instituto Nacional de Estat&#xED;stica (INE), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>;</p>
 <p>ICF Internacional (ICFI), <a href="http://www.measuredhs.com">www.measuredhs.com</a></p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>

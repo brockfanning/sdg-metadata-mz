@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The CONTACT_FUNCT field for indicator 14-5-1, translated into pt</message>
-	<data>&lt;p&gt;Estaticista &amp; Oceanógrafo&lt;/p&gt;</data>
+	<data>&lt;p&gt;Estaticista &amp;amp; Ocean&amp;#xF3;grafo&lt;/p&gt;</data>
 </root>

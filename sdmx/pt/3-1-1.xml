@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-29T22:40:56.859Z</mes:Prepared>
+    <mes:Prepared>2021-05-29T23:28:00.793Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="d63b13a4-4681-452f-9bc8-0d9c814f75bd">
+  <mes:MetadataSet structureRef="MDS1" setID="b0faf91a-c540-4d3e-8c50-acf692ac10b7">
     <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Estatísticas Demográficas, Vitais e Sociais</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Direc&#xE7;&#xE3;o de Estat&#xED;sticas Demogr&#xE1;ficas, Vitais e Sociais</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="pt"/>
@@ -54,10 +54,10 @@
           <com:Text xml:lang="pt"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="pt"><![CDATA[<p> 3 Garantir o acesso à saúde de qualidade e promover o bem-estar para todos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> 3 Garantir o acesso &#xE0; sa&#xFA;de de qualidade e promover o bem-estar para todos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="pt"><![CDATA[<p>3.1 Até 2030, reduzir a taxa de mortalidade materna global para menos de 70 mortes por 100.000 nascidos vivos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>3.1 At&#xE9; 2030, reduzir a taxa de mortalidade materna global para menos de 70 mortes por 100.000 nascidos vivos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
           <com:Text xml:lang="pt"><![CDATA[<h1>3.1.1 Taxa de mortalidade materna</h1>]]></com:Text>
@@ -72,10 +72,10 @@
           <com:Text xml:lang="pt"><![CDATA[<p>INSTITUTO NACIONAL DE ESTATISTICA</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="pt"><![CDATA[<p>Teixeira Mandlate, Maria Alfeu e João Mangue</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Teixeira Mandlate, Maria Alfeu e Jo&#xE3;o Mangue</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Técnicos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>T&#xE9;cnicos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="pt"><![CDATA[<p>+258 844386629; +258 823032619; +258 827679480</p>]]></com:Text>
@@ -87,25 +87,25 @@
           <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:Teixeira.mandlate@ine.gov.mz">Teixeira.mandlate@ine.gov.mz</a>; <a href="mailto:maria.alfeu@ine.gov.mz">maria.alfeu@ine.gov.mz</a>; <a href="mailto:joao.mangue@ine.gov.mz">joao.mangue@ine.gov.mz</a></p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="pt"><![CDATA[<p>Taxa de mortalidade materna (TMM) é definida como o número de mortes maternas durante um determinado período de tempo por 100.000 nascidos vivos durante o mesmo período. </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Taxa de mortalidade materna (TMM) &#xE9; definida como o n&#xFA;mero de mortes maternas durante um determinado per&#xED;odo de tempo por 100.000 nascidos vivos durante o mesmo per&#xED;odo. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="pt"><![CDATA[<p>INE, Inquérito Demográfico e de Saúde (IDS)</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>INE, Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de (IDS)</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>As fontes de dados recomendadas para calcular este indicador são os Inquéritos aos Agregados Familiares e Censos. O questionário da recolha de dados do Inquérito Demográfico e de Saúde foi desenhado e posteriormente testado no campo no decurso do treinamento dos entrevistadores.</p>
-<p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente aos agregados familiares aplicando-se três tipos de questionários: </p>
-<p>• Questionário de Agregados Familiares </p>
-<p>• Questionário de Mulheres </p>
-<p>• Questionário de Homens.</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>As fontes de dados recomendadas para calcular este indicador s&#xE3;o os Inqu&#xE9;ritos aos Agregados Familiares e Censos. O question&#xE1;rio da recolha de dados do Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de foi desenhado e posteriormente testado no campo no decurso do treinamento dos entrevistadores.</p>
+<p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente aos agregados familiares aplicando-se tr&#xEA;s tipos de question&#xE1;rios: </p>
+<p>&#x2022; Question&#xE1;rio de Agregados Familiares </p>
+<p>&#x2022; Question&#xE1;rio de Mulheres </p>
+<p>&#x2022; Question&#xE1;rio de Homens.</p>
 <p>O Desenho da Amostra</p>
-<p>O Inquérito Demográfico e de Saúde compreende uma amostra probabilística, estratificada e multi-etápica, seleccionado a partir dos Dados e Cartografia do III Recenseamento Geral de População e Habitação, realizado pelo INE em 2007. </p>
-<p>A recolha de dados teve duração de cinco meses com início em Junho de 2011, tendo terminado em Novembro de 2011.</p>
+<p>O Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de compreende uma amostra probabil&#xED;stica, estratificada e multi-et&#xE1;pica, seleccionado a partir dos Dados e Cartografia do III Recenseamento Geral de Popula&#xE7;&#xE3;o e Habita&#xE7;&#xE3;o, realizado pelo INE em 2007. </p>
+<p>A recolha de dados teve dura&#xE7;&#xE3;o de cinco meses com in&#xED;cio em Junho de 2011, tendo terminado em Novembro de 2011.</p>
 <p>Taxa de resposta</p>
-<p>Dos 13,964 agregados entrevistados no inquérito foi identificado um total de 13,871 mulheres elegíveis. Foram feitas entrevistas a 13,718 destas mulheres, o que resultou numa taxa de resposta de 99%. Introdução • 13 Em um terço da amostra de agregados familiares do IDS, eram também feitas entrevistas a todos os homens elegíveis encontrados. Assim, dos 4,130 homens elegíveis identificados na subamostra de agregados familiares seleccionadas para o inquérito de homens, foram entrevistados 4,027 com sucesso, dando uma taxa de respostas de 98%</p>]]></com:Text>
+<p>Dos 13,964 agregados entrevistados no inqu&#xE9;rito foi identificado um total de 13,871 mulheres eleg&#xED;veis. Foram feitas entrevistas a 13,718 destas mulheres, o que resultou numa taxa de resposta de 99%. Introdu&#xE7;&#xE3;o &#x2022; 13 Em um ter&#xE7;o da amostra de agregados familiares do IDS, eram tamb&#xE9;m feitas entrevistas a todos os homens eleg&#xED;veis encontrados. Assim, dos 4,130 homens eleg&#xED;veis identificados na subamostra de agregados familiares seleccionadas para o inqu&#xE9;rito de homens, foram entrevistados 4,027 com sucesso, dando uma taxa de respostas de 98%</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="pt"><![CDATA[<p>2021</p>]]></com:Text>
@@ -114,64 +114,64 @@
           <com:Text xml:lang="pt"><![CDATA[<p>2022</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="pt"><![CDATA[<p>I Instituto Nacional de Estatística</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>I Instituto Nacional de Estat&#xED;stica</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="pt"><![CDATA[<p>I Instituto Nacional de Estatística</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>I Instituto Nacional de Estat&#xED;stica</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de mortalidade materna descreve o risco de morte materna em relação ao número de nascidos vivos e capta essencialmente o risco de morte em uma única gravidez ou em um único nascimento.</p>
-<p>O resultado deste indicador revela que em cada 100 000 nascimentos vivos, determinado número de mulheres perderam a vida ou morreram por razoes maternas.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de mortalidade materna descreve o risco de morte materna em rela&#xE7;&#xE3;o ao n&#xFA;mero de nascidos vivos e capta essencialmente o risco de morte em uma &#xFA;nica gravidez ou em um &#xFA;nico nascimento.</p>
+<p>O resultado deste indicador revela que em cada 100&#xA0;000 nascimentos vivos, determinado n&#xFA;mero de mulheres perderam a vida ou morreram por razoes maternas.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="pt"><![CDATA[<p>A extensão da mortalidade materna em uma população é essencialmente a combinação de dois fatores: </p>
+          <com:Text xml:lang="pt"><![CDATA[<p>A extens&#xE3;o da mortalidade materna em uma popula&#xE7;&#xE3;o &#xE9; essencialmente a combina&#xE7;&#xE3;o de dois fatores: </p>
 <ol>
-  <li>O risco de morte em uma única gravidez ou um único nascimento; </li>
-  <li>. O nível de fertilidade (ou seja, o número de gestações ou nascimentos experimentados por mulheres em idade reprodutiva). O rácio de mortalidade materna (RMM) é definida como o número de mortes maternas durante um determinado período de tempo por 100.000 nascidos vivos durante o mesmo período. Ele descreve o risco de morte materna em relação ao número de nascidos vivos e essencialmente captura o factor (i) acima. Por outro lado, a taxa de mortalidade materna (TMM) é calculada como o número de mortes maternas divididas por anos-pessoa vividos por mulheres em idade reprodutiva. A TMM capta o risco de morte materna por gravidez ou por nascimento total (nascimento ou nadomorto) e o nível de fertilidade na população. Além do RMM e da TMM, é possível calcular o risco de mortalidade materna na vida adulta de mulheres na população (ver Quadro A2.2). Uma medida alternativa de mortalidade materna, a proporção de mortes entre mulheres em idade reprodutiva devida a causas maternas (MP), é calculada como o número de mortes maternas dividido pelo total de mortes entre mulheres de 15 a 49 anos. Medidas estatísticas relacionadas à mortalidade materna: </li>
+  <li>O risco de morte em uma &#xFA;nica gravidez ou um &#xFA;nico nascimento; </li>
+  <li>. O n&#xED;vel de fertilidade (ou seja, o n&#xFA;mero de gesta&#xE7;&#xF5;es ou nascimentos experimentados por mulheres em idade reprodutiva). O r&#xE1;cio de mortalidade materna (RMM) &#xE9; definida como o n&#xFA;mero de mortes maternas durante um determinado per&#xED;odo de tempo por 100.000 nascidos vivos durante o mesmo per&#xED;odo. Ele descreve o risco de morte materna em rela&#xE7;&#xE3;o ao n&#xFA;mero de nascidos vivos e essencialmente captura o factor (i) acima. Por outro lado, a taxa de mortalidade materna (TMM) &#xE9; calculada como o n&#xFA;mero de mortes maternas divididas por anos-pessoa vividos por mulheres em idade reprodutiva. A TMM capta o risco de morte materna por gravidez ou por nascimento total (nascimento ou nadomorto) e o n&#xED;vel de fertilidade na popula&#xE7;&#xE3;o. Al&#xE9;m do RMM e da TMM, &#xE9; poss&#xED;vel calcular o risco de mortalidade materna na vida adulta de mulheres na popula&#xE7;&#xE3;o (ver Quadro A2.2). Uma medida alternativa de mortalidade materna, a propor&#xE7;&#xE3;o de mortes entre mulheres em idade reprodutiva devida a causas maternas (MP), &#xE9; calculada como o n&#xFA;mero de mortes maternas dividido pelo total de mortes entre mulheres de 15 a 49 anos. Medidas estat&#xED;sticas relacionadas &#xE0; mortalidade materna: </li>
 </ol>
-<p> Rácio de mortalidade materna (RMM): Número de mortes maternas durante um determinado período de tempo por 100.000 nascidos vivos no mesmo período; </p>
-<p> Taxa de mortalidade materna (TMM): Número de mortes maternas divididas por ano pessoa vivida por mulheres em idade reprodutiva. </p>
+<p> R&#xE1;cio de mortalidade materna (RMM): N&#xFA;mero de mortes maternas durante um determinado per&#xED;odo de tempo por 100.000 nascidos vivos no mesmo per&#xED;odo; </p>
+<p> Taxa de mortalidade materna (TMM): N&#xFA;mero de mortes maternas divididas por ano pessoa vivida por mulheres em idade reprodutiva. </p>
 <p> Risco de morte materna na vida adulta: a probabilidade de uma mulher de 15 anos de idade morrer eventualmente por uma causa materna. </p>
-<p> A proporção de mortes entre mulheres em idade reprodutiva devidas a causas maternas (MP): O número de mortes maternas em um determinado período de tempo dividido pelo total de mortes entre mulheres de 15 a 49 anos.</p>
-<p>Frequentemente, há problemas de qualidade de dados, principalmente relacionados à subnotificação e classificação incorreta das mortes maternas</p>]]></com:Text>
+<p> A propor&#xE7;&#xE3;o de mortes entre mulheres em idade reprodutiva devidas a causas maternas (MP): O n&#xFA;mero de mortes maternas em um determinado per&#xED;odo de tempo dividido pelo total de mortes entre mulheres de 15 a 49 anos.</p>
+<p>Frequentemente, h&#xE1; problemas de qualidade de dados, principalmente relacionados &#xE0; subnotifica&#xE7;&#xE3;o e classifica&#xE7;&#xE3;o incorreta das mortes maternas</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de mortalidade materna pode ser calculada dividindo as mortes maternas registradas (ou estimadas) pelo total de nascidos vivos registrados (ou estimados) no mesmo período e multiplicando por 100.000</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de mortalidade materna pode ser calculada dividindo as mortes maternas registradas (ou estimadas) pelo total de nascidos vivos registrados (ou estimados) no mesmo per&#xED;odo e multiplicando por 100.000</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>O trabalho de campo contou com estreita supervisão e controle de qualidade por parte dos técnicos centrais e provinciais, tanto do INE como do MISAU e do pessoal da ICF International. Além disso, durante a recolha de dados foi estabelecido um rigoroso controlo a nível de cada equipa sobre o processo de recolha, mediante a detecção de erros por parte da crítica de campo, o que permitiu a correcção imediata ainda no terreno. A nível da coordenação central, os críticos de dados fizeram revisão adicional dos dados da base e os problemas encontrados eram comunicados às respectivas equipas. </p>
-<p>O processamento interactivo e por lotes de informação através do programa CSPro permitiu, ainda, a nível central, a obtenção periódica de resultados parciais, para análise dos dados recolhidos até dado momento, mediante a produção de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabulações foram reportados em retro alimentação às inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O trabalho de campo contou com estreita supervis&#xE3;o e controle de qualidade por parte dos t&#xE9;cnicos centrais e provinciais, tanto do INE como do MISAU e do pessoal da ICF International. Al&#xE9;m disso, durante a recolha de dados foi estabelecido um rigoroso controlo a n&#xED;vel de cada equipa sobre o processo de recolha, mediante a detec&#xE7;&#xE3;o de erros por parte da cr&#xED;tica de campo, o que permitiu a correc&#xE7;&#xE3;o imediata ainda no terreno. A n&#xED;vel da coordena&#xE7;&#xE3;o central, os cr&#xED;ticos de dados fizeram revis&#xE3;o adicional dos dados da base e os problemas encontrados eram comunicados &#xE0;s respectivas equipas. </p>
+<p>O processamento interactivo e por lotes de informa&#xE7;&#xE3;o atrav&#xE9;s do programa CSPro permitiu, ainda, a n&#xED;vel central, a obten&#xE7;&#xE3;o peri&#xF3;dica de resultados parciais, para an&#xE1;lise dos dados recolhidos at&#xE9; dado momento, mediante a produ&#xE7;&#xE3;o de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabula&#xE7;&#xF5;es foram reportados em retro alimenta&#xE7;&#xE3;o &#xE0;s inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>O Inquérito Demográfico e de Saúde (IDS) em Moçambique faze parte dum programa internacional de inquéritos (MEASURE DHS) desenvolvido pelo ICF International através de um contrato com a USAID, com o propósito de apoiar aos governos e instituições privadas dos países em desenvolvimento na realização de inquéritos nacionais por amostragem, nas áreas de população e saúde. O Programa MEASURE DHS tem por objectivo: </p>
-<p>• Subsidiar a formulação de políticas e implementação de programas nas áreas de população e saúde; </p>
-<p>• Aumentar a base internacional de dados sobre população e saúde para acompanhamento e avaliação; </p>
-<p>• Aprimorar metodologia de inquérito por amostragem, e </p>
-<p>• Consolidar, na área de inquérito, a capacidade técnica da instituição executora no país participante do Programa.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de (IDS) em Mo&#xE7;ambique faze parte dum programa internacional de inqu&#xE9;ritos (MEASURE DHS) desenvolvido pelo ICF International atrav&#xE9;s de um contrato com a USAID, com o prop&#xF3;sito de apoiar aos governos e institui&#xE7;&#xF5;es privadas dos pa&#xED;ses em desenvolvimento na realiza&#xE7;&#xE3;o de inqu&#xE9;ritos nacionais por amostragem, nas &#xE1;reas de popula&#xE7;&#xE3;o e sa&#xFA;de. O Programa MEASURE DHS tem por objectivo: </p>
+<p>&#x2022; Subsidiar a formula&#xE7;&#xE3;o de pol&#xED;ticas e implementa&#xE7;&#xE3;o de programas nas &#xE1;reas de popula&#xE7;&#xE3;o e sa&#xFA;de; </p>
+<p>&#x2022; Aumentar a base internacional de dados sobre popula&#xE7;&#xE3;o e sa&#xFA;de para acompanhamento e avalia&#xE7;&#xE3;o; </p>
+<p>&#x2022; Aprimorar metodologia de inqu&#xE9;rito por amostragem, e </p>
+<p>&#x2022; Consolidar, na &#xE1;rea de inqu&#xE9;rito, a capacidade t&#xE9;cnica da institui&#xE7;&#xE3;o executora no pa&#xED;s participante do Programa.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Gestão de Qualidade ainda por aprovar</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Gest&#xE3;o de Qualidade ainda por aprovar</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="pt"><![CDATA[<p>O processamento interactivo e por lotes de informação através do programa CSPro permitiu, ainda, a nível central, a obtenção periódica de resultados parciais, para análise dos dados recolhidos até dado momento, mediante a produção de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabulações foram reportados em retro alimentação às inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O processamento interactivo e por lotes de informa&#xE7;&#xE3;o atrav&#xE9;s do programa CSPro permitiu, ainda, a n&#xED;vel central, a obten&#xE7;&#xE3;o peri&#xF3;dica de resultados parciais, para an&#xE1;lise dos dados recolhidos at&#xE9; dado momento, mediante a produ&#xE7;&#xE3;o de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabula&#xE7;&#xF5;es foram reportados em retro alimenta&#xE7;&#xE3;o &#xE0;s inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Avaliação de Qualidade ainda por aprovar</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Avalia&#xE7;&#xE3;o de Qualidade ainda por aprovar</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os dados são disponibilizados de 5 em 5 anos e são desagregados por idade, área de residência rural e urbana, provincial e país</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados s&#xE3;o disponibilizados de 5 em 5 anos e s&#xE3;o desagregados por idade, &#xE1;rea de resid&#xEA;ncia rural e urbana, provincial e pa&#xED;s</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="pt"><![CDATA[<p>A produção de dados permite comparabilidade pois os procedimentos que levam a recolha, tratamento e divulgação seguem as recomendações internacionalmente definidas nos <strong><em>Princípios e Recomendações para Estatísticas Civil – ONU, (ST/ESA/STAT/SER.M/19/Rev.3 New York, 2014)</em></strong></p>
-<p>As estimativas dos Inquéritos Demográficos e de Saúde são baseadas em metodologias padronizadas e desenvolvidas pela OMS e UNICEF.</p>
-<p>É garantida a comparabilidade uma vez que o Inquérito Demográfico e de Saúde (IDS) em Moçambique faz parte dum programa internacional de inquéritos (MEASURE DHS) desenvolvido pelo ICF International através de um contrato com a USAID, com o propósito de apoiar aos governos e instituições privadas dos países em desenvolvimento na realização de inquéritos nacionais por amostragem, nas áreas de população e saúde. O Programa MEASURE DHS tem por objectivo:</p>
-<p>• Subsidiar a formulação de políticas e implementação de programas nas áreas de população e saúde; </p>
-<p>• Aumentar a base internacional de dados sobre população e saúde para acompanhamento e avaliação; </p>
-<p>• Aprimorar metodologia de inquérito por amostragem, e </p>
-<p>• Consolidar, na área de inquérito, a capacidade técnica da instituição executora no país participante do Programa.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A produ&#xE7;&#xE3;o de dados permite comparabilidade pois os procedimentos que levam a recolha, tratamento e divulga&#xE7;&#xE3;o seguem as recomenda&#xE7;&#xF5;es internacionalmente definidas nos <strong><em>Princ&#xED;pios e Recomenda&#xE7;&#xF5;es para Estat&#xED;sticas Civil &#x2013; ONU, (ST/ESA/STAT/SER.M/19/Rev.3 New York, 2014)</em></strong></p>
+<p>As estimativas dos Inqu&#xE9;ritos Demogr&#xE1;ficos e de Sa&#xFA;de s&#xE3;o baseadas em metodologias padronizadas e desenvolvidas pela OMS e UNICEF.</p>
+<p>&#xC9; garantida a comparabilidade uma vez que o Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de (IDS) em Mo&#xE7;ambique faz parte dum programa internacional de inqu&#xE9;ritos (MEASURE DHS) desenvolvido pelo ICF International atrav&#xE9;s de um contrato com a USAID, com o prop&#xF3;sito de apoiar aos governos e institui&#xE7;&#xF5;es privadas dos pa&#xED;ses em desenvolvimento na realiza&#xE7;&#xE3;o de inqu&#xE9;ritos nacionais por amostragem, nas &#xE1;reas de popula&#xE7;&#xE3;o e sa&#xFA;de. O Programa MEASURE DHS tem por objectivo:</p>
+<p>&#x2022; Subsidiar a formula&#xE7;&#xE3;o de pol&#xED;ticas e implementa&#xE7;&#xE3;o de programas nas &#xE1;reas de popula&#xE7;&#xE3;o e sa&#xFA;de; </p>
+<p>&#x2022; Aumentar a base internacional de dados sobre popula&#xE7;&#xE3;o e sa&#xFA;de para acompanhamento e avalia&#xE7;&#xE3;o; </p>
+<p>&#x2022; Aprimorar metodologia de inqu&#xE9;rito por amostragem, e </p>
+<p>&#x2022; Consolidar, na &#xE1;rea de inqu&#xE9;rito, a capacidade t&#xE9;cnica da institui&#xE7;&#xE3;o executora no pa&#xED;s participante do Programa.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Saúde (MISAU), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; Instituto Nacional de Estatística (INE), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>;</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Sa&#xFA;de (MISAU), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; Instituto Nacional de Estat&#xED;stica (INE), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>;</p>
 <p>ICF Internacional (ICFI), <a href="http://www.measuredhs.com">www.measuredhs.com</a></p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>

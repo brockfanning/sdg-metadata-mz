@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-29T22:41:04.080Z</mes:Prepared>
+    <mes:Prepared>2021-05-29T23:28:07.328Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="14351d3b-d359-4673-b990-f4ed2b8f36f7">
+  <mes:MetadataSet structureRef="MDS1" setID="aa49a911-29b8-485f-8431-7a2cf9f7ebaf">
     <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,13 +36,13 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Contas Nacionais e Indicadores Globais</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Direc&#xE7;&#xE3;o de Contas Nacionais e Indicadores Globais</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="pt"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estatística</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estat&#xED;stica</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="IND_DEF_CON_CLASS">
           <com:Text xml:lang="pt"/>
@@ -54,36 +54,36 @@
           <com:Text xml:lang="pt"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="pt"><![CDATA[<p> 9 Indústria, Inovação e Infraestruturas </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> 9 Ind&#xFA;stria, Inova&#xE7;&#xE3;o e Infraestruturas </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="pt"><![CDATA[<p>9.2 Promover a industrialização inclusiva e sustentável e, até 2030, aumentar significativamente a participação da indústria no sector de emprego e no PIB, de acordo com as circunstâncias nacionais, e duplicar sua participação nos países menos desenvolvidos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>9.2 Promover a industrializa&#xE7;&#xE3;o inclusiva e sustent&#xE1;vel e, at&#xE9; 2030, aumentar significativamente a participa&#xE7;&#xE3;o da ind&#xFA;stria no sector de emprego e no PIB, de acordo com as circunst&#xE2;ncias nacionais, e duplicar sua participa&#xE7;&#xE3;o nos pa&#xED;ses menos desenvolvidos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="pt"><![CDATA[<h1>9.2.1 Valor acrescentado da indústria transformadora como percentagem do PIB</h1>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<h1>9.2.1 Valor acrescentado da ind&#xFA;stria transformadora como percentagem do PIB</h1>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="pt"><![CDATA[<p> Valor acrescentado da indústria transformadora como percentagem do PIB</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> Valor acrescentado da ind&#xFA;stria transformadora como percentagem do PIB</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="pt"><![CDATA[<p>07/10/2020</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
-          <com:Text xml:lang="pt"><![CDATA[<p>Sem vínculos com outros objectivos e metas</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Sem v&#xED;nculos com outros objectivos e metas</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>Perpetua Mendonça; Simão Sábado; Cipriano Claudio</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Perpetua Mendon&#xE7;a; Sim&#xE3;o S&#xE1;bado; Cipriano Claudio</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Contas Nacionais e Indicadores Globais</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Direc&#xE7;&#xE3;o de Contas Nacionais e Indicadores Globais</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Técnica, Chefe do Departamento e Director</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>T&#xE9;cnica, Chefe do Departamento e Director</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Perpétua: +258-823810450/+258-873810450;</p>
-<p>Sábado: +258-827027780/+258-868001057;</p>
-<p>Cláudio: +258-824261470</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Perp&#xE9;tua: +258-823810450/+258-873810450;</p>
+<p>S&#xE1;bado: +258-827027780/+258-868001057;</p>
+<p>Cl&#xE1;udio: +258-824261470</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_MAIL">
           <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:perpetua.mendoca@ine.gov.mz">perpetua.mendoca@ine.gov.mz</a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz</p>]]></com:Text>
@@ -92,79 +92,79 @@
           <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:perpetua.mendoca@ine.gov.mz">perpetua.mendoca@ine.gov.mz</a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="pt"><![CDATA[<p>O valor acrescentado da indústria transformadora (VAIT), como proporção do produto interno bruto (PIB), é a razão entre o valor da indústria transformadora e o PIB, ambos em USD constantes do ano base.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O valor acrescentado da ind&#xFA;stria transformadora (VAIT), como propor&#xE7;&#xE3;o do produto interno bruto (PIB), &#xE9; a raz&#xE3;o entre o valor da ind&#xFA;stria transformadora e o PIB, ambos em USD constantes do ano base.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
-          <com:Text xml:lang="pt"><![CDATA[<p>Classificação das actividades económicas (CAE), Classificação Nacional de Bens e Serviços (CNBS); Classificação das Instituições Sem Fins Lucrativos aos Serviços das Famílias (COPNI); Classificação das funções do Governo (COFOG), Classificação Consumo Individual por Objectivo (COICOP)</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Classifica&#xE7;&#xE3;o das actividades econ&#xF3;micas (CAE), Classifica&#xE7;&#xE3;o Nacional de Bens e Servi&#xE7;os (CNBS); Classifica&#xE7;&#xE3;o das Institui&#xE7;&#xF5;es Sem Fins Lucrativos aos Servi&#xE7;os das Fam&#xED;lias (COPNI); Classifica&#xE7;&#xE3;o das fun&#xE7;&#xF5;es do Governo (COFOG), Classifica&#xE7;&#xE3;o Consumo Individual por Objectivo (COICOP)</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="pt"><![CDATA[<p>A principal fonte são as Contas Nacionais compiladas e publicadas pelo Instituto Nacional de Estatística.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A principal fonte s&#xE3;o as Contas Nacionais compiladas e publicadas pelo Instituto Nacional de Estat&#xED;stica.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>Inquéritos mensais, inquéritos anuais, dados administrativos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Inqu&#xE9;ritos mensais, inqu&#xE9;ritos anuais, dados administrativos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="pt"><![CDATA[<p>De janeiro a Dezembro de cada ano</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           <com:Text xml:lang="pt"><![CDATA[<p>Maio de cada ano: PIB Preliminares do ano n-1 e PIB Definitivo do n-2;</p>
-<p>Outubro de cada ano : PIB Provisório do ano n-1</p>]]></com:Text>
+<p>Outubro de cada ano : PIB Provis&#xF3;rio do ano n-1</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ministérios, Ministério da Industria e Comercio (MIC), Banco de Moçambique (BM), Autoridade Tributaria(AT), Todas as Instituições da Industria Transformadora</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rios, Minist&#xE9;rio da Industria e Comercio (MIC), Banco de Mo&#xE7;ambique (BM), Autoridade Tributaria(AT), Todas as Institui&#xE7;&#xF5;es da Industria Transformadora</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estatística</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estat&#xED;stica</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
           <com:Text xml:lang="pt"><![CDATA[<p>De acordo com o artigo 19, da Lei 7/96 de 05 de Julho:</p>
 <ol>
-  <li>O Instituto Nacional de Estatística (INE) é o órgão executivo central do Sistema Estatístico Nacional (SEN) que tem por objectivo a notação, apuramento, coordenação e difusão da informação estatística oficial do País e subordina-se ao Conselho de Ministro.</li>
-  <li>Compete ao INE realizar a actividade estatística oficial do País.</li>
+  <li>O Instituto Nacional de Estat&#xED;stica (INE) &#xE9; o &#xF3;rg&#xE3;o executivo central do Sistema Estat&#xED;stico Nacional (SEN) que tem por objectivo a nota&#xE7;&#xE3;o, apuramento, coordena&#xE7;&#xE3;o e difus&#xE3;o da informa&#xE7;&#xE3;o estat&#xED;stica oficial do Pa&#xED;s e subordina-se ao Conselho de Ministro.</li>
+  <li>Compete ao INE realizar a actividade estat&#xED;stica oficial do Pa&#xED;s.</li>
 </ol>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="pt"><![CDATA[<p>O valor Acrescentado da Indústria Transformadora (VAIT) é um indicador amplamente reconhecido e amplamente utilizado por pesquisadores e formuladores de políticas para avaliar o nível de industrialização de um país. A participação do VAIT no PIB reflecte o papel da indústria manufactureira na economia e o desenvolvimento nacional de um país em geral. O VAIT per capita é o indicador básico do nível de industrialização de um país ajustado para o tamanho da economia. Um dos usos estatísticos do VAIT per capita é classificar os grupos de países de acordo com o estágio do desenvolvimento industrial.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O valor Acrescentado da Ind&#xFA;stria Transformadora (VAIT) &#xE9; um indicador amplamente reconhecido e amplamente utilizado por pesquisadores e formuladores de pol&#xED;ticas para avaliar o n&#xED;vel de industrializa&#xE7;&#xE3;o de um pa&#xED;s. A participa&#xE7;&#xE3;o do VAIT no PIB reflecte o papel da ind&#xFA;stria manufactureira na economia e o desenvolvimento nacional de um pa&#xED;s em geral. O VAIT per capita &#xE9; o indicador b&#xE1;sico do n&#xED;vel de industrializa&#xE7;&#xE3;o de um pa&#xED;s ajustado para o tamanho da economia. Um dos usos estat&#xED;sticos do VAIT per capita &#xE9; classificar os grupos de pa&#xED;ses de acordo com o est&#xE1;gio do desenvolvimento industrial.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="pt"><![CDATA[<p>Falta de observância rigorosa da legislação estatística;</p>
-<p>Recepção tardia de dados provenientes das fontes; </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Falta de observ&#xE2;ncia rigorosa da legisla&#xE7;&#xE3;o estat&#xED;stica;</p>
+<p>Recep&#xE7;&#xE3;o tardia de dados provenientes das fontes; </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="pt"><![CDATA[<p><em>Proporção do VAIT no PIB = VAIT/PIB*100.</em></p>
-<p><em>VAIT per capita = VAIT/população</em></p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p><em>Propor&#xE7;&#xE3;o do VAIT no PIB = VAIT/PIB*100.</em></p>
+<p><em>VAIT per capita = VAIT/popula&#xE7;&#xE3;o</em></p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>Cruzamento de dados dos inquéritos com as Contas auditadas.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Cruzamento de dados dos inqu&#xE9;ritos com as Contas auditadas.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p><em>Proporção do VAIT no PIB = VAIT/PIB*100.</em></p>
-<p><em>VAIT per capita = VAIT/população</em></p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p><em>Propor&#xE7;&#xE3;o do VAIT no PIB = VAIT/PIB*100.</em></p>
+<p><em>VAIT per capita = VAIT/popula&#xE7;&#xE3;o</em></p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os dados compilados e verificados pelos técnicos são reconciliados pelos chefes e submetidos os directores para a reverificação.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados compilados e verificados pelos t&#xE9;cnicos s&#xE3;o reconciliados pelos chefes e submetidos os directores para a reverifica&#xE7;&#xE3;o.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Uso de manuais das Nações Unidas para Contas Nacionais, SNA 2008; a observância das revisões recomendadas pela Nações Unidas.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Uso de manuais das Na&#xE7;&#xF5;es Unidas para Contas Nacionais, SNA 2008; a observ&#xE2;ncia das revis&#xF5;es recomendadas pela Na&#xE7;&#xF5;es Unidas.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Partilha com instituições internacionais de publicações.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Partilha com institui&#xE7;&#xF5;es internacionais de publica&#xE7;&#xF5;es.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
           <com:Text xml:lang="pt"><![CDATA[<p>29/05/2021: PIB Preliminares de 2020;</p>
 <p>29/05/2021: PIB Definitivo 2019;</p>
-<p>30/10/2021: PIB Provisório 2020.</p>
-<p>Nenhuma desagregação disponível.</p>]]></com:Text>
+<p>30/10/2021: PIB Provis&#xF3;rio 2020.</p>
+<p>Nenhuma desagrega&#xE7;&#xE3;o dispon&#xED;vel.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="pt"><![CDATA[<p>Calculo deste indicador não difere dos cálculos feitos internacionalmente, porque usa-se manuais das Nações Unidas para Contas Nacionais, SNA 2008; a observância das revisões recomendadas pelas Nações Unidas..</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Calculo deste indicador n&#xE3;o difere dos c&#xE1;lculos feitos internacionalmente, porque usa-se manuais das Na&#xE7;&#xF5;es Unidas para Contas Nacionais, SNA 2008; a observ&#xE2;ncia das revis&#xF5;es recomendadas pelas Na&#xE7;&#xF5;es Unidas..</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os resultados são publicados em publicações anuais, em formato electrónico no Portal do INE: <a href="http://www.ine.gov.mz">www.ine.gov.mz</a>, </p>
-<p>SNA 2008, das Nações Unidas;</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os resultados s&#xE3;o publicados em publica&#xE7;&#xF5;es anuais, em formato electr&#xF3;nico no Portal do INE: <a href="http://www.ine.gov.mz">www.ine.gov.mz</a>, </p>
+<p>SNA 2008, das Na&#xE7;&#xF5;es Unidas;</p>
 <p>CAE, CNBS; COPNI; COFOG </p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>

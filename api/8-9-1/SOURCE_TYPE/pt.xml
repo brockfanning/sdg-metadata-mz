@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The SOURCE_TYPE field for indicator 8-9-1, translated into pt</message>
-	<data>&lt;p&gt;O indicador é proveniente da Conta Satélite do Turismo dos países, que é uma conta satélite para as Contas Nacionais&lt;/p&gt;</data>
+	<data>&lt;p&gt;O indicador &amp;#xE9; proveniente da Conta Sat&amp;#xE9;lite do Turismo dos pa&amp;#xED;ses, que &amp;#xE9; uma conta sat&amp;#xE9;lite para as Contas Nacionais&lt;/p&gt;</data>
 </root>

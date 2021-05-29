@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The DATA_SOURCE field for indicator 4-4-1, translated into pt</message>
-	<data>&lt;p&gt;Ministério da Ciência e Tecnologia, Ensino Superior e Técnico Profissional através da Instituto Nacional de Governo Electrónico.&lt;/p&gt;</data>
+	<data>&lt;p&gt;Minist&amp;#xE9;rio da Ci&amp;#xEA;ncia e Tecnologia, Ensino Superior e T&amp;#xE9;cnico Profissional atrav&amp;#xE9;s da Instituto Nacional de Governo Electr&amp;#xF3;nico.&lt;/p&gt;</data>
 </root>

@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The DATA_COMP field for indicator 16-9-1, translated into pt</message>
-	<data>&lt;p&gt;Os países podem recolher dados sobre este indicador por meio dos inquéritos aos agregados familiares nacionais. Este indicador é calculado dividindo o número de crianças menores de 5 anos registadas pelo registo Civil pelo total de crianças menores de 5 anos.&lt;/p&gt;</data>
+	<data>&lt;p&gt;Os pa&amp;#xED;ses podem recolher dados sobre este indicador por meio dos inqu&amp;#xE9;ritos aos agregados familiares nacionais. Este indicador &amp;#xE9; calculado dividindo o n&amp;#xFA;mero de crian&amp;#xE7;as menores de 5 anos registadas pelo registo Civil pelo total de crian&amp;#xE7;as menores de 5 anos.&lt;/p&gt;</data>
 </root>

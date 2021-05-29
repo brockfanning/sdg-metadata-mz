@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The DATA_COMP field for indicator 3-3-1, translated into pt</message>
-	<data>&lt;p&gt;A taxa de incidência é fornecida pela razão entre o número de novos casos de HIV e o número de pessoas em risco&lt;/p&gt;</data>
+	<data>&lt;p&gt;A taxa de incid&amp;#xEA;ncia &amp;#xE9; fornecida pela raz&amp;#xE3;o entre o n&amp;#xFA;mero de novos casos de HIV e o n&amp;#xFA;mero de pessoas em risco&lt;/p&gt;</data>
 </root>

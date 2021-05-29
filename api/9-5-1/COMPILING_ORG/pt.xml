@@ -2,5 +2,5 @@
 <root>
 	<status>success</status>
 	<message>The COMPILING_ORG field for indicator 9-5-1, translated into pt</message>
-	<data>&lt;p&gt;Ministério da Ciência e Tecnologia, Ensino Superior e Técnico Profissional através da Direcção de Planificação, Estudos e Cooperação.&lt;/p&gt;</data>
+	<data>&lt;p&gt;Minist&amp;#xE9;rio da Ci&amp;#xEA;ncia e Tecnologia, Ensino Superior e T&amp;#xE9;cnico Profissional atrav&amp;#xE9;s da Direc&amp;#xE7;&amp;#xE3;o de Planifica&amp;#xE7;&amp;#xE3;o, Estudos e Coopera&amp;#xE7;&amp;#xE3;o.&lt;/p&gt;</data>
 </root>
