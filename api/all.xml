@@ -2035,9 +2035,9 @@
 								<fields>
 									<field id="ORGANISATION_UNIT"> &lt;p&gt; Demographic, Vital and Social Statistics Directorate &lt;/p&gt;
 									</field>
-									<field id="SDG_GOAL"> &lt;p&gt; 3 GUARANTEE ACCESS &amp; # xC0; QUALITY HEALTH AND PROMOTING WELFARE FOR ALL &lt;/p&gt;
+									<field id="SDG_GOAL"> &lt;p&gt; 3 GUARANTEE ACCESS &amp;#xC0; QUALITY HEALTH AND PROMOTING WELFARE FOR ALL &lt;/p&gt;
 									</field>
-									<field id="SDG_TARGET"> &lt;p&gt; 3.7 At &amp; # xE9; 2030, ensure universal access to sexual and reproductive health services, including family planning, information and education, as well as integration. reproductive health in national strategies and programs &lt;/p&gt;
+									<field id="SDG_TARGET"> &lt;p&gt; 3.7 At &amp;#xE9; 2030, ensure universal access to sexual and reproductive health services, including family planning, information and education, as well as integration. reproductive health in national strategies and programs &lt;/p&gt;
 									</field>
 									<field id="SDG_INDICATOR"> &lt;h1&gt; 3.7.2 Birth rate in adolescents aged 10 to 14 years and 15 to 19 years (birth rate in adolescents per 1,000 women) &lt;/h1&gt;
 									</field>
@@ -2047,7 +2047,7 @@
 									</field>
 									<field id="CONTACT_ORGANISATION"> &lt;p&gt; NATIONAL INSTITUTE OF STATISTICS &lt;/p&gt;
 									</field>
-									<field id="CONTACT_NAME"> &lt;p&gt; Teixeira Mandlate, Maria Alfeu and Jo &amp; # xE3; o Mangue &lt;/p&gt;
+									<field id="CONTACT_NAME"> &lt;p&gt; Teixeira Mandlate, Maria Alfeu and Jo &amp;#xE3; o Mangue &lt;/p&gt;
 									</field>
 									<field id="CONTACT_FUNCT"> &lt;p&gt; Technicians &lt;/p&gt;
 									</field>
@@ -2058,22 +2058,22 @@
 									<field id="CONTACT_EMAIL"> &lt;p&gt; &lt;a href=&quot;mailto:Teixeira.mandlate@ine.gov.mz&quot;&gt; Teixeira.mandlate@ine.gov.mz &lt;/a&gt;; &lt;a href=&quot;mailto:maria.alfeu@ine.gov.mz&quot;&gt; maria.alfeu@ine.gov.mz &lt;/a&gt;; &lt;a href=&quot;mailto:joao.mangue@ine.gov.mz&quot;&gt; joao.mangue@ine.gov.mz &lt;/a&gt; &lt;/p&gt;
 									</field>
 									<field id="STAT_CONC_DEF"> &lt;p&gt; Birth rate in adolescents aged 10 to 14 years and 15 to 19 years (birth rate in adolescents per 1,000 women) &lt;/p&gt;
- &lt;p&gt; The birth rate of adolescents represents the risk of becoming pregnant among women of a certain age group. The adolescent birth rate (ABR) is also &amp; # xE9; m &amp; # xE9; called &lt;strong&gt; specific fertility rate is &lt;/strong&gt; (ASFR) for ages 15 to 19, a designation commonly used in the context of the calculation of total fertility estimates. A related measure &amp; # xE9; the proposal of adolescent fertility, measured as the percentage of total fertility contributed by women aged 15 to 19 &lt;/p&gt;
+ &lt;p&gt; The birth rate of adolescents represents the risk of becoming pregnant among women of a certain age group. The adolescent birth rate (ABR) is also &amp;#xE9; m &amp;#xE9; called &lt;strong&gt; specific fertility rate is &lt;/strong&gt; (ASFR) for ages 15 to 19, a designation commonly used in the context of the calculation of total fertility estimates. A related measure &amp;#xE9; the proposal of adolescent fertility, measured as the percentage of total fertility contributed by women aged 15 to 19 &lt;/p&gt;
 									</field>
 									<field id="UNIT_MEASURE"> &lt;p&gt; Per 1,000 women &lt;/p&gt;
 									</field>
-									<field id="SOURCE_TYPE"> &lt;p&gt; Statistics Portugal, Demographic survey and Health survey (IDS); Statistics Portugal, General population census &amp; # xE7; &amp; # xE7; &amp; # xE7; &amp; # xE3; o &lt;/p&gt;
+									<field id="SOURCE_TYPE"> &lt;p&gt; Statistics Portugal, Demographic survey and Health survey (IDS); Statistics Portugal, General population census &amp;#xE7; &amp;#xE7; &amp;#xE7; &amp;#xE3; o &lt;/p&gt;
 									</field>
 									<field id="COLL_METHOD"> &lt;p&gt; The recommended data sources for calculating this indicator are the Household Surveys. The Demographic Survey and Health Survey data collection questionnaire was designed and subsequently tested in the field during the training of interviewers. &lt;/p&gt;
  &lt;p&gt; For the collection of data, the methodology of interviews was applied face to face to the households applying three types of questionnaires: &lt;/p&gt;
- &lt;p&gt; &amp; # x2022; Household Questionnaire &lt;/p&gt;
- &lt;p&gt; &amp; # x2022; Questionnaire for Women &lt;/p&gt;
- &lt;p&gt; &amp; # x2022; Questionnaire of Men. &lt;/p&gt;
+ &lt;p&gt; &amp;#x2022; Household Questionnaire &lt;/p&gt;
+ &lt;p&gt; &amp;#x2022; Questionnaire for Women &lt;/p&gt;
+ &lt;p&gt; &amp;#x2022; Questionnaire of Men. &lt;/p&gt;
  &lt;p&gt; The Sample Design &lt;/p&gt;
- &lt;p&gt; The Demographic and Health Survey comprises a probabilistic, stratified and multi-ethic sample, selected from the Data and Cartography of the III General Census of Population &amp; # xE7; &amp; # xE3; o Inhabit &amp; # xE7; &amp; # xE3; o, carried out by INE in 2007. &lt;/p&gt;
+ &lt;p&gt; The Demographic and Health Survey comprises a probabilistic, stratified and multi-ethic sample, selected from the Data and Cartography of the III General Census of Population &amp;#xE7; &amp;#xE3; o Inhabit &amp;#xE7; &amp;#xE3; o, carried out by INE in 2007. &lt;/p&gt;
  &lt;p&gt; The data collection lasted for five months starting in June 2011, ending in November 2011. &lt;/p&gt;
  &lt;p&gt; Response rate &lt;/p&gt;
- &lt;p&gt; Of the 13.964 households interviewed in the survey, a total of 13.871 eligible women were identified. Interviews were conducted with 13,718 of these women, which resulted in a response rate of 99%. Introduction &amp; # xE3; o &amp; # x2022; 13 In one third of the IDS household sample, interviews were also conducted with all eligible men found. Thus, of the 4,130 eligible men identified in the subsample of households selected for the men&apos;s survey, 4,027 were successfully interviewed, giving a response rate of 98% &lt;/p&gt;
+ &lt;p&gt; Of the 13.964 households interviewed in the survey, a total of 13.871 eligible women were identified. Interviews were conducted with 13,718 of these women, which resulted in a response rate of 99%. Introduction &amp;#xE3; o &amp;#x2022; 13 In one third of the IDS household sample, interviews were also conducted with all eligible men found. Thus, of the 4,130 eligible men identified in the subsample of households selected for the men&apos;s survey, 4,027 were successfully interviewed, giving a response rate of 98% &lt;/p&gt;
 									</field>
 									<field id="FREQ_COLL"> &lt;p&gt; 2021 &lt;/p&gt;
 									</field>
@@ -2085,24 +2085,24 @@
 									</field>
 									<field id="INST_MANDATE"> &lt;p&gt; Law 7/96 of 5 July &lt;/p&gt;
 									</field>
-									<field id="RATIONALE"> &lt;p&gt; Reduce adolescent fertility and address the multiple factors underlying it are essential to improving sexual and reproductive health and the social and economic well-being of adolescents. There is substantial agreement in the literature that women who become pregnant and light very early in their reproductive lives are subject to higher risks of complications or death during pregnancy and childbirth than their peers, and their children are also at greater risk of morbidity and death than children born to older women. Therefore, preventing births too early in a woman&apos;s life &amp; # xE9; an important measure to improve maternal health and reduce child mortality. In addition, having children at an early age reduces a woman&apos;s socioeconomic improvement opportunities, mainly because young mothers are less likely to continue to study and, if she need to work, they may find it especially difficult to combine family and professional responsibilities. The birth rate of adolescents also provides indirect evidence of young people&apos;s access to health services, j &amp; # xE1; whereas young people, in particular single adolescents, tend to have difficulties in accessing sexual and reproductive health services. &lt;/p&gt;
+									<field id="RATIONALE"> &lt;p&gt; Reduce adolescent fertility and address the multiple factors underlying it are essential to improving sexual and reproductive health and the social and economic well-being of adolescents. There is substantial agreement in the literature that women who become pregnant and light very early in their reproductive lives are subject to higher risks of complications or death during pregnancy and childbirth than their peers, and their children are also at greater risk of morbidity and death than children born to older women. Therefore, preventing births too early in a woman&apos;s life &amp;#xE9; an important measure to improve maternal health and reduce child mortality. In addition, having children at an early age reduces a woman&apos;s socioeconomic improvement opportunities, mainly because young mothers are less likely to continue to study and, if she need to work, they may find it especially difficult to combine family and professional responsibilities. The birth rate of adolescents also provides indirect evidence of young people&apos;s access to health services, j &amp;#xE1; whereas young people, in particular single adolescents, tend to have difficulties in accessing sexual and reproductive health services. &lt;/p&gt;
 									</field>
 									<field id="REC_USE_LIM"> &lt;p&gt; The discrepancies between data sources at the level of the country are common and the level of the fertility rate of adolescents depends in part on the source of the data selected. For civil registration, fees are subject to limitations that depend on the integrity of the birth register, the treatment of babies born alive, but who die before registration or in the first 24 hours of life, the quality of the information reported related to the age of the mother, and the inclusion of births from previous periods. Population estimates may be subject to limitations related to incorrect declaration of age and coverage. For survey data and censuses, the numerator and denominator are from the same population. The main limitations relate to the incorrect age statements, birth omissions, incorrect child&apos;s date of birth and sample variability in the case of inquiries rites. With regard to the estimates of the fertility rate among adolescents aged 10 to 14 years, comparative evidence suggests that a very small proportion of births in this age group. ria occurs in women under 12 years of age. Other evidence based on historical retrospective data from births of surveys indicates that women aged 15 to 19 years are less likely to report first births before age 15 than women from the same birth cohort when asked five years later, aged between 20 and 24 years. &lt;/p&gt;
 									</field>
-									<field id="DATA_COMP"> &lt;p&gt; The fertility rate of adolescents &amp; # xE9; calculated as a ratio. The numerator &amp; # xE9; the number of live births for women between 15 and 19 years old and the denominator &amp; # xE9; the exposure estimate &amp; # xE7; &amp; # xE3; o &amp; # xE0; pregnancy of women between 15 and 19 years old. The calculation &amp; # xE9; the same for the 10 to 14 year old age group. &lt;/p&gt;
+									<field id="DATA_COMP"> &lt;p&gt; The fertility rate of adolescents &amp;#xE9; calculated as a ratio. The numerator &amp;#xE9; the number of live births for women between 15 and 19 years old and the denominator &amp;#xE9; the exposure estimate &amp;#xE7; &amp;#xE3; o &amp;#xE0; pregnancy of women between 15 and 19 years old. The calculation &amp;#xE9; the same for the 10 to 14 year old age group. &lt;/p&gt;
 									</field>
 									<field id="DATA_VALIDATION"> &lt;p&gt; The field work had close supervision and quality control by the central and provincial technicians, both from INE, MISAU and ICF International staff. In addition, during the data collection, a strict control was established at the level of each team over the collection process, through the detection of errors by the creation team. xED; field, which allowed immediate correction still on the ground. At the level of the central coordinator, the data critics did additional review of the base data and the problems encountered were communicated to the respective teams . &lt;/p&gt;
- &lt;p&gt; Interactive and batch processing of information through the CSPro program also allowed the central level to obtain the period ; partial results hint, for analysis of the data collected until &amp; # xE9; given time, through the production of frames for monitoring and quality control. The results of these tables have been reported in retroactive feeds and the inquirers, ensuring the quality of the data. &lt;/p&gt;
+ &lt;p&gt; Interactive and batch processing of information through the CSPro program also allowed the central level to obtain the period ; partial results hint, for analysis of the data collected until &amp;#xE9; given time, through the production of frames for monitoring and quality control. The results of these tables have been reported in retroactive feeds and the inquirers, ensuring the quality of the data. &lt;/p&gt;
 									</field>
 									<field id="DOC_METHOD"> &lt;p&gt; The Demographic and Health Survey (IDS) in Mozambique is part of an international survey program (MEASURE DHS) developed by ICF International through a contract with USAID, with the purpose of supporting the governments and private institutions of developing countries in carrying out national surveys by sampling, in the areas of population and health. The MEASURE DHS Program aims to: &lt;/p&gt;
- &lt;p&gt; &amp; # x2022; Subsidize the policy formulation and implementation of programs in the areas of population and health. ; &lt;/p&gt;
- &lt;p&gt; &amp; # x2022; Increase the international database on population and health for monitoring and evaluation; &lt;/p&gt;
- &lt;p&gt; &amp; # x2022; Improve survey methodology by sampling, and &lt;/p&gt;
- &lt;p&gt; &amp; # x2022; Consolidate, in the area of inquiry, the technical capacity of the institution in the country participating in the Program. &lt;/p&gt;
+ &lt;p&gt; &amp;#x2022; Subsidize the policy formulation and implementation of programs in the areas of population and health. ; &lt;/p&gt;
+ &lt;p&gt; &amp;#x2022; Increase the international database on population and health for monitoring and evaluation; &lt;/p&gt;
+ &lt;p&gt; &amp;#x2022; Improve survey methodology by sampling, and &lt;/p&gt;
+ &lt;p&gt; &amp;#x2022; Consolidate, in the area of inquiry, the technical capacity of the institution in the country participating in the Program. &lt;/p&gt;
 									</field>
 									<field id="QUALITY_MGMNT"> &lt;p&gt; Quality Management Instrument still to be approved &lt;/p&gt;
 									</field>
-									<field id="QUALITY_ASSURE"> &lt;p&gt; Interactive and batch processing of information through the CSPro program also allowed the central level to obtain the period ; partial results hint, for analysis of the data collected until &amp; # xE9; given time, through the production of frames for monitoring and quality control. The results of these tables have been reported in retroactive feeds and the inquirers, ensuring the quality of the data. &lt;/p&gt;
+									<field id="QUALITY_ASSURE"> &lt;p&gt; Interactive and batch processing of information through the CSPro program also allowed the central level to obtain the period ; partial results hint, for analysis of the data collected until &amp;#xE9; given time, through the production of frames for monitoring and quality control. The results of these tables have been reported in retroactive feeds and the inquirers, ensuring the quality of the data. &lt;/p&gt;
 									</field>
 									<field id="QUALITY_ASSMNT"> &lt;p&gt; Quality Assessment Instrument still to be approved &lt;/p&gt;
 									</field>
