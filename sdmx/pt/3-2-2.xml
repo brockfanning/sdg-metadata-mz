@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T02:59:22.042Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T14:42:30.317Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="100f4760-24f7-4bb8-8969-cf1ded9fd4d1">
+  <mes:MetadataSet structureRef="MDS1" setID="d56a6125-dfbb-413f-bdc6-f420bb2c739d">
     <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Direc&#xE7;&#xE3;o de Estat&#xED;sticas Demogr&#xE1;ficas, Vitais e Sociais</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Estatísticas Demográficas, Vitais e Sociais</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="pt"/>
@@ -54,10 +54,10 @@
           <com:Text xml:lang="pt"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="pt"><![CDATA[<p> 3 GARANTIR O ACESSO &#xC0; SA&#xDA;DE DE QUALIDADE E PROMOVER O BEM-ESTAR PARA TODOS </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> 3 GARANTIR O ACESSO À SAÚDE DE QUALIDADE E PROMOVER O BEM-ESTAR PARA TODOS </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="pt"><![CDATA[<p>3.2 At&#xE9; 2030, acabar com as mortes evit&#xE1;veis de rec&#xE9;m-nascidos e crian&#xE7;as menores de 5 anos, em todos os pa&#xED;ses objetivando reduzir a mortalidade neonatal para pelo menos 12 por 1.000 nascidos vivos e a mortalidade de crian&#xE7;as menores de 5 anos para pelo menos 25 por 1.000 nascidos vivos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>3.2 Até 2030, acabar com as mortes evitáveis de recém-nascidos e crianças menores de 5 anos, em todos os países objetivando reduzir a mortalidade neonatal para pelo menos 12 por 1.000 nascidos vivos e a mortalidade de crianças menores de 5 anos para pelo menos 25 por 1.000 nascidos vivos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
           <com:Text xml:lang="pt"><![CDATA[<h1>3.2.2 Taxa de mortalidade neonatal</h1>]]></com:Text>
@@ -72,10 +72,10 @@
           <com:Text xml:lang="pt"><![CDATA[<p>INSTITUTO NACIONAL DE ESTATISTICA</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="pt"><![CDATA[<p>Teixeira Mandlate, Maria Alfeu e Jo&#xE3;o Mangue</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Teixeira Mandlate, Maria Alfeu e João Mangue</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="pt"><![CDATA[<p>T&#xE9;cnicos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Técnicos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="pt"><![CDATA[<p>+258 844386629; +258 823032619; +258 827679480</p>]]></com:Text>
@@ -87,25 +87,25 @@
           <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:Teixeira.mandlate@ine.gov.mz">Teixeira.mandlate@ine.gov.mz</a>; <a href="mailto:maria.alfeu@ine.gov.mz">maria.alfeu@ine.gov.mz</a>; <a href="mailto:joao.mangue@ine.gov.mz">joao.mangue@ine.gov.mz</a></p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de mortalidade neonatal &#xE9; a probabilidade de uma crian&#xE7;a nascida em um ano ou per&#xED;odo espec&#xED;fico morrer durante os primeiros 28 dias completos de vida, se sujeita &#xE0;s taxas de mortalidade espec&#xED;ficas por idade desse per&#xED;odo, expressas por 1.000 nascidos vivos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de mortalidade neonatal é a probabilidade de uma criança nascida em um ano ou período específico morrer durante os primeiros 28 dias completos de vida, se sujeita às taxas de mortalidade específicas por idade desse período, expressas por 1.000 nascidos vivos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="pt"><![CDATA[<p>percentagem</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="pt"><![CDATA[<p>INE, Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de (IDS); INE, Recenseamento Geral da Popula&#xE7;&#xE3;o e Habita&#xE7;&#xE3;o</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>INE, Inquérito Demográfico e de Saúde (IDS); INE, Recenseamento Geral da População e Habitação</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>As fontes de dados recomendadas para calcular este indicador s&#xE3;o os Inqu&#xE9;ritos aos Agregados Familiares. O question&#xE1;rio da recolha de dados do Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de foi desenhado e posteriormente testado no campo no decurso do treinamento dos entrevistadores.</p>
-<p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente aos agregados familiares aplicando-se tr&#xEA;s tipos de question&#xE1;rios: </p>
-<p>&#x2022; Question&#xE1;rio de Agregados Familiares </p>
-<p>&#x2022; Question&#xE1;rio de Mulheres </p>
-<p>&#x2022; Question&#xE1;rio de Homens.</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>As fontes de dados recomendadas para calcular este indicador são os Inquéritos aos Agregados Familiares. O questionário da recolha de dados do Inquérito Demográfico e de Saúde foi desenhado e posteriormente testado no campo no decurso do treinamento dos entrevistadores.</p>
+<p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente aos agregados familiares aplicando-se três tipos de questionários: </p>
+<p>• Questionário de Agregados Familiares </p>
+<p>• Questionário de Mulheres </p>
+<p>• Questionário de Homens.</p>
 <p>O Desenho da Amostra</p>
-<p>O Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de compreende uma amostra probabil&#xED;stica, estratificada e multi-et&#xE1;pica, seleccionado a partir dos Dados e Cartografia do III Recenseamento Geral de Popula&#xE7;&#xE3;o e Habita&#xE7;&#xE3;o, realizado pelo INE em 2007. </p>
-<p>A recolha de dados teve dura&#xE7;&#xE3;o de cinco meses com in&#xED;cio em Junho de 2011, tendo terminado em Novembro de 2011.</p>
+<p>O Inquérito Demográfico e de Saúde compreende uma amostra probabilística, estratificada e multi-etápica, seleccionado a partir dos Dados e Cartografia do III Recenseamento Geral de População e Habitação, realizado pelo INE em 2007. </p>
+<p>A recolha de dados teve duração de cinco meses com início em Junho de 2011, tendo terminado em Novembro de 2011.</p>
 <p>Taxa de resposta</p>
-<p>Dos 13,964 agregados entrevistados no inqu&#xE9;rito foi identificado um total de 13,871 mulheres eleg&#xED;veis. Foram feitas entrevistas a 13,718 destas mulheres, o que resultou numa taxa de resposta de 99%. Introdu&#xE7;&#xE3;o &#x2022; 13 Em um ter&#xE7;o da amostra de agregados familiares do IDS, eram tamb&#xE9;m feitas entrevistas a todos os homens eleg&#xED;veis encontrados. Assim, dos 4,130 homens eleg&#xED;veis identificados na subamostra de agregados familiares seleccionadas para o inqu&#xE9;rito de homens, foram entrevistados 4,027 com sucesso, dando uma taxa de respostas de 98%</p>]]></com:Text>
+<p>Dos 13,964 agregados entrevistados no inquérito foi identificado um total de 13,871 mulheres elegíveis. Foram feitas entrevistas a 13,718 destas mulheres, o que resultou numa taxa de resposta de 99%. Introdução • 13 Em um terço da amostra de agregados familiares do IDS, eram também feitas entrevistas a todos os homens elegíveis encontrados. Assim, dos 4,130 homens elegíveis identificados na subamostra de agregados familiares seleccionadas para o inquérito de homens, foram entrevistados 4,027 com sucesso, dando uma taxa de respostas de 98%</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="pt"><![CDATA[<p>2021</p>]]></com:Text>
@@ -114,54 +114,54 @@
           <com:Text xml:lang="pt"><![CDATA[<p>2022</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estat&#xED;stica</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estatística</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estat&#xED;stica</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estatística</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
           <com:Text xml:lang="pt"><![CDATA[<p>Lei 7/96 de 5 de Julho</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="pt"><![CDATA[<p>As taxas de mortalidade entre crian&#xE7;as menores s&#xE3;o indicadores de acompanhamento da sa&#xFA;de p&#xFA;blica porque reflete o acesso de crian&#xE7;as e comunidades a interven&#xE7;&#xF5;es b&#xE1;sicas de sa&#xFA;de, como vacina&#xE7;&#xE3;o, tratamento m&#xE9;dico de doen&#xE7;as infecciosas e nutri&#xE7;&#xE3;o adequada.</p>
-<p>O indicador mostra o n&#xFA;mero de &#xF3;bitos nascidos vivos que morrem antes de completar 28 dias em cada 1000 crian&#xE7;as nascidas vivas</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>As taxas de mortalidade entre crianças menores são indicadores de acompanhamento da saúde pública porque reflete o acesso de crianças e comunidades a intervenções básicas de saúde, como vacinação, tratamento médico de doenças infecciosas e nutrição adequada.</p>
+<p>O indicador mostra o número de óbitos nascidos vivos que morrem antes de completar 28 dias em cada 1000 crianças nascidas vivas</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="pt"><![CDATA[<p>As taxas de mortalidade entre crian&#xE7;as menores s&#xE3;o um indicador-chave de medi&#xE7;&#xE3;o da sa&#xFA;de e bem-estar infantil e, de maneira mais ampla, para o desenvolvimento social e econ&#xF3;mico. &#xC9; um indicador de acompanhamento da sa&#xFA;de p&#xFA;blica porque reflete o acesso de crian&#xE7;as e comunidades a interven&#xE7;&#xF5;es b&#xE1;sicas de sa&#xFA;de, como vacina&#xE7;&#xE3;o, tratamento m&#xE9;dico de doen&#xE7;as infecciosas e nutri&#xE7;&#xE3;o adequada.</p>
-<p>A taxa de mortalidade de menores de cinco anos, conforme definida aqui, n&#xE3;o &#xE9;, estritamente falando, uma taxa (isto &#xE9;, o n&#xFA;mero de mortes dividido pelo n&#xFA;mero de popula&#xE7;&#xF5;es em risco durante um determinado per&#xED;odo de tempo), mas uma probabilidade de morte derivada de uma tabua de vida e expresso como uma taxa por 1000 nascidos vivos.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>As taxas de mortalidade entre crianças menores são um indicador-chave de medição da saúde e bem-estar infantil e, de maneira mais ampla, para o desenvolvimento social e económico. É um indicador de acompanhamento da saúde pública porque reflete o acesso de crianças e comunidades a intervenções básicas de saúde, como vacinação, tratamento médico de doenças infecciosas e nutrição adequada.</p>
+<p>A taxa de mortalidade de menores de cinco anos, conforme definida aqui, não é, estritamente falando, uma taxa (isto é, o número de mortes dividido pelo número de populações em risco durante um determinado período de tempo), mas uma probabilidade de morte derivada de uma tabua de vida e expresso como uma taxa por 1000 nascidos vivos.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="pt"><![CDATA[<p>O indicador &#xE9; calculado dividindo o n&#xFA;mero total de &#xF3;bitos em crian&#xE7;as com menos de 28 dias ocorrido no per&#xED;odo em an&#xE1;lise sobre o total de nascidos, multiplicado por 1000 </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador é calculado dividindo o número total de óbitos em crianças com menos de 28 dias ocorrido no período em análise sobre o total de nascidos, multiplicado por 1000 </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>O trabalho de campo contou com estreita supervis&#xE3;o e controle de qualidade por parte dos t&#xE9;cnicos centrais e provinciais, tanto do INE como do MISAU e do pessoal da ICF International. Al&#xE9;m disso, durante a recolha de dados foi estabelecido um rigoroso controlo a n&#xED;vel de cada equipa sobre o processo de recolha, mediante a detec&#xE7;&#xE3;o de erros por parte da cr&#xED;tica de campo, o que permitiu a correc&#xE7;&#xE3;o imediata ainda no terreno. A n&#xED;vel da coordena&#xE7;&#xE3;o central, os cr&#xED;ticos de dados fizeram revis&#xE3;o adicional dos dados da base e os problemas encontrados eram comunicados &#xE0;s respectivas equipas. </p>
-<p>O processamento interactivo e por lotes de informa&#xE7;&#xE3;o atrav&#xE9;s do programa CSPro permitiu, ainda, a n&#xED;vel central, a obten&#xE7;&#xE3;o peri&#xF3;dica de resultados parciais, para an&#xE1;lise dos dados recolhidos at&#xE9; dado momento, mediante a produ&#xE7;&#xE3;o de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabula&#xE7;&#xF5;es foram reportados em retro alimenta&#xE7;&#xE3;o &#xE0;s inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O trabalho de campo contou com estreita supervisão e controle de qualidade por parte dos técnicos centrais e provinciais, tanto do INE como do MISAU e do pessoal da ICF International. Além disso, durante a recolha de dados foi estabelecido um rigoroso controlo a nível de cada equipa sobre o processo de recolha, mediante a detecção de erros por parte da crítica de campo, o que permitiu a correcção imediata ainda no terreno. A nível da coordenação central, os críticos de dados fizeram revisão adicional dos dados da base e os problemas encontrados eram comunicados às respectivas equipas. </p>
+<p>O processamento interactivo e por lotes de informação através do programa CSPro permitiu, ainda, a nível central, a obtenção periódica de resultados parciais, para análise dos dados recolhidos até dado momento, mediante a produção de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabulações foram reportados em retro alimentação às inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>O Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de (IDS) em Mo&#xE7;ambique faze parte dum programa internacional de inqu&#xE9;ritos (MEASURE DHS) desenvolvido pelo ICF International atrav&#xE9;s de um contrato com a USAID, com o prop&#xF3;sito de apoiar aos governos e institui&#xE7;&#xF5;es privadas dos pa&#xED;ses em desenvolvimento na realiza&#xE7;&#xE3;o de inqu&#xE9;ritos nacionais por amostragem, nas &#xE1;reas de popula&#xE7;&#xE3;o e sa&#xFA;de. O Programa MEASURE DHS tem por objectivo: </p>
-<p>&#x2022; Subsidiar a formula&#xE7;&#xE3;o de pol&#xED;ticas e implementa&#xE7;&#xE3;o de programas nas &#xE1;reas de popula&#xE7;&#xE3;o e sa&#xFA;de; </p>
-<p>&#x2022; Aumentar a base internacional de dados sobre popula&#xE7;&#xE3;o e sa&#xFA;de para acompanhamento e avalia&#xE7;&#xE3;o; </p>
-<p>&#x2022; Aprimorar metodologia de inqu&#xE9;rito por amostragem, e </p>
-<p>&#x2022; Consolidar, na &#xE1;rea de inqu&#xE9;rito, a capacidade t&#xE9;cnica da institui&#xE7;&#xE3;o executora no pa&#xED;s participante do Programa.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O Inquérito Demográfico e de Saúde (IDS) em Moçambique faze parte dum programa internacional de inquéritos (MEASURE DHS) desenvolvido pelo ICF International através de um contrato com a USAID, com o propósito de apoiar aos governos e instituições privadas dos países em desenvolvimento na realização de inquéritos nacionais por amostragem, nas áreas de população e saúde. O Programa MEASURE DHS tem por objectivo: </p>
+<p>• Subsidiar a formulação de políticas e implementação de programas nas áreas de população e saúde; </p>
+<p>• Aumentar a base internacional de dados sobre população e saúde para acompanhamento e avaliação; </p>
+<p>• Aprimorar metodologia de inquérito por amostragem, e </p>
+<p>• Consolidar, na área de inquérito, a capacidade técnica da instituição executora no país participante do Programa.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Gest&#xE3;o de Qualidade ainda por aprovar</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Gestão de Qualidade ainda por aprovar</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="pt"><![CDATA[<p>O processamento interactivo e por lotes de informa&#xE7;&#xE3;o atrav&#xE9;s do programa CSPro permitiu, ainda, a n&#xED;vel central, a obten&#xE7;&#xE3;o peri&#xF3;dica de resultados parciais, para an&#xE1;lise dos dados recolhidos at&#xE9; dado momento, mediante a produ&#xE7;&#xE3;o de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabula&#xE7;&#xF5;es foram reportados em retro alimenta&#xE7;&#xE3;o &#xE0;s inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O processamento interactivo e por lotes de informação através do programa CSPro permitiu, ainda, a nível central, a obtenção periódica de resultados parciais, para análise dos dados recolhidos até dado momento, mediante a produção de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabulações foram reportados em retro alimentação às inquiridoras, assegurando a qualidade dos dados.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Avalia&#xE7;&#xE3;o de Qualidade ainda por aprovar</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instrumento de Avaliação de Qualidade ainda por aprovar</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os dados s&#xE3;o disponibilizados de 5 em 5 anos e podem ser desagregados por &#xC1;rea de resid&#xEA;ncia rural e urbana, prov&#xED;ncia e pa&#xED;s</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados são disponibilizados de 5 em 5 anos e podem ser desagregados por Área de residência rural e urbana, província e país</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="pt"><![CDATA[<p>As estimativas dos inqu&#xE9;ritos s&#xE3;o baseadas em metodologia padronizada, usando os Padr&#xF5;es de Crescimento Infantil da OMS, conforme descrito no (Ref: manual do software Anthro). As estimativas globais e regionais s&#xE3;o baseadas na metodologia descrita no UNICEF-OMS, Banco Mundial: Estimativas conjuntas de desnutri&#xE7;&#xE3;o infantil - N&#xED;veis e tend&#xEA;ncias (UNICEF / OMS / BM)</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>As estimativas dos inquéritos são baseadas em metodologia padronizada, usando os Padrões de Crescimento Infantil da OMS, conforme descrito no (Ref: manual do software Anthro). As estimativas globais e regionais são baseadas na metodologia descrita no UNICEF-OMS, Banco Mundial: Estimativas conjuntas de desnutrição infantil - Níveis e tendências (UNICEF / OMS / BM)</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Sa&#xFA;de (MISAU), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; </p>
-<p>Instituto Nacional de Estat&#xED;stica (INE), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>;</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Saúde (MISAU), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; </p>
+<p>Instituto Nacional de Estatística (INE), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>;</p>
 <p>ICF Internacional (ICFI), <a href="http://www.measuredhs.com">www.measuredhs.com</a></p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>

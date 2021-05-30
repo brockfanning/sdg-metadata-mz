@@ -2,14 +2,14 @@
 <root>
 	<status>success</status>
 	<message>The COLL_METHOD field for indicator 3-7-2, translated into en</message>
-	<data> &lt;p&gt; The recommended data sources for calculating this indicator are the Household Surveys. The Demographic Survey and Health Survey data collection questionnaire was designed and subsequently tested in the field during the training of interviewers. &lt;/p&gt;
- &lt;p&gt; For the collection of data, the methodology of interviews was applied face to face to the households applying three types of questionnaires: &lt;/p&gt;
- &lt;p&gt; &amp;#x2022; Household Questionnaire &lt;/p&gt;
- &lt;p&gt; &amp;#x2022; Questionnaire for Women &lt;/p&gt;
- &lt;p&gt; &amp;#x2022; Questionnaire of Men. &lt;/p&gt;
+	<data> &lt;p&gt; The recommended data sources for calculating this indicator are Household Surveys. The Demographic and Health Survey data collection questionnaire was designed and subsequently tested in the field during the training of interviewers. &lt;/p&gt;
+ &lt;p&gt; For data collection, the methodology of interviews was applied face to face to the households, applying three types of questionnaires: &lt;/p&gt;
+ &lt;p&gt; • Household Questionnaire &lt;/p&gt;
+ &lt;p&gt; • Women&apos;s Questionnaire &lt;/p&gt;
+ &lt;p&gt; • Men&apos;s Questionnaire. &lt;/p&gt;
  &lt;p&gt; The Sample Design &lt;/p&gt;
- &lt;p&gt; The Demographic and Health Survey comprises a probabilistic, stratified and multi-ethic sample, selected from the Data and Cartography of the III General Census of Population &amp;#xE7; &amp;#xE3; o Inhabit &amp;#xE7; &amp;#xE3; o, carried out by INE in 2007. &lt;/p&gt;
+ &lt;p&gt; The Demographic and Health Survey comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. &lt;/p&gt;
  &lt;p&gt; The data collection lasted for five months starting in June 2011, ending in November 2011. &lt;/p&gt;
  &lt;p&gt; Response rate &lt;/p&gt;
- &lt;p&gt; Of the 13.964 households interviewed in the survey, a total of 13.871 eligible women were identified. Interviews were conducted with 13,718 of these women, which resulted in a response rate of 99%. Introduction &amp;#xE3; o &amp;#x2022; 13 In one third of the IDS household sample, interviews were also conducted with all eligible men found. Thus, of the 4,130 eligible men identified in the subsample of households selected for the men&apos;s survey, 4,027 were successfully interviewed, giving a response rate of 98% &lt;/p&gt;</data>
+ &lt;p&gt; Of the 13.964 households interviewed in the survey, a total of 13.871 eligible women were identified. Interviews were conducted with 13,718 of these women, which resulted in a response rate of 99%. Introduction • 13 In one third of the IDS household sample, interviews were also conducted with all eligible men found. Thus, of the 4,130 eligible men identified in the subsample of households selected for the men survey, 4,027 were successfully interviewed, giving a response rate of 98% &lt;/p&gt;</data>
 </root>

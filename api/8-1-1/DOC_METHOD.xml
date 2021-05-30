@@ -11,11 +11,11 @@
    &lt;li&gt; Calculate the annual growth rate of real GDP per capita in year t &lt;sub&gt; +1 &lt;/sub&gt;, using the following formula: [(G (t &lt;sub&gt; +1 &lt;/sub&gt;) - G (t) G (t &lt;sub&gt; +1 &lt;/sub&gt;) is the real GDP per capita in dollars in year t &lt;sub&gt; +1 &lt;/sub&gt; and G (t) is the real GDP per capita in dollars of the year t .. a0f84d72dce6e5
  &lt;/ol&gt;
 			</language>
-			<language lang="pt">&lt;p&gt;A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita &amp;#xE9; calculada da seguinte forma:&lt;/p&gt;
+			<language lang="pt">&lt;p&gt;A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita é calculada da seguinte forma:&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;Converta o PIB real (pre&amp;#xE7;os constantes) anual em moeda nacional de um pa&amp;#xED;s ou regi&amp;#xE3;o em d&amp;#xF3;lares americanos usando a taxa de c&amp;#xE2;mbio do ano base.&lt;/li&gt;
-  &lt;li&gt;Divida o resultado pela popula&amp;#xE7;&amp;#xE3;o do pa&amp;#xED;s ou regi&amp;#xE3;o para obter o PIB real per capita anual em d&amp;#xF3;lares americanos.&lt;/li&gt;
-  &lt;li&gt;Calcule a taxa de crescimento anual do PIB real per capita no ano t&lt;sub&gt;+1&lt;/sub&gt;, usando a seguinte f&amp;#xF3;rmula: [(G (t&lt;sub&gt;+1&lt;/sub&gt;) - G (t) / G (t)] x 100, onde G (t&lt;sub&gt;+1&lt;/sub&gt;) &amp;#xE9; o PIB real per capita em d&amp;#xF3;lares no ano t&lt;sub&gt;+1&lt;/sub&gt; e G (t) &amp;#xE9; o PIB real per capita em d&amp;#xF3;lares do ano t..&lt;/li&gt;
+  &lt;li&gt;Converta o PIB real (preços constantes) anual em moeda nacional de um país ou região em dólares americanos usando a taxa de câmbio do ano base.&lt;/li&gt;
+  &lt;li&gt;Divida o resultado pela população do país ou região para obter o PIB real per capita anual em dólares americanos.&lt;/li&gt;
+  &lt;li&gt;Calcule a taxa de crescimento anual do PIB real per capita no ano t&lt;sub&gt;+1&lt;/sub&gt;, usando a seguinte fórmula: [(G (t&lt;sub&gt;+1&lt;/sub&gt;) - G (t) / G (t)] x 100, onde G (t&lt;sub&gt;+1&lt;/sub&gt;) é o PIB real per capita em dólares no ano t&lt;sub&gt;+1&lt;/sub&gt; e G (t) é o PIB real per capita em dólares do ano t..&lt;/li&gt;
 &lt;/ol&gt;
 			</language>
 </languages>

@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T02:59:23.229Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T14:42:31.416Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="776a8f3c-5029-4cff-9088-4fd69525110a">
+  <mes:MetadataSet structureRef="MDS1" setID="95e95f16-e6c0-4f63-affc-5b9ed7561fa5">
     <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Departamento de Monitoria e Avalia&#xE7;&#xE3;o</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Departamento de Monitoria e Avaliação</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="pt"/>
@@ -54,31 +54,31 @@
           <com:Text xml:lang="pt"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="pt"><![CDATA[<p> 3 GARANTIR O ACESSO &#xC0; SA&#xDA;DE DE QUALIDADE E PROMOVER O BEM-ESTAR PARA TODOS</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> 3 GARANTIR O ACESSO À SAÚDE DE QUALIDADE E PROMOVER O BEM-ESTAR PARA TODOS</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="pt"><![CDATA[<p>3.a Fortalecer a implementa&#xE7;&#xE3;o da Conven&#xE7;&#xE3;o-Quadro para o Controle do Tabaco em todos os pa&#xED;ses, conforme apropriado at&#xE9; 2030, garantir que todas as meninas e meninos completem o ensino prim&#xE1;rio e secund&#xE1;rio livre, equitativo e de qualidade, que conduza a resultados de aprendizagem relevantes e eficazes</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>3.a Fortalecer a implementação da Convenção-Quadro para o Controle do Tabaco em todos os países, conforme apropriado até 2030, garantir que todas as meninas e meninos completem o ensino primário e secundário livre, equitativo e de qualidade, que conduza a resultados de aprendizagem relevantes e eficazes</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="pt"><![CDATA[<p>3.a.1 Preval&#xEA;ncia padronizada por idade do consumo actual do tabaco entre pessoas com 15 anos ou mais</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>3.a.1 Prevalência padronizada por idade do consumo actual do tabaco entre pessoas com 15 anos ou mais</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="pt"><![CDATA[<p>Preval&#xEA;ncia padronizada por idade do consumo actual do tabaco entre pessoas com 15 anos ou mais em percentagem</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Prevalência padronizada por idade do consumo actual do tabaco entre pessoas com 15 anos ou mais em percentagem</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="pt"><![CDATA[<p>09/10/2020</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
-          <com:Text xml:lang="pt"><![CDATA[<h1>3.4.1 Taxa de mortalidade atribu&#xED;da a doen&#xE7;as cardiovasculares, c&#xE2;ncer, diabetes e doen&#xE7;as respirat&#xF3;rias cr&#xF4;nicas</h1>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<h1>3.4.1 Taxa de mortalidade atribuída a doenças cardiovasculares, câncer, diabetes e doenças respiratórias crônicas</h1>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Sa&#xFA;de</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Saúde</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
           <com:Text xml:lang="pt"><![CDATA[<p>Cesarino Tivane e Nelita Nassone</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="pt"><![CDATA[<p>T&#xE9;cnicos de Monitoria e Avalia&#xE7;&#xE3;o</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Técnicos de Monitoria e Avaliação</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="pt"><![CDATA[<p>+258 849007628; +258 846630589; +258847144676</p>]]></com:Text>
@@ -90,67 +90,67 @@
           <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:tivanecesarino@gmail.com"><u>tivanecesarino@gmail.com</u></a>; <a href="mailto:nelianasson@gmail.com"><u>nelianasson@gmail.com</u></a>; muluana2002<a href="mailto:tivanecesarino@gmail.com"><u>@</u></a>gmail.com</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="pt"><![CDATA[<p>O indicador &#xE9; definido como a percentagem da popula&#xE7;&#xE3;o com 15 anos ou mais que actualmente usa qualquer produto de tabaco (tabaco fumado e / ou n&#xE3;o fumado) diariamente ou n&#xE3;o diariamente</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador é definido como a percentagem da população com 15 anos ou mais que actualmente usa qualquer produto de tabaco (tabaco fumado e / ou não fumado) diariamente ou não diariamente</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Relat&#xF3;rio Final de STEPS &#x2013; Mo&#xE7;ambique 2014/2015</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Relatório Final de STEPS – Moçambique 2014/2015</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>Feito um de um estudo transversal conduzido entre 15 de Dezembro de 2014 e 3 de Fevereiro de 2015 com uma amostra representativa da popula&#xE7;&#xE3;o Mo&#xE7;ambicana entre os 15 e os 64 anos, com mais de 20000 agregados e avaliados sido avaliados 3119 (95.2%) indiv&#xED;duos.</p>
-<p>A recolha de informa&#xE7;&#xE3;o foi efetuada por onze equipas, uma por Prov&#xED;ncia, incluindo tr&#xEA;s inquiridores, respons&#xE1;veis pela avalia&#xE7;&#xE3;o por question&#xE1;rio, e um medidor, respons&#xE1;vel pelas avalia&#xE7;&#xF5;es f&#xED;sicas e bioqu&#xED;micas, para al&#xE9;m de elementos respons&#xE1;veis pela coordena&#xE7;&#xE3;o e supervis&#xE3;o e controlo de qualidade do trabalho de campo.</p>
-<p>A forma&#xE7;&#xE3;o decorreu de 20 a 31 de Outubro de 2014, em Maputo, tendo participado um total de 55 candidatos a inquiridores e 11 medidores, o treino teve a dura&#xE7;&#xE3;o de 144 horas.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Feito um de um estudo transversal conduzido entre 15 de Dezembro de 2014 e 3 de Fevereiro de 2015 com uma amostra representativa da população Moçambicana entre os 15 e os 64 anos, com mais de 20000 agregados e avaliados sido avaliados 3119 (95.2%) indivíduos.</p>
+<p>A recolha de informação foi efetuada por onze equipas, uma por Província, incluindo três inquiridores, responsáveis pela avaliação por questionário, e um medidor, responsável pelas avaliações físicas e bioquímicas, para além de elementos responsáveis pela coordenação e supervisão e controlo de qualidade do trabalho de campo.</p>
+<p>A formação decorreu de 20 a 31 de Outubro de 2014, em Maputo, tendo participado um total de 55 candidatos a inquiridores e 11 medidores, o treino teve a duração de 144 horas.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ainda n&#xE3;o definido</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ainda não definido</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ainda n&#xE3;o definido</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ainda não definido</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Sa&#xFA;de</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Saúde</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Sa&#xFA;de</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Saúde</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ao abrigo da Lei 7/96, que define as bases gerais do Sistema Estat&#xED;stico Nacional, o Instituto Nacional de Estat&#xED;stica (INE), de acordo com o Despacho publicado no Boletim da Rep&#xFA;blica No. 39/2000, I S&#xE9;rie, de 27 de Setembro de 2000, delega oficialmente a Direc&#xE7;&#xE3;o de Planifica&#xE7;&#xE3;o e Coopera&#xE7;&#xE3;o (DPC), do Minist&#xE9;rio da Sa&#xFA;de, a publica&#xE7;&#xE3;o e difus&#xE3;o da informa&#xE7;&#xE3;o estat&#xED;stica oficial do Sector de Sa&#xFA;de, em Mo&#xE7;ambique.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ao abrigo da Lei 7/96, que define as bases gerais do Sistema Estatístico Nacional, o Instituto Nacional de Estatística (INE), de acordo com o Despacho publicado no Boletim da República No. 39/2000, I Série, de 27 de Setembro de 2000, delega oficialmente a Direcção de Planificação e Cooperação (DPC), do Ministério da Saúde, a publicação e difusão da informação estatística oficial do Sector de Saúde, em Moçambique.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="pt"><![CDATA[<p>O uso do tabaco &#xE9; um dos principais contribuintes para doen&#xE7;as e morte por doen&#xE7;as n&#xE3;o transmiss&#xED;veis (DNTs). N&#xE3;o existe um n&#xED;vel comprovado de seguran&#xE7;a no uso do tabaco ou na exposi&#xE7;&#xE3;o passiva ao fumo. Todos os usu&#xE1;rios di&#xE1;rios e n&#xE3;o di&#xE1;rios de tabaco correm o risco de uma variedade de maus resultados de sa&#xFA;de ao longo da vida, incluindo as DNTs. Reduzir a preval&#xEA;ncia do uso actual de tabaco dar&#xE1; uma grande contribui&#xE7;&#xE3;o para reduzir a mortalidade prematura por DNTs (meta 3.4).</p>
-<p>Para al&#xE9;m de contribuir para um conhecimento detalhado da frequ&#xEA;ncia de exposi&#xE7;&#xE3;o aos principais fatores de risco para DNT em Mo&#xE7;ambique, a informa&#xE7;&#xE3;o produzida dever&#xE1; permitir quantificar a varia&#xE7;&#xE3;o nestas exposi&#xE7;&#xF5;es na &#xFA;ltima d&#xE9;cada, atrav&#xE9;s da compara&#xE7;&#xE3;o com o observado no primeiro estudo STEPS, efetuado em 2005.</p>
-<p>Os resultados obtidos neste estudo, permitem um melhor conhecimento da realidade mo&#xE7;ambicana em rela&#xE7;&#xE3;o a exposi&#xE7;&#xF5;es que se associam a DNT, com potencial interesse para o planeamento em sa&#xFA;de, constituindo-se como uma linha de base para avaliar a evolu&#xE7;&#xE3;o destes fatores de risco com base em estudos STEPS a realizar no futuro.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O uso do tabaco é um dos principais contribuintes para doenças e morte por doenças não transmissíveis (DNTs). Não existe um nível comprovado de segurança no uso do tabaco ou na exposição passiva ao fumo. Todos os usuários diários e não diários de tabaco correm o risco de uma variedade de maus resultados de saúde ao longo da vida, incluindo as DNTs. Reduzir a prevalência do uso actual de tabaco dará uma grande contribuição para reduzir a mortalidade prematura por DNTs (meta 3.4).</p>
+<p>Para além de contribuir para um conhecimento detalhado da frequência de exposição aos principais fatores de risco para DNT em Moçambique, a informação produzida deverá permitir quantificar a variação nestas exposições na última década, através da comparação com o observado no primeiro estudo STEPS, efetuado em 2005.</p>
+<p>Os resultados obtidos neste estudo, permitem um melhor conhecimento da realidade moçambicana em relação a exposições que se associam a DNT, com potencial interesse para o planeamento em saúde, constituindo-se como uma linha de base para avaliar a evolução destes fatores de risco com base em estudos STEPS a realizar no futuro.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os resultados obtidos com base nestes elementos do instrumento de recolha de dados permitem um melhor conhecimento da realidade mo&#xE7;ambicana em rela&#xE7;&#xE3;o a exposi&#xE7;&#xF5;es que se associam a DNT, com potencial interesse para o planeamento em sa&#xFA;de, constituindo-se como uma linha de base para avaliar a evolu&#xE7;&#xE3;o destes fatores de risco com base em estudos STEPS a realizar no futuro.</p>
-<p>A monitoria da incid&#xEA;ncia e mortalidade por DNT, assim como dos n&#xED;veis de exposi&#xE7;&#xE3;o aos seus principais fatores de risco &#xE9; de grande import&#xE2;ncia para definir prioridades de investiga&#xE7;&#xE3;o e interven&#xE7;&#xE3;o, assim como para avaliar o impacto de pol&#xED;ticas de sa&#xFA;de e prever os recursos necess&#xE1;rios para fazer face as necessidades de preven&#xE7;&#xE3;o e controlo. </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os resultados obtidos com base nestes elementos do instrumento de recolha de dados permitem um melhor conhecimento da realidade moçambicana em relação a exposições que se associam a DNT, com potencial interesse para o planeamento em saúde, constituindo-se como uma linha de base para avaliar a evolução destes fatores de risco com base em estudos STEPS a realizar no futuro.</p>
+<p>A monitoria da incidência e mortalidade por DNT, assim como dos níveis de exposição aos seus principais fatores de risco é de grande importância para definir prioridades de investigação e intervenção, assim como para avaliar o impacto de políticas de saúde e prever os recursos necessários para fazer face as necessidades de prevenção e controlo. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem da popula&#xE7;&#xE3;o com 15 anos ou mais que actualmente usa qualquer produto de tabaco (tabaco fumado e / ou n&#xE3;o fumado) diariamente ou n&#xE3;o diariamente.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Percentagem da população com 15 anos ou mais que actualmente usa qualquer produto de tabaco (tabaco fumado e / ou não fumado) diariamente ou não diariamente.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="pt"><![CDATA[<p> O software interativo Census and Survey Processing System (CSPRO) permitiu verificar interactivamente os intervalos das vari&#xE1;veis, detetar inconsist&#xEA;ncias e controlar o fluxo interno dos dados durante a dupla digita&#xE7;&#xE3;o dos question&#xE1;rios.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> O software interativo Census and Survey Processing System (CSPRO) permitiu verificar interactivamente os intervalos das variáveis, detetar inconsistências e controlar o fluxo interno dos dados durante a dupla digitação dos questionários.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>A Organiza&#xE7;&#xE3;o Mundial da Sa&#xFA;de (OMS) incentivou todos os pa&#xED;ses de baixo e m&#xE9;dio rendimento a usar a metodologia STEPwise approach to Surveillance (STEPS) como forma de promover a padroniza&#xE7;&#xE3;o da avalia&#xE7;&#xE3;o dos principais fatores de risco das DNT, de modo a facilitar a compara&#xE7;&#xE3;o de resultados entre popula&#xE7;&#xF5;es e ao longo do tempo (http:// <a href="http://www.who.int/chp/steps/en">www.who.int/chp/steps/en</a>)</p>
-<p>Foi seguida a metodologia STEPS proposta pela OMS (http:// <a href="http://www.who.int/chp/steps/en">www.who.int/chp/steps/en</a>), com recolha de informa&#xE7;&#xE3;o por question&#xE1;rio, medi&#xE7;&#xF5;es f&#xED;sicas e medi&#xE7;&#xF5;es bioqu&#xED;micas. O estudo foi aprovado pelo Comit&#xE9; Nacional de Bio&#xE9;tica para a Sa&#xFA;de (Ref. 98/CNBS/14).</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A Organização Mundial da Saúde (OMS) incentivou todos os países de baixo e médio rendimento a usar a metodologia STEPwise approach to Surveillance (STEPS) como forma de promover a padronização da avaliação dos principais fatores de risco das DNT, de modo a facilitar a comparação de resultados entre populações e ao longo do tempo (http:// <a href="http://www.who.int/chp/steps/en">www.who.int/chp/steps/en</a>)</p>
+<p>Foi seguida a metodologia STEPS proposta pela OMS (http:// <a href="http://www.who.int/chp/steps/en">www.who.int/chp/steps/en</a>), com recolha de informação por questionário, medições físicas e medições bioquímicas. O estudo foi aprovado pelo Comité Nacional de Bioética para a Saúde (Ref. 98/CNBS/14).</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="pt"><![CDATA[<p>A avalia&#xE7;&#xE3;o dos participantes foi registada em formul&#xE1;rios em suporte f&#xED;sico e a informatiza&#xE7;&#xE3;o dos dados foi efetuada de forma centralizada, no INE, entre Fevereiro e Abril de 2016, tendo sido utilizado o software interativo Census and Survey Processing System (CSPRO), para microcomputadores. Este programa permite verificar interactivamente os intervalos das vari&#xE1;veis, detetar inconsist&#xEA;ncias e controlar o fluxo interno dos dados durante a dupla digita&#xE7;&#xE3;o dos question&#xE1;rios.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A avaliação dos participantes foi registada em formulários em suporte físico e a informatização dos dados foi efetuada de forma centralizada, no INE, entre Fevereiro e Abril de 2016, tendo sido utilizado o software interativo Census and Survey Processing System (CSPRO), para microcomputadores. Este programa permite verificar interactivamente os intervalos das variáveis, detetar inconsistências e controlar o fluxo interno dos dados durante a dupla digitação dos questionários.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>As inconsist&#xEA;ncias e incorre&#xE7;&#xF5;es detetadas durante a elabora&#xE7;&#xE3;o deste relat&#xF3;rio foram corrigidas, sempre que poss&#xED;vel, ap&#xF3;s verifica&#xE7;&#xE3;o da informa&#xE7;&#xE3;o presente nos formul&#xE1;rios utilizados para avalia&#xE7;&#xE3;o dos participantes.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>As inconsistências e incorreções detetadas durante a elaboração deste relatório foram corrigidas, sempre que possível, após verificação da informação presente nos formulários utilizados para avaliação dos participantes.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Dados dispon&#xED;veis em 2017. Desagregados por Local de resid&#xEA;ncia, prov&#xED;ncia, Sexo, Idade e Escolaridade</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Dados disponíveis em 2017. Desagregados por Local de residência, província, Sexo, Idade e Escolaridade</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="pt"><![CDATA[<p>Foi seguida a metodologia STEPS proposta pela OMS (http:// <a href="http://www.who.int/chp/steps/en">www.who.int/chp/steps/en</a>),</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="pt"><![CDATA[<p>Relat&#xF3;rio Final de STEPS &#x2013; Mo&#xE7;ambique 2014/2015</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Relatório Final de STEPS – Moçambique 2014/2015</p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

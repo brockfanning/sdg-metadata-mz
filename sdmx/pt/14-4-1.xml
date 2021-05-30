@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T02:59:19.115Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T14:42:27.650Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="2676a3d4-2b0c-47da-8aec-824702570952">
+  <mes:MetadataSet structureRef="MDS1" setID="4e97ba24-6dfd-40c2-8b6e-4f6b9c1c534c">
     <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Direc&#xE7;&#xE3;o de Estudos, Planifica&#xE7;&#xE3;o e Infra-Estruturas</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Estudos, Planificação e Infra-Estruturas</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="pt"/>
@@ -54,16 +54,16 @@
           <com:Text xml:lang="pt"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="pt"><![CDATA[<p> 14 CONSERVA&#xC7;&#xC3;O E USO SUSTENT&#xC1;VEL DOS OCEANOS, DOS MARES E DOS RECURSOS MARINHOS PARA O DESENVOLVIMENTO SUSTENT&#xC1;VEL</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> 14 CONSERVAÇÃO E USO SUSTENTÁVEL DOS OCEANOS, DOS MARES E DOS RECURSOS MARINHOS PARA O DESENVOLVIMENTO SUSTENTÁVEL</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="pt"><![CDATA[<p>14.4 At&#xE9; 2020, regular efetivamente a recolha, e acabar com a sobrepesca ilegal, n&#xE3;o reportada e n&#xE3;o regulamentada e as pr&#xE1;ticas de pesca destrutivas, e implementar planos de gest&#xE3;o numa base cient&#xED;fica, para restaurar popula&#xE7;&#xF5;es de peixes em menos tempo poss&#xED;vel, pelo menos a n&#xED;veis que possam produzir rendimento m&#xE1;ximo sustent&#xE1;vel, como determinado por suas caracter&#xED;sticas biol&#xF3;gicas</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>14.4 Até 2020, regular efetivamente a recolha, e acabar com a sobrepesca ilegal, não reportada e não regulamentada e as práticas de pesca destrutivas, e implementar planos de gestão numa base científica, para restaurar populações de peixes em menos tempo possível, pelo menos a níveis que possam produzir rendimento máximo sustentável, como determinado por suas características biológicas</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="pt"><![CDATA[<p>14.4.1 Percentagem de reservas de peixes dentro dos n&#xED;veis biologicamente sustent&#xE1;veis</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>14.4.1 Percentagem de reservas de peixes dentro dos níveis biologicamente sustentáveis</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="pt"><![CDATA[<p>Reservas de peixes dentro dos n&#xED;veis biologicamente sustent&#xE1;veis em percentagem</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Reservas de peixes dentro dos níveis biologicamente sustentáveis em percentagem</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="pt"><![CDATA[<p>20/10/2020</p>]]></com:Text>
@@ -72,29 +72,29 @@
           <com:Text xml:lang="pt"><![CDATA[<p>Nenhum Indicador relacionado</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio do Mar, &#xC1;guas Interiores e Pescas</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério do Mar, Águas Interiores e Pescas</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="pt"><![CDATA[<p>Osvaldo M&#xE1;rio Gaspar &amp; Em&#xED;dio R. Andre</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Osvaldo Mário Gaspar & Emídio R. Andre</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Estaticista &amp; Ocean&#xF3;grafo</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Estaticista & Oceanógrafo</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="pt"><![CDATA[<p>+258 84 398 9574 &amp; +258 84 535 7080</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>+258 84 398 9574 & +258 84 535 7080</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
-          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:erandre01@hotmail.com"><u>erandre01@hotmail.com</u></a> &amp; osgaspar_elsabors@yahoo.com.br</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:erandre01@hotmail.com"><u>erandre01@hotmail.com</u></a> & osgaspar_elsabors@yahoo.com.br</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="pt"><![CDATA[<p>&#x200B;&#x200B;Defini&#xE7;&#xE3;o: Medida da sustentabilidade da captura de um recurso pesqueiro marinha em rela&#xE7;&#xE3;o a sua abund&#xE2;ncia. Um estoque de peixes cuja abund&#xE2;ncia &#xE9; igual ou superior ao n&#xED;vel, que pode produzir o rendimento m&#xE1;ximo sustent&#xE1;vel (MSY), &#xE9; classificado como biologicamente sustent&#xE1;vel. Por outro lado, quando a abund&#xE2;ncia cai abaixo do n&#xED;vel MSY, o estoque &#xE9; considerado biologicamente insustent&#xE1;vel.</p>
-<p>Conceito: a sustentabilidade a longo prazo dos recursos pesqueiros &#xE9; medida atrav&#xE9;s do processo de avalia&#xE7;&#xE3;o cient&#xED;fica do estoque de peixes &#xE0; medida que este vai sendo pescada ao n&#xED;vel que produz captura m&#xE1;xima sustent&#xE1;vel. Os par&#xE2;metros de refer&#xEA;ncia b&#xE1;sicos para a sustentabilidade da pesca s&#xE3;o estabelecidos pela Conven&#xE7;&#xE3;o das Na&#xE7;&#xF5;es Unidas sobre o Direito do Mar (UNCLOS, Artigo 61 (3).</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>​​Definição: Medida da sustentabilidade da captura de um recurso pesqueiro marinha em relação a sua abundância. Um estoque de peixes cuja abundância é igual ou superior ao nível, que pode produzir o rendimento máximo sustentável (MSY), é classificado como biologicamente sustentável. Por outro lado, quando a abundância cai abaixo do nível MSY, o estoque é considerado biologicamente insustentável.</p>
+<p>Conceito: a sustentabilidade a longo prazo dos recursos pesqueiros é medida através do processo de avaliação científica do estoque de peixes à medida que este vai sendo pescada ao nível que produz captura máxima sustentável. Os parâmetros de referência básicos para a sustentabilidade da pesca são estabelecidos pela Convenção das Nações Unidas sobre o Direito do Mar (UNCLOS, Artigo 61 (3).</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio do Mar, &#xC1;guas Interiores e Pescas (Instituto Nacional de Investiga&#xE7;&#xE3;o Pesqueira)</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério do Mar, Águas Interiores e Pescas (Instituto Nacional de Investigação Pesqueira)</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="pt"><![CDATA[<p>Fevereiro de 2021</p>]]></com:Text>
@@ -103,43 +103,43 @@
           <com:Text xml:lang="pt"><![CDATA[<p>III Trimestre de 2021</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Investiga&#xE7;&#xE3;o Pesqueira</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Investigação Pesqueira</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio do Mar, &#xC1;guas Interiores e Pescas</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério do Mar, Águas Interiores e Pescas</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="pt"><![CDATA[<p> Despacho Conjunto, de 4 de Dezembro de 2003, Boletim da Rep&#xFA;blica n&#xBA; 16, de 21 de Abril de 2004 O Instituto Nacional de Estat&#xED;stica, atrav&#xE9;s do Ministro de Tutela, delega compet&#xEA;ncias na Direc&#xE7;&#xE3;o Nacional de Economia Pesqueira do Minist&#xE9;rio das Pescas, para a nota&#xE7;&#xE3;o e apuramento de dados estat&#xED;sticos de todas as estat&#xED;sticas do sector, por aproveitamento de actos administrativos e inqu&#xE9;ritos. Despacho Conjunto, de 4 de Dezembro de 2003, Boletim da Rep&#xFA;blica n&#xBA; 16, de 21 de Abril de 2004 O Instituto Nacional de Estat&#xED;stica, atrav&#xE9;s do Ministro de Tutela, delega compet&#xEA;ncias na Direc&#xE7;&#xE3;o Nacional de Economia Pesqueira do Minist&#xE9;rio das Pescas, para a nota&#xE7;&#xE3;o e apuramento de dados estat&#xED;sticos de todas as estat&#xED;sticas do sector, por aproveitamento de actos administrativos e inqu&#xE9;ritos.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> Despacho Conjunto, de 4 de Dezembro de 2003, Boletim da República nº 16, de 21 de Abril de 2004 O Instituto Nacional de Estatística, através do Ministro de Tutela, delega competências na Direcção Nacional de Economia Pesqueira do Ministério das Pescas, para a notação e apuramento de dados estatísticos de todas as estatísticas do sector, por aproveitamento de actos administrativos e inquéritos. Despacho Conjunto, de 4 de Dezembro de 2003, Boletim da República nº 16, de 21 de Abril de 2004 O Instituto Nacional de Estatística, através do Ministro de Tutela, delega competências na Direcção Nacional de Economia Pesqueira do Ministério das Pescas, para a notação e apuramento de dados estatísticos de todas as estatísticas do sector, por aproveitamento de actos administrativos e inquéritos.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="pt"><![CDATA[<p>A avalia&#xE7;&#xE3;o da propor&#xE7;&#xE3;o de estoques de peixes dentro dos n&#xED;veis biologicamente sustent&#xE1;veis permite assegurar que os recursos pesqueiros s&#xE3;o explorados dentro dos n&#xED;veis biologicamente sustent&#xE1;veis, isto &#xE9;, ao n&#xED;vel do MSY.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A avaliação da proporção de estoques de peixes dentro dos níveis biologicamente sustentáveis permite assegurar que os recursos pesqueiros são explorados dentro dos níveis biologicamente sustentáveis, isto é, ao nível do MSY.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="pt"><![CDATA[<p>O indicador estabelece muito bem a sustentabilidade da captura dos recursos pesqueiros. No entanto, sua deriva&#xE7;&#xE3;o n&#xE3;o exige apenas dados, mas tamb&#xE9;m requer avalia&#xE7;&#xE3;o de estoque, processo que deve ser realizado por esp&#xE9;cie, assim desafiante para pa&#xED;ses com pescarias multiespec&#xED;ficas, como em pa&#xED;ses tropicais.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador estabelece muito bem a sustentabilidade da captura dos recursos pesqueiros. No entanto, sua derivação não exige apenas dados, mas também requer avaliação de estoque, processo que deve ser realizado por espécie, assim desafiante para países com pescarias multiespecíficas, como em países tropicais.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="pt"><![CDATA[<p>A sustentabilidade da pesca &#xE9; definida com base na abund&#xE2;ncia de estoques. Para conhecer a abund&#xE2;ncia de estoques, &#xE9; necess&#xE1;rio realizar uma avalia&#xE7;&#xE3;o de estoques que utiliza estat&#xED;sticas de captura de peixes, dados do esfor&#xE7;o de pesca e informa&#xE7;&#xF5;es biol&#xF3;gicas e ajustar os dados a um modelo de din&#xE2;mica populacional. Ap&#xF3;s a conclus&#xE3;o da avalia&#xE7;&#xE3;o de todas as unidades populacionais em causa, as unidades populacionais de peixes com abund&#xE2;ncia igual ou superior ao n&#xED;vel associado ao rendimento m&#xE1;ximo sustent&#xE1;vel s&#xE3;o contadas como biologicamente sustent&#xE1;veis &#x200B;&#x200B;e, de outro modo, consideradas como sobrepesca.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A sustentabilidade da pesca é definida com base na abundância de estoques. Para conhecer a abundância de estoques, é necessário realizar uma avaliação de estoques que utiliza estatísticas de captura de peixes, dados do esforço de pesca e informações biológicas e ajustar os dados a um modelo de dinâmica populacional. Após a conclusão da avaliação de todas as unidades populacionais em causa, as unidades populacionais de peixes com abundância igual ou superior ao nível associado ao rendimento máximo sustentável são contadas como biologicamente sustentáveis ​​e, de outro modo, consideradas como sobrepesca.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>A informa&#xE7;&#xE3;o processada &#xE9; triada e analisada a n&#xED;vel t&#xE9;cnico onde por sua vez &#xE9; submetida ao Conselho T&#xE9;cnico da Institui&#xE7;&#xE3;o para pr&#xE9;-aprova&#xE7;&#xE3;o, onde depois de verificada a informa&#xE7;&#xE3;o saudavelmente segue para o Conselho Consultivo para aprova&#xE7;&#xE3;o dos dados ou informa&#xE7;&#xE3;o produzida em altura para posterior dissemina&#xE7;&#xE3;o</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A informação processada é triada e analisada a nível técnico onde por sua vez é submetida ao Conselho Técnico da Instituição para pré-aprovação, onde depois de verificada a informação saudavelmente segue para o Conselho Consultivo para aprovação dos dados ou informação produzida em altura para posterior disseminação</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>O Indicador nacional &#xE9; compar&#xE1;vel internacionalmente pois &#xE9; baseado em padr&#xF5;es internacionalmente aceites. </p>
-<p>Usa a mesma metodologia de c&#xE1;lculo do indicador global</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O Indicador nacional é comparável internacionalmente pois é baseado em padrões internacionalmente aceites. </p>
+<p>Usa a mesma metodologia de cálculo do indicador global</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="pt"><![CDATA[<p>A informa&#xE7;&#xE3;o processada &#xE9; triada e analisada a n&#xED;vel t&#xE9;cnico onde por sua vez &#xE9; submetida ao Conselho T&#xE9;cnico da Institui&#xE7;&#xE3;o estes estratos s&#xE3;o compostos por cientistas qualificados para o efeito de verifica&#xE7;&#xE3;o e valida&#xE7;&#xE3;o</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A informação processada é triada e analisada a nível técnico onde por sua vez é submetida ao Conselho Técnico da Instituição estes estratos são compostos por cientistas qualificados para o efeito de verificação e validação</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os instrumentos para avalia&#xE7;&#xE3;o da qualidade dos processos e produtos estat&#xED;sticos a n&#xED;vel do Sistema Estat&#xED;stico Nacional est&#xE3;o a ser desenvolvidos com base nos 19 princ&#xED;pios de qualidade estabelecidos pela Comiss&#xE3;o de Estat&#xED;sticas das Na&#xE7;&#xF5;es Unidas.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os instrumentos para avaliação da qualidade dos processos e produtos estatísticos a nível do Sistema Estatístico Nacional estão a ser desenvolvidos com base nos 19 princípios de qualidade estabelecidos pela Comissão de Estatísticas das Nações Unidas.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Dados para o c&#xE1;lculo do indicador existem no Instituto Nacional de Investiga&#xE7;&#xE3;o Pesqueira (IIP), todavia cabe a Administra&#xE7;&#xE3;o Nacional das Pescas (ADNAP) e Dire&#xE7;&#xE3;o Nacional de Opera&#xE7;&#xF5;es (DNOP) a sua disponibiliza&#xE7;&#xE3;o anual.</p>
-<p>Os dados n&#xE3;o se encontram desagregados</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Dados para o cálculo do indicador existem no Instituto Nacional de Investigação Pesqueira (IIP), todavia cabe a Administração Nacional das Pescas (ADNAP) e Direção Nacional de Operações (DNOP) a sua disponibilização anual.</p>
+<p>Os dados não se encontram desagregados</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="pt"><![CDATA[<p>O Indicador nacional &#xE9; compar&#xE1;vel internacionalmente pois &#xE9; baseado em padr&#xF5;es internacionalmente aceites. </p>
-<p>Usa a mesma metodologia de c&#xE1;lculo do indicador global.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O Indicador nacional é comparável internacionalmente pois é baseado em padrões internacionalmente aceites. </p>
+<p>Usa a mesma metodologia de cálculo do indicador global.</p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

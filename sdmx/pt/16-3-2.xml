@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T02:59:20.218Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T14:42:28.659Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="98ad5ce0-e7ba-4f4a-8e58-6bcf859950ac">
+  <mes:MetadataSet structureRef="MDS1" setID="d2bed579-7e3d-4156-a7b4-adddc0f8a33a">
     <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Departamento de estudos e estat&#xED;stica</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Departamento de estudos e estatística</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="pt"/>
@@ -54,31 +54,31 @@
           <com:Text xml:lang="pt"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="pt"><![CDATA[<p>16 PROMOVER SOCIEDADES PAC&#xCD;FICAS E INCLUSIVAS PARA O DESENVOLVIMENTO SUSTENT&#xC1;VEL, PROPORCIONAR O ACESSO &#xC0; JUSTI&#xC7;A PARA TODOS E CONSTRUIR INSTITUI&#xC7;&#xD5;ES EFICAZES, RESPONS&#xC1;VEIS E INCLUSIVAS A TODOS OS N&#xCD;VEIS</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>16 PROMOVER SOCIEDADES PACÍFICAS E INCLUSIVAS PARA O DESENVOLVIMENTO SUSTENTÁVEL, PROPORCIONAR O ACESSO À JUSTIÇA PARA TODOS E CONSTRUIR INSTITUIÇÕES EFICAZES, RESPONSÁVEIS E INCLUSIVAS A TODOS OS NÍVEIS</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="pt"><![CDATA[<p>16.3 Promover o Estado de Direito, ao n&#xED;vel nacional e internacional, e garantir a igualdade de accesso &#xE0; justi&#xE7;a para todos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>16.3 Promover o Estado de Direito, ao nível nacional e internacional, e garantir a igualdade de accesso à justiça para todos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="pt"><![CDATA[<p>16.3.2 Percentagem de cidad&#xE3;os em pris&#xE3;o preventiva em rela&#xE7;&#xE3;o ao total da popula&#xE7;&#xE3;o penitenci&#xE1;ria</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>16.3.2 Percentagem de cidadãos em prisão preventiva em relação ao total da população penitenciária</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="pt"><![CDATA[<p> 16.3.2 Cidad&#xE3;os em pris&#xE3;o preventiva em rela&#xE7;&#xE3;o ao total da popula&#xE7;&#xE3;o penitenci&#xE1;ria em percentagem</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> 16.3.2 Cidadãos em prisão preventiva em relação ao total da população penitenciária em percentagem</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="pt"><![CDATA[<p>19.10.2020</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
-          <com:Text xml:lang="pt"><![CDATA[<p>Sem v&#xED;nculo com algum indicador</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Sem vínculo com algum indicador</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Justi&#xE7;a, Assuntos Constitucionais e Religiosos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Justiça, Assuntos Constitucionais e Religiosos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="pt"><![CDATA[<p>Calisto Zacarias Matavele; Edgar Chichava; Ernesto Jo&#xE3;o Boca</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Calisto Zacarias Matavele; Edgar Chichava; Ernesto João Boca</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="pt"><![CDATA[<p>T&#xE9;cnicos de estat&#xED;stica</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Técnicos de estatística</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="pt"><![CDATA[<p>+258 843793926; +258 842473074; +258 845589682</p>]]></com:Text>
@@ -90,70 +90,70 @@
           <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:zacmatavele@gmail.com">zacmatavele@gmail.com</a>; <a href="mailto:echichava717@gmail.com">echichava717@gmail.com</a>; <a href="mailto:eboca74@gmail.com">eboca74@gmail.com</a></p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador visa elucidar o n&#xED;vel de cumprimento dos prazos de pris&#xE3;o preventiva e celeridade na tramita&#xE7;&#xE3;o processual, concorrendo para o descongestionamento e promo&#xE7;&#xE3;o da legalidade e Direitos Humanos.</p>
-<p>O n&#xFA;mero total de pessoas mantidas em deten&#xE7;&#xE3;o que ainda n&#xE3;o foram sentenciadas, define-se como uma percentagem do n&#xFA;mero total de pessoas mantidas em deten&#xE7;&#xE3;o, em uma data especificada.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador visa elucidar o nível de cumprimento dos prazos de prisão preventiva e celeridade na tramitação processual, concorrendo para o descongestionamento e promoção da legalidade e Direitos Humanos.</p>
+<p>O número total de pessoas mantidas em detenção que ainda não foram sentenciadas, define-se como uma percentagem do número total de pessoas mantidas em detenção, em uma data especificada.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="pt"><![CDATA[<p>Percentagem </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Registos administrativos: Minist&#xE9;rio da Justi&#xE7;a, Assuntos Constitucionais e Religiosos, e Servi&#xE7;o Nacional Penitenci&#xE1;rio</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Registos administrativos: Ministério da Justiça, Assuntos Constitucionais e Religiosos, e Serviço Nacional Penitenciário</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p> O Servi&#xE7;o Nacional Penitenci&#xE1;rio (SERNAP) &#xE9; respons&#xE1;vel pela recolha de dados atrav&#xE9;s de relat&#xF3;rios di&#xE1;rios referentes a situa&#xE7;&#xE3;o dos reclusos. Ap&#xF3;s este momento, os dados s&#xE3;o inscritos num sistema digital e enviados para o &#xD3;rg&#xE3;o Central (Minist&#xE9;rio da Justi&#xE7;a, Assuntos Constitucionais e Religiosos) Departamento de Estudos e Estat&#xED;stica para a globaliza&#xE7;&#xE3;o e valida&#xE7;&#xE3;o.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> O Serviço Nacional Penitenciário (SERNAP) é responsável pela recolha de dados através de relatórios diários referentes a situação dos reclusos. Após este momento, os dados são inscritos num sistema digital e enviados para o Órgão Central (Ministério da Justiça, Assuntos Constitucionais e Religiosos) Departamento de Estudos e Estatística para a globalização e validação.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="pt"><![CDATA[<p>At&#xE9; Dezembro de 2020</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Até Dezembro de 2020</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           <com:Text xml:lang="pt"><![CDATA[<p>Fevereiro de 2021</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="pt"><![CDATA[<p>O Servi&#xE7;o Nacional Penitenci&#xE1;rio (SERNAP)</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O Serviço Nacional Penitenciário (SERNAP)</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Justi&#xE7;a, Assuntos Constitucionais e Religiosos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Justiça, Assuntos Constitucionais e Religiosos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="pt"><![CDATA[<p>De acordo com o Decreto Presidencial n 8/2015 de 13 de Mar&#xE7;o, o Departamento de Estudos e Estat&#xED;stica do Minist&#xE9;rio da Justi&#xE7;a, Assuntos Constitucionais e Religiosos, possui como fun&#xE7;&#xF5;es:</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>De acordo com o Decreto Presidencial n 8/2015 de 13 de Março, o Departamento de Estudos e Estatística do Ministério da Justiça, Assuntos Constitucionais e Religiosos, possui como funções:</p>
 <ol>
-  <li>Proceder a sistematiza&#xE7;&#xE3;o peri&#xF3;dica das estat&#xED;sticas do sector;</li>
-  <li>Propor mecanismos e modelos de recolha de informa&#xE7;&#xE3;o estat&#xED;stica do Minist&#xE9;rio;</li>
-  <li>Apoiar as unidades org&#xE2;nicas, subordinadas e tuteladas do Ministerio no processo de colecta e tratamento de dados estat&#xED;sticos;</li>
+  <li>Proceder a sistematização periódica das estatísticas do sector;</li>
+  <li>Propor mecanismos e modelos de recolha de informação estatística do Ministério;</li>
+  <li>Apoiar as unidades orgânicas, subordinadas e tuteladas do Ministerio no processo de colecta e tratamento de dados estatísticos;</li>
   <li>Apoiar os departamentos de planificacao e monitoria na analise e tratamento de dados estatisticos;</li>
-  <li>Elaborar em coordena&#xE7;&#xE3;o com as unidades do sector, o relatorio anual de estat&#xED;stica do sistema de administra&#xE7;&#xE3;o de justi&#xE7;a</li>
+  <li>Elaborar em coordenação com as unidades do sector, o relatorio anual de estatística do sistema de administração de justiça</li>
 </ol>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Menor-melhor. Quanto mais pr&#xF3;ximo de zero estiver este indicador, melhor porque significaria a n&#xE3;o exist&#xEA;ncia de casos de pris&#xE3;o preventiva fora dos prazos estabelecidos por lei.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Menor-melhor. Quanto mais próximo de zero estiver este indicador, melhor porque significaria a não existência de casos de prisão preventiva fora dos prazos estabelecidos por lei.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="pt"><![CDATA[<p>O indicador n&#xE3;o esta desagregado por idade e sexo </p>
-<p>Nem por dura&#xE7;&#xE3;o da pris&#xE3;o preventiva (sem senten&#xE7;a).</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador não esta desagregado por idade e sexo </p>
+<p>Nem por duração da prisão preventiva (sem sentença).</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="pt"><![CDATA[<p>O n&#xFA;mero total de pessoas n&#xE3;o sentenciadas mantidas em deten&#xE7;&#xE3;o dividido pelo n&#xFA;mero total de pessoas mantidas em deten&#xE7;&#xE3;o, em uma data especificada.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O número total de pessoas não sentenciadas mantidas em detenção dividido pelo número total de pessoas mantidas em detenção, em uma data especificada.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ap&#xF3;s a recolha de dados, os mesmos s&#xE3;o inseridos no Sistema de Gest&#xE3;o de Informa&#xE7;&#xE3;o Penitenci&#xE1;ria (GIP) que e uma plataforma para gest&#xE3;o reclusoria onde &#xE9; registada toda informa&#xE7;&#xE3;o dos reclusos, desde a sua entrada no estabelecimento at&#xE9; ao termino da sua pena, feito isso a informa&#xE7;&#xE3;o &#xE9; enviada ao Departamento para a sua valida&#xE7;&#xE3;o seguindo a seguinte sequencia t&#xE9;cnicos, chefe de departamento e por fim Director.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Após a recolha de dados, os mesmos são inseridos no Sistema de Gestão de Informação Penitenciária (GIP) que e uma plataforma para gestão reclusoria onde é registada toda informação dos reclusos, desde a sua entrada no estabelecimento até ao termino da sua pena, feito isso a informação é enviada ao Departamento para a sua validação seguindo a seguinte sequencia técnicos, chefe de departamento e por fim Director.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador usa os mesmos m&#xE9;todos de compila&#xE7;&#xE3;o usados internacionalmente.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador usa os mesmos métodos de compilação usados internacionalmente.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>O Minist&#xE9;rio ainda n&#xE3;o possui um sistema de gest&#xE3;o de qualidade de dados no entanto faz se uma gest&#xE3;o de qualidade interna a n&#xED;vel de departamento pelos t&#xE9;cnicos e pelo chefe de departamento e Director. </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O Ministério ainda não possui um sistema de gestão de qualidade de dados no entanto faz se uma gestão de qualidade interna a nível de departamento pelos técnicos e pelo chefe de departamento e Director. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="pt"><![CDATA[<p>A qualidade dos dados &#xE9; garantida a partir da an&#xE1;lise e aprecia&#xE7;&#xE3;o come&#xE7;ando pelos t&#xE9;cnicos, chefe de reparti&#xE7;&#xE3;o, chefe do departamento e por fim o director da dire&#xE7;&#xE3;o de planifica&#xE7;&#xE3;o e coopera&#xE7;&#xE3;o do Minist&#xE9;rio da Justi&#xE7;a, Assuntos Constitucionais e Religiosos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A qualidade dos dados é garantida a partir da análise e apreciação começando pelos técnicos, chefe de repartição, chefe do departamento e por fim o director da direção de planificação e cooperação do Ministério da Justiça, Assuntos Constitucionais e Religiosos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os instrumentos para avalia&#xE7;&#xE3;o da qualidade dos processos e produtos estat&#xED;sticos a n&#xED;vel do Sistema Estat&#xED;stico Nacional est&#xE3;o a ser desenvolvidos com base nos 19 princ&#xED;pios de qualidade estabelecidos pela Comiss&#xE3;o de Estat&#xED;sticas das Na&#xE7;&#xF5;es Unidas.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os instrumentos para avaliação da qualidade dos processos e produtos estatísticos a nível do Sistema Estatístico Nacional estão a ser desenvolvidos com base nos 19 princípios de qualidade estabelecidos pela Comissão de Estatísticas das Nações Unidas.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os dados s&#xE3;o disponibilizados anualmente e n&#xE3;o possuem desagrega&#xE7;&#xE3;o.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados são disponibilizados anualmente e não possuem desagregação.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador permite a comparabilidade a n&#xED;vel internacional</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador permite a comparabilidade a nível internacional</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
           <com:Text xml:lang="pt"><![CDATA[<p><a href="https://www.sernap.gov.mz/SGIP/aa0a8bc8-2f75-4c07-b249-25e76130e414/Log.aspx">https://www.sernap.gov.mz/SGIP/aa0a8bc8-2f75-4c07-b249-25e76130e414/Log.aspx</a>, </p>]]></com:Text>

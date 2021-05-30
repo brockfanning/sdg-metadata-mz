@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T02:59:25.403Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T14:42:33.481Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="ab6e5412-92e8-47af-b335-4ce7ebed2b3d">
+  <mes:MetadataSet structureRef="MDS1" setID="0157068b-254f-49fd-8a94-05bf6ae8a231">
     <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Direc&#xE7;&#xE3;o de Estat&#xED;sticas Demogr&#xE1;ficas, Vitais e Sociais</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Estatísticas Demográficas, Vitais e Sociais</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="pt"/>
@@ -54,16 +54,16 @@
           <com:Text xml:lang="pt"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="pt"><![CDATA[<p>6. GARANTIR A DISPONIBILIDADE E A GEST&#xC3;O SUSTENT&#xC1;VEL DA &#xC1;GUA POT&#xC1;VEL E DO SANEAMENTO PARA TODOS.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>6. GARANTIR A DISPONIBILIDADE E A GESTÃO SUSTENTÁVEL DA ÁGUA POTÁVEL E DO SANEAMENTO PARA TODOS.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="pt"><![CDATA[<p>6.2 At&#xE9; 2030, alcan&#xE7;ar o acesso a saneamento e higiene adequados e equitativos para todos, e acabar com a defeca&#xE7;&#xE3;o a c&#xE9;u aberto, com especial aten&#xE7;&#xE3;o para as necessidades das mulheres e meninas e daqueles em situa&#xE7;&#xE3;o de vulnerabilidade</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>6.2 Até 2030, alcançar o acesso a saneamento e higiene adequados e equitativos para todos, e acabar com a defecação a céu aberto, com especial atenção para as necessidades das mulheres e meninas e daqueles em situação de vulnerabilidade</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="pt"><![CDATA[<p>6.2.1 Propor&#xE7;&#xE3;o da popula&#xE7;&#xE3;o utilizando servi&#xE7;os de saneamento geridos de forma segura, segundo &#xE1;rea de resid&#xEA;ncia e prov&#xED;ncias</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>6.2.1 Proporção da população utilizando serviços de saneamento geridos de forma segura, segundo área de residência e províncias</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="pt"><![CDATA[<p>Propor&#xE7;&#xE3;o da popula&#xE7;&#xE3;o utilizando servi&#xE7;os de saneamento geridos de forma segura, segundo &#xE1;rea de resid&#xEA;ncia e prov&#xED;ncias</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Proporção da população utilizando serviços de saneamento geridos de forma segura, segundo área de residência e províncias</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="pt"><![CDATA[<p>08/10/2020</p>]]></com:Text>
@@ -72,10 +72,10 @@
           <com:Text xml:lang="pt"><![CDATA[<p>INSTITUTO NACIONAL DE ESTATISTICA</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="pt"><![CDATA[<p>Teixeira Mandlate, Maria Alfeu e Jo&#xE3;o Mangue</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Teixeira Mandlate, Maria Alfeu e João Mangue</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="pt"><![CDATA[<p>T&#xE9;cnicos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Técnicos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="pt"><![CDATA[<p>+258 844386629; +258 823032619; +258 827679480</p>]]></com:Text>
@@ -87,20 +87,20 @@
           <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:Teixeira.mandlate@ine.gov.mz">Teixeira.mandlate@ine.gov.mz</a>; <a href="mailto:maria.alfeu@ine.gov.mz">maria.alfeu@ine.gov.mz</a>; <a href="mailto:joao.mangue@ine.gov.mz">joao.mangue@ine.gov.mz</a></p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="pt"><![CDATA[<p>Propor&#xE7;&#xE3;o da popula&#xE7;&#xE3;o que usa servi&#xE7;os de saneamento geridos de forma segura. </p>
-<p>&#xC9; considerada saneamento seguro, instala&#xE7;&#xF5;es de saneamento b&#xE1;sicos que n&#xE3;o s&#xE3;o compartilhadas com outras fam&#xED;lias e onde os excrementos s&#xE3;o descartados com seguran&#xE7;a no local ou tratados fora do local, tais como: retretes com autoclismo dentre de casa, retrete com autoclismo fora de casa, retrete sem autoclismo, latrina melhorada, latrina tradicional melhorada.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Proporção da população que usa serviços de saneamento geridos de forma segura. </p>
+<p>É considerada saneamento seguro, instalações de saneamento básicos que não são compartilhadas com outras famílias e onde os excrementos são descartados com segurança no local ou tratados fora do local, tais como: retretes com autoclismo dentre de casa, retrete com autoclismo fora de casa, retrete sem autoclismo, latrina melhorada, latrina tradicional melhorada.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Recenseamento Geral da Popula&#xE7;&#xE3;o e Habita&#xE7;&#xE3;o e Inqu&#xE9;ritos aos Agregados Familiares</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Recenseamento Geral da População e Habitação e Inquéritos aos Agregados Familiares</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>A fonte de dados recomendada para calcular este indicador s&#xE3;o os Censos e Inqu&#xE9;ritos aos Agregados Familiares. O question&#xE1;rio da recolha de dados &#xE9; desenhado e posteriormente testado no campo no decurso do treinamento dos entrevistadores.</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>A fonte de dados recomendada para calcular este indicador são os Censos e Inquéritos aos Agregados Familiares. O questionário da recolha de dados é desenhado e posteriormente testado no campo no decurso do treinamento dos entrevistadores.</p>
 <p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente aos agregados familiares onde perguntou-se aos inquiridos se a casa tem: retretes com autoclismo dentre de casa, retrete com autoclismo fora de casa, retrete sem autoclismo, latrina melhorada, latrina tradicional melhorada.</p>
-<p>O trabalho do campo teve a dura&#xE7;&#xE3;o de 15 dias para caso dos Censos e nos Inqu&#xE9;ritos dependendo do tipo e objectivo do Inqu&#xE9;rito.</p>
-<p>Casos de n&#xE3;o resposta, apos esgotadas todas as dilig&#xEA;ncias para capta&#xE7;&#xE3;o, s&#xE3;o tratados como casos desconhecidos.</p>]]></com:Text>
+<p>O trabalho do campo teve a duração de 15 dias para caso dos Censos e nos Inquéritos dependendo do tipo e objectivo do Inquérito.</p>
+<p>Casos de não resposta, apos esgotadas todas as diligências para captação, são tratados como casos desconhecidos.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="pt"><![CDATA[<p>2027</p>]]></com:Text>
@@ -118,47 +118,47 @@
           <com:Text xml:lang="pt"><![CDATA[<p>Lei 7/96 de 5 de Julho</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="pt"><![CDATA[<p>As consultas internacionais desde 2011 estabeleceram consenso sobre a necessidade de desenvolver e abordar as defici&#xEA;ncias desse indicador; especificamente, para abordar crit&#xE9;rios normativos do direito humano &#xE0; &#xE1;gua, incluindo acessibilidade, aceitabilidade e seguran&#xE7;a. Al&#xE9;m disso, deve-se considerar a gest&#xE3;o segura de res&#xED;duos fecais, pois as descargas de &#xE1;guas residuais n&#xE3;o tratadas no meio ambiente criam riscos &#xE0; sa&#xFA;de p&#xFA;blica. Estas consultas concluiu que as metas p&#xF3;s-2015, aplic&#xE1;veis a todos os pa&#xED;ses, devem ir al&#xE9;m do n&#xED;vel b&#xE1;sico de acesso e abordar indicadores de gest&#xE3;o segura dos servi&#xE7;os de saneamento, incluindo dimens&#xF5;es de acessibilidade, aceitabilidade e seguran&#xE7;a. </p>
-<p>O Grupo de Trabalho de Especialistas solicitou a an&#xE1;lise da gest&#xE3;o de res&#xED;duos fecais ao longo da cadeia de saneamento, incluindo conten&#xE7;&#xE3;o, esvaziamento de latrinas e fossas s&#xE9;pticas e descarte seguro no local ou transporte e tratamento de res&#xED;duos em um local de tratamento designado. A classifica&#xE7;&#xE3;o do tratamento ser&#xE1; baseada nas categorias definidas pelo SEEA e pelas Recomenda&#xE7;&#xF5;es Internacionais para Estat&#xED;sticas da &#xC1;gua e seguindo uma abordagem em escada (tratamento prim&#xE1;rio, secund&#xE1;rio e terci&#xE1;rio).</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>As consultas internacionais desde 2011 estabeleceram consenso sobre a necessidade de desenvolver e abordar as deficiências desse indicador; especificamente, para abordar critérios normativos do direito humano à água, incluindo acessibilidade, aceitabilidade e segurança. Além disso, deve-se considerar a gestão segura de resíduos fecais, pois as descargas de águas residuais não tratadas no meio ambiente criam riscos à saúde pública. Estas consultas concluiu que as metas pós-2015, aplicáveis a todos os países, devem ir além do nível básico de acesso e abordar indicadores de gestão segura dos serviços de saneamento, incluindo dimensões de acessibilidade, aceitabilidade e segurança. </p>
+<p>O Grupo de Trabalho de Especialistas solicitou a análise da gestão de resíduos fecais ao longo da cadeia de saneamento, incluindo contenção, esvaziamento de latrinas e fossas sépticas e descarte seguro no local ou transporte e tratamento de resíduos em um local de tratamento designado. A classificação do tratamento será baseada nas categorias definidas pelo SEEA e pelas Recomendações Internacionais para Estatísticas da Água e seguindo uma abordagem em escada (tratamento primário, secundário e terciário).</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os dados sobre fluxo, descarte e tratamento seguro de res&#xED;duos fecais est&#xE3;o cada vez mais dispon&#xED;veis por meio de uma combina&#xE7;&#xE3;o de inqu&#xE9;ritos aos agregados familiares e fontes administrativas, incluindo reguladores, mas as defini&#xE7;&#xF5;es ainda precisam ser padronizadas.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados sobre fluxo, descarte e tratamento seguro de resíduos fecais estão cada vez mais disponíveis por meio de uma combinação de inquéritos aos agregados familiares e fontes administrativas, incluindo reguladores, mas as definições ainda precisam ser padronizadas.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="pt"><![CDATA[<p>A percentagem da popula&#xE7;&#xE3;o que utiliza servi&#xE7;os de gest&#xE3;o de saneamento seguro &#xE9; calculada combinando dados sobre a propor&#xE7;&#xE3;o da popula&#xE7;&#xE3;o que usa diferentes tipos de instala&#xE7;&#xF5;es de saneamento b&#xE1;sico com estimativas da propor&#xE7;&#xE3;o de res&#xED;duos fecais que s&#xE3;o descartados com seguran&#xE7;a no local ou tratados fora do local.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A percentagem da população que utiliza serviços de gestão de saneamento seguro é calculada combinando dados sobre a proporção da população que usa diferentes tipos de instalações de saneamento básico com estimativas da proporção de resíduos fecais que são descartados com segurança no local ou tratados fora do local.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>O trabalho de campo contou com a supervis&#xE3;o e controle de qualidade por parte dos t&#xE9;cnicos do INE Central como das Delega&#xE7;&#xF5;es Provinciais. Al&#xE9;m disso, durante a recolha de dados foi estabelecido um rigoroso controlo a n&#xED;vel de cada equipa sobre o processo de recolha, mediante a detec&#xE7;&#xE3;o de erros por parte da cr&#xED;tica no campo, o que permitiu a correc&#xE7;&#xE3;o imediata ainda no terreno. </p>
-<p>A n&#xED;vel da coordena&#xE7;&#xE3;o central, os cr&#xED;ticos de dados fizeram revis&#xE3;o adicional dos dados da base e os problemas encontrados eram comunicados &#xE0;s respectivas equipas para corre&#xE7;&#xE3;o. </p>
-<p>O processamento interactivo e por lotes de informa&#xE7;&#xE3;o permitiu, ainda, a n&#xED;vel central, a obten&#xE7;&#xE3;o peri&#xF3;dica de resultados parciais, para an&#xE1;lise dos dados recolhidos at&#xE9; dado momento, mediante a produ&#xE7;&#xE3;o de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabula&#xE7;&#xF5;es foram reportados em retro alimenta&#xE7;&#xE3;o aos inquiridores, assegurando a qualidade dos dados.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O trabalho de campo contou com a supervisão e controle de qualidade por parte dos técnicos do INE Central como das Delegações Provinciais. Além disso, durante a recolha de dados foi estabelecido um rigoroso controlo a nível de cada equipa sobre o processo de recolha, mediante a detecção de erros por parte da crítica no campo, o que permitiu a correcção imediata ainda no terreno. </p>
+<p>A nível da coordenação central, os críticos de dados fizeram revisão adicional dos dados da base e os problemas encontrados eram comunicados às respectivas equipas para correção. </p>
+<p>O processamento interactivo e por lotes de informação permitiu, ainda, a nível central, a obtenção periódica de resultados parciais, para análise dos dados recolhidos até dado momento, mediante a produção de quadros para acompanhamento e controle de qualidade. Os resultados dessas tabulações foram reportados em retro alimentação aos inquiridores, assegurando a qualidade dos dados.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>Na produ&#xE7;&#xE3;o e compila&#xE7;&#xE3;o de dados, usou-se metodologias recomendadas pelas Na&#xE7;&#xF5;es Unidas nos <strong><em>Princ&#xED;pios e Recomenda&#xE7;&#xF5;es dos Censos da Popula&#xE7;&#xE3;o e Habita&#xE7;&#xE3;o (ST/ESA/STAT/SER.M/67/Rer.3)</em></strong></p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Na produção e compilação de dados, usou-se metodologias recomendadas pelas Nações Unidas nos <strong><em>Princípios e Recomendações dos Censos da População e Habitação (ST/ESA/STAT/SER.M/67/Rer.3)</em></strong></p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ainda em desenvolvimento e por aprovar o instrumento da gest&#xE3;o de qualidade</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ainda em desenvolvimento e por aprovar o instrumento da gestão de qualidade</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           <com:Text xml:lang="pt"><![CDATA[<p>Para a recolha de dados, aplicou-se a metodologia de entrevistas frente a frente aos agregados familiares preenchendo-se o Boletim de Agregados Familiares e Boletim de alojamentos colectivos.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ainda em desenvolvimento e por aprovar o instrumento para avalia&#xE7;&#xE3;o de qualidade</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ainda em desenvolvimento e por aprovar o instrumento para avaliação de qualidade</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="pt"><![CDATA[<p>&#xC1;rea de resid&#xEA;ncia rural e urbana, provincial</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Área de residência rural e urbana, provincial</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="pt"><![CDATA[<p>A produ&#xE7;&#xE3;o de dados permite comparabilidade n&#xE3;o havendo diferen&#xE7;as pois seguem-se as recomenda&#xE7;&#xF5;es inernacionalmente definidas nos <strong><em>Princ&#xED;pios e Recomenda&#xE7;&#xF5;es para Estat&#xED;sticas Civil &#x2013; ONU, (ST/ESA/STAT/SER.M/19/Rev.3 New York, 2014)</em></strong></p>
-<p>As estimativas dos Inqu&#xE9;ritos Demogr&#xE1;ficos e de Sa&#xFA;de s&#xE3;o baseadas em metodologias padronizadas e desenvolvidas pela OMS e UNICEF.</p>
-<p>O Inqu&#xE9;rito Demogr&#xE1;fico e de Sa&#xFA;de (IDS) em Mo&#xE7;ambique faz parte dum programa internacional de inqu&#xE9;ritos (MEASURE DHS) desenvolvido pelo ICF International atrav&#xE9;s de um contrato com a USAID, com o prop&#xF3;sito de apoiar aos governos e institui&#xE7;&#xF5;es privadas dos pa&#xED;ses em desenvolvimento na realiza&#xE7;&#xE3;o de inqu&#xE9;ritos nacionais por amostragem, nas &#xE1;reas de popula&#xE7;&#xE3;o e sa&#xFA;de. O Programa MEASURE DHS tem por objectivo:</p>
-<p>&#x2022; Subsidiar a formula&#xE7;&#xE3;o de pol&#xED;ticas e implementa&#xE7;&#xE3;o de programas nas &#xE1;reas de popula&#xE7;&#xE3;o e sa&#xFA;de; </p>
-<p>&#x2022; Aumentar a base internacional de dados sobre popula&#xE7;&#xE3;o e sa&#xFA;de para acompanhamento e avalia&#xE7;&#xE3;o; </p>
-<p>&#x2022; Aprimorar metodologia de inqu&#xE9;rito por amostragem, e </p>
-<p>&#x2022; Consolidar, na &#xE1;rea de inqu&#xE9;rito, a capacidade t&#xE9;cnica da institui&#xE7;&#xE3;o executora no pa&#xED;s participante do Programa.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A produção de dados permite comparabilidade não havendo diferenças pois seguem-se as recomendações inernacionalmente definidas nos <strong><em>Princípios e Recomendações para Estatísticas Civil – ONU, (ST/ESA/STAT/SER.M/19/Rev.3 New York, 2014)</em></strong></p>
+<p>As estimativas dos Inquéritos Demográficos e de Saúde são baseadas em metodologias padronizadas e desenvolvidas pela OMS e UNICEF.</p>
+<p>O Inquérito Demográfico e de Saúde (IDS) em Moçambique faz parte dum programa internacional de inquéritos (MEASURE DHS) desenvolvido pelo ICF International através de um contrato com a USAID, com o propósito de apoiar aos governos e instituições privadas dos países em desenvolvimento na realização de inquéritos nacionais por amostragem, nas áreas de população e saúde. O Programa MEASURE DHS tem por objectivo:</p>
+<p>• Subsidiar a formulação de políticas e implementação de programas nas áreas de população e saúde; </p>
+<p>• Aumentar a base internacional de dados sobre população e saúde para acompanhamento e avaliação; </p>
+<p>• Aprimorar metodologia de inquérito por amostragem, e </p>
+<p>• Consolidar, na área de inquérito, a capacidade técnica da instituição executora no país participante do Programa.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Sa&#xFA;de (MISAU), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; </p>
-<p>Instituto Nacional de Estat&#xED;stica (INE), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>;</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Saúde (MISAU), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>; </p>
+<p>Instituto Nacional de Estatística (INE), <a href="http://www.misau.gov.mz">www.misau.gov.mz</a>;</p>
 <p>ICF Internacional (ICFI), <a href="http://www.measuredhs.com">www.measuredhs.com</a></p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>

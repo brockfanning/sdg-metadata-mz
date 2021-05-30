@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T02:59:22.951Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T14:42:31.183Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="21e34932-4d98-41c8-a0f2-b6afa0f96151">
+  <mes:MetadataSet structureRef="MDS1" setID="1a7210ba-068b-4ee2-8827-4f4995b6ae98">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="en"><![CDATA[ <p> Demographic, Vital and Social Statistics Directorate </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Directorate of Demographic, Vital and Social Statistics </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="en"/>
@@ -54,10 +54,10 @@
           <com:Text xml:lang="en"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="en"><![CDATA[ <p> 3 GUARANTEE ACCESS &#xC0; QUALITY HEALTH AND PROMOTING WELFARE FOR ALL </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 3 GUARANTEE ACCESS TO QUALITY HEALTH AND PROMOTE WELFARE FOR ALL </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="en"><![CDATA[ <p> 3.7 At &#xE9; 2030, ensure universal access to sexual and reproductive health services, including family planning, information and education, as well as integration. reproductive health in national strategies and programs </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> 3.7 By 2030, ensure universal access to sexual and reproductive health services, including family planning, information and education, as well as the integration of reproductive health into national strategies and programs </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
           <com:Text xml:lang="en"><![CDATA[ <h1> 3.7.2 Birth rate in adolescents aged 10 to 14 years and 15 to 19 years (birth rate in adolescents per 1,000 women) </h1>]]></com:Text>
@@ -72,7 +72,7 @@
           <com:Text xml:lang="en"><![CDATA[ <p> NATIONAL INSTITUTE OF STATISTICS </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="en"><![CDATA[ <p> Teixeira Mandlate, Maria Alfeu and Jo &#xE3; o Mangue </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Teixeira Mandlate, Maria Alfeu and João Mangue </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
           <com:Text xml:lang="en"><![CDATA[ <p> Technicians </p>]]></com:Text>
@@ -88,25 +88,25 @@
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           <com:Text xml:lang="en"><![CDATA[ <p> Birth rate in adolescents aged 10 to 14 years and 15 to 19 years (birth rate in adolescents per 1,000 women) </p>
- <p> The birth rate of adolescents represents the risk of becoming pregnant among women of a certain age group. The adolescent birth rate (ABR) is also &#xE9; m &#xE9; called <strong> specific fertility rate is </strong> (ASFR) for ages 15 to 19, a designation commonly used in the context of the calculation of total fertility estimates. A related measure &#xE9; the proposal of adolescent fertility, measured as the percentage of total fertility contributed by women aged 15 to 19 </p>]]></com:Text>
+ <p> The birth rate of adolescents represents the risk of becoming pregnant among women of a certain age group. The adolescent birth rate (ABR) is also called <strong> specific fertility rate </strong> (ages 15-19), a designation commonly used in the context of calculating total fertility estimates. A related measure is the proportion of adolescent fertility, measured as the percentage of total fertility contributed by women aged 15 to 19 </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="en"><![CDATA[ <p> Per 1,000 women </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"><![CDATA[ <p> Statistics Portugal, Demographic survey and Health survey (IDS); Statistics Portugal, General population census &#xE7; &#xE7; &#xE7; &#xE3; o </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Statistics Portugal, Demographic and Health Survey (IDS); Statistics Portugal, General Population and Housing Census </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are the Household Surveys. The Demographic Survey and Health Survey data collection questionnaire was designed and subsequently tested in the field during the training of interviewers. </p>
- <p> For the collection of data, the methodology of interviews was applied face to face to the households applying three types of questionnaires: </p>
- <p> &#x2022; Household Questionnaire </p>
- <p> &#x2022; Questionnaire for Women </p>
- <p> &#x2022; Questionnaire of Men. </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are Household Surveys. The Demographic and Health Survey data collection questionnaire was designed and subsequently tested in the field during the training of interviewers. </p>
+ <p> For data collection, the methodology of interviews was applied face to face to the households, applying three types of questionnaires: </p>
+ <p> • Household Questionnaire </p>
+ <p> • Women's Questionnaire </p>
+ <p> • Men's Questionnaire. </p>
  <p> The Sample Design </p>
- <p> The Demographic and Health Survey comprises a probabilistic, stratified and multi-ethic sample, selected from the Data and Cartography of the III General Census of Population &#xE7; &#xE3; o Inhabit &#xE7; &#xE3; o, carried out by INE in 2007. </p>
+ <p> The Demographic and Health Survey comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. </p>
  <p> The data collection lasted for five months starting in June 2011, ending in November 2011. </p>
  <p> Response rate </p>
- <p> Of the 13.964 households interviewed in the survey, a total of 13.871 eligible women were identified. Interviews were conducted with 13,718 of these women, which resulted in a response rate of 99%. Introduction &#xE3; o &#x2022; 13 In one third of the IDS household sample, interviews were also conducted with all eligible men found. Thus, of the 4,130 eligible men identified in the subsample of households selected for the men's survey, 4,027 were successfully interviewed, giving a response rate of 98% </p>]]></com:Text>
+ <p> Of the 13.964 households interviewed in the survey, a total of 13.871 eligible women were identified. Interviews were conducted with 13,718 of these women, which resulted in a response rate of 99%. Introduction • 13 In one third of the IDS household sample, interviews were also conducted with all eligible men found. Thus, of the 4,130 eligible men identified in the subsample of households selected for the men survey, 4,027 were successfully interviewed, giving a response rate of 98% </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="en"><![CDATA[ <p> 2021 </p>]]></com:Text>
@@ -124,42 +124,42 @@
           <com:Text xml:lang="en"><![CDATA[ <p> Law 7/96 of 5 July </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"><![CDATA[ <p> Reduce adolescent fertility and address the multiple factors underlying it are essential to improving sexual and reproductive health and the social and economic well-being of adolescents. There is substantial agreement in the literature that women who become pregnant and light very early in their reproductive lives are subject to higher risks of complications or death during pregnancy and childbirth than their peers, and their children are also at greater risk of morbidity and death than children born to older women. Therefore, preventing births too early in a woman's life &#xE9; an important measure to improve maternal health and reduce child mortality. In addition, having children at an early age reduces a woman's socioeconomic improvement opportunities, mainly because young mothers are less likely to continue to study and, if she need to work, they may find it especially difficult to combine family and professional responsibilities. The birth rate of adolescents also provides indirect evidence of young people's access to health services, j &#xE1; whereas young people, in particular single adolescents, tend to have difficulties in accessing sexual and reproductive health services. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Reducing adolescent fertility and addressing the multiple factors underlying it are essential to improving adolescent sexual and reproductive health and social and economic well-being. There is substantial agreement in the literature that women who become pregnant and give birth very early in their reproductive lives are at higher risk of complications or death during pregnancy and childbirth than their peers, and their children are also at greater risk of morbidity. and death than children born to older women. Therefore, preventing births too early in a woman's life is an important measure to improve maternal health and reduce child mortality. In addition, having children at a young age reduces a woman's opportunities for socioeconomic improvement, mainly because young mothers are less likely to continue to study and, if she needs to work, may find it especially difficult to combine family and professional responsibilities. The birth rate of adolescents also provides indirect evidence of young people's access to health services, as young people, in particular single adolescents, often experience difficulties in accessing sexual and reproductive health services. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"><![CDATA[ <p> The discrepancies between data sources at the level of the country are common and the level of the fertility rate of adolescents depends in part on the source of the data selected. For civil registration, fees are subject to limitations that depend on the integrity of the birth register, the treatment of babies born alive, but who die before registration or in the first 24 hours of life, the quality of the information reported related to the age of the mother, and the inclusion of births from previous periods. Population estimates may be subject to limitations related to incorrect declaration of age and coverage. For survey data and censuses, the numerator and denominator are from the same population. The main limitations relate to the incorrect age statements, birth omissions, incorrect child's date of birth and sample variability in the case of inquiries rites. With regard to the estimates of the fertility rate among adolescents aged 10 to 14 years, comparative evidence suggests that a very small proportion of births in this age group. ria occurs in women under 12 years of age. Other evidence based on historical retrospective data from births of surveys indicates that women aged 15 to 19 years are less likely to report first births before age 15 than women from the same birth cohort when asked five years later, aged between 20 and 24 years. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Discrepancies between data sources at country level are common and the level of adolescent fertility rate depends in part on the source of the selected data. For the civil registry, fees are subject to limitations that depend on the integrity of the birth registry, on the treatment of live born babies, but who die before registration or in the first 24 hours of life, on the quality of the reported information related to age of the mother, and the inclusion of births from previous periods. Population estimates may be subject to limitations related to incorrect declarations of age and coverage. For survey and census data, the numerator and denominator are from the same population. The main limitations concern the incorrect declaration of age, omissions of birth, incorrect declaration of the child's date of birth and sample variability in the case of surveys. With regard to fertility rate estimates among adolescents aged 10 to 14 years, comparative evidence suggests that a very small proportion of births in this age group occurs in women under 12 years of age. Other evidence based on historical retrospective birth data from surveys indicates that women aged 15 to 19 are less likely to report first births before age 15 than women in the same birth cohort when asked five years later, aged 20 and 24 years old. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="en"><![CDATA[ <p> The fertility rate of adolescents &#xE9; calculated as a ratio. The numerator &#xE9; the number of live births for women between 15 and 19 years old and the denominator &#xE9; the exposure estimate &#xE7; &#xE3; o &#xE0; pregnancy of women between 15 and 19 years old. The calculation &#xE9; the same for the 10 to 14 year old age group. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The fertility rate of adolescents is calculated as a ratio. The numerator is the number of live births for women between 15 and 19 years old and the denominator is the estimate of exposure to pregnancy for women between 15 and 19 years old. The calculation is the same for the 10-14 year old age group. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="en"><![CDATA[ <p> The field work had close supervision and quality control by the central and provincial technicians, both from INE, MISAU and ICF International staff. In addition, during the data collection, a strict control was established at the level of each team over the collection process, through the detection of errors by the creation team. xED; field, which allowed immediate correction still on the ground. At the level of the central coordinator, the data critics did additional review of the base data and the problems encountered were communicated to the respective teams . </p>
- <p> Interactive and batch processing of information through the CSPro program also allowed the central level to obtain the period ; partial results hint, for analysis of the data collected until &#xE9; given time, through the production of frames for monitoring and quality control. The results of these tables have been reported in retroactive feeds and the inquirers, ensuring the quality of the data. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The field work had close supervision and quality control by the central and provincial technicians, both from INE, MISAU and ICF International staff. In addition, during the data collection, a strict control was established at the level of each team over the collection process, by detecting errors by the field critics, which allowed for immediate correction still on the ground. At the level of central coordination, the data critics carried out a further review of the base data and the problems encountered were communicated to the respective teams. </p>
+ <p> The interactive and batch processing of information through the CSPro program also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the interviewers, ensuring data quality. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="en"><![CDATA[ <p> The Demographic and Health Survey (IDS) in Mozambique is part of an international survey program (MEASURE DHS) developed by ICF International through a contract with USAID, with the purpose of supporting the governments and private institutions of developing countries in carrying out national surveys by sampling, in the areas of population and health. The MEASURE DHS Program aims to: </p>
- <p> &#x2022; Subsidize the policy formulation and implementation of programs in the areas of population and health. ; </p>
- <p> &#x2022; Increase the international database on population and health for monitoring and evaluation; </p>
- <p> &#x2022; Improve survey methodology by sampling, and </p>
- <p> &#x2022; Consolidate, in the area of inquiry, the technical capacity of the institution in the country participating in the Program. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The Demographic and Health Survey (IDS) in Mozambique is part of an international survey program (MEASURE DHS) developed by ICF International through a contract with USAID, with the purpose of supporting governments and private institutions in developing countries in conducting national surveys by sampling, in the areas of population and health. The MEASURE DHS Program aims to: </p>
+ <p> • Support the formulation of policies and implementation of programs in the areas of population and health; </p>
+ <p> • Increase the international population and health data base for monitoring and evaluation; </p>
+ <p> • Improve the survey methodology by sampling, and </p>
+ <p> • Consolidate, in the survey area, the technical capacity of the executing institution in the country participating in the Program. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
           <com:Text xml:lang="en"><![CDATA[ <p> Quality Management Instrument still to be approved </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="en"><![CDATA[ <p> Interactive and batch processing of information through the CSPro program also allowed the central level to obtain the period ; partial results hint, for analysis of the data collected until &#xE9; given time, through the production of frames for monitoring and quality control. The results of these tables have been reported in retroactive feeds and the inquirers, ensuring the quality of the data. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The interactive and batch processing of information through the CSPro program also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the interviewers, ensuring data quality. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"><![CDATA[ <p> Quality Assessment Instrument still to be approved </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="en"><![CDATA[ <p> The data is available every 5 years and can be disaggregated by the total country </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Data are available every 5 years and can be disaggregated by the country total </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="en"><![CDATA[ <p> Survey estimates are based on standardized methodology, using the WHO Child Growth Standards, as described in (Ref: Anthro software manual). Global and regional estimates are based on the methodology described at UNICEF-WHO, World Bank: Joint estimates of child malnutrition - levels and trends (UNICEF / WHO / BM) </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Survey estimates are based on standardized methodology, using the WHO Child Growth Standards, as described in (Ref: Anthro software manual). Global and regional estimates are based on the methodology described at UNICEF-WHO, World Bank: Joint estimates of child malnutrition - Levels and trends (UNICEF / WHO / BM) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health (MISAU), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; National Institute of Statistics (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; ICF International (ICFI), <a href="http://www.measuredhs.com"> www.measuredhs.com </a> </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Ministry of Health (MISAU), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; National Statistics Institute (INE), <a href="http://www.misau.gov.mz"> www.misau.gov.mz </a>; ICF International (ICFI), <a href="http://www.measuredhs.com"> www.measuredhs.com </a> </p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
     </gen:Report>

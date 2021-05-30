@@ -2,16 +2,16 @@
 <root>
 	<status>success</status>
 	<message>The DOC_METHOD field for indicator 8-5-2, translated into pt</message>
-	<data>&lt;p&gt;Para a recolha de dados do IOF foram usados 5 Tipos de Question&amp;#xE1;rios: &lt;/p&gt;
-&lt;p&gt;1. Question&amp;#xE1;rio das Caracter&amp;#xED;sticas Gerais do Agregado Familiar; &lt;/p&gt;
-&lt;p&gt;2. Question&amp;#xE1;rio das Despesas Di&amp;#xE1;rias do Agregado; &lt;/p&gt;
-&lt;p&gt;3. Question&amp;#xE1;rio das Despesas e Receitas (anuais e mensais); &lt;/p&gt;
-&lt;p&gt;4. Question&amp;#xE1;rio Comunit&amp;#xE1;rio (preenchido pelo Controlador). Este &amp;#xFA;ltimo foi usado somente nas &amp;#xE1;reas rurais; e &lt;/p&gt;
-&lt;p&gt;5. Question&amp;#xE1;rio para pessoas de 5 anos e mais (emprego). Adicionalmente, foi inclu&amp;#xED;do um m&amp;#xF3;dulo sobre actividade tur&amp;#xED;stica em Mo&amp;#xE7;ambique. &lt;/p&gt;
-&lt;p&gt;Em termos pr&amp;#xE1;ticos, foram utilizadas duas modalidades de recolha de dados: &lt;/p&gt;
-&lt;p&gt; Electr&amp;#xF3;nica (Tablets) para os 5 tipos de Question&amp;#xE1;rios, &lt;/p&gt;
-&lt;p&gt; Em papel para os Question&amp;#xE1;rios de Despesas Di&amp;#xE1;rias e Despesas e Receitas Mensais e Anuais para se garantir maior fiabilidade dada a sua complexidade de recolha. A recolha de dados num agregado familiar foi feita atrav&amp;#xE9;s de 3 visitas &amp;#xE0;s unidades de alojamento durante 7 dias cont&amp;#xED;nuos, respeitando a seguinte distribui&amp;#xE7;&amp;#xE3;o: &lt;/p&gt;
-&lt;p&gt; No dia da primeira visita, o inquiridor preenchia o Question&amp;#xE1;rio das Caracter&amp;#xED;sticas Gerais do agregado familiar e uma parte do Question&amp;#xE1;rio das Despesas Di&amp;#xE1;rias (despesas, auto consumo e receitas em esp&amp;#xE9;cie correspondentes ao dia anterior). Nesta fase, o inquiridor preenchia tamb&amp;#xE9;m o m&amp;#xF3;dulo sobre turismo. &lt;/p&gt;
-&lt;p&gt; Na segunda visita, (tr&amp;#xEA;s dias depois da primeira) o Inquiridor recolhia as despesas mensais e anuais e preenchia o Question&amp;#xE1;rio das Despesas Di&amp;#xE1;rias do Agregado dos &amp;#xFA;ltimos 3 dias. &lt;/p&gt;
-&lt;p&gt; Na terceira visita (tr&amp;#xEA;s dias depois da segunda) o Inquiridor recolhia as receitas e transfer&amp;#xEA;ncias e preenchia o Question&amp;#xE1;rio das Despesas Di&amp;#xE1;rias do Agregado familiar nos &amp;#xFA;ltimos 3 dias. Regularmente eram solicitados aos inquiridores para que, depois de recolher os dados no campo usando o Question&amp;#xE1;rio em papel ou via Tablet, fossem enviados para o respectivo Controlador e, este por sua vez, compilava todos os dados e enviava via internet ao INE Central para o sector de Inform&amp;#xE1;tica e Cr&amp;#xED;tica-Codifica&amp;#xE7;&amp;#xE3;o e Digita&amp;#xE7;&amp;#xE3;o. A Equipe de Cr&amp;#xED;tica e Codifica&amp;#xE7;&amp;#xE3;o fazia uma an&amp;#xE1;lise da qualidade e atribu&amp;#xED;a c&amp;#xF3;digos &amp;#xE0;s perguntas abertas - Question&amp;#xE1;rio em papel.&lt;/p&gt;</data>
+	<data>&lt;p&gt;Para a recolha de dados do IOF foram usados 5 Tipos de Questionários: &lt;/p&gt;
+&lt;p&gt;1. Questionário das Características Gerais do Agregado Familiar; &lt;/p&gt;
+&lt;p&gt;2. Questionário das Despesas Diárias do Agregado; &lt;/p&gt;
+&lt;p&gt;3. Questionário das Despesas e Receitas (anuais e mensais); &lt;/p&gt;
+&lt;p&gt;4. Questionário Comunitário (preenchido pelo Controlador). Este último foi usado somente nas áreas rurais; e &lt;/p&gt;
+&lt;p&gt;5. Questionário para pessoas de 5 anos e mais (emprego). Adicionalmente, foi incluído um módulo sobre actividade turística em Moçambique. &lt;/p&gt;
+&lt;p&gt;Em termos práticos, foram utilizadas duas modalidades de recolha de dados: &lt;/p&gt;
+&lt;p&gt; Electrónica (Tablets) para os 5 tipos de Questionários, &lt;/p&gt;
+&lt;p&gt; Em papel para os Questionários de Despesas Diárias e Despesas e Receitas Mensais e Anuais para se garantir maior fiabilidade dada a sua complexidade de recolha. A recolha de dados num agregado familiar foi feita através de 3 visitas às unidades de alojamento durante 7 dias contínuos, respeitando a seguinte distribuição: &lt;/p&gt;
+&lt;p&gt; No dia da primeira visita, o inquiridor preenchia o Questionário das Características Gerais do agregado familiar e uma parte do Questionário das Despesas Diárias (despesas, auto consumo e receitas em espécie correspondentes ao dia anterior). Nesta fase, o inquiridor preenchia também o módulo sobre turismo. &lt;/p&gt;
+&lt;p&gt; Na segunda visita, (três dias depois da primeira) o Inquiridor recolhia as despesas mensais e anuais e preenchia o Questionário das Despesas Diárias do Agregado dos últimos 3 dias. &lt;/p&gt;
+&lt;p&gt; Na terceira visita (três dias depois da segunda) o Inquiridor recolhia as receitas e transferências e preenchia o Questionário das Despesas Diárias do Agregado familiar nos últimos 3 dias. Regularmente eram solicitados aos inquiridores para que, depois de recolher os dados no campo usando o Questionário em papel ou via Tablet, fossem enviados para o respectivo Controlador e, este por sua vez, compilava todos os dados e enviava via internet ao INE Central para o sector de Informática e Crítica-Codificação e Digitação. A Equipe de Crítica e Codificação fazia uma análise da qualidade e atribuía códigos às perguntas abertas - Questionário em papel.&lt;/p&gt;</data>
 </root>

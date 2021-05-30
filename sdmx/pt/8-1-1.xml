@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T02:59:26.537Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T14:42:34.574Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="8945ea0f-afb1-4da2-afa7-28e7929a3f05">
+  <mes:MetadataSet structureRef="MDS1" setID="08709e3c-ab1d-4431-a8c1-b9d8b64cb7a1">
     <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Direc&#xE7;&#xE3;o de Contas Nacionais e Indicadores Globais</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção de Contas Nacionais e Indicadores Globais</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="pt"/>
@@ -54,10 +54,10 @@
           <com:Text xml:lang="pt"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="pt"><![CDATA[<p> 8 Promover o crescimento econ&#xF3;mico sustentado, inclusivo e sustent&#xE1;vel, emprego pleno e produtivo e trabalho decente para todos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> 8 Promover o crescimento económico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="pt"><![CDATA[<p>8.1 Sustentar o crescimento econ&#xF3;mico per capita de acordo com as circunst&#xE2;ncias nacionais e, em particular, um crescimento anual de pelo menos 7% do produto interno bruto [PIB] nos pa&#xED;ses menos desenvolvidos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>8.1 Sustentar o crescimento económico per capita de acordo com as circunstâncias nacionais e, em particular, um crescimento anual de pelo menos 7% do produto interno bruto [PIB] nos países menos desenvolvidos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
           <com:Text xml:lang="pt"><![CDATA[<h1>8.1.1 Taxa de crescimento anual do PIB real per capita</h1>]]></com:Text>
@@ -69,106 +69,106 @@
           <com:Text xml:lang="pt"><![CDATA[<p>06/10/2020</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estat&#xED;stica</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estatística</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="pt"><![CDATA[<p>Perpetua Mendon&#xE7;a; Sim&#xE3;o S&#xE1;bado; Cipriano Claudio</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Perpetua Mendonça; Simão Sábado; Cipriano Claudio</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="pt"><![CDATA[<p>T&#xE9;cnica, Chefe do Departamento e Director</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Técnica, Chefe do Departamento e Director</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Perp&#xE9;tua: +258-823810450/+258-873810450;</p>
-<p>S&#xE1;bado: +258-827027780/+258-868001057;</p>
-<p>Cl&#xE1;udio: +258-824261470 </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Perpétua: +258-823810450/+258-873810450;</p>
+<p>Sábado: +258-827027780/+258-868001057;</p>
+<p>Cláudio: +258-824261470 </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:perpetua.mendoca@ine.gov.mz">perpetua.mendoca@ine.gov.mz</a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita &#xE9; calculada como a varia&#xE7;&#xE3;o percentual no PIB real per capita entre dois anos consecutivos. O PIB real per capita &#xE9; calculado dividindo o PIB a pre&#xE7;os constantes pela popula&#xE7;&#xE3;o de um pa&#xED;s ou regi&#xE3;o. Os dados do PIB real s&#xE3;o medidos em d&#xF3;lares americanos constantes para facilitar o c&#xE1;lculo das taxas de crescimento do pa&#xED;s, sua respectiva agrega&#xE7;&#xE3;o e a comparabilidade entre pa&#xED;ses ou regi&#xF5;es.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita é calculada como a variação percentual no PIB real per capita entre dois anos consecutivos. O PIB real per capita é calculado dividindo o PIB a preços constantes pela população de um país ou região. Os dados do PIB real são medidos em dólares americanos constantes para facilitar o cálculo das taxas de crescimento do país, sua respectiva agregação e a comparabilidade entre países ou regiões.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
-          <com:Text xml:lang="pt"><![CDATA[<p>Classifica&#xE7;&#xE3;o das actividades econ&#xF3;micas (CAE), Classifica&#xE7;&#xE3;o Nacional de Bens e Servi&#xE7;os (CNBS); Classifica&#xE7;&#xE3;o das Institui&#xE7;&#xF5;es Sem Fins Lucrativos aos Servi&#xE7;os das Fam&#xED;lias (COPNI); Classifica&#xE7;&#xE3;o das Fun&#xE7;&#xF5;es do Governo (COFOG), Classifica&#xE7;&#xE3;o Consumo Individual por Objectivo (COICOP) Manual da Balan&#xE7;a de Pagamento, Vers&#xE3;o 6 (MBOP6)</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Classificação das actividades económicas (CAE), Classificação Nacional de Bens e Serviços (CNBS); Classificação das Instituições Sem Fins Lucrativos aos Serviços das Famílias (COPNI); Classificação das Funções do Governo (COFOG), Classificação Consumo Individual por Objectivo (COICOP) Manual da Balança de Pagamento, Versão 6 (MBOP6)</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Inqu&#xE9;ritos mensais, Inqu&#xE9;ritos anuais, Dados administrativos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Inquéritos mensais, Inquéritos anuais, Dados administrativos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os inqu&#xE9;ritos mensais e anuais &#xE0;s empresas s&#xE3;o inqu&#xE9;ritos correntes, probabil&#xED;sticos. Os question&#xE1;rios f&#xED;sicos ou electr&#xF3;nicos s&#xE3;o enviados &#xE0;s empresas para o preenchimento e devolu&#xE7;&#xE3;o. T&#xEA;m como vari&#xE1;veis chave: a actividade principal e secund&#xE1;ria, o volume de neg&#xF3;cios, gastos detalhados por tipo de gasto, N.&#xBA; de trabalhadores, remunera&#xE7;&#xF5;es e horas trabalhadas. T&#xEA;m aplica&#xE7;&#xF5;es inform&#xE1;ticas pr&#xF3;prias com regras de valida&#xE7;&#xE3;o.</p>
-<p>Os dados administrativos s&#xE3;o recebidos em modelos usados pelas fontes. Quando s&#xE3;o recebidos, faz-se uma avalia&#xE7;&#xE3;o da qualidade dos mesmos.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os inquéritos mensais e anuais às empresas são inquéritos correntes, probabilísticos. Os questionários físicos ou electrónicos são enviados às empresas para o preenchimento e devolução. Têm como variáveis chave: a actividade principal e secundária, o volume de negócios, gastos detalhados por tipo de gasto, N.º de trabalhadores, remunerações e horas trabalhadas. Têm aplicações informáticas próprias com regras de validação.</p>
+<p>Os dados administrativos são recebidos em modelos usados pelas fontes. Quando são recebidos, faz-se uma avaliação da qualidade dos mesmos.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="pt"><![CDATA[<p> De janeiro a Dezembro de cada ano </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
-          <com:Text xml:lang="pt"><![CDATA[<p>Maio de cada ano: PIB Preliminares do ano n-1 e PIB Definitivo do n-2; Outubro de cada ano : PIB Provis&#xF3;rio do ano n-1</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Maio de cada ano: PIB Preliminares do ano n-1 e PIB Definitivo do n-2; Outubro de cada ano : PIB Provisório do ano n-1</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rios, Banco de Mo&#xE7;ambique, institui&#xE7;&#xF5;es estatais</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministérios, Banco de Moçambique, instituições estatais</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estat&#xED;stica</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estatística</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
           <com:Text xml:lang="pt"><![CDATA[<p>De acordo com o artigo 19, da Lei 7/96 de 05 de Julho:</p>
 <ol>
-  <li>O Instituto Nacional de Estat&#xED;stica (INE) &#xE9; o &#xF3;rg&#xE3;o executivo central do Sistema Estat&#xED;stico Nacional (SEN) que tem por objectivo a nota&#xE7;&#xE3;o, apuramento, coordena&#xE7;&#xE3;o e difus&#xE3;o da informa&#xE7;&#xE3;o estat&#xED;stica oficial do Pa&#xED;s e subordina-se ao Conselho de Ministro.</li>
-  <li>Compete ao INE realizar a actividade estat&#xED;stica oficial do Pa&#xED;s. </li>
+  <li>O Instituto Nacional de Estatística (INE) é o órgão executivo central do Sistema Estatístico Nacional (SEN) que tem por objectivo a notação, apuramento, coordenação e difusão da informação estatística oficial do País e subordina-se ao Conselho de Ministro.</li>
+  <li>Compete ao INE realizar a actividade estatística oficial do País. </li>
 </ol>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="pt"><![CDATA[<p>O Produto Interno Bruto Real (PIB) per capita &#xE9; um proxy para o padr&#xE3;o de vida m&#xE9;dio dos residentes num pa&#xED;s ou &#xE1;rea. Uma varia&#xE7;&#xE3;o percentual positiva no PIB real anual per capita pode ser interpretada como um aumento no padr&#xE3;o de vida m&#xE9;dio dos residentes num pa&#xED;s ou &#xE1;rea</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O Produto Interno Bruto Real (PIB) per capita é um proxy para o padrão de vida médio dos residentes num país ou área. Uma variação percentual positiva no PIB real anual per capita pode ser interpretada como um aumento no padrão de vida médio dos residentes num país ou área</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="pt"><![CDATA[<p>Falta de observ&#xE2;ncia rigorosa da legisla&#xE7;&#xE3;o estat&#xED;stica;</p>
-<p>Recep&#xE7;&#xE3;o tardia de dados provenientes das fontes;</p>
-<p>Falta ou insufici&#xEA;ncia de recursos para a realiza&#xE7;&#xE3;o de inqu&#xE9;ritos com uma periodicidade regular pode conduzir ao enviesamento de estimativas de produ&#xE7;&#xE3;o e transa&#xE7;&#xF5;es.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Falta de observância rigorosa da legislação estatística;</p>
+<p>Recepção tardia de dados provenientes das fontes;</p>
+<p>Falta ou insuficiência de recursos para a realização de inquéritos com uma periodicidade regular pode conduzir ao enviesamento de estimativas de produção e transações.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita &#xE9; calculada da seguinte forma:</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita é calculada da seguinte forma:</p>
 <ol>
-  <li>Converta o PIB real (pre&#xE7;os constantes) anual em moeda nacional de um pa&#xED;s ou regi&#xE3;o em d&#xF3;lares americanos usando a taxa de c&#xE2;mbio do ano base.</li>
-  <li>Divida o resultado pela popula&#xE7;&#xE3;o do pa&#xED;s ou regi&#xE3;o para obter o PIB real per capita anual em d&#xF3;lares americanos.</li>
-  <li>Calcule a taxa de crescimento anual do PIB real per capita no ano t<sub>+1</sub>, usando a seguinte f&#xF3;rmula: [(G (t<sub>+1</sub>) - G (t) / G (t)] x 100, onde G (t<sub>+1</sub>) &#xE9; o PIB real per capita em d&#xF3;lares no ano t<sub>+1</sub> e G (t) &#xE9; o PIB real per capita em d&#xF3;lares do ano t.</li>
+  <li>Converta o PIB real (preços constantes) anual em moeda nacional de um país ou região em dólares americanos usando a taxa de câmbio do ano base.</li>
+  <li>Divida o resultado pela população do país ou região para obter o PIB real per capita anual em dólares americanos.</li>
+  <li>Calcule a taxa de crescimento anual do PIB real per capita no ano t<sub>+1</sub>, usando a seguinte fórmula: [(G (t<sub>+1</sub>) - G (t) / G (t)] x 100, onde G (t<sub>+1</sub>) é o PIB real per capita em dólares no ano t<sub>+1</sub> e G (t) é o PIB real per capita em dólares do ano t.</li>
 </ol>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>Cruzamento de dados dos inqu&#xE9;ritos com as contas auditadas.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Cruzamento de dados dos inquéritos com as contas auditadas.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita &#xE9; calculada da seguinte forma:</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita é calculada da seguinte forma:</p>
 <ol>
-  <li>Converta o PIB real (pre&#xE7;os constantes) anual em moeda nacional de um pa&#xED;s ou regi&#xE3;o em d&#xF3;lares americanos usando a taxa de c&#xE2;mbio do ano base.</li>
-  <li>Divida o resultado pela popula&#xE7;&#xE3;o do pa&#xED;s ou regi&#xE3;o para obter o PIB real per capita anual em d&#xF3;lares americanos.</li>
-  <li>Calcule a taxa de crescimento anual do PIB real per capita no ano t<sub>+1</sub>, usando a seguinte f&#xF3;rmula: [(G (t<sub>+1</sub>) - G (t) / G (t)] x 100, onde G (t<sub>+1</sub>) &#xE9; o PIB real per capita em d&#xF3;lares no ano t<sub>+1</sub> e G (t) &#xE9; o PIB real per capita em d&#xF3;lares do ano t..</li>
+  <li>Converta o PIB real (preços constantes) anual em moeda nacional de um país ou região em dólares americanos usando a taxa de câmbio do ano base.</li>
+  <li>Divida o resultado pela população do país ou região para obter o PIB real per capita anual em dólares americanos.</li>
+  <li>Calcule a taxa de crescimento anual do PIB real per capita no ano t<sub>+1</sub>, usando a seguinte fórmula: [(G (t<sub>+1</sub>) - G (t) / G (t)] x 100, onde G (t<sub>+1</sub>) é o PIB real per capita em dólares no ano t<sub>+1</sub> e G (t) é o PIB real per capita em dólares do ano t..</li>
 </ol>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os dados compilados e verificados pelos t&#xE9;cnicos s&#xE3;o reconciliados pelos chefes e submetidos os directores para a reverifica&#xE7;&#xE3;o.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados compilados e verificados pelos técnicos são reconciliados pelos chefes e submetidos os directores para a reverificação.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Uso de manuais das Na&#xE7;&#xF5;es Unidas para Contas Nacionais, SNA 2008; a observ&#xE2;ncia das revis&#xF5;es recomendadas pelas Na&#xE7;&#xF5;es Unidas.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Uso de manuais das Nações Unidas para Contas Nacionais, SNA 2008; a observância das revisões recomendadas pelas Nações Unidas.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Partilha com institui&#xE7;&#xF5;es internacionais de publica&#xE7;&#xF5;es.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Partilha com instituições internacionais de publicações.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
           <com:Text xml:lang="pt"><![CDATA[<p>Maio de cada ano: PIB Preliminares do ano<sub> </sub>n;</p>
 <p>Maio de cada ano: PIB Definitivo do ano n-1;</p>
-<p>Outubro de cada ano: PIB Provis&#xF3;rio do ano n.</p>
-<p>Dados desagregados por Pa&#xED;s e por prov&#xED;ncia</p>]]></com:Text>
+<p>Outubro de cada ano: PIB Provisório do ano n.</p>
+<p>Dados desagregados por País e por província</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="pt"><![CDATA[<p>Calculo deste indicador n&#xE3;o difere dos c&#xE1;lculos feitos internacionalmente, porque usa-se manuais das Na&#xE7;&#xF5;es Unidas para Contas Nacionais, SNA 2008; a observ&#xE2;ncia das revis&#xF5;es recomendadas pela Na&#xE7;&#xF5;es Unidas.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Calculo deste indicador não difere dos cálculos feitos internacionalmente, porque usa-se manuais das Nações Unidas para Contas Nacionais, SNA 2008; a observância das revisões recomendadas pela Nações Unidas.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="pt"><![CDATA[<p>SNA 2008, das Na&#xE7;&#xF5;es Unidas;</p>
-<p>Classifica&#xE7;&#xF5;es nacionais e internacionais;</p>
-<p>MBOP6 (Mo&#xE7;ambique, Manual da Balan&#xE7;a de Pagamento, Vers&#xE3;o 6)</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>SNA 2008, das Nações Unidas;</p>
+<p>Classificações nacionais e internacionais;</p>
+<p>MBOP6 (Moçambique, Manual da Balança de Pagamento, Versão 6)</p>
 <p>http://www.ine.gov.mz/estatisticas/estatisticas-economicas/contas-nacionais</p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>

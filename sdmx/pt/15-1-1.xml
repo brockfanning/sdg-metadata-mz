@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T02:59:19.654Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T14:42:28.161Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="a605f5c8-1ef2-4804-9fd4-70d85ab2e433">
+  <mes:MetadataSet structureRef="MDS1" setID="313aba76-9656-402b-9cdb-da786a9c4afa">
     <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -36,7 +36,7 @@
       </gen:Target>
       <gen:AttributeSet>
         <gen:ReportedAttribute id="ORGANISATION_UNIT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Direc&#xE7;&#xE3;o Nacional de Planifica&#xE7;&#xE3;o e Coopera&#xE7;&#xE3;o</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Direcção Nacional de Planificação e Cooperação</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR_INFO">
           <com:Text xml:lang="pt"/>
@@ -54,16 +54,16 @@
           <com:Text xml:lang="pt"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="pt"><![CDATA[<p>15 PROTEGER, RECUPERAR E PROMOVER O USO SUSTENT&#xC1;VEL DOS ECOSSISTEMAS TERRESTRES, GERIR DE FORMA SUSTENT&#xC1;VEL AS FLORESTAS, COMBATER A DESERTIFICA&#xC7;&#xC3;O, DETER E REVERTER A DEGRADA&#xC7;&#xC3;O DA TERRA E DETER A PERDA DE BIODIVERSIDADE</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>15 PROTEGER, RECUPERAR E PROMOVER O USO SUSTENTÁVEL DOS ECOSSISTEMAS TERRESTRES, GERIR DE FORMA SUSTENTÁVEL AS FLORESTAS, COMBATER A DESERTIFICAÇÃO, DETER E REVERTER A DEGRADAÇÃO DA TERRA E DETER A PERDA DE BIODIVERSIDADE</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="pt"><![CDATA[<p>15.1 At&#xE9; 2020, assegurar a conserva&#xE7;&#xE3;o, recupera&#xE7;&#xE3;o e uso sustent&#xE1;vel dos ecossistemas terrestres e de &#xE1;gua doce interiores e seus servi&#xE7;os, em especial florestas, zonas h&#xFA;midas, montanhas e terras &#xE1;ridas, em conformidade com as obriga&#xE7;&#xF5;es decorrentes dos acordos internacionais</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>15.1 Até 2020, assegurar a conservação, recuperação e uso sustentável dos ecossistemas terrestres e de água doce interiores e seus serviços, em especial florestas, zonas húmidas, montanhas e terras áridas, em conformidade com as obrigações decorrentes dos acordos internacionais</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="pt"><![CDATA[<p>15.1.1 &#xC1;rea florestal em percentagem da &#xE1;rea total da terra</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>15.1.1 Área florestal em percentagem da área total da terra</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="pt"><![CDATA[<p>&#xC1;rea florestal em percentagem da &#xE1;rea total da terra</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Área florestal em percentagem da área total da terra</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
           <com:Text xml:lang="pt"><![CDATA[<p>22/10/2020</p>]]></com:Text>
@@ -72,13 +72,13 @@
           <com:Text xml:lang="pt"><![CDATA[<p>Sem nenhum indicador relacionado</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Terra e Ambiente</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Terra e Ambiente</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_NAME">
-          <com:Text xml:lang="pt"><![CDATA[<p>Alberto Ant&#xF3;nio Macia</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Alberto António Macia</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_FUNCT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Chefe de Departamento de Monitoria e Avalia&#xE7;&#xE3;o</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Chefe de Departamento de Monitoria e Avaliação</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
           <com:Text xml:lang="pt"><![CDATA[<p>+258 847436161; +258 824138590</p>]]></com:Text>
@@ -87,69 +87,69 @@
           <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:betomacia2006@gmail.com"><u>betomacia2006@gmail.com</u></a><u>; </u><a href="mailto:betomacia2006@yahoo.com.br"><u>betomacia2006@yahoo.com.br</u></a></p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="pt"><![CDATA[<p>Para fornecer uma defini&#xE7;&#xE3;o precisa do indicador, &#xE9; crucial fornecer uma defini&#xE7;&#xE3;o de &quot;Floresta&quot; e &quot;&#xC1;rea total da terra&quot;.</p>
-<p>De acordo com as defini&#xE7;&#xF5;es da FAO, Floresta &#xE9; definida como: &#x201C;terras que abrangem mais de 0,5 hectares com &#xE1;rvores acima de 5 metros e uma cobertura de copa de mais de 10%, ou &#xE1;rvores capazes de atingir esses limiares in situ. N&#xE3;o inclui a terra predominantemente sob uso agr&#xED;cola ou urbano&#x201D;.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Para fornecer uma definição precisa do indicador, é crucial fornecer uma definição de "Floresta" e "Área total da terra".</p>
+<p>De acordo com as definições da FAO, Floresta é definida como: “terras que abrangem mais de 0,5 hectares com árvores acima de 5 metros e uma cobertura de copa de mais de 10%, ou árvores capazes de atingir esses limiares in situ. Não inclui a terra predominantemente sob uso agrícola ou urbano”.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="pt"><![CDATA[<p>Hectares (Ha)</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
-          <com:Text xml:lang="pt"><![CDATA[<p>N&#xE3;o s&#xE3;o utilizadas classifica&#xE7;&#xF5;es.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Não são utilizadas classificações.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Terra e Ambiente (Direc&#xE7;&#xE3;o Nacional de Florestas), Invent&#xE1;rio Nacional de Florestas</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Terra e Ambiente (Direcção Nacional de Florestas), Inventário Nacional de Florestas</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os dados relativos ao indicador s&#xE3;o recolhidos no Invent&#xE1;rio Nacional Florestal cujos detalhes sobre a recolha, controlo de qualidade, vari&#xE1;veis medidas, equipamentos usados, procedimentos de medi&#xE7;&#xE3;o, rigor e precis&#xE3;o no uso e manuseio dos equipamentos s&#xE3;o descritos nas Directrizes do Invent&#xE1;rio Florestal Nacional. Com base nos resultados do invent&#xE1;rio, s&#xE3;o descritas as &#xE1;reas espec&#xED;ficas que respondem de modo qualitativo ao indicador.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os dados relativos ao indicador são recolhidos no Inventário Nacional Florestal cujos detalhes sobre a recolha, controlo de qualidade, variáveis medidas, equipamentos usados, procedimentos de medição, rigor e precisão no uso e manuseio dos equipamentos são descritos nas Directrizes do Inventário Florestal Nacional. Com base nos resultados do inventário, são descritas as áreas específicas que respondem de modo qualitativo ao indicador.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="pt"><![CDATA[<p>At&#xE9; Dezembro de 2027</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Até Dezembro de 2027</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           <com:Text xml:lang="pt"><![CDATA[<p>Agosto de 2028</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Terra e Ambiente</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Terra e Ambiente</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
-          <com:Text xml:lang="pt"><![CDATA[<p>Minist&#xE9;rio da Terra e Ambiente</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ministério da Terra e Ambiente</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="INST_MANDATE">
-          <com:Text xml:lang="pt"><![CDATA[<p>De acordo com o Estatuto Org&#xE2;nico do Minist&#xE9;rio da Terra e Ambiente, que foi aprovado pela Resolu&#xE7;&#xE3;o n 30/2016 de 31 de Outubro, publicado no Boletim da Rep&#xFA;blica I S&#xE9;rie &#x2013; N&#xFA;mero 85, o Minist&#xE9;rio da Terra, Ambiente e Desenvolvimento Rural, dirige, planifica e coordena, controla e assegura a execu&#xE7;&#xE3;o de pol&#xED;ticas nos dom&#xED;nios de Administra&#xE7;&#xE3;o de Terras e Geom&#xE1;tica, Florestas e Fauna Bravia, Ambiente, Mudan&#xE7;as Clim&#xE1;ticas e &#xC1;reas de Conserva&#xE7;&#xE3;o.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>De acordo com o Estatuto Orgânico do Ministério da Terra e Ambiente, que foi aprovado pela Resolução n 30/2016 de 31 de Outubro, publicado no Boletim da República I Série – Número 85, o Ministério da Terra, Ambiente e Desenvolvimento Rural, dirige, planifica e coordena, controla e assegura a execução de políticas nos domínios de Administração de Terras e Geomática, Florestas e Fauna Bravia, Ambiente, Mudanças Climáticas e Áreas de Conservação.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="pt"><![CDATA[<p>O indicador fornece uma medida da extens&#xE3;o relativa da floresta num pa&#xED;s. A disponibilidade de dados precisos na &#xE1;rea florestal de um pa&#xED;s &#xE9; um elemento essencial para a pol&#xED;tica e o planeamento florestais no contexto do desenvolvimento sustent&#xE1;vel.</p>
-<p>A &#xE1;rea florestal como percentagem da &#xE1;rea total da terra pode ser usada como um <em>proxy</em> aproximado da extens&#xE3;o em que as florestas de um pa&#xED;s est&#xE3;o sendo conservadas ou restauradas, mas &#xE9; apenas parcialmente uma medida da extens&#xE3;o em que estas s&#xE3;o geridas de maneira sustent&#xE1;vel.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador fornece uma medida da extensão relativa da floresta num país. A disponibilidade de dados precisos na área florestal de um país é um elemento essencial para a política e o planeamento florestais no contexto do desenvolvimento sustentável.</p>
+<p>A área florestal como percentagem da área total da terra pode ser usada como um <em>proxy</em> aproximado da extensão em que as florestas de um país estão sendo conservadas ou restauradas, mas é apenas parcialmente uma medida da extensão em que estas são geridas de maneira sustentável.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os cinco sub-indicadores escolhidos para ilustrar o progresso em dire&#xE7;&#xE3;o a gest&#xE3;o florestal sustent&#xE1;vel n&#xE3;o abrangem totalmente todos os aspectos de gest&#xE3;o florestal sustent&#xE1;vel. Em particular, aspectos sociais e econ&#xF3;micos s&#xE3;o resumidos nos sub-indicadores de &#xE1;reas sob planos de gest&#xE3;o florestal sustent&#xE1;vel. Al&#xE9;m disso, como as tend&#xEA;ncias s&#xE3;o calculadas usando apenas os pa&#xED;ses que possuem s&#xE9;ries temporais completas de dados, diferentes sub-indicadores podem reflectir diferentes conjuntos de pa&#xED;ses.</p>
-<p>Enquanto o painel ilustra o progresso dos sub-indicadores individuais, n&#xE3;o h&#xE1; pondera&#xE7;&#xE3;o da import&#xE2;ncia relativa dos sub-indicadores</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Os cinco sub-indicadores escolhidos para ilustrar o progresso em direção a gestão florestal sustentável não abrangem totalmente todos os aspectos de gestão florestal sustentável. Em particular, aspectos sociais e económicos são resumidos nos sub-indicadores de áreas sob planos de gestão florestal sustentável. Além disso, como as tendências são calculadas usando apenas os países que possuem séries temporais completas de dados, diferentes sub-indicadores podem reflectir diferentes conjuntos de países.</p>
+<p>Enquanto o painel ilustra o progresso dos sub-indicadores individuais, não há ponderação da importância relativa dos sub-indicadores</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="pt"><![CDATA[<p><strong>&#xC1;rea de floresta (ano de refer&#xEA;ncia) / &#xE1;rea de terra (2015) * 100</strong></p>
-<p>Este indicador pode ser agregado ao n&#xED;vel global ou regional, adicionando todos os valores de pa&#xED;ses globalmente ou numa regi&#xE3;o espec&#xED;fica</p>
-<p>A propor&#xE7;&#xE3;o de &#xE1;rea florestal na &#xE1;rea protegida e no plano de gest&#xE3;o &#xE9; calculada usando as &#xE1;reas relatadas e a &#xE1;rea de terra oficial do FAOSTAT para o ano de refer&#xEA;ncia de 2015. </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p><strong>Área de floresta (ano de referência) / área de terra (2015) * 100</strong></p>
+<p>Este indicador pode ser agregado ao nível global ou regional, adicionando todos os valores de países globalmente ou numa região específica</p>
+<p>A proporção de área florestal na área protegida e no plano de gestão é calculada usando as áreas relatadas e a área de terra oficial do FAOSTAT para o ano de referência de 2015. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ap&#xF3;s a produ&#xE7;&#xE3;o da informa&#xE7;&#xE3;o relativa ao indicador, que &#xE9; produzida pela Direc&#xE7;&#xE3;o Nacional de Florestas, procede-se com sua valida&#xE7;&#xE3;o pelo Conselho Consultivo do Minist&#xE9;rio da Terra e Ambiente.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Após a produção da informação relativa ao indicador, que é produzida pela Direcção Nacional de Florestas, procede-se com sua validação pelo Conselho Consultivo do Ministério da Terra e Ambiente.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p> A metodologia e orienta&#xE7;&#xE3;o detalhadas sobre como preparar os relat&#xF3;rios do Pa&#xED;s atrav&#xE9;s de uma plataforma web online e converter dados nacionais de acordo com as categorias e defini&#xE7;&#xF5;es nacionais para as categorias e defini&#xE7;&#xF5;es globais da FAO encontram-se nos documentos &quot;Orienta&#xE7;&#xF5;es e Especifica&#xE7;&#xF5;es&quot; (www.fao.org/3/I8699EN/i8699en.pdf) </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> A metodologia e orientação detalhadas sobre como preparar os relatórios do País através de uma plataforma web online e converter dados nacionais de acordo com as categorias e definições nacionais para as categorias e definições globais da FAO encontram-se nos documentos "Orientações e Especificações" (www.fao.org/3/I8699EN/i8699en.pdf) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ainda n&#xE3;o existe um sistema espec&#xED;fico de gest&#xE3;o de qualidade, contudo, est&#xE1; em curso a operacionaliza&#xE7;&#xE3;o do Sistema de Informa&#xE7;&#xE3;o Florestal (SIF) que foi criado com o intu&#xED;to de conferir maior credibilidade na informa&#xE7;&#xE3;o disponibilizada.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ainda não existe um sistema específico de gestão de qualidade, contudo, está em curso a operacionalização do Sistema de Informação Florestal (SIF) que foi criado com o intuíto de conferir maior credibilidade na informação disponibilizada.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Uso de imagem de sat&#xE9;lite que possibilita a an&#xE1;lise dos dados das &#xE1;reas cobertas nas florestas e que s&#xE3;o disponibilizados no Invent&#xE1;rio Nacional Florestal.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Uso de imagem de satélite que possibilita a análise dos dados das áreas cobertas nas florestas e que são disponibilizados no Inventário Nacional Florestal.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ainda n&#xE3;o se efectua a avalia&#xE7;&#xE3;o da qualidade, segundo crit&#xE9;rios de qualidade padr&#xE3;o estabelecidos pelas Na&#xE7;&#xF5;es Unidas</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Ainda não se efectua a avaliação da qualidade, segundo critérios de qualidade padrão estabelecidos pelas Nações Unidas</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="pt"><![CDATA[<p>O indicador &#xE9; disponibilizado decenalmente, e n&#xE3;o possui desagrega&#xE7;&#xE3;o.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O indicador é disponibilizado decenalmente, e não possui desagregação.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
-          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador &#xE9; compar&#xE1;vel a n&#xED;vel internacional.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Este indicador é comparável a nível internacional.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
           <com:Text xml:lang="pt"><![CDATA[<p><a href="http://www.fao.org/forest">http://www.fao.org/forest</a>-ressourses-assessment-en/, Inventario Nacional de Florestas 2017</p>]]></com:Text>
