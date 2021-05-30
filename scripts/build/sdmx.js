@@ -29,6 +29,11 @@ module.exports = function(refresh=false) {
         return [sourcePath, targetFile, indicatorId]
     })
 
+    function prepareOutput(text) {
+        return text
+            .replace(/'/g, '&#39;')
+    }
+
     convertSdmx()
 
     async function convertSdmx() {
@@ -45,7 +50,7 @@ module.exports = function(refresh=false) {
                     metadata.setDescriptor('LANGUAGE', language)
                     for (const concept of Object.keys(metadata.getConcepts())) {
                         const value = translations[language][indicatorId][concept]
-                        metadata.setConcept(concept, value)
+                        metadata.setConcept(concept, prepareOutput(value))
                     }
                     const targetFolder = utils.createFolder(['www', 'sdmx', language])
                     const targetPath = path.join(targetFolder, targetFile)
