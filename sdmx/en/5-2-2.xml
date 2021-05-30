@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:23.870Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:52.220Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="d103c846-8f73-4147-906a-0bfd428001bc">
+  <mes:MetadataSet structureRef="MDS1" setID="170ee74e-715f-4822-8203-7168d1969fa0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -103,7 +103,7 @@
           <com:Text xml:lang="en"><![CDATA[ <p> Demographic and Health Survey (IDS) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data source for calculating this indicator are household surveys (IOF and IDS) with national representation that constitute the data source. In either case, the child's height and weight should be measured following the recommended standard measurement techniques (WHO 2008). </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data source for calculating this indicator are household surveys (IOF and IDS) with national representation that constitute the data source. In either case, the child&#39;s height and weight should be measured following the recommended standard measurement techniques (WHO 2008). </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
           <com:Text xml:lang="en"><![CDATA[ <p> 2021 </p>]]></com:Text>
@@ -140,10 +140,10 @@
         <gen:ReportedAttribute id="QUALITY_ASSURE">
           <com:Text xml:lang="en"><![CDATA[ <p> For data collection, the methodology of interviews was applied face to face with households, applying three types of questionnaires: </p>
  <p> • Household Questionnaire </p>
- <p> • Women's Questionnaire </p>
- <p> • Men's Questionnaire. </p>
- <p> The questionnaires were based on the model used by the Demographic and Health surveys in their sixth phase. In addition to the main questions of the sixth phase IDS, some modifications were made to the questions and some specific questions were added in order to satisfy and answer the country's needs. It should be noted that these instruments have been properly pre-tested in urban and rural areas </p>
- <p> The sample design of IDS-2011 comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. The sample allows to obtain accurate estimates at the level national, urban and rural, regional and provincial. The sample covers only the population residing in households. Households and respective members residing in collective residences, such as hotels, hospitals, military barracks, student homes, etc., and homeless people, which together make up 3.3% of the country's total population, were excluded from the sample. </p>]]></com:Text>
+ <p> • Women&#39;s Questionnaire </p>
+ <p> • Men&#39;s Questionnaire. </p>
+ <p> The questionnaires were based on the model used by the Demographic and Health surveys in their sixth phase. In addition to the main questions of the sixth phase IDS, some modifications were made to the questions and some specific questions were added in order to satisfy and answer the country&#39;s needs. It should be noted that these instruments have been properly pre-tested in urban and rural areas </p>
+ <p> The sample design of IDS-2011 comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. The sample allows to obtain accurate estimates at the level national, urban and rural, regional and provincial. The sample covers only the population residing in households. Households and respective members residing in collective residences, such as hotels, hospitals, military barracks, student homes, etc., and homeless people, which together make up 3.3% of the country&#39;s total population, were excluded from the sample. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"><![CDATA[ <p> The interactive and batch processing of information through the CSPro program also allowed, at central level, the periodic obtaining of partial results, for analysis of the data collected until a given moment, through the production of tables for monitoring and quality control. The results of these tabulations were reported in feedback to the interviewers, ensuring data quality. </p>]]></com:Text>

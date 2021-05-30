@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:17.285Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:45.116Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="b861d1bf-eeb9-438d-9b5f-6fc2e96816af">
+  <mes:MetadataSet structureRef="MDS1" setID="91fdfdfd-fde1-49da-a511-fd919a3db51f">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -112,7 +112,7 @@
           <com:Text xml:lang="en"><![CDATA[ <p> By joint order number <strong> 112 / DEAE-MF / 2012 of 8 June </strong>, the National Statistics Institute delegated powers of notation and clearance of statistical data from administrative acts and inquiries to the Ministry of Finance through the Directorate of Studies and Economic Analysis . </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"><![CDATA[ <p> This indicator illustrates the percentage of the population that consumes less of Mozambique's median consumption </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> This indicator illustrates the percentage of the population that consumes less of Mozambique&#39;s median consumption </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
           <com:Text xml:lang="en"><![CDATA[ <p> This indicator is measured from the consumption value used in the poverty assessment. The percentage of the population living below 50% of national consumption is calculated. </p>]]></com:Text>

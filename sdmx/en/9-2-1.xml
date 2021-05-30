@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:27.680Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:56.304Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="c4243075-7963-4266-9bea-18dadb7c5ab5">
+  <mes:MetadataSet structureRef="MDS1" setID="57965516-55c3-42e2-817b-2a18f9ad301c">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -122,12 +122,12 @@
         <gen:ReportedAttribute id="INST_MANDATE">
           <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
  <ol>
-   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
-   <li> INE is responsible for carrying out the country's official statistical activity. </li>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country&#39;s official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country&#39;s official statistical activity. </li>
  </ol>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"><![CDATA[ <p> The Added Value of the Manufacturing Industry (VAIT) is a widely recognized indicator and widely used by researchers and policy makers to assess a country's level of industrialization. VAIT's share of GDP reflects the role of manufacturing industry in the economy and the national development of a country in general. VAIT per capita is the basic indicator of a country's level of industrialization adjusted for the size of the economy. One of the statistical uses of VAIT per capita is to classify groups of countries according to the stage of industrial development. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The Added Value of the Manufacturing Industry (VAIT) is a widely recognized indicator and widely used by researchers and policy makers to assess a country&#39;s level of industrialization. VAIT&#39;s share of GDP reflects the role of manufacturing industry in the economy and the national development of a country in general. VAIT per capita is the basic indicator of a country&#39;s level of industrialization adjusted for the size of the economy. One of the statistical uses of VAIT per capita is to classify groups of countries according to the stage of industrial development. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
           <com:Text xml:lang="en"><![CDATA[ <p> Lack of strict compliance with statistical legislation; </p>

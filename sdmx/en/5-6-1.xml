@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:24.134Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:52.526Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="c1eed2f8-51a0-44fa-ae71-fd78573a1a0a">
+  <mes:MetadataSet structureRef="MDS1" setID="53a6ceee-1b04-47d6-9d95-8f89ed3a90f7">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -102,12 +102,12 @@
           <com:Text xml:lang="en"><![CDATA[ <p> Statistics Portugal, Demographic and health survey (IDS) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are nationally representative household surveys (IDS) that constitute the data source. In either case, the child's height and weight should be measured following the recommended standard measurement techniques (WHO 2008). </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are nationally representative household surveys (IDS) that constitute the data source. In either case, the child&#39;s height and weight should be measured following the recommended standard measurement techniques (WHO 2008). </p>
  <p> The questionnaire for the collection of data from the Demographic and Health Survey was designed and subsequently tested in the field during the training of the interviewers. </p>
  <p> For data collection, the methodology of interviews was applied face to face to the households, applying three types of questionnaires: </p>
  <p> • Household Questionnaire </p>
- <p> • Women's Questionnaire </p>
- <p> • Men's Questionnaire. </p>
+ <p> • Women&#39;s Questionnaire </p>
+ <p> • Men&#39;s Questionnaire. </p>
  <p> The Sample Design </p>
  <p> The Demographic and Health Survey comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. </p>
  <p> The data collection lasted for five months starting in June 2011, ending in November 2011. </p>
@@ -130,7 +130,7 @@
           <com:Text xml:lang="en"><![CDATA[ <p> Law 7/96 of 5 July </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"><![CDATA[ <p> The autonomy of women and girls in making decisions about consensual sexual relations, the use of contraceptives and access to sexual and reproductive health services is essential for their empowerment and the full exercise of their reproductive rights. The woman's ability to say "no" to her husband / partner, if she does not want to have sex, is well aligned with the concept of women's sexual autonomy and empowerment. </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The autonomy of women and girls in making decisions about consensual sexual relations, the use of contraceptives and access to sexual and reproductive health services is essential for their empowerment and the full exercise of their reproductive rights. The woman&#39;s ability to say "no" to her husband / partner, if she does not want to have sex, is well aligned with the concept of women&#39;s sexual autonomy and empowerment. </p>
  <p> Women who make their own decision regarding seeking medical care are considered to be able to exercise their reproductive rights </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">

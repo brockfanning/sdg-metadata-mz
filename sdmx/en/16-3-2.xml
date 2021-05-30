@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:19.305Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:47.347Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="0984eef8-96c9-42ea-b65a-cdae415ee686">
+  <mes:MetadataSet structureRef="MDS1" setID="d2d7a78b-40da-4f2e-a54e-51d86ded3fa9">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -119,7 +119,7 @@
  <ol>
    <li> Carry out periodic systematization of sector statistics; </li>
    <li> Propose mechanisms and models for collecting statistical information from the Ministry; </li>
-   <li> Support the Ministry's organic, subordinate and supervised units in the process of collecting and processing statistical data; </li>
+   <li> Support the Ministry&#39;s organic, subordinate and supervised units in the process of collecting and processing statistical data; </li>
    <li> Support the planning and monitoring departments in the analysis and treatment of statistical data; </li>
    <li> To prepare, in coordination with the units of the sector, the annual statistics report of the justice administration system </li>
  </ol>]]></com:Text>
@@ -135,7 +135,7 @@
           <com:Text xml:lang="en"><![CDATA[ <p> The total number of non-sentenced persons held in detention divided by the total number of persons held in detention on a specified date. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="en"><![CDATA[ <p> After data collection, they are inserted in the Penitentiary Information Management System (GIP), which is a platform for prison management where all inmates' information is recorded, from their entry to the establishment until the end of their sentence, done this information is sent to the Department for its validation following the following sequence technicians, head of department and finally Director. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> After data collection, they are inserted in the Penitentiary Information Management System (GIP), which is a platform for prison management where all inmates&#39; information is recorded, from their entry to the establishment until the end of their sentence, done this information is sent to the Department for its validation following the following sequence technicians, head of department and finally Director. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
           <com:Text xml:lang="en"><![CDATA[ <p> This indicator uses the same compilation methods used internationally. </p>]]></com:Text>

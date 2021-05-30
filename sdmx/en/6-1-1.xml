@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:24.693Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:53.068Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="fa60091f-73e7-4677-9171-1b7b9c9dd2ef">
+  <mes:MetadataSet structureRef="MDS1" setID="ff15b10a-49e2-44e0-897c-1757ec227c31">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -89,7 +89,7 @@
         <gen:ReportedAttribute id="STAT_CONC_DEF">
           <com:Text xml:lang="en"><![CDATA[ <p> Proportion of the population that drinks water from safe sources corresponds to the proportion that uses water from a source considered safe. </p>
  <p> A source of safe water is one that is free from fecal and / or chemical contamination. </p>
- <p> "Improved" drinking water sources include: piped water within the home, yard, land or neighbor's house; taps or public fountains; boreholes or wells protected with a hand pump; protected springs; packaged / mineral water. </p>]]></com:Text>
+ <p> "Improved" drinking water sources include: piped water within the home, yard, land or neighbor&#39;s house; taps or public fountains; boreholes or wells protected with a hand pump; protected springs; packaged / mineral water. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
@@ -99,7 +99,7 @@
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
           <com:Text xml:lang="en"><![CDATA[ <p> The recommended data source to calculate this indicator is the Census and Household Surveys. The data collection questionnaire is designed and subsequently tested in the field in the course of training the interviewers. </p>
- <p> For the collection of data, the methodology of interviews was applied face to face to the households where the respondents were asked what was the main source of water they use to drink and the answer was highlighted in a list of sources that include: water channeled inside the neighbor's house, yard, land or house; taps or public fountains; holes or fountains; protected wells; unprotected wells, springs; packaged water; supplied water, river / lake water and rainwater. </p>
+ <p> For the collection of data, the methodology of interviews was applied face to face to the households where the respondents were asked what was the main source of water they use to drink and the answer was highlighted in a list of sources that include: water channeled inside the neighbor&#39;s house, yard, land or house; taps or public fountains; holes or fountains; protected wells; unprotected wells, springs; packaged water; supplied water, river / lake water and rainwater. </p>
  <p> The field work lasted 15 days in the case of the Censuses and the Surveys depending on the type and purpose of the Survey. </p>
  <p> Cases of non-response, after all efforts to obtain funds are exhausted, are treated as unknown cases. </p>]]></com:Text>
         </gen:ReportedAttribute>

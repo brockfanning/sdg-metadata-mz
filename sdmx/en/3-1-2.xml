@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:20.703Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:48.865Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="9a2dba51-7c70-4fb7-8c44-c5f0e75b4eee">
+  <mes:MetadataSet structureRef="MDS1" setID="e9d6e735-aa42-410e-ab03-352cdbac7677">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -99,8 +99,8 @@
           <com:Text xml:lang="en"><![CDATA[ <p> The recommended data sources for calculating this indicator are Household Surveys. The Demographic and Health Survey data collection questionnaire was designed and subsequently tested in the field during the training of interviewers. </p>
  <p> For data collection, the methodology of interviews was applied face to face to the households, applying three types of questionnaires: </p>
  <p> • Household Questionnaire </p>
- <p> • Women's Questionnaire </p>
- <p> • Men's Questionnaire. </p>
+ <p> • Women&#39;s Questionnaire </p>
+ <p> • Men&#39;s Questionnaire. </p>
  <p> The Sample Design </p>
  <p> The Demographic and Health Survey comprises a probabilistic, stratified and multi-stage sample, selected from the Data and Cartography of the III General Census of Population and Housing, carried out by INE in 2007. </p>
  <p> The data collection lasted for five months starting in June 2011, ending in November 2011. </p>
@@ -123,11 +123,11 @@
           <com:Text xml:lang="en"><![CDATA[ <p> Law 7/96 of 5 July </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"><![CDATA[ <p> Having a qualified assistant at the time of delivery is an important life-saving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women's health and gender empowerment, as it can cause the mother's death or lasting disability, especially in marginalized settings. </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> Having a qualified assistant at the time of delivery is an important life-saving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women&#39;s health and gender empowerment, as it can cause the mother&#39;s death or lasting disability, especially in marginalized settings. </p>
  <p> The result of this indicator shows the proportion of births attended by health personnel trained to provide obstetric care </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="en"><![CDATA[ <p> Having a qualified assistant at the time of delivery is an important life-saving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women's health and gender empowerment, as it can cause the mother's death or lasting disability, especially in marginalized settings. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> Having a qualified assistant at the time of delivery is an important life-saving intervention for both mothers and babies. Not having access to this key assistance is detrimental to women&#39;s health and gender empowerment, as it can cause the mother&#39;s death or lasting disability, especially in marginalized settings. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
           <com:Text xml:lang="en"><![CDATA[ <p> This indicator is calculated by dividing the number of women aged 15 to 49 with births attended by qualified health personnel (usually doctors, nurses or midwives) over the total number of women aged 15 to 49 with live births during the same period expressed as a percentage </p>]]></com:Text>

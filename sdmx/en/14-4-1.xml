@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:18.120Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:46.038Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="26643369-a49b-4569-8cc2-fbfbf903e30e">
+  <mes:MetadataSet structureRef="MDS1" setID="ffd8396f-c45d-4d30-acbf-431de2064f47">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -121,14 +121,14 @@
           <com:Text xml:lang="en"><![CDATA[ <p> The sustainability of fishing is defined based on the abundance of stocks. In order to know the abundance of stocks, it is necessary to carry out an inventory assessment using fish catch statistics, fishing effort data and biological information and adjust the data to a population dynamics model. Upon completion of the assessment of all stocks concerned, fish stocks with an abundance equal to or greater than the level associated with maximum sustainable yield are counted as biologically sustainable and otherwise considered to be overfishing. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution's Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution&#39;s Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
           <com:Text xml:lang="en"><![CDATA[ <p> The national indicator is internationally comparable as it is based on internationally accepted standards. </p>
  <p> Uses the same methodology for calculating the global indicator </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution&#39;s Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are being developed based on the 19 quality principles established by the United Nations Statistics Commission. </p>]]></com:Text>

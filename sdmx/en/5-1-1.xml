@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:23.594Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:51.950Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="46226095-33bd-43c7-a86e-e1670e4a1c3c">
+  <mes:MetadataSet structureRef="MDS1" setID="a914a020-8786-4756-bfa1-1c28012950b0">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -91,7 +91,7 @@
           <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:Angelotivane2011@gmail.com"> Angelotivane2011@gmail.com </a>; <a href="mailto:muthembarnaldo@gmail.com" target="_blank"> muthembarnaldo@gmail.com </a> </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"><![CDATA[ <p> The indicator measures the government's efforts to establish legal frameworks that promote, apply and monitor gender equality. </p>
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator measures the government&#39;s efforts to establish legal frameworks that promote, apply and monitor gender equality. </p>
  <p> The indicator is based on an assessment of legal frameworks that promote, apply and monitor gender equality </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
@@ -130,7 +130,7 @@
  <p> The scoring methodology is the unweighted average of the questions in each area of the law, calculated as follows: </p>
  <p>. </p>
  <p> Where <sub> i </sub> refers to the right area <strong> i </strong>; m <sub> i </sub> refers to the total number of questions in the area of the law <strong> i </strong>; <sup> <a href="#footnote-3" id="footnote-ref-3"> [3] </a> </sup> q <sub> </sub> 1 + ... + q <sub> mi </sub> refers to the sum of coded questions in the legal and where q i area <sub> </sub> = "1" if the answer is "Yes" eq <sub> i </sub> = ”0” if the answer is “No”. </p>
- <p> The results of the four areas are reported as a percentage panel (A <sub> </sub> 1, A 2 <sub> </sub>, <sub> The </sub> 3, A 4 <sub> </sub>). The score for each area (a number between 0 and 100) therefore represents the percentage of that country's achievements in that area, with 100 being best practices answered in all questions in the area. The choice to present all four scores in the area without additional aggregation is the result of adopting the stance that high values in one area in one country need not compensate in any way for the country with low values in some other area and that a comprehensive examination The value of these four numbers for each country is potentially more informative than trying to summarize all four numbers in a single index. </p> <div class="footnotes"> <div> <sup class="footnote-number" id="footnote-2"> 2 </sup> <p> For questions 1 and 2, the methodology does not give a positive or negative score to the existence or are subject to the existence of a Therefore, in countries where customary or personal law does not apply, these questions are classified as "N / A" and are not included as part of the overall score calculation for the 'comprehensive legal frameworks and public life' area. <a href="#footnote-ref-2"> ↑ </a> </p> </div> <div> <sup class="footnote-number" id="footnote-3"> 3 </sup> a0d0d0n0d0n0d0n0d <a href="#footnote-ref-3"> ↑ </a> </p> </div> </div>]]></com:Text>
+ <p> The results of the four areas are reported as a percentage panel (A <sub> </sub> 1, A 2 <sub> </sub>, <sub> The </sub> 3, A 4 <sub> </sub>). The score for each area (a number between 0 and 100) therefore represents the percentage of that country&#39;s achievements in that area, with 100 being best practices answered in all questions in the area. The choice to present all four scores in the area without additional aggregation is the result of adopting the stance that high values in one area in one country need not compensate in any way for the country with low values in some other area and that a comprehensive examination The value of these four numbers for each country is potentially more informative than trying to summarize all four numbers in a single index. </p> <div class="footnotes"> <div> <sup class="footnote-number" id="footnote-2"> 2 </sup> <p> For questions 1 and 2, the methodology does not give a positive or negative score to the existence or are subject to the existence of a Therefore, in countries where customary or personal law does not apply, these questions are classified as "N / A" and are not included as part of the overall score calculation for the &#39;comprehensive legal frameworks and public life&#39; area. <a href="#footnote-ref-2"> ↑ </a> </p> </div> <div> <sup class="footnote-number" id="footnote-3"> 3 </sup> a0d0d0n0d0n0d0n0d <a href="#footnote-ref-3"> ↑ </a> </p> </div> </div>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="en"><![CDATA[ <p> Validation is done by the collective by the national gender direction then by the technical and advisory council </p>]]></com:Text>

@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:23.602Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:51.952Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="57af0552-08c4-4bf2-b335-0e26d4c40a99">
+  <mes:MetadataSet structureRef="MDS1" setID="5ad4ff7e-9977-45eb-8694-3b28537ffac1">
     <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -130,7 +130,7 @@
 <p>A metodologia de pontuação é a média não ponderada das perguntas em cada área do direito, calculada da seguinte forma:</p>
 <p> .</p>
 <p>Onde A<sub>i</sub> se refere à área do direito <strong>i</strong>; m<sub>i</sub> refere-se ao número total de perguntas na área da lei <strong>i</strong>;<sup><a href="#footnote-3" id="footnote-ref-3">[3]</a></sup> q<sub>1</sub> + ... + q<sub>mi</sub> refere-se à soma das perguntas codificadas na área jurídica e onde q<sub>i</sub> = ”1” se a resposta for “Sim” e q<sub>i</sub> = ”0” se a resposta for “Não”.</p>
-<p>Os resultados das quatro áreas são reportados em percentagens como um painel: (A<sub>1</sub>, A<sub>2</sub>, A<sub>3</sub>, A<sub>4</sub>). A pontuação para cada área (um número entre 0 e 100) representa, portanto, a percentagem de realizações desse país nessa área, com 100 sendo as melhores práticas atendidas em todas as perguntas da área. A escolha de apresentar todas as quatro pontuações da área sem agregação adicional é o resultado da adopção da postura de que valores altos numa área em determinado país não precisam compensar de forma alguma o país com valores baixos em alguma outra área e que um exame abrangente do valor desses quatro números para cada país é potencialmente mais informativo do que tentar resumir todos os quatro números em um único índice.</p><div class="footnotes"><div><sup class="footnote-number" id="footnote-2">2</sup><p> Para as perguntas 1 e 2, a metodologia não atribui uma pontuação (positiva ou negativa) à existência de direito consuetudinário ou pessoal, mas pontua se elas estão sujeitas aos princípios constitucionais de igualdade ou não discriminação. Portanto, em países onde o direito consuetudinário ou pessoal não se aplica, essas perguntas são classificadas como "N/A" e não são incluídas como parte do cálculo geral da pontuação para a área 'marcos legais abrangentes e vida pública'. <a href="#footnote-ref-2">↑</a></p></div><div><sup class="footnote-number" id="footnote-3">3</sup><p> Se uma pergunta for codificada como "N/A", ela não será contada no número total de perguntas em uma área da lei. <a href="#footnote-ref-3">↑</a></p></div></div>]]></com:Text>
+<p>Os resultados das quatro áreas são reportados em percentagens como um painel: (A<sub>1</sub>, A<sub>2</sub>, A<sub>3</sub>, A<sub>4</sub>). A pontuação para cada área (um número entre 0 e 100) representa, portanto, a percentagem de realizações desse país nessa área, com 100 sendo as melhores práticas atendidas em todas as perguntas da área. A escolha de apresentar todas as quatro pontuações da área sem agregação adicional é o resultado da adopção da postura de que valores altos numa área em determinado país não precisam compensar de forma alguma o país com valores baixos em alguma outra área e que um exame abrangente do valor desses quatro números para cada país é potencialmente mais informativo do que tentar resumir todos os quatro números em um único índice.</p><div class="footnotes"><div><sup class="footnote-number" id="footnote-2">2</sup><p> Para as perguntas 1 e 2, a metodologia não atribui uma pontuação (positiva ou negativa) à existência de direito consuetudinário ou pessoal, mas pontua se elas estão sujeitas aos princípios constitucionais de igualdade ou não discriminação. Portanto, em países onde o direito consuetudinário ou pessoal não se aplica, essas perguntas são classificadas como "N/A" e não são incluídas como parte do cálculo geral da pontuação para a área &#39;marcos legais abrangentes e vida pública&#39;. <a href="#footnote-ref-2">↑</a></p></div><div><sup class="footnote-number" id="footnote-3">3</sup><p> Se uma pergunta for codificada como "N/A", ela não será contada no número total de perguntas em uma área da lei. <a href="#footnote-ref-3">↑</a></p></div></div>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
           <com:Text xml:lang="pt"><![CDATA[<p>Validação e feita pelo colectivo pela direção nacional do género depois pelo conselho tecnico e consultivo</p>]]></com:Text>

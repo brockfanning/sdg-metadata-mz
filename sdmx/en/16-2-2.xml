@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:19.003Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:47.070Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="f21cde02-e897-4a71-9e99-41a4814f7660">
+  <mes:MetadataSet structureRef="MDS1" setID="49da2ba9-5d48-49c7-9305-da280eaad711">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -122,7 +122,7 @@
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
           <com:Text xml:lang="en"><![CDATA[ <p> The number of victims of trafficking identified allows referring to victims, as defined in the UN Protocol, where the act, average and purpose of trafficking were identified by national authorities. </p>
- <p> While data on identified victims can provide valuable information for monitoring the sex and age profile of victims, as well as on forms of exploitation and trafficking flows, the number of victims identified alone does not monitor the level of human trafficking. Therefore, trends should be interpreted with caution, as changes in identified victims of trafficking may be due to several factors, such as the intensity of trafficking flows, but also changes in law enforcement practices, changes in legislation or victims' attitudes. </p>]]></com:Text>
+ <p> While data on identified victims can provide valuable information for monitoring the sex and age profile of victims, as well as on forms of exploitation and trafficking flows, the number of victims identified alone does not monitor the level of human trafficking. Therefore, trends should be interpreted with caution, as changes in identified victims of trafficking may be due to several factors, such as the intensity of trafficking flows, but also changes in law enforcement practices, changes in legislation or victims&#39; attitudes. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
           <com:Text xml:lang="en"><![CDATA[ <p> The indicator is calculated using the ratio between the total number of victims of trafficking in persons discovered or living in a country and the population residing in the country, expressed per 100,000 inhabitants </p>]]></com:Text>

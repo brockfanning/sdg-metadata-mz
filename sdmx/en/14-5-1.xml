@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:18.441Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:46.413Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="85f1cfb6-9db2-4c8e-8bf9-02a770b976f1">
+  <mes:MetadataSet structureRef="MDS1" setID="72033539-afd1-47dd-815f-0ef7a4de4313">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -135,16 +135,16 @@
           <com:Text xml:lang="en"><![CDATA[ <p> Ratio between the sum of the geographical areas of marine conservation areas declared based on national legislation and the total marine area multiplied by 100 </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution's Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where it is then submitted to the Institution&#39;s Technical Council for pre-approval, where after verifying the information it healthily goes to the Advisory Council for approval of the data or information produced at a later time dissemination </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DOC_METHOD">
           <com:Text xml:lang="en"><![CDATA[ <p> Main differences lie in the source of calculation data for the indicator. In this case, the geographical areas declared in the decrees creating conservation areas were used and key biodiversity areas (KBAs) that are not within these areas are not included. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution&#39;s Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSURE">
-          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution's Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The processed information is screened and analyzed at a technical level where in turn it is submitted to the Institution&#39;s Technical Council these strata are composed of qualified scientists for the purpose of verification and validation </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_ASSMNT">
           <com:Text xml:lang="en"><![CDATA[ <p> The instruments for assessing the quality of statistical processes and products at the level of the National Statistical System are being developed based on the 19 quality principles established by the United Nations Statistics Commission. </p>]]></com:Text>

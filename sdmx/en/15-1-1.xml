@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:18.724Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:46.718Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="38ae053c-7f85-4c70-bbdc-8bd7b9f6f510">
+  <mes:MetadataSet structureRef="MDS1" setID="585c42d7-ba7f-4150-aa6b-149cbe0d6068">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -118,8 +118,8 @@
           <com:Text xml:lang="en"><![CDATA[ <p> According to the Organic Statute of the Ministry of Land and Environment, which was approved by Resolution No. 30/2016 of October 31, published in the Boletim da República I Série - Number 85, the Ministry of Land, Environment and Rural Development, directs , plans and coordinates, controls and ensures the implementation of policies in the fields of Land and Geomatics Administration, Forests and Wildlife, Environment, Climate Change and Conservation Areas. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="en"><![CDATA[ <p> The indicator provides a measure of the relative extent of the forest in a country. The availability of accurate data in a country's forestry area is an essential element for forest policy and planning in the context of sustainable development. </p>
- <p> The forest area as a percentage of the total land area can be used as an <em> proxy </em> approximate the extent to which a country's forests are being conserved or restored, but it is only partly a measure of the extent to which they are managed in a manner sustainable. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator provides a measure of the relative extent of the forest in a country. The availability of accurate data in a country&#39;s forestry area is an essential element for forest policy and planning in the context of sustainable development. </p>
+ <p> The forest area as a percentage of the total land area can be used as an <em> proxy </em> approximate the extent to which a country&#39;s forests are being conserved or restored, but it is only partly a measure of the extent to which they are managed in a manner sustainable. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
           <com:Text xml:lang="en"><![CDATA[ <p> The five sub-indicators chosen to illustrate progress towards sustainable forest management do not fully cover all aspects of sustainable forest management. In particular, social and economic aspects are summarized in the sub-indicators of areas under sustainable forest management plans. In addition, as trends are calculated using only countries that have complete time series of data, different sub-indicators may reflect different sets of countries. </p>

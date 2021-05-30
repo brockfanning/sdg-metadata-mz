@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:26.230Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:54.751Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="da003461-b129-46d4-a90b-0f764b44f52f">
+  <mes:MetadataSet structureRef="MDS1" setID="858a9fe7-775e-41d1-8a23-a2708e62a531">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -86,7 +86,7 @@
           <com:Text xml:lang="en"><![CDATA[ <p> <a href="mailto:perpetua.mendoca@ine.gov.mz"> perpetua.mendoca@ine.gov.mz </a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="en"><![CDATA[ <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as the percentage change in real GDP per capita between two consecutive years. Real GDP per capita is calculated by dividing GDP at constant prices by the population of a country or region. Real GDP data is measured in constant US dollars to facilitate the calculation of the country's growth rates, their respective aggregation and comparability between countries or regions. </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The annual growth rate of real gross domestic product (GDP) per capita is calculated as the percentage change in real GDP per capita between two consecutive years. Real GDP per capita is calculated by dividing GDP at constant prices by the population of a country or region. Real GDP data is measured in constant US dollars to facilitate the calculation of the country&#39;s growth rates, their respective aggregation and comparability between countries or regions. </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="en"><![CDATA[ <p> Percentage </p>]]></com:Text>
@@ -116,8 +116,8 @@
         <gen:ReportedAttribute id="INST_MANDATE">
           <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
  <ol>
-   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
-   <li> INE is responsible for carrying out the country's official statistical activity. </li>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country&#39;s official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country&#39;s official statistical activity. </li>
  </ol>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">

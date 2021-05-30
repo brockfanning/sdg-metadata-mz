@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-05-30T16:38:27.370Z</mes:Prepared>
+    <mes:Prepared>2021-05-30T19:33:55.984Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,7 +11,7 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="7a47c4a3-c6d1-4ddb-92bd-61e93c3b5fb0">
+  <mes:MetadataSet structureRef="MDS1" setID="c48aee19-66f4-4a13-a515-62cd860b1b28">
     <com:Name xml:lang="en">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
@@ -99,7 +99,7 @@
           <com:Text xml:lang="en"><![CDATA[ <p> Classification of economic activities (CAE), National Classification of Goods and Services (CNBS); COPNI; COFOG, Classification Individual Consumption by Purpose (COICOP) Balance of Payment Manual, Version 6 (MBOP6) </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="en"><![CDATA[ <p> The indicator comes from the countries' Tourism Satellite Account, which is a satellite account for National Accounts </p>]]></com:Text>
+          <com:Text xml:lang="en"><![CDATA[ <p> The indicator comes from the countries&#39; Tourism Satellite Account, which is a satellite account for National Accounts </p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
           <com:Text xml:lang="en"><![CDATA[ <p> Monthly and annual business surveys are current, probabilistic surveys. Physical or electronic questionnaires are sent to companies for completion and return. They have as key variables: the main and secondary activity, the volume of business, expenses detailed by type of expenditure, No. of workers, remuneration and hours worked. They have their own computer applications with validation rules. </p>
@@ -120,8 +120,8 @@
         <gen:ReportedAttribute id="INST_MANDATE">
           <com:Text xml:lang="en"><![CDATA[ <p> According to article 19, of Law 7/96 of July 5th: </p>
  <ol>
-   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country's official statistical information and is subordinate to the Minister Council. </li>
-   <li> INE is responsible for carrying out the country's official statistical activity. </li>
+   <li> The National Statistics Institute (INE) is the central executive body of the National Statistical System (SEN) whose objective is the notation, calculation, coordination and dissemination of the country&#39;s official statistical information and is subordinate to the Minister Council. </li>
+   <li> INE is responsible for carrying out the country&#39;s official statistical activity. </li>
  </ol>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
