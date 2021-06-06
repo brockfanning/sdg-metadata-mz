@@ -3,7 +3,7 @@
   <mes:Header>
     <mes:ID>MESSAGE_ID_PLACEHOLDER</mes:ID>
     <mes:Test>false</mes:Test>
-    <mes:Prepared>2021-06-06T02:04:55.854Z</mes:Prepared>
+    <mes:Prepared>2021-06-06T02:04:48.065Z</mes:Prepared>
     <mes:Sender id="sender"/>
     <mes:Structure structureID="MDS1">
       <com:Structure>
@@ -11,14 +11,14 @@
       </com:Structure>
     </mes:Structure>
   </mes:Header>
-  <mes:MetadataSet structureRef="MDS1" setID="ed28f499-cf19-4e1e-891d-4e6c6e96136c">
+  <mes:MetadataSet structureRef="MDS1" setID="d35f1936-22de-4f8a-90a2-f14810d23c32">
     <com:Name xml:lang="pt">SDG METADATA SET</com:Name>
     <gen:Report id="SDG_META_RPT">
       <gen:Target id="KEY_TARGET">
         <gen:ReferenceValue id="DIMENSION_DESCRIPTOR_VALUES_TARGET">
           <gen:DataKey>
             <com:KeyValue id="SERIES">
-              <com:Value>NY_GDP_PCAP</com:Value>
+              <com:Value>SL_EMP_GTOTL</com:Value>
             </com:KeyValue>
             <com:KeyValue id="REPORTING_TYPE">
               <com:Value>N</com:Value>
@@ -54,19 +54,22 @@
           <com:Text xml:lang="pt"/>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_GOAL">
-          <com:Text xml:lang="pt"><![CDATA[<p> 8 Promover o crescimento económico sustentado, inclusivo e sustentável, emprego pleno e produtivo e trabalho decente para todos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> 10 Redução das Desigualdades</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_TARGET">
-          <com:Text xml:lang="pt"><![CDATA[<p>8.1 Sustentar o crescimento económico per capita de acordo com as circunstâncias nacionais e, em particular, um crescimento anual de pelo menos 7% do produto interno bruto [PIB] nos países menos desenvolvidos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>10.4 Apdotar políticas, especialmente fiscal, salarial e de proteção social, e alcançar progressivamente uma maior igualdade</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_INDICATOR">
-          <com:Text xml:lang="pt"><![CDATA[<h1>8.1.1 Taxa de crescimento anual do PIB real per capita</h1>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>10.4.1 Participação da renda do trabalho no PIB, incluindo salários e transferências de proteção social</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SDG_SERIES_DESCR">
-          <com:Text xml:lang="pt"><![CDATA[<p>8.1.1 Taxa de crescimento anual do PIB real per capita</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>10.4.1 Participação da renda do trabalho no PIB, incluindo salários e transferências de proteção social</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="META_LAST_UPDATE">
-          <com:Text xml:lang="pt"><![CDATA[<p>06/10/2020</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>8/10/2020</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="SDG_RELATED_INDICATORS">
+          <com:Text xml:lang="pt"><![CDATA[<p>Sem vínculos com outros objectivos e metas</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_ORGANISATION">
           <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estatística</p>]]></com:Text>
@@ -78,37 +81,41 @@
           <com:Text xml:lang="pt"><![CDATA[<p>Técnica, Chefe do Departamento e Director</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_PHONE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Perpétua: +258-823810450/+258-873810450;</p>
-<p>Sábado: +258-827027780/+258-868001057;</p>
-<p>Cláudio: +258-824261470 </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Perpétua: +258- 823810450/+258- 873810450;</p>
+<p>Sábado: +258- 827027780/+258- 868001057;</p>
+<p>Cláudio: +258- 824261470</p>]]></com:Text>
+        </gen:ReportedAttribute>
+        <gen:ReportedAttribute id="CONTACT_MAIL">
+          <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:perpetua.mendoca@ine.gov.mz">perpetua.mendoca@ine.gov.mz</a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CONTACT_EMAIL">
           <com:Text xml:lang="pt"><![CDATA[<p><a href="mailto:perpetua.mendoca@ine.gov.mz">perpetua.mendoca@ine.gov.mz</a>; simao.sabado@ine.gov.mz; claudio.cipriano@ine.gov.mz</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="STAT_CONC_DEF">
-          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita é calculada como a variação percentual no PIB real per capita entre dois anos consecutivos. O PIB real per capita é calculado dividindo o PIB a preços constantes pela população de um país ou região. Os dados do PIB real são medidos em dólares americanos constantes para facilitar o cálculo das taxas de crescimento do país, sua respectiva agregação e a comparabilidade entre países ou regiões.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A parcela da mão-de-obra do Produto Interno Bruto (PIB) é a remuneração total dos empregados, medida em percentagem do PIB, que é uma medida da produção total. Ele fornece informações sobre a parcela relativa da produção que é paga como remuneração aos funcionários, em comparação com a parcela paga ao capital no processo de produção por um determinado período de referência.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="UNIT_MEASURE">
           <com:Text xml:lang="pt"><![CDATA[<p>Percentagem</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="CLASS_SYSTEM">
-          <com:Text xml:lang="pt"><![CDATA[<p>Classificação das actividades económicas (CAE), Classificação Nacional de Bens e Serviços (CNBS); Classificação das Instituições Sem Fins Lucrativos aos Serviços das Famílias (COPNI); Classificação das Funções do Governo (COFOG), Classificação Consumo Individual por Objectivo (COICOP) Manual da Balança de Pagamento, Versão 6 (MBOP6)</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Classificação das actividades económicas (CAE), Classificação Nacional de Bens e Serviços (CNBS); COPNI; COFOG, Classificação Consumo Individual por Objectivo (COICOP)</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="SOURCE_TYPE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Inquéritos mensais, Inquéritos anuais, Dados administrativos</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p> Inquéritos as Actividades Económicas (IAE) mensais e anuais, Inquérito ao Orçamento Familiar (IOF), Dados administrativos</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COLL_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>Os inquéritos mensais e anuais às empresas são inquéritos correntes, probabilísticos. Os questionários físicos ou electrónicos são enviados às empresas para o preenchimento e devolução. Têm como variáveis chave: a actividade principal e secundária, o volume de negócios, gastos detalhados por tipo de gasto, N.º de trabalhadores, remunerações e horas trabalhadas. Têm aplicações informáticas próprias com regras de validação.</p>
-<p>Os dados administrativos são recebidos em modelos usados pelas fontes. Quando são recebidos, faz-se uma avaliação da qualidade dos mesmos.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>O Inquérito ao Orçamento Familiar é uma pesquisa por amostragem probabilística com representatividade nacional, provincial e por área de residência. Algumas das variáveis importantes são as despesas dos agregados familiares, as actividades/ocupações e as remunerações/rendimento das pessoas e as horas trabalhadas. Tem duração de 12 meses. Os dois últimos foram realizados em 2014/15 e 2019/20. As entrevistas são directas. No acto de recrutamento, os inquiridores são avaliados e seleccionados, submetidos a um treinamento, avaliação e selecção. Durante o trabalho de campo, existe um trabalho de supervisão para o controlo de qualidade e o processo de tratamento de dado inicia com uma crítica de dados e a entrada de dados é feita numa aplicação informática apropriada, munida de regras de validação para controlar a qualidade. </p>
+<p>Os inquéritos mensais e anuais às empresas são inquéritos correntes, também probabilísticos. Os questionários físicos ou electrónicos são enviados às empresas para o preenchimento e devolução. Têm como variáveis chave: a actividade principal e secundária, o volume de negócios, gastos detalhados por tipo de gasto, N.º de trabalhadores, remunerações e horas trabalhadas. E, à semelhança do IOF, têm aplicações informáticas próprias com regras de validação.</p>
+<p>Os Dados administrativo são recebidos em modelos usados pelas fontes. Quando são recebidos, faz-se uma avaliação da qualidade dos mesmos.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="FREQ_COLL">
-          <com:Text xml:lang="pt"><![CDATA[<p> De janeiro a Dezembro de cada ano </p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>De janeiro a Dezembro de cada ano</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REL_CAL_POLICY">
           <com:Text xml:lang="pt"><![CDATA[<p>Maio de cada ano: PIB Preliminares do ano n-1 e PIB Definitivo do n-2; Outubro de cada ano : PIB Provisório do ano n-1</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_SOURCE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Ministérios, Banco de Moçambique, instituições estatais</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Empresas, Ministérios, Banco de Moçambique, Instituições Estatais, agregados familiares</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPILING_ORG">
           <com:Text xml:lang="pt"><![CDATA[<p>Instituto Nacional de Estatística</p>]]></com:Text>
@@ -117,35 +124,25 @@
           <com:Text xml:lang="pt"><![CDATA[<p>De acordo com o artigo 19, da Lei 7/96 de 05 de Julho:</p>
 <ol>
   <li>O Instituto Nacional de Estatística (INE) é o órgão executivo central do Sistema Estatístico Nacional (SEN) que tem por objectivo a notação, apuramento, coordenação e difusão da informação estatística oficial do País e subordina-se ao Conselho de Ministro.</li>
-  <li>Compete ao INE realizar a actividade estatística oficial do País. </li>
+  <li>Compete ao INE realizar a actividade estatística oficial do País.</li>
 </ol>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="RATIONALE">
-          <com:Text xml:lang="pt"><![CDATA[<p>O Produto Interno Bruto Real (PIB) per capita é um proxy para o padrão de vida médio dos residentes num país ou área. Uma variação percentual positiva no PIB real anual per capita pode ser interpretada como um aumento no padrão de vida médio dos residentes num país ou área</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>A parcela da mão-de-obra no PIB procura informar sobre a parcela relativa do PIB acumulada para os trabalhadores em comparação com a parcela acumulada para o capital em um determinado período de referência.</p>
+<p>Para interpretar efectivamente este indicador, é importante considerá-lo, em simultâneo, com as tendências de crescimento económico. A parcela da remuneração do trabalho na produção nacional pode destacar até que ponto o crescimento económico se traduz em maiores rendimentos para os funcionários ao longo do tempo. Pode ser proxy do indicador de padrão de vida para os trabalhadores, dependendo da distribuição da renda real e das políticas públicas adoptada, entre outros factores</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="REC_USE_LIM">
-          <com:Text xml:lang="pt"><![CDATA[<p>Falta de observância rigorosa da legislação estatística;</p>
-<p>Recepção tardia de dados provenientes das fontes;</p>
-<p>Falta ou insuficiência de recursos para a realização de inquéritos com uma periodicidade regular pode conduzir ao enviesamento de estimativas de produção e transações.</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Moçambique tem uma fasquia elevada de trabalhadores por conta própria ou no sector informal, as estimativas de remunerações podem ser subestimadas, uma vez que a periodicidade de realização do Inquéritos ao Orçamentos Familiar (IOF) é de 5 anos, período considerado longo;</p>
+<p>A não realização de determinados inquéritos na data prevista por razões orçamentais, remete as instituições à realização de estimativas que podem ser enviesadas.</p>
+<p>O PIB pode excluir ou subestimar actividades de difícil mensuração, como transações no sector informal ou em mercados ilegais, etc., subestimando o PIB. Além disso, o PIB não responde pelos custos sociais e ambientais da produção e, portanto, não é uma boa medida do nível geral de bem-estar.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_COMP">
-          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita é calculada da seguinte forma:</p>
-<ol>
-  <li>Converta o PIB real (preços constantes) anual em moeda nacional de um país ou região em dólares americanos usando a taxa de câmbio do ano base.</li>
-  <li>Divida o resultado pela população do país ou região para obter o PIB real per capita anual em dólares americanos.</li>
-  <li>Calcule a taxa de crescimento anual do PIB real per capita no ano t<sub>+1</sub>, usando a seguinte fórmula: [(G (t<sub>+1</sub>) - G (t) / G (t)] x 100, onde G (t<sub>+1</sub>) é o PIB real per capita em dólares no ano t<sub>+1</sub> e G (t) é o PIB real per capita em dólares do ano t.</li>
-</ol>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p><strong>Parcela do trabalho no PIB = Remuneração total dos empregados / Produto Interno Bruto * 100</strong></p>
+<p>Como mencionado acima, esse método de cálculo não fornece uma medida abrangente da parcela da renda do trabalho, uma vez que não leva em consideração a renda do trabalho dos trabalhadores independentes.</p>
+<p>Idealmente, sempre que possível, o numerador deve ser ajustado para incluir não apenas a remuneração dos funcionários, mas também os ganhos dos trabalhadores independentes.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="DATA_VALIDATION">
-          <com:Text xml:lang="pt"><![CDATA[<p>Cruzamento de dados dos inquéritos com as contas auditadas.</p>]]></com:Text>
-        </gen:ReportedAttribute>
-        <gen:ReportedAttribute id="DOC_METHOD">
-          <com:Text xml:lang="pt"><![CDATA[<p>A taxa de crescimento anual do Produto Interno Bruto (PIB) real per capita é calculada da seguinte forma:</p>
-<ol>
-  <li>Converta o PIB real (preços constantes) anual em moeda nacional de um país ou região em dólares americanos usando a taxa de câmbio do ano base.</li>
-  <li>Divida o resultado pela população do país ou região para obter o PIB real per capita anual em dólares americanos.</li>
-  <li>Calcule a taxa de crescimento anual do PIB real per capita no ano t<sub>+1</sub>, usando a seguinte fórmula: [(G (t<sub>+1</sub>) - G (t) / G (t)] x 100, onde G (t<sub>+1</sub>) é o PIB real per capita em dólares no ano t<sub>+1</sub> e G (t) é o PIB real per capita em dólares do ano t..</li>
-</ol>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>Cruzamento de dados dos inquéritos com as contas auditadas</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="QUALITY_MGMNT">
           <com:Text xml:lang="pt"><![CDATA[<p>Os dados compilados e verificados pelos técnicos são reconciliados pelos chefes e submetidos os directores para a reverificação.</p>]]></com:Text>
@@ -157,18 +154,16 @@
           <com:Text xml:lang="pt"><![CDATA[<p>Partilha com instituições internacionais de publicações.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COVERAGE">
-          <com:Text xml:lang="pt"><![CDATA[<p>Maio de cada ano: PIB Preliminares do ano<sub> </sub>n;</p>
-<p>Maio de cada ano: PIB Definitivo do ano n-1;</p>
-<p>Outubro de cada ano: PIB Provisório do ano n.</p>
-<p>Dados desagregados por País e por província</p>]]></com:Text>
+          <com:Text xml:lang="pt"><![CDATA[<p>29/05/2021: PIB Preliminares de 2020;</p>
+<p>29/05/2021: PIB Definitivo 2019;</p>
+<p>30/10/2021: PIB Provisório 2020.</p>
+<p>Não há necessidade de desagregação</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="COMPARABILITY">
           <com:Text xml:lang="pt"><![CDATA[<p>Calculo deste indicador não difere dos cálculos feitos internacionalmente, porque usa-se manuais das Nações Unidas para Contas Nacionais, SNA 2008; a observância das revisões recomendadas pela Nações Unidas.</p>]]></com:Text>
         </gen:ReportedAttribute>
         <gen:ReportedAttribute id="OTHER_DOC">
-          <com:Text xml:lang="pt"><![CDATA[<p>SNA 2008, das Nações Unidas;</p>
-<p>Classificações nacionais e internacionais;</p>
-<p>MBOP6 (Moçambique, Manual da Balança de Pagamento, Versão 6)</p>
+          <com:Text xml:lang="pt"><![CDATA[<p>Sistema e Contas Nacionais 2008 (SNA 2008)</p>
 <p>http://www.ine.gov.mz/estatisticas/estatisticas-economicas/contas-nacionais</p>]]></com:Text>
         </gen:ReportedAttribute>
       </gen:AttributeSet>
